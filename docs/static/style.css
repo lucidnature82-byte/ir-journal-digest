@@ -1,0 +1,27 @@
+/* Custom overrides on top of Tailwind CDN */
+
+/* Smooth dark-mode transitions */
+*, *::before, *::after {
+  transition: background-color 0.2s ease, border-color 0.2s ease, color 0.15s ease;
+}
+
+/* <details> disclosure triangle */
+details > summary {
+  list-style: none;
+}
+details > summary::-webkit-details-marker {
+  display: none;
+}
+details > summary::before {
+  content: '▶ ';
+  font-size: 0.65rem;
+  opacity: 0.6;
+}
+details[open] > summary::before {
+  content: '▼ ';
+}
+
+/* Compact scrollbar */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-thumb { background: #9ca3af; border-radius: 3px; }
+.dark ::-webkit-scrollbar-thumb { background: #4b5563; }
