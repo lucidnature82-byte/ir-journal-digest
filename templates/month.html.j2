@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="ko" class="">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ month_label }} — IR Journal Digest</title>
+  <script>
+    if (localStorage.theme === 'dark' ||
+        (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+      document.documentElement.classList.add('dark');
+    }
+  </script>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>tailwind.config = { darkMode: 'class' }</script>
+  <link rel="stylesheet" href="{{ root }}static/style.css">
+</head>
+<body class="min-h-screen bg-gray-50 dark:bg-gray-950 text-gray-900 dark:text-gray-100">
+
+  <!-- Header -->
+  <header class="bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-800 shadow-sm sticky top-0 z-10">
+    <div class="max-w-4xl mx-auto px-4 py-3 flex items-center justify-between gap-3">
+      <div class="flex items-center gap-3 min-w-0">
+        <a href="{{ root }}index.html"
+           class="shrink-0 text-blue-600 dark:text-blue-400 hover:underline text-sm font-medium">
+          ← 목록
+        </a>
+        <h1 class="text-base font-bold truncate">{{ month_label }} 논문 요약</h1>
+      </div>
+
+      <div class="flex items-center gap-2 shrink-0">
+        <!-- Stats badges -->
+        <span class="hidden sm:inline-flex items-center px-2 py-0.5 bg-gray-100 dark:bg-gray-800
+                     text-gray-600 dark:text-gray-400 text-xs rounded-full">
+          {{ count }}편
+        </span>
+        {% if interest_count > 0 %}
+        <span class="hidden sm:inline-flex items-center px-2 py-0.5 bg-amber-50 dark:bg-amber-900/30
+                     text-amber-600 dark:text-amber-400 text-xs rounded-full border border-amber-200 dark:border-amber-700">
+          ⭐ 관심 {{ interest_count }}
+        </span>
+        {% endif %}
+
+        <button id="dark-toggle"
+                class="p-1.5 rounded-lg bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700
+                       text-gray-600 dark:text-gray-300 text-sm"
+                aria-label="Toggle dark mode">
+          <span class="dark:hidden">🌙</span>
+          <span class="hidden dark:inline">☀️</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Search bar -->
+    <div class="max-w-4xl mx-auto px-4 pb-3">
+      <input id="search"
+             type="search"
+             placeholder="제목, 저자, 한글 제목으로 검색..."
+             class="w-full px-3 py-2 text-sm rounded-lg border border-gray-300 dark:border-gray-600
+                    bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100
+                    placeholder-gray-400 dark:placeholder-gray-500
+                    focus:outline-none focus:ring-2 focus:ring-blue-500 dark:focus:ring-blue-400">
+    </div>
+  </header>
+
+  <!-- Paper list -->
+  <main class="max-w-4xl mx-auto px-4 py-5 space-y-4" id="paper-list">
+    {% if articles %}
+
+    {% for article in articles %}
+    {% set s = article.summary %}
+    {% set has_summary = s and '_error' not in s %}
+    {% set is_hep = article.interest_category == 'hepatobiliary' %}
+    {% set is_nv  = article.interest_category == 'nonvascular' %}
+
+    <article class="paper-card bg-white dark:bg-gray-900 rounded-xl shadow-sm border
+                    {% if is_hep %}border-l-4 border-blue-500 dark:border-blue-400{% elif is_nv %}border-l-4 border-emerald-500 dark:border-emerald-400{% else %}border-gray-200 dark:border-gray-700{% endif %}
+                    px-5 py-4"
+             data-search="{{ article.title }} {{ article.authors | join(' ') }} {% if has_summary and s.title_ko %}{{ s.title_ko }}{% endif %}">
+
+      <!-- Top row: category + journal badges, date -->
+      <div class="flex flex-wrap items-center gap-2 mb-2">
+        {% if article.is_interest %}
+          {% if is_hep %}
+          <span class="inline-flex items-center gap-1 px-2 py-0.5 bg-blue-100 dark:bg-blue-900/40
+                       text-blue-700 dark:text-blue-300 text-xs font-medium rounded-full">
+            ⭐ 간담도
+          </span>
+          {% elif is_nv %}
+          <span class="inline-flex items-center gap-1 px-2 py-0.5 bg-emerald-100 dark:bg-emerald-900/40
+                       text-emerald-700 dark:text-emerald-300 text-xs font-medium rounded-full">
+            ⭐ 비혈관
+          </span>
+          {% endif %}
+        {% endif %}
+
+        {% if article.journal == 'JVIR' %}
+        <span class="px-2 py-0.5 bg-orange-100 dark:bg-orange-900/30 text-orange-700 dark:text-orange-300 text-xs rounded-full">JVIR</span>
+        {% else %}
+        <span class="px-2 py-0.5 bg-purple-100 dark:bg-purple-900/30 text-purple-700 dark:text-purple-300 text-xs rounded-full">CVIR</span>
+        {% endif %}
+
+        <span class="ml-auto text-xs text-gray-400 dark:text-gray-500">{{ article.pub_date }}</span>
+      </div>
+
+      <!-- English title -->
+      <h2 class="text-sm font-semibold text-gray-900 dark:text-gray-100 leading-snug mb-1">
+        {{ article.title }}
+      </h2>
+
+      <!-- Korean title -->
+      {% if has_summary and s.title_ko %}
+      <p class="text-sm font-medium text-gray-600 dark:text-gray-400 mb-2">
+        {{ s.title_ko }}
+      </p>
+      {% endif %}
+
+      <!-- Authors -->
+      {% if article.authors %}
+      <p class="text-xs text-gray-500 dark:text-gray-500 mb-3">
+        {{ article.authors | format_authors }}
+      </p>
+      {% endif %}
+
+      {% if has_summary %}
+
+        <!-- Design badge -->
+        {% if s.design %}
+        <span class="inline-block px-2 py-0.5 bg-gray-100 dark:bg-gray-800 text-gray-600 dark:text-gray-400 text-xs rounded mb-2">
+          {{ s.design }}
+        </span>
+        {% endif %}
+
+        <!-- One-line summary -->
+        {% if s.one_line %}
+        <p class="text-sm text-gray-700 dark:text-gray-300 italic leading-relaxed mb-3 border-l-2 border-gray-200 dark:border-gray-700 pl-3">
+          {{ s.one_line }}
+        </p>
+        {% endif %}
+
+        <!-- Collapsible full summary -->
+        <details class="mb-3">
+          <summary class="cursor-pointer text-xs font-medium text-blue-600 dark:text-blue-400 hover:underline select-none">
+            요약 전문 보기
+          </summary>
+          <div class="mt-3 space-y-2 text-sm text-gray-700 dark:text-gray-300">
+            {% if s.subjects %}
+            <div class="flex gap-2">
+              <span class="shrink-0 font-medium text-gray-500 dark:text-gray-400 w-14">대상</span>
+              <span>{{ s.subjects }}</span>
+            </div>
+            {% endif %}
+            {% if s.intervention %}
+            <div class="flex gap-2">
+              <span class="shrink-0 font-medium text-gray-500 dark:text-gray-400 w-14">시술</span>
+              <span>{{ s.intervention }}</span>
+            </div>
+            {% endif %}
+            {% if s.results %}
+            <div class="flex gap-2">
+              <span class="shrink-0 font-medium text-gray-500 dark:text-gray-400 w-14">결과</span>
+              <span>{{ s.results }}</span>
+            </div>
+            {% endif %}
+            {% if s.implication %}
+            <div class="flex gap-2">
+              <span class="shrink-0 font-medium text-gray-500 dark:text-gray-400 w-14">함의</span>
+              <span>{{ s.implication }}</span>
+            </div>
+            {% endif %}
+
+            {% if article.is_interest %}
+            <div class="mt-3 pt-3 border-t border-gray-100 dark:border-gray-700 space-y-3">
+              {% if s.detailed_results %}
+              <div>
+                <p class="text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wide mb-1">상세 결과</p>
+                <p>{{ s.detailed_results }}</p>
+              </div>
+              {% endif %}
+              {% if s.critique %}
+              <div>
+                <p class="text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wide mb-1">비판적 코멘트</p>
+                <p>{{ s.critique }}</p>
+              </div>
+              {% endif %}
+              {% if s.clinical_application %}
+              <div>
+                <p class="text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wide mb-1">임상 적용</p>
+                <p>{{ s.clinical_application }}</p>
+              </div>
+              {% endif %}
+            </div>
+            {% endif %}
+          </div>
+        </details>
+
+      {% elif s and '_error' in s %}
+        <p class="text-xs text-red-500 dark:text-red-400 mb-3">⚠ 요약 생성 실패 (JSON 파싱 오류)</p>
+      {% else %}
+        <p class="text-xs text-gray-400 dark:text-gray-600 mb-3">— 요약 없음 (초록 미수록) —</p>
+      {% endif %}
+
+      <!-- Links -->
+      <div class="flex gap-2 flex-wrap">
+        <a href="https://pubmed.ncbi.nlm.nih.gov/{{ article.pmid }}"
+           target="_blank" rel="noopener"
+           class="inline-flex items-center gap-1 px-3 py-1 text-xs rounded
+                  bg-blue-50 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300
+                  hover:bg-blue-100 dark:hover:bg-blue-900/50 border border-blue-200 dark:border-blue-700">
+          PubMed ↗
+        </a>
+        {% if article.doi %}
+        <a href="https://doi.org/{{ article.doi }}"
+           target="_blank" rel="noopener"
+           class="inline-flex items-center gap-1 px-3 py-1 text-xs rounded
+                  bg-gray-50 dark:bg-gray-800 text-gray-600 dark:text-gray-400
+                  hover:bg-gray-100 dark:hover:bg-gray-700 border border-gray-200 dark:border-gray-600">
+          DOI ↗
+        </a>
+        {% endif %}
+      </div>
+    </article>
+    {% endfor %}
+
+    <!-- No results message (shown by JS when search has no matches) -->
+    <div id="no-results" class="hidden text-center py-16 text-gray-400 dark:text-gray-600">
+      <p class="text-3xl mb-2">🔍</p>
+      <p>검색 결과가 없습니다.</p>
+    </div>
+
+    {% else %}
+    <div class="text-center py-16 text-gray-400 dark:text-gray-600">
+      <p class="text-4xl mb-3">📭</p>
+      <p>이 달의 논문이 없습니다.</p>
+    </div>
+    {% endif %}
+  </main>
+
+  <!-- Footer -->
+  <footer class="max-w-4xl mx-auto px-4 py-8 mt-4 border-t border-gray-200 dark:border-gray-800
+                 text-center text-xs text-gray-400 dark:text-gray-600">
+    <p>AI 생성 요약은 참고용이며 임상 판단을 대체하지 않습니다.</p>
+    <p class="mt-1">생성일: {{ now.strftime('%Y-%m-%d') }}</p>
+  </footer>
+
+  <script>
+    // Dark mode toggle
+    document.getElementById('dark-toggle').addEventListener('click', () => {
+      const html = document.documentElement;
+      html.classList.toggle('dark');
+      localStorage.theme = html.classList.contains('dark') ? 'dark' : 'light';
+    });
+
+    // In-page search
+    const searchBox = document.getElementById('search');
+    const noResults = document.getElementById('no-results');
+    if (searchBox) {
+      searchBox.addEventListener('input', () => {
+        const q = searchBox.value.trim().toLowerCase();
+        const cards = document.querySelectorAll('.paper-card');
+        let visible = 0;
+
+        cards.forEach(card => {
+          const haystack = (card.dataset.search || '').toLowerCase();
+          const match = !q || haystack.includes(q);
+          card.style.display = match ? '' : 'none';
+          if (match) visible++;
+        });
+
+        if (noResults) {
+          noResults.classList.toggle('hidden', visible > 0 || !q);
+        }
+      });
+    }
+  </script>
+</body>
+</html>

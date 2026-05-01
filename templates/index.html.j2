@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="ko" class="">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IR Journal Digest — 인터벤션 영상의학 논문 요약</title>
+  <script>
+    if (localStorage.theme === 'dark' ||
+        (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+      document.documentElement.classList.add('dark');
+    }
+  </script>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>tailwind.config = { darkMode: 'class' }</script>
+  <link rel="stylesheet" href="{{ root }}static/style.css">
+</head>
+<body class="min-h-screen bg-gray-50 dark:bg-gray-950 text-gray-900 dark:text-gray-100">
+
+  <!-- Header -->
+  <header class="bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-800 shadow-sm">
+    <div class="max-w-5xl mx-auto px-4 py-5 flex items-center justify-between">
+      <div>
+        <h1 class="text-2xl font-bold tracking-tight">IR Journal Digest</h1>
+        <p class="text-sm text-gray-500 dark:text-gray-400 mt-0.5">
+          JVIR · CVIR 최신 논문 한글 요약 — Gemini AI 생성
+        </p>
+      </div>
+      <button id="dark-toggle"
+              class="p-2 rounded-lg bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 text-gray-600 dark:text-gray-300"
+              aria-label="Toggle dark mode">
+        <span class="dark:hidden">🌙</span>
+        <span class="hidden dark:inline">☀️</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Description -->
+  <section class="max-w-5xl mx-auto px-4 pt-8 pb-4">
+    <div class="bg-blue-50 dark:bg-blue-950/40 border border-blue-200 dark:border-blue-800 rounded-xl p-5">
+      <h2 class="font-semibold text-blue-800 dark:text-blue-300 mb-2">이 사이트에 대하여</h2>
+      <p class="text-sm text-blue-700 dark:text-blue-400 leading-relaxed">
+        매월 1일, PubMed에서 <strong>JVIR</strong>(Journal of Vascular and Interventional Radiology)와
+        <strong>CVIR</strong>(CardioVascular and Interventional Radiology)의 최신 색인 논문을 자동으로 가져와
+        Google Gemini AI로 한글 요약합니다.<br>
+        간담도 인터벤션(TACE, 고주파절제술, HCC 등) 및 비혈관 인터벤션(담도, 신루, 배액술 등) 관련 논문은
+        상세 요약 + 비판적 코멘트가 추가됩니다.
+      </p>
+    </div>
+  </section>
+
+  <!-- Archive grid -->
+  <main class="max-w-5xl mx-auto px-4 py-6">
+    <h2 class="text-lg font-semibold mb-4 text-gray-700 dark:text-gray-300">월별 아카이브</h2>
+
+    {% if months %}
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      {% for m in months %}
+      <a href="{{ root }}archive/{{ m.month }}.html"
+         class="group block bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700
+                rounded-xl p-5 shadow-sm hover:shadow-md hover:border-blue-400 dark:hover:border-blue-500
+                transition-all">
+        <div class="flex items-start justify-between mb-3">
+          <span class="text-xl font-bold text-gray-800 dark:text-gray-100 group-hover:text-blue-600 dark:group-hover:text-blue-400">
+            {{ m.month_label }}
+          </span>
+          <span class="text-xs text-gray-400 dark:text-gray-500 mt-1">{{ m.month }}</span>
+        </div>
+        <div class="flex gap-2 flex-wrap">
+          <span class="inline-flex items-center gap-1 px-2.5 py-1 bg-gray-100 dark:bg-gray-800
+                       text-gray-600 dark:text-gray-400 text-xs rounded-full">
+            📄 {{ m.count }}편
+          </span>
+          {% if m.interest_count > 0 %}
+          <span class="inline-flex items-center gap-1 px-2.5 py-1 bg-amber-50 dark:bg-amber-900/30
+                       text-amber-700 dark:text-amber-400 text-xs rounded-full border border-amber-200 dark:border-amber-700">
+            ⭐ 관심 {{ m.interest_count }}편
+          </span>
+          {% endif %}
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+    {% else %}
+    <div class="text-center py-16 text-gray-400 dark:text-gray-600">
+      <p class="text-4xl mb-3">📭</p>
+      <p>아직 생성된 요약이 없습니다.</p>
+      <p class="text-sm mt-1">GitHub Actions를 실행하거나 로컬에서 <code class="font-mono bg-gray-100 dark:bg-gray-800 px-1 rounded">python -m src.main</code>을 실행하세요.</p>
+    </div>
+    {% endif %}
+  </main>
+
+  <!-- Footer -->
+  <footer class="max-w-5xl mx-auto px-4 py-8 mt-4 border-t border-gray-200 dark:border-gray-800
+                 text-center text-xs text-gray-400 dark:text-gray-600">
+    <p>자동 생성 · Gemini AI 요약은 참고용이며 임상 판단을 대체하지 않습니다.</p>
+    <p class="mt-1">최종 업데이트: {{ now.strftime('%Y-%m-%d') }}</p>
+  </footer>
+
+  <script>
+    document.getElementById('dark-toggle').addEventListener('click', () => {
+      const html = document.documentElement;
+      html.classList.toggle('dark');
+      localStorage.theme = html.classList.contains('dark') ? 'dark' : 'light';
+    });
+  </script>
+</body>
+</html>

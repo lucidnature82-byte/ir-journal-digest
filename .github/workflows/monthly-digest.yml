@@ -1,0 +1,44 @@
+name: Monthly IR Journal Digest
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'   # 매월 1일 00:00 UTC = 09:00 KST
+  workflow_dispatch:        # Actions 탭에서 수동 실행 가능
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # docs/ 커밋을 위해 필요
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run digest
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+        run: python -m src.main
+
+      - name: Commit and push generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/ data/
+          if ! git diff --staged --quiet; then
+            MONTH=$(date +'%Y-%m')
+            git commit -m "digest: ${MONTH} monthly update [skip ci]"
+            git push
+          else
+            echo "Nothing changed — skipping commit."
+          fi
