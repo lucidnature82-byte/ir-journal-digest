@@ -11,7 +11,8 @@ from .config import NCBI_API_KEY, FETCH_DAYS
 logger = logging.getLogger(__name__)
 
 BASE_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
-_DELAY = 0.11 if NCBI_API_KEY else 0.34  # stay within NCBI rate limits
+_DELAY = 0.11 if NCBI_API_KEY else 0.34
+_EFETCH_BATCH = 100  # PubMed recommends ≤ 200; 100 is safe for GET URL length
 
 
 def _params(extra: dict) -> dict:
@@ -43,9 +44,29 @@ def search_pmids(journal_query: str, days: int = FETCH_DAYS) -> list[str]:
 
 
 def fetch_articles(pmids: list[str]) -> list[dict]:
+    """Fetch articles in batches to avoid URL-length issues and PubMed limits."""
     if not pmids:
         return []
 
+    all_articles: list[dict] = []
+    for i in range(0, len(pmids), _EFETCH_BATCH):
+        batch = pmids[i : i + _EFETCH_BATCH]
+        logger.info(
+            "  efetch batch %d-%d / %d ...",
+            i + 1, min(i + _EFETCH_BATCH, len(pmids)), len(pmids),
+        )
+        try:
+            articles = _fetch_batch(batch)
+            all_articles.extend(articles)
+        except Exception as exc:
+            logger.error("efetch batch %d-%d failed: %s", i + 1, i + len(batch), exc)
+        if i + _EFETCH_BATCH < len(pmids):
+            time.sleep(_DELAY)
+
+    return all_articles
+
+
+def _fetch_batch(pmids: list[str]) -> list[dict]:
     params: dict = {
         "db": "pubmed",
         "id": ",".join(pmids),
@@ -63,7 +84,22 @@ def fetch_articles(pmids: list[str]) -> list[dict]:
 
 
 def _parse_pubmed_xml(xml_text: str) -> list[dict]:
-    root = ET.fromstring(xml_text)
+    # PubMed XML may contain undefined named entities (&alpha; etc.) not in
+    # the internal subset.  Replace the external DOCTYPE reference with an
+    # inline subset that declares the most common ones so ElementTree won't
+    # raise ParseError.  We strip the DOCTYPE entirely to avoid network fetch.
+    if "<!DOCTYPE" in xml_text:
+        start = xml_text.find("<!DOCTYPE")
+        end = xml_text.find(">", start) + 1
+        xml_text = xml_text[:start] + xml_text[end:]
+
+    try:
+        root = ET.fromstring(xml_text.encode("utf-8"))
+    except ET.ParseError as exc:
+        logger.error("XML ParseError for PubMed response: %s", exc)
+        logger.debug("First 500 chars of XML: %s", xml_text[:500])
+        return []
+
     articles = []
     for node in root.findall(".//PubmedArticle"):
         try:
@@ -89,14 +125,29 @@ def _parse_article(node: ET.Element) -> Optional[dict]:
     if art is None:
         return None
 
-    title = "".join((art.find("ArticleTitle") or ET.Element("x")).itertext()).strip()
+    title_el = art.find("ArticleTitle")
+    if title_el is not None:
+        title = "".join(title_el.itertext()).strip()
+    else:
+        title = ""
+
+    if not title:
+        # Fallback: VernacularTitle sometimes carries the real title
+        vt_el = art.find("VernacularTitle")
+        if vt_el is not None:
+            title = "".join(vt_el.itertext()).strip()
+
+    if not title:
+        logger.warning("PMID %s: ArticleTitle is empty or missing", pmid)
 
     abstract = _extract_abstract(art)
+    if not abstract:
+        logger.debug("PMID %s: abstract empty (article type may lack abstract)", pmid)
+    else:
+        logger.debug("PMID %s: abstract length %d chars", pmid, len(abstract))
 
     authors = _extract_authors(art)
-
     journal_abbr = medline.findtext("MedlineJournalInfo/MedlineTA") or ""
-
     pub_date = _extract_date(art)
 
     doi = ""
@@ -113,7 +164,7 @@ def _parse_article(node: ET.Element) -> Optional[dict]:
         "authors": authors,
         "journal_abbr": journal_abbr,
         "pub_date": pub_date,
-        "journal": "",          # filled by caller
+        "journal": "",
         "is_interest": False,
         "interest_category": None,
         "summary": None,
@@ -128,7 +179,8 @@ def _extract_abstract(art: ET.Element) -> str:
     for el in abstract_el.findall("AbstractText"):
         label = el.get("Label", "")
         text = "".join(el.itertext()).strip()
-        parts.append(f"{label}: {text}" if label else text)
+        if text:
+            parts.append(f"{label}: {text}" if label else text)
     return " ".join(parts)
 
 

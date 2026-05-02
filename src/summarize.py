@@ -57,37 +57,51 @@ _SYSTEM = (
 
 def _build_prompt(title: str, abstract: str, detailed: bool) -> str:
     schema = _DETAILED_SCHEMA if detailed else _BASIC_SCHEMA
+    title_line = f"논문 제목: {title}" if title else "논문 제목: (제목 없음  -  초록 기반으로 요약)"
     return (
         f"{_SYSTEM}\n\n"
         "다음 논문을 한국어로 요약하고 아래 JSON 스키마에 맞게 출력하세요.\n\n"
-        f"논문 제목: {title}\n"
+        f"{title_line}\n"
         f"초록: {abstract}\n\n"
         f"JSON 출력:\n{schema}"
     )
 
 
-def summarize_article(client, title: str, abstract: str, detailed: bool = False) -> Optional[dict]:
+def summarize_article(
+    client,
+    title: str,
+    abstract: str,
+    detailed: bool = False,
+    pmid: str = "",
+) -> Optional[dict]:
+    tag = f"PMID {pmid}" if pmid else f"'{title[:50]}'"
+
     if not abstract:
-        logger.warning("No abstract — skipping summarization for: %.60s", title)
+        logger.warning("[%s] No abstract  -  skipping summarization", tag)
         return None
+
+    if not title:
+        logger.info("[%s] Title empty  -  summarizing from abstract only (len=%d)", tag, len(abstract))
+
+    mode = "detailed" if detailed else "basic"
+    logger.info("[%s] Calling Gemini for %s summary (abstract_len=%d)...", tag, mode, len(abstract))
 
     prompt = _build_prompt(title, abstract, detailed)
     raw = client.generate_json(prompt)
 
     if raw is None:
-        logger.error("Summarization returned None for: %.60s", title)
+        logger.error("[%s] Gemini returned None - summary will be null", tag)
         return None
 
     if "_error" in raw:
-        logger.warning("JSON parse failed for: %.60s  raw=%.80s", title, raw.get("_raw", ""))
-        return raw  # preserve raw text for debugging
+        logger.warning("[%s] JSON parse failed. raw[:200]=%.200s", tag, raw.get("_raw", ""))
+        return raw  # preserve for debugging
 
-    # Validate against pydantic schema
     schema_cls = DetailedSummary if detailed else BasicSummary
     try:
         schema_cls.model_validate(raw)
+        logger.info("[%s] Summary OK (%s)", tag, mode)
     except ValidationError as exc:
-        logger.warning("Schema validation warning for %.60s: %s", title, exc)
-        # Return the dict anyway; validation is advisory
+        logger.warning("[%s] Schema validation warning: %s", tag, exc)
 
     return raw

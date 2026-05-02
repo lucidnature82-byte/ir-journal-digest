@@ -65,7 +65,7 @@ def render_all(data_dir: Path) -> None:
         })
 
     if not months_data:
-        logger.warning("No data files found — skipping render.")
+        logger.warning("No data files found  -  skipping render.")
         return
 
     # Ensure docs structure

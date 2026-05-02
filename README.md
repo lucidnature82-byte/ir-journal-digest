@@ -152,6 +152,29 @@ NONVASCULAR_KEYWORDS = [
 
 ## 트러블슈팅
 
+**`limit: 0, model: gemini-2.0-flash` 에러 (무료 한도 0)**
+
+`gemini-2.0-flash`는 2026년부터 무료 티어 한도가 0으로 변경되었습니다.
+`src/config.py`에서 모델을 변경하세요:
+
+```python
+GEMINI_MODEL: str = "gemini-2.5-flash"  # 또는 아래 표 참고
+```
+
+2026년 5월 실측 기준:
+
+| 모델 | 무료 한도 | 특징 |
+|---|---|---|
+| `gemini-1.5-flash` | **1500회/일** | **권장: 안정적, 한도 넉넉** |
+| `gemini-1.5-flash-8b` | 1500회/일 | 가볍고 빠름, 품질 소폭 낮음 |
+| `gemini-2.5-flash` | 20회/일 | 프리뷰 제한 (사실상 사용 불가) |
+| `gemini-2.0-flash` | **0회/일** | 유료 전용 (사용 불가) |
+
+또는 `.env` 파일에서 일회성으로 override:
+```
+GEMINI_MODEL=gemini-2.5-flash-lite
+```
+
 **Rate limit 초과 시**
 - `src/gemini_client.py`의 `_INTER_CALL_DELAY`를 `1.0` 이상으로 늘리세요.
 - NCBI_API_KEY를 등록하면 PubMed rate limit이 완화됩니다.
