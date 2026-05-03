@@ -313,8 +313,8 @@
     "journal_abbr": "J Vasc Interv Radiol",
     "pub_date": "2026-04-16",
     "journal": "JVIR",
-    "is_interest": true,
-    "interest_category": "hepatobiliary",
+    "is_interest": false,
+    "interest_category": null,
     "summary": null
   },
   {
@@ -408,8 +408,8 @@
     "journal_abbr": "J Vasc Interv Radiol",
     "pub_date": "2026-04-11",
     "journal": "JVIR",
-    "is_interest": true,
-    "interest_category": "hepatobiliary",
+    "is_interest": false,
+    "interest_category": null,
     "summary": null
   },
   {
@@ -609,8 +609,8 @@
     "journal_abbr": "J Vasc Interv Radiol",
     "pub_date": "2026-04-08",
     "journal": "JVIR",
-    "is_interest": true,
-    "interest_category": "nonvascular",
+    "is_interest": false,
+    "interest_category": null,
     "summary": null
   },
   {
@@ -841,8 +841,8 @@
     "journal_abbr": "J Vasc Interv Radiol",
     "pub_date": "2026-02-21",
     "journal": "JVIR",
-    "is_interest": true,
-    "interest_category": "nonvascular",
+    "is_interest": false,
+    "interest_category": null,
     "summary": null
   },
   {

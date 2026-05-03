@@ -190,9 +190,10 @@ def main() -> None:
     client = GeminiClient()
 
     stats = {"classify_match": 0, "classify_confirmed": 0, "summary_ok": 0, "summary_null": 0}
-    # Circuit breaker: abort if Gemini fails this many times in a row (quota exhausted)
+    # Circuit breaker: abort if Gemini *API calls* fail this many times in a row
     _QUOTA_ABORT_THRESHOLD = 5
-    consecutive_failures = 0
+    skipped_no_abstract_count = 0
+    actual_gemini_failure_count = 0
 
     for idx, article in enumerate(to_process, 1):
         pmid = article["pmid"]
@@ -210,6 +211,16 @@ def main() -> None:
 
         if not title and not abstract:
             logger.warning("PMID %s: both title and abstract are empty - skipping", pmid)
+            all_articles[pmid] = article
+            _save(data_file, all_articles)
+            continue
+
+        if not abstract:
+            skipped_no_abstract_count += 1
+            logger.info(
+                "PMID %s: No abstract - skipping summarization (skipped_no_abstract=%d, not a Gemini failure)",
+                pmid, skipped_no_abstract_count,
+            )
             all_articles[pmid] = article
             _save(data_file, all_articles)
             continue
@@ -239,11 +250,11 @@ def main() -> None:
 
         if article["summary"] is not None:
             stats["summary_ok"] += 1
-            consecutive_failures = 0
+            actual_gemini_failure_count = 0
         else:
             stats["summary_null"] += 1
-            consecutive_failures += 1
-            if consecutive_failures >= _QUOTA_ABORT_THRESHOLD:
+            actual_gemini_failure_count += 1
+            if actual_gemini_failure_count >= _QUOTA_ABORT_THRESHOLD:
                 code = client.last_error_code
                 if code == 404:
                     hint = (
@@ -268,8 +279,8 @@ def main() -> None:
                         "Check logs above for details."
                     )
                 logger.error(
-                    "Gemini failed %d times in a row. %s Progress saved.",
-                    _QUOTA_ABORT_THRESHOLD, hint,
+                    "Gemini API failed %d times in a row (skipped_no_abstract=%d ignored). %s Progress saved.",
+                    _QUOTA_ABORT_THRESHOLD, skipped_no_abstract_count, hint,
                 )
                 all_articles[pmid] = article
                 _save(data_file, all_articles)
@@ -282,9 +293,9 @@ def main() -> None:
 
     logger.info(
         "Processing complete: keyword_match=%d, gemini_confirmed=%d, "
-        "summary_ok=%d, summary_null=%d",
+        "summary_ok=%d, summary_null(api_fail)=%d, skipped_no_abstract=%d",
         stats["classify_match"], stats["classify_confirmed"],
-        stats["summary_ok"], stats["summary_null"],
+        stats["summary_ok"], stats["summary_null"], skipped_no_abstract_count,
     )
 
     # ── Render HTML ───────────────────────────────────────────────────────────
