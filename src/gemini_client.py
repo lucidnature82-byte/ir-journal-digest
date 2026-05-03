@@ -25,9 +25,36 @@ def _parse_retry_delay(error_str: str) -> int:
     return int(m.group(1)) if m else 0
 
 
+def _extract_http_status(exc: Exception) -> Optional[int]:
+    """Best-effort extraction of HTTP status code from a Gemini SDK exception."""
+    exc_str = str(exc)
+    # google.genai errors embed the status code in various ways
+    for pattern in (
+        r"\b(400|401|403|404|429|500|503)\b",
+        r"status[_\s]+code[:\s]+(\d{3})",
+        r"HTTP[_\s]+(\d{3})",
+    ):
+        m = re.search(pattern, exc_str, re.IGNORECASE)
+        if m:
+            return int(m.group(1))
+    # Also check exception class name for clues
+    name = type(exc).__name__.lower()
+    if "notfound" in name or "not_found" in name:
+        return 404
+    if "resourceexhausted" in name or "quota" in name:
+        return 429
+    if "permissiondenied" in name:
+        return 403
+    if "unauthenticated" in name:
+        return 401
+    return None
+
+
 class GeminiClient:
     def __init__(self) -> None:
         self._client = genai.Client(api_key=GEMINI_API_KEY)
+        self.last_error_code: Optional[int] = None  # HTTP status of most recent failure
+        self.last_error_type: str = ""               # exception class name
         key_hint = (GEMINI_API_KEY[:8] + "...") if GEMINI_API_KEY else "(empty!)"
         logger.info("GeminiClient ready: model=%s, key_prefix=%s", _MODEL_NAME, key_hint)
 
@@ -58,9 +85,11 @@ class GeminiClient:
 
             except Exception as exc:
                 exc_type = type(exc).__name__
+                self.last_error_code = _extract_http_status(exc)
+                self.last_error_type = exc_type
                 logger.warning(
-                    "Gemini API error (attempt %d/%d) [%s]: %s",
-                    attempt + 1, retries, exc_type, exc,
+                    "Gemini API error (attempt %d/%d) [%s] HTTP=%s: %s",
+                    attempt + 1, retries, exc_type, self.last_error_code, exc,
                 )
                 if attempt < retries - 1:
                     # Respect the retry_delay from rate-limit errors (429)
@@ -70,8 +99,8 @@ class GeminiClient:
                     time.sleep(backoff)
                 else:
                     logger.error(
-                        "All %d Gemini attempts failed. [%s]: %s",
-                        retries, exc_type, exc,
+                        "All %d Gemini attempts failed. [%s] HTTP=%s: %s",
+                        retries, exc_type, self.last_error_code, exc,
                     )
                     return None
 
@@ -87,9 +116,12 @@ class GeminiClient:
                 )
                 return response.text
             except Exception as exc:
+                exc_type = type(exc).__name__
+                self.last_error_code = _extract_http_status(exc)
+                self.last_error_type = exc_type
                 logger.warning(
-                    "Gemini API error (attempt %d/%d) [%s]: %s",
-                    attempt + 1, retries, type(exc).__name__, exc,
+                    "Gemini API error (attempt %d/%d) [%s] HTTP=%s: %s",
+                    attempt + 1, retries, exc_type, self.last_error_code, exc,
                 )
                 if attempt < retries - 1:
                     suggested = _parse_retry_delay(str(exc))

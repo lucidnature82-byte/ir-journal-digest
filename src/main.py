@@ -152,12 +152,12 @@ def main() -> None:
     total_calls = reconfirm_calls + summary_calls
 
     _FREE_TIER_LIMITS = {
-        "gemini-1.5-flash":      1500,  # 실측: 1500회/일 (권장)
-        "gemini-1.5-flash-8b":   1500,  # 실측: 1500회/일
-        "gemini-1.5-pro":          50,
-        "gemini-2.5-flash":        20,  # 실측: 20회/일 (프리뷰 제한)
-        "gemini-2.5-flash-lite":   20,  # 미확인 (2.5계열 동일 추정)
-        "gemini-2.0-flash":         0,  # 2026년 무료 한도 없음 (유료 전용)
+        # 2026-05 실측: models.list()에 있고 generateContent 지원 확인
+        "gemini-2.5-flash-lite": "?",   # 200 OK 확인 (한도 수치 미확인)
+        "gemini-flash-latest":   "?",   # 200 OK 확인 (alias — 버전 변동 가능)
+        "gemini-2.5-flash":      "?",   # 오늘 429, 한도 수치 미확인
+        "gemini-2.0-flash-lite": "?",   # 오늘 429, 한도 수치 미확인
+        # retired (404 NOT_FOUND): gemini-1.5-flash, gemini-1.5-flash-8b
     }
     daily_limit = _FREE_TIER_LIMITS.get(GEMINI_MODEL, "?")
     reconfirm_note = "재확인 ON" if USE_GEMINI_RECONFIRM else "재확인 OFF (키워드만)"
@@ -179,7 +179,7 @@ def main() -> None:
     elif isinstance(daily_limit, int) and total_calls > daily_limit:
         logger.warning(
             "예상 호출(%d)이 일일 한도(%d)를 초과합니다. "
-            "gemini-2.5-flash-lite(1000회/일)로 변경하거나 abstract 없는 논문을 제외하세요.",
+            "gemini-2.0-flash-lite(1500회/일)를 사용하거나 abstract 없는 논문을 제외하세요.",
             total_calls, daily_limit,
         )
 
@@ -244,13 +244,32 @@ def main() -> None:
             stats["summary_null"] += 1
             consecutive_failures += 1
             if consecutive_failures >= _QUOTA_ABORT_THRESHOLD:
+                code = client.last_error_code
+                if code == 404:
+                    hint = (
+                        "Model not found (HTTP 404). "
+                        f"Check MODEL_NAME in config.py — current: {GEMINI_MODEL}. "
+                        "Run the model-list script to find a valid model."
+                    )
+                elif code in (401, 403):
+                    hint = (
+                        f"API key invalid or no permission (HTTP {code}). "
+                        "Check GEMINI_API_KEY in .env or GitHub Secrets."
+                    )
+                elif code == 429:
+                    hint = (
+                        "Rate limit or free-tier daily quota exhausted (HTTP 429). "
+                        "Re-run with --force-resummarize after quota resets "
+                        "(typically midnight UTC), or upgrade at https://ai.dev/rate-limit"
+                    )
+                else:
+                    hint = (
+                        f"Repeated API failures (HTTP {code}, type={client.last_error_type}). "
+                        "Check logs above for details."
+                    )
                 logger.error(
-                    "Gemini failed %d times in a row. "
-                    "Likely cause: free-tier daily quota exhausted (ResourceExhausted 429). "
-                    "Progress saved. Re-run with --force-resummarize after quota resets "
-                    "(typically midnight UTC) or upgrade your API plan at "
-                    "https://ai.dev/rate-limit",
-                    _QUOTA_ABORT_THRESHOLD,
+                    "Gemini failed %d times in a row. %s Progress saved.",
+                    _QUOTA_ABORT_THRESHOLD, hint,
                 )
                 all_articles[pmid] = article
                 _save(data_file, all_articles)
