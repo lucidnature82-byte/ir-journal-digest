@@ -4,12 +4,19 @@ import argparse
 import json
 import logging
 import sys
+import time
 from datetime import datetime
 from pathlib import Path
 
-from .config import GEMINI_API_KEY, JOURNALS, GEMINI_MODEL, USE_GEMINI_RECONFIRM
+from .config import (
+    GEMINI_API_KEY,
+    JOURNALS,
+    GEMINI_MODEL,
+    USE_GEMINI_RECONFIRM,
+    USE_LOCAL_LLM,
+    OLLAMA_MODEL,
+)
 from .fetch_pubmed import fetch_articles, search_pmids
-from .gemini_client import GeminiClient
 from .classify import confirm_with_gemini, keyword_match
 from .summarize import summarize_article
 from .render import render_all
@@ -17,6 +24,8 @@ from .render import render_all
 BASE_DIR = Path(__file__).parent.parent
 DATA_DIR = BASE_DIR / "data"
 LOGS_DIR = BASE_DIR / "logs"
+
+_SECONDS_PER_ARTICLE_LOCAL = 30   # conservative estimate for ETA
 
 
 # ── Logging ───────────────────────────────────────────────────────────────────
@@ -57,9 +66,14 @@ def _needs_processing(article: dict, force_resummarize: bool = False) -> bool:
     if isinstance(s, dict) and "_error" in s:
         return True
     if force_resummarize:
-        # Re-process even successfully summarized articles
         return True
     return False
+
+
+def _fmt_eta(seconds: float) -> str:
+    if seconds < 60:
+        return f"{seconds:.0f}s"
+    return f"{seconds / 60:.0f} min"
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
@@ -101,10 +115,12 @@ def main() -> None:
     _setup_logging(month_str, debug=args.debug)
     logger = logging.getLogger(__name__)
 
-    logger.info("=== IR Journal Digest | month=%s force=%s debug=%s limit=%s ===",
-                month_str, args.force_resummarize, args.debug, args.limit)
+    mode_label = f"Local LLM (Ollama, {OLLAMA_MODEL})" if USE_LOCAL_LLM else f"Cloud LLM (Gemini, {GEMINI_MODEL})"
+    logger.info("=== IR Journal Digest | month=%s mode=%s force=%s debug=%s limit=%s ===",
+                month_str, mode_label, args.force_resummarize, args.debug, args.limit)
 
-    if not GEMINI_API_KEY:
+    # ── API key / connectivity pre-check ──────────────────────────────────────
+    if not USE_LOCAL_LLM and not GEMINI_API_KEY:
         logger.error("GEMINI_API_KEY is not set. Create a .env file with GEMINI_API_KEY=<key>")
         sys.exit(1)
 
@@ -145,63 +161,90 @@ def main() -> None:
             if pmid in existing and not _needs_processing(existing[pmid]):
                 all_articles[pmid] = existing[pmid]
 
-    # ── 예상 Gemini 호출 수 안내 ──────────────────────────────────────────────
+    # ── 예상 호출 수 / 처리 시간 안내 ─────────────────────────────────────────
     has_abstract = sum(1 for a in to_process if a.get("abstract"))
-    reconfirm_calls = has_abstract if USE_GEMINI_RECONFIRM else 0  # classify 2nd-pass
-    summary_calls = has_abstract                                    # 요약은 항상 시도
-    total_calls = reconfirm_calls + summary_calls
 
-    _FREE_TIER_LIMITS = {
-        # 2026-05 실측: models.list()에 있고 generateContent 지원 확인
-        "gemini-2.5-flash-lite": "?",   # 200 OK 확인 (한도 수치 미확인)
-        "gemini-flash-latest":   "?",   # 200 OK 확인 (alias — 버전 변동 가능)
-        "gemini-2.5-flash":      "?",   # 오늘 429, 한도 수치 미확인
-        "gemini-2.0-flash-lite": "?",   # 오늘 429, 한도 수치 미확인
-        # retired (404 NOT_FOUND): gemini-1.5-flash, gemini-1.5-flash-8b
-    }
-    daily_limit = _FREE_TIER_LIMITS.get(GEMINI_MODEL, "?")
-    reconfirm_note = "재확인 ON" if USE_GEMINI_RECONFIRM else "재확인 OFF (키워드만)"
-
-    logger.info(
-        "총 %d편 처리 예정 (abstract 있음: %d편). "
-        "예상 Gemini 호출: %d회 (요약 %d + 분류 %d, %s). "
-        "Free Tier 일일 한도: %s회 (%s)",
-        len(to_process), has_abstract,
-        total_calls, summary_calls, reconfirm_calls, reconfirm_note,
-        daily_limit, GEMINI_MODEL,
-    )
-    if isinstance(daily_limit, int) and daily_limit == 0:
-        logger.error(
-            "현재 모델(%s)은 무료 티어 한도가 0입니다. "
-            "config.py에서 모델을 변경하세요 (예: gemini-2.5-flash).",
-            GEMINI_MODEL,
+    if USE_LOCAL_LLM:
+        if args.limit:
+            to_process = to_process[:args.limit]
+            logger.info("--limit %d 적용: %d편만 처리합니다.", args.limit, len(to_process))
+        est_total_min = (_SECONDS_PER_ARTICLE_LOCAL * len(to_process)) / 60
+        logger.info("Mode: Local LLM (Ollama, %s)", OLLAMA_MODEL)
+        logger.info(
+            "Expected time: ~%ds/article × %d articles = ~%.0f min",
+            _SECONDS_PER_ARTICLE_LOCAL, len(to_process), est_total_min,
         )
-    elif isinstance(daily_limit, int) and total_calls > daily_limit:
-        logger.warning(
-            "예상 호출(%d)이 일일 한도(%d)를 초과합니다. "
-            "gemini-2.0-flash-lite(1500회/일)를 사용하거나 abstract 없는 논문을 제외하세요.",
-            total_calls, daily_limit,
+    else:
+        reconfirm_calls = has_abstract if USE_GEMINI_RECONFIRM else 0
+        summary_calls = has_abstract
+        total_calls = reconfirm_calls + summary_calls
+
+        _FREE_TIER_LIMITS = {
+            "gemini-2.5-flash-lite": "?",
+            "gemini-flash-latest":   "?",
+            "gemini-2.5-flash":      "?",
+            "gemini-2.0-flash-lite": "?",
+        }
+        daily_limit = _FREE_TIER_LIMITS.get(GEMINI_MODEL, "?")
+        reconfirm_note = "재확인 ON" if USE_GEMINI_RECONFIRM else "재확인 OFF (키워드만)"
+
+        logger.info(
+            "총 %d편 처리 예정 (abstract 있음: %d편). "
+            "예상 Gemini 호출: %d회 (요약 %d + 분류 %d, %s). "
+            "Free Tier 일일 한도: %s회 (%s)",
+            len(to_process), has_abstract,
+            total_calls, summary_calls, reconfirm_calls, reconfirm_note,
+            daily_limit, GEMINI_MODEL,
         )
+        if isinstance(daily_limit, int) and daily_limit == 0:
+            logger.error(
+                "현재 모델(%s)은 무료 티어 한도가 0입니다. "
+                "config.py에서 모델을 변경하세요.",
+                GEMINI_MODEL,
+            )
+        elif isinstance(daily_limit, int) and total_calls > daily_limit:
+            logger.warning(
+                "예상 호출(%d)이 일일 한도(%d)를 초과합니다.",
+                total_calls, daily_limit,
+            )
 
-    if args.limit:
-        to_process = to_process[:args.limit]
-        logger.info("--limit %d 적용: %d편만 처리합니다.", args.limit, len(to_process))
+        if args.limit:
+            to_process = to_process[:args.limit]
+            logger.info("--limit %d 적용: %d편만 처리합니다.", args.limit, len(to_process))
 
-    client = GeminiClient()
+    # ── Client 초기화 ─────────────────────────────────────────────────────────
+    if USE_LOCAL_LLM:
+        from .ollama_client import OllamaClient
+        client = OllamaClient()
+    else:
+        from .gemini_client import GeminiClient
+        client = GeminiClient()
 
     stats = {"classify_match": 0, "classify_confirmed": 0, "summary_ok": 0, "summary_null": 0}
-    # Circuit breaker: abort if Gemini *API calls* fail this many times in a row
     _QUOTA_ABORT_THRESHOLD = 5
     skipped_no_abstract_count = 0
-    actual_gemini_failure_count = 0
+    actual_llm_failure_count = 0
+
+    loop_start = time.time()
+    total_article_time = 0.0
 
     for idx, article in enumerate(to_process, 1):
+        article_start = time.time()
+
         pmid = article["pmid"]
         title = article["title"]
         abstract = article["abstract"]
 
+        # ETA 계산 (2번째 article부터 유의미)
+        if idx > 1 and USE_LOCAL_LLM:
+            avg_sec = total_article_time / (idx - 1)
+            remaining_sec = avg_sec * (len(to_process) - idx + 1)
+            eta_str = f" (estimated remaining: {_fmt_eta(remaining_sec)})"
+        else:
+            eta_str = ""
+
         print(
-            f"\n[{idx}/{len(to_process)}] PMID={pmid}  "
+            f"\n[{idx}/{len(to_process)}] PMID={pmid}{eta_str}  "
             f"title_len={len(title)}  abstract_len={len(abstract)}"
         )
         if title:
@@ -213,16 +256,18 @@ def main() -> None:
             logger.warning("PMID %s: both title and abstract are empty - skipping", pmid)
             all_articles[pmid] = article
             _save(data_file, all_articles)
+            total_article_time += time.time() - article_start
             continue
 
         if not abstract:
             skipped_no_abstract_count += 1
             logger.info(
-                "PMID %s: No abstract - skipping summarization (skipped_no_abstract=%d, not a Gemini failure)",
+                "PMID %s: No abstract - skipping summarization (skipped_no_abstract=%d)",
                 pmid, skipped_no_abstract_count,
             )
             all_articles[pmid] = article
             _save(data_file, all_articles)
+            total_article_time += time.time() - article_start
             continue
 
         # Stage-1: keyword match
@@ -230,15 +275,15 @@ def main() -> None:
 
         if matched:
             stats["classify_match"] += 1
-            print(f"  Keyword match: {category} - confirming with Gemini...")
+            print(f"  Keyword match: {category} - confirming...")
             confirmed = confirm_with_gemini(client, title, abstract, category)
             article["is_interest"] = confirmed
             article["interest_category"] = category if confirmed else None
             if confirmed:
                 stats["classify_confirmed"] += 1
-                print(f"  Gemini confirmed: {category}")
+                print(f"  Confirmed: {category}")
             else:
-                print("  Gemini: not confirmed (false positive)")
+                print("  Not confirmed (false positive)")
         else:
             print("  No keyword match")
 
@@ -248,38 +293,66 @@ def main() -> None:
             client, title, abstract, detailed=detailed, pmid=pmid
         )
 
+        article_elapsed = time.time() - article_start
+        total_article_time += article_elapsed
+
         if article["summary"] is not None:
             stats["summary_ok"] += 1
-            actual_gemini_failure_count = 0
+            actual_llm_failure_count = 0
+            if USE_LOCAL_LLM:
+                print(f"  Done in {article_elapsed:.1f}s.")
         else:
             stats["summary_null"] += 1
-            actual_gemini_failure_count += 1
-            if actual_gemini_failure_count >= _QUOTA_ABORT_THRESHOLD:
+            actual_llm_failure_count += 1
+            if actual_llm_failure_count >= _QUOTA_ABORT_THRESHOLD:
                 code = client.last_error_code
-                if code == 404:
-                    hint = (
-                        "Model not found (HTTP 404). "
-                        f"Check MODEL_NAME in config.py — current: {GEMINI_MODEL}. "
-                        "Run the model-list script to find a valid model."
-                    )
-                elif code in (401, 403):
-                    hint = (
-                        f"API key invalid or no permission (HTTP {code}). "
-                        "Check GEMINI_API_KEY in .env or GitHub Secrets."
-                    )
-                elif code == 429:
-                    hint = (
-                        "Rate limit or free-tier daily quota exhausted (HTTP 429). "
-                        "Re-run with --force-resummarize after quota resets "
-                        "(typically midnight UTC), or upgrade at https://ai.dev/rate-limit"
-                    )
+
+                if USE_LOCAL_LLM:
+                    if code == -1:
+                        hint = (
+                            "Ollama 서버가 응답하지 않습니다. "
+                            "'ollama serve'가 실행 중인지 확인하세요."
+                        )
+                    elif code == 404:
+                        hint = (
+                            f"모델({OLLAMA_MODEL})을 찾을 수 없습니다. "
+                            f"'ollama pull {OLLAMA_MODEL}' 을 실행하세요."
+                        )
+                    elif code == 408:
+                        hint = (
+                            "응답 시간 초과. "
+                            "config.py의 OLLAMA_TIMEOUT을 늘리거나 더 작은 모델을 사용하세요."
+                        )
+                    else:
+                        hint = (
+                            "Likely cause: GPU error, Ollama server down, or model OOM. "
+                            "Check: 'ollama serve' is running, VRAM is sufficient (10GB+)."
+                        )
                 else:
-                    hint = (
-                        f"Repeated API failures (HTTP {code}, type={client.last_error_type}). "
-                        "Check logs above for details."
-                    )
+                    if code == 404:
+                        hint = (
+                            "Model not found (HTTP 404). "
+                            f"Check MODEL_NAME in config.py — current: {GEMINI_MODEL}."
+                        )
+                    elif code in (401, 403):
+                        hint = (
+                            f"API key invalid or no permission (HTTP {code}). "
+                            "Check GEMINI_API_KEY in .env or GitHub Secrets."
+                        )
+                    elif code == 429:
+                        hint = (
+                            "Rate limit or free-tier daily quota exhausted (HTTP 429). "
+                            "Re-run with --force-resummarize after quota resets "
+                            "(typically midnight UTC)."
+                        )
+                    else:
+                        hint = (
+                            f"Repeated API failures (HTTP {code}, type={client.last_error_type}). "
+                            "Check logs above for details."
+                        )
+
                 logger.error(
-                    "Gemini API failed %d times in a row (skipped_no_abstract=%d ignored). %s Progress saved.",
+                    "LLM failed %d times in a row (skipped_no_abstract=%d ignored). %s Progress saved.",
                     _QUOTA_ABORT_THRESHOLD, skipped_no_abstract_count, hint,
                 )
                 all_articles[pmid] = article
@@ -291,9 +364,11 @@ def main() -> None:
         _save(data_file, all_articles)
         print("  Saved.")
 
+    total_elapsed = time.time() - loop_start
     logger.info(
-        "Processing complete: keyword_match=%d, gemini_confirmed=%d, "
-        "summary_ok=%d, summary_null(api_fail)=%d, skipped_no_abstract=%d",
+        "Processing complete in %.1fs: keyword_match=%d, confirmed=%d, "
+        "summary_ok=%d, summary_null=%d, skipped_no_abstract=%d",
+        total_elapsed,
         stats["classify_match"], stats["classify_confirmed"],
         stats["summary_ok"], stats["summary_null"], skipped_no_abstract_count,
     )

@@ -1,7 +1,10 @@
 # IR Journal Digest
 
 JVIR(J Vasc Interv Radiol)와 CVIR(Cardiovasc Intervent Radiol) 최신 논문을
-매월 자동으로 가져와 **Google Gemini AI**로 한글 요약하고 **GitHub Pages**에 게시하는 개인용 시스템.
+매월 자동으로 가져와 **AI로 한글 요약**하고 **GitHub Pages**에 게시하는 개인용 시스템.
+
+**로컬 GPU 모드** (기본값): Ollama + qwen2.5:14b — 인터넷 연결·API 키 불필요  
+**클라우드 모드**: Google Gemini API — `config.py`에서 `USE_LOCAL_LLM = False` 설정
 
 간담도/비혈관 인터벤션 관련 논문은 상세 요약 + 비판적 코멘트가 추가됩니다.
 
@@ -22,13 +25,69 @@ JVIR(J Vasc Interv Radiol)와 CVIR(Cardiovasc Intervent Radiol) 최신 논문을
 
 ## 빠른 시작
 
-### 1. Gemini API 키 발급
+### 모드 선택
 
-1. https://aistudio.google.com 접속 후 Google 계정으로 로그인
-2. **Get API key → Create API key** 클릭
-3. 생성된 키를 복사 (무료 티어: 분당 15회, 일 1,500회 요청)
+`src/config.py`에서 LLM 모드를 선택합니다:
 
-### 2. GitHub Secrets 등록
+```python
+USE_LOCAL_LLM = True   # 로컬 GPU (Ollama) — 기본값
+USE_LOCAL_LLM = False  # 클라우드 (Gemini API)
+```
+
+---
+
+### 로컬 GPU 모드 (Ollama)
+
+#### GPU 요구사항
+- VRAM 10GB 이상 (RTX 3080 / RTX 4070 이상 권장)
+- RAM 16GB 이상
+
+#### 1. Ollama 설치
+
+https://ollama.com/download 에서 Windows용 설치 파일 다운로드 후 설치.
+
+#### 2. 모델 다운로드
+
+```bash
+ollama pull qwen2.5:14b
+```
+
+다운로드 약 9GB. 한 번만 받으면 이후 오프라인에서도 사용 가능.
+
+#### 3. 로컬 실행
+
+```bash
+pip install -r requirements.txt
+python -m src.main
+```
+
+Ollama는 별도로 `ollama serve`를 실행하거나, 백그라운드 서비스로 자동 실행됩니다.
+
+#### 4. Windows 작업 스케줄러로 자동 실행
+
+매월 1일 자동 실행 설정:
+
+1. **작업 스케줄러** 열기 (Win + S → "작업 스케줄러" 검색)
+2. **작업 만들기** 클릭
+3. **일반** 탭: 이름 `IR Journal Digest`, "사용자가 로그온할 때만 실행" 선택
+4. **트리거** 탭 → **새로 만들기**:
+   - 시작: 매월, 1일, 오전 9:00
+5. **동작** 탭 → **새로 만들기**:
+   - 동작: 프로그램 시작
+   - 프로그램: `C:\path\to\python.exe`  *(또는 `python`)*
+   - 인수: `-m src.main`
+   - 시작 위치: `C:\project\ir-journal-digest`
+6. **확인** 후 암호 입력
+
+---
+
+### 클라우드 모드 (Gemini API)
+
+#1. https://aistudio.google.com 접속 후 Google 계정으로 로그인
+2. **Get API key → Create API key** 클릭 (무료 티어: 분당 15회, 일 1,500회)
+3. `src/config.py`에서 `USE_LOCAL_LLM = False` 설정
+
+#### 3. GitHub Secrets 등록 (Gemini 모드, GitHub Actions 사용 시)
 
 레포지토리 → **Settings → Secrets and variables → Actions → New repository secret**
 
@@ -116,9 +175,10 @@ NONVASCULAR_KEYWORDS = [
 .
 ├── .github/workflows/monthly-digest.yml  # 자동화 워크플로우
 ├── src/
-│   ├── config.py          # 모델명, 키워드, 저널 설정
+│   ├── config.py          # 모델명, 키워드, 저널 설정 (USE_LOCAL_LLM 포함)
 │   ├── fetch_pubmed.py    # PubMed E-utilities API
 │   ├── gemini_client.py   # Gemini API 래퍼 (재시도, 지수 백오프)
+│   ├── ollama_client.py   # Ollama 로컬 LLM 래퍼 (GPU 모드)
 │   ├── classify.py        # 2단계 관심 분야 분류
 │   ├── summarize.py       # 요약 프롬프트 + Pydantic 검증
 │   ├── render.py          # Jinja2 HTML 렌더링

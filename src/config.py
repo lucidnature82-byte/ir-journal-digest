@@ -10,6 +10,15 @@ except ImportError:
 GEMINI_API_KEY: str = os.environ.get("GEMINI_API_KEY", "")
 NCBI_API_KEY: str = os.environ.get("NCBI_API_KEY", "")
 
+# ── Local LLM (Ollama) settings ───────────────────────────────────────────────
+# USE_LOCAL_LLM=True  → Ollama 사용 (로컬 GPU)
+# USE_LOCAL_LLM=False → Gemini API 사용 (클라우드)
+USE_LOCAL_LLM: bool = True
+OLLAMA_MODEL: str = "qwen2.5:14b"
+OLLAMA_HOST: str = "http://localhost:11434"
+OLLAMA_TIMEOUT: int = 180   # 초 (로컬 모델은 느릴 수 있음)
+OLLAMA_TEMPERATURE: float = 0.3
+
 # 모델 선택 (2026년 5월 실측 기준)
 # 'gemini-2.5-flash-lite'  : 사용 가능 (200 OK 확인) ← 현재 선택 (2.5 품질 + lite 무료 한도)
 # 'gemini-flash-latest'    : 사용 가능 (200 OK 확인) — alias라 버전 변동 위험

@@ -24,6 +24,24 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Check LLM mode
+        run: |
+          python -c "
+          import sys
+          from src.config import USE_LOCAL_LLM, OLLAMA_MODEL
+          if USE_LOCAL_LLM:
+              print()
+              print('=' * 60)
+              print('Local LLM mode detected. GitHub Actions cannot run local LLM.')
+              print('  Configured model: ' + OLLAMA_MODEL)
+              print('  Set USE_LOCAL_LLM = False in src/config.py for cloud runs.')
+              print('  For local runs, use Windows Task Scheduler instead.')
+              print('  See README.md for Task Scheduler setup instructions.')
+              print('=' * 60)
+              print()
+              sys.exit(1)
+          "
+
       - name: Run digest
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}

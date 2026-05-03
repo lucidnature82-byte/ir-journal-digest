@@ -10,7 +10,8 @@
       "Bash(git stash *)",
       "Bash(git checkout *)",
       "Bash(git rebase *)",
-      "Bash(GIT_EDITOR=true git rebase --continue)"
+      "Bash(GIT_EDITOR=true git rebase --continue)",
+      "PowerShell(Invoke-WebRequest -Uri \"http://localhost:11434/api/tags\" -UseBasicParsing 2>&1 | Select-Object -First 5)"
     ]
   }
 }

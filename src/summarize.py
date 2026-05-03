@@ -84,7 +84,7 @@ def summarize_article(
         logger.info("[%s] Title empty  -  summarizing from abstract only (len=%d)", tag, len(abstract))
 
     mode = "detailed" if detailed else "basic"
-    logger.info("[%s] Calling Gemini for %s summary (abstract_len=%d)...", tag, mode, len(abstract))
+    logger.info("[%s] Requesting %s summary (abstract_len=%d)...", tag, mode, len(abstract))
 
     prompt = _build_prompt(title, abstract, detailed)
     raw = client.generate_json(prompt)
