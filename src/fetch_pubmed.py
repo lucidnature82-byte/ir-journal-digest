@@ -6,7 +6,7 @@ from typing import Optional
 
 import requests
 
-from .config import NCBI_API_KEY, FETCH_DAYS
+from .config import NCBI_API_KEY, FETCH_DAYS, PUBMED_DATE_FIELD
 
 logger = logging.getLogger(__name__)
 
@@ -28,7 +28,7 @@ def search_pmids(journal_query: str, days: int = FETCH_DAYS) -> list[str]:
 
     params = _params({
         "db": "pubmed",
-        "term": f'{journal_query} AND "{date_from}"[PDAT]:"{date_to}"[PDAT]',
+        "term": f'{journal_query} AND "{date_from}"[{PUBMED_DATE_FIELD}]:"{date_to}"[{PUBMED_DATE_FIELD}]',
         "retmax": 300,
         "usehistory": "y",
     })
