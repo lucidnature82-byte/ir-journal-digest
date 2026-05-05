@@ -14,7 +14,7 @@ NCBI_API_KEY: str = os.environ.get("NCBI_API_KEY", "")
 # USE_LOCAL_LLM=True  → Ollama 사용 (로컬 GPU)
 # USE_LOCAL_LLM=False → Gemini API 사용 (클라우드)
 USE_LOCAL_LLM: bool = True
-OLLAMA_MODEL: str = "qwen2.5:14b"
+OLLAMA_MODEL: str = "gemma3:12b"
 OLLAMA_HOST: str = "http://localhost:11434"
 OLLAMA_TIMEOUT: int = 180   # 초 (로컬 모델은 느릴 수 있음)
 OLLAMA_TEMPERATURE: float = 0.3
@@ -38,6 +38,11 @@ JOURNALS: dict[str, str] = {
 }
 
 FETCH_DAYS: int = 30  # look-back window for PubMed search
+
+# PubMed date field for search range
+# 'EDAT' (Entry Date / 색인일)  ← 신간 추적에 적합, 기본값
+# 'PDAT' (Publication Date / 출판일) ← 인쇄 발행일 기준, 과거 논문이 잡힐 수 있음
+PUBMED_DATE_FIELD: str = 'EDAT'
 
 # ── Interest-area keywords ────────────────────────────────────────────────────
 

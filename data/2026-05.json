@@ -39,13 +39,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "급성 동맥경화증 및 혈전 제거 단독 치료와 비교한 겹친 협착을 가진 급성 뇌졸중 환자의 기능적 결과 및 안전성",
-      "one_line": "동맥 경부 스텐팅과 혈관내 혈전 제거 단독 치료를 받은 겹친 협착을 가진 급성 뇌졸중 환자에서의 기능적 결과와 안전성을 비교한 연구",
-      "design": "후향적 관찰 연구 (Retrospective cohort study)",
-      "subjects": "2016년 10월부터 2025년 6월까지 카리오틱 스텐팅(CAS)을 받은 환자 21명과 혈관내 혈전 제거(EVT) 단독 치료를 받은 환자 45명 (총 66명)",
-      "intervention": "카리오틱 스텐팅(CAS) 또는 혈관내 혈전 제거(EVT) 단독 치료",
-      "results": "카리오틱 스텐팅 그룹은 더 높은 재혈관화 성공률(TICI 2c-3: 76% vs. 47%, P=0.024), 기능적 독립성(mRS 0-2: 42.9% vs. 17.8%, p=0.03) 및 더 낮은 사망률(19% vs. 51%, P=0.013)을 보였습니다. 그러나 다중 변수 조정 후 카리오틱 스텐팅 그룹의 기능적 결과와의 관련성이 유지되지 않았으며, 출혈 합병증 증가 없이 안전한 것으로 나타났습니다.",
-      "implication": "카리오틱 스텐팅은 재혈관화 성공률을 높이는 동시에 출혈 합병증의 위험을 증가시키지 않는다는 것을 보여주며, 이는 라틴 아메리카 코호트에서 얻은 실제 세계 증거를 제공합니다. 따라서 카리오틱 스텐팅이 안전하고 효과적인 전략으로 작용할 수 있다는 것을 지지합니다."
+      "title_ko": "급성 뇌졸중 환자의 겸상 폐색(Tandem Occlusions) 치료에서 급성 경동맥 스텐팅(CAS) 대 단독 혈전 제거술(EVT) 효과 비교: 기능적 결과 및 안전성",
+      "one_line": "급성 뇌졸중 환자의 겸상 폐색 치료 시 급성 경동맥 스텐팅(CAS)을 시행한 군에서 더 나은 재관류율과 낮은 사망률을 보였으나, 기능적 결과에 대한 유의미한 차이는 multivariable 분석에서 나타나지 않았다.",
+      "design": "후향적 코호트 연구(Retrospective cohort study)",
+      "subjects": "총 66명 (CAS 군 21명, EVT 군 45명)",
+      "intervention": "급성 경동맥 스텐팅(CAS) + 혈전 제거술(EVT) 대 단독 혈전 제거술(EVT)",
+      "results": "CAS 군은 EVT 군에 비해 더 높은 재관류율(TICI 2c-3: 76% vs 47%, P=0.024)을 보였으며, mRS 0-2 비율이 높았고(42.9% vs 17.8%, p=0.03) 사망률이 유의미하게 낮았다(19% vs 51%, P=0.013). CAS는 성공적인 재관류와 관련이 있었으며(OR: 3.65; 95% CI, 1.14-11.69; P=0.029), 초기 NIHSS 점수는 기능적 독립성과 부정적인 연관성을 가졌다(adjusted OR: 0.82; 95% CI, 0.73-0.92; P=0.002). multivariable 분석에서는 CAS 군의 기능적 결과 개선 효과가 유의미하지 않았다(adjusted OR: 2.07; 95% CI, 0.58-11.62; P = 0.211). 출혈성 합병증 위험은 증가하지 않았다.",
+      "implication": "본 연구는 라틴 아메리카 환자군을 대상으로 한 실제 데이터를 기반으로 급성 경동맥 스텐팅(CAS)이 안전하고 효과적인 전략임을 시사한다. 하지만 기능적 결과에 대한 효과는 multivariable 분석에서 확인되지 않았으므로 추가 연구가 필요하다."
     }
   },
   {
@@ -69,16 +69,16 @@
     "is_interest": true,
     "interest_category": "hepatobiliary",
     "summary": {
-      "title_ko": "Lipiodol을 이용한 폐동맥 차폐 경피 간암 치료술이 간세포 carcinoma에 대한 완치적 치료 옵션으로서의 가능성을 조사",
-      "one_line": "Lipiodol 기반 B-TACE는 단일 간세포 carcinoma 환자에서 높은 초기 완전 반응률을 보이며, 추적 관찰 중 완치를 달성하는 경우가 많다.",
-      "design": "후향적 연구",
-      "subjects": "2018년 9월부터 2024년 1월까지 처음으로 치료를 받은 간세포 carcinoma 환자 82명",
-      "intervention": "Lipiodol 기반 폐동맥 차폐 경피 간동맥화학색전술 (B-TACE)",
-      "results": "82명의 환자 중 모두가 단일 간세포 carcinoma에 대해 B-TACE를 성공적으로 수행하였으며, 첫 추적 검사에서 완전 반응(CR)을 보인 환자는 81명(98.8%)으로, 정량적인 폐동맥 차폐술은 33명(40.2%)의 환자에게서 관찰되었다. 추적 기간 동안 전체 환자의 78%에서 완치 반응이 이루어졌으며, 이 중 병리학적으로 완전한 조직 낭비가 확인된 경우는 36명(92.3%)으로, CR을 보였지만 국소 재발(LR)이 발생하지 않은 환자는 28명(65.1%)이었다.",
-      "implication": "Lipiodol 기반 B-TACE는 단일 간세포 carcinoma에서 높은 초기 완전 반응률을 보이며, 추적 관찰 중 완치를 달성하는 경우가 많다. 첫 번째 추적 검사에서 정량적인 폐동맥 차폐술이 병리학적으로 완전한 조직 낭비의 예측 지표로 작용한다.",
-      "detailed_results": "추적 기간 중 전체 환자의 32.6%에서 국소 재발(LR)이 발생하였으며, 정량적인 폐동맥 차폐술을 보인 환자 그룹은 LR률이 유의하게 낮았다 (p=0.013).",
-      "critique": "연구는 단일 의료기관에서 후향적으로 진행되었기 때문에 일반화가 어려울 수 있다. 또한, 연구 대상자가 초기 치료를 받은 환자들로 제한되어 있어 추가적인 전향적 연구가 필요하다.",
-      "clinical_application": "Lipiodol 기반 B-TACE는 단일 간세포 carcinoma에서 완치적 치료 옵션으로 고려될 수 있으며, 첫 번째 추적 검사에서 정량적인 폐동맥 차폐술이 관찰되는 환자에게 특히 유용할 것으로 보인다."
+      "title_ko": "리피오돌 기반 풍선 차폐 전신동맥화학색전술(B-TACE)이 간세포암종(HCC)의 치료적 선택지가 될 수 있는가?",
+      "one_line": "본 연구는 리피오돌 기반 풍선 차폐 전신동맥화학색전술(B-TACE)이 단일 간세포암종(HCC) 환자에게 높은 반응률을 보이며, 특정 환자군에서 치료적 선택지가 될 수 있음을 시사합니다.",
+      "design": "후향적 단일 센터 연구 (Retrospective Single-Center Study)",
+      "subjects": "단일 간세포암종(HCC) 환자 82명 (September 2018 – January 2024)",
+      "intervention": "리피오돌 기반 풍선 차폐 전신동맥화학색전술(Lipiodol-based Balloon-Occluded Transcatheter Arterial Chemoembolization, B-TACE)",
+      "results": "기술적 성공률 100%, 초기 추적 CT에서 완전 반응(Complete Response, CR) 81명 (98.8%), 오일 서브세그멘트 절제술(Oily Subsegmentectomy) 33명 (40.2%), 치료적 반응 (병리학적 완전 괴사 및 국소 재발(Local Recurrence, LR) 없는 CR 포함) 64명 (78%)",
+      "implication": "리피오돌 기반 B-TACE는 단일 간세포암종(HCC) 환자에게 효과적인 치료 방법이며, 오일 서브세그멘트 절제술(Oily Subsegmentectomy)의 존재는 완전 괴사를 예측하는 지표가 될 수 있습니다.",
+      "detailed_results": "환자들의 간세포암종(HCC) 평균 직경은 36mm (범위: 18-65mm) 이었습니다. 중간 추적 기간은 39.1개월이었으며, 14개의 간세포암종(HCC) (32.6%)에서 국소 재발(LR)이 관찰되었습니다. 오일 서브세그멘트 절제술(Oily Subsegmentectomy)을 보인 33명의 환자는 모두 병리학적 완전 괴사를 보였으며 (n=19), 국소 재발(LR)은 관찰되지 않았습니다 (n=14). 단변량 로그랭크 분석에서 오일 서브세그멘트 절제술(Oily Subsegmentectomy) 양성군이 음성군보다 국소 재발(LR)률이 유의미하게 낮았습니다 (p=0.013).",
+      "critique": "본 연구는 후향적 단일 센터 연구로, 연구 결과의 일반화에는 제한이 있을 수 있습니다. 또한, 환자 선택 편향 가능성을 배제할 수 없으며, 장기적인 추적 관찰 데이터가 필요합니다. 기존의 TACE와 비교하여 B-TACE의 장점을 명확히 하기 위해서는 추가적인 연구가 필요합니다.",
+      "clinical_application": "오일 서브세그멘트 절제술(Oily Subsegmentectomy)을 보이는 특정 환자군에서 리피오돌 기반 B-TACE를 치료적 선택지로 고려할 수 있습니다. 환자 선정 시 오일 서브세그멘트 절제술(Oily Subsegmentectomy)의 존재 여부가 중요한 지표가 될 수 있습니다."
     }
   },
   {
@@ -134,13 +134,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "치료받지 않은 재발성 폐동맥정맥이행畸形肺动静脉畸形复发且未经治疗的矛盾性栓塞的发生率和危险因素",
-      "one_line": "재발성 폐동맥정맥이행畸形肺动静脉畸形未经治疗的情况下，矛盾性栓塞的发生率为每年9.2例/100患者年。",
-      "design": "후향적 연구 (Retrospective study)",
-      "subjects": "15명의 환자, 재발성 폐동맥정맥이행畸形肺动静脉畸形共25개",
-      "intervention": "재발한 PAVM에 대한 치료 없음 (No treatment for recurrent PAVMs)",
-      "results": "65.1 환자-년 동안, 40%의 환자가 (95% 신뢰구간: 16-68%) 모순된 혈류를 경험하였으며, 이는 연간 발생률로는 9.2 건/100환자-년 (95% CI, 3.4-20.0)을 나타냈다. PDE가 발생한 환자의 병변은 크기가 더 컸고 재발 부담이 더 컸으나 통계적으로 유의미한 차이는 없었다.",
-      "implication": "재발성 폐동맥정맥이행畸形肺动静脉畸形未经治疗的情况下，矛盾性栓塞的风险仍然存在。这支持了持续监测和重新介入的必要性，并强调需要进行更大规模的研究来进一步验证这些发现。"
+      "title_ko": "치료되지 않은 재발성 폐동맥-정맥루(Pulmonary Arteriovenous Malformation, PAVM) 환자에서의 역설적 색전증(Paradoxical Embolization, PDE) 발생률 및 위험 요인",
+      "one_line": "치료되지 않은 재발성 폐동맥-정맥루 환자에서 역설적 색전증 발생 위험이 지속적으로 존재하며, 이는 지속적인 경과 관찰 및 재시술 고려의 필요성을 시사한다.",
+      "design": "후향적 증례 연구",
+      "subjects": "폐동맥-정맥루 재발 환자 15명 (총 25개의 재발성 폐동맥-정맥루)",
+      "intervention": "폐동맥-정맥루 색전술(Embolotherapy) 후 치료되지 않은 재발성 폐동맥-정맥루에 대한 경과 관찰",
+      "results": "65.1명의 환자-년(patient-years)의 경과 관찰 기간 동안, 6명의 환자(40%; 95% CI, 16-68%)에서 역설적 색전증이 발생했으며, 연간 발생률은 9.2건/100 환자-년(95% CI, 3.4-20.0)으로 나타났다. 역설적 색전증을 경험한 환자의 폐동맥-정맥루 크기가 더 크고 재발 부담이 더 컸으나, 통계적으로 유의미한 차이는 아니었다. 사건이 발생하지 않은 환자의 경과 관찰 기간 중앙값은 재발 후 48.7개월이었다.",
+      "implication": "치료되지 않은 재발성 폐동맥-정맥루 환자에서 역설적 색전증의 위험성이 지속적으로 존재하므로, 지속적인 경과 관찰과 재시술 고려가 필요하며, 더 큰 규모의 연구가 필요하다."
     }
   },
   {
@@ -191,27 +191,16 @@
     "is_interest": true,
     "interest_category": "hepatobiliary",
     "summary": {
-      "title_ko": "유전자 돌연변이가 유방암 간 전이에 대한 방사능동위원소 치료 후 반응 및 진행 시간에 미치는 영향",
-      "one_line": "유전자 돌연변이는 Y-90 방사능동위원소 치료를 받은 유방암 간 전이 환자의 생존기간, 반응률 및 진행 시간과 관련성이 있다.",
-      "design": "후향적 연구",
-      "subjects": "여성 110명 (유방암 간 전이)",
-      "intervention": "Y-90 방사능동위원소 치료 (Radioembolization)",
-      "results": {
-        "생존기간": "전체 중간 생존 기간은 32.8개월 (1.3 - 173.0)이었다. ERBB2 돌연변이는 가장 긴 중간 생존 기간을 보였으며, RAD21 돌연변이는 가장 짧은 중간 생존 기간을 보였다.",
-        "반응률": "KDM5C와 CBFB 돌연변이는 가장 높은 반응률 (각각 100%, p=0.003 및 p=0.014)과 관련이 있었으며, H3C13 돌연변이는 가장 낮은 반응률 (p=0.002)을 보였다.",
-        "진행 시간": "처방 후 초기 반응을 보인 환자들의 중간 진행 시간은 32.8개월 (1.4 - 173.0)이었다. H3F3B 돌연변이는 가장 긴 진행 시간을, RUNX1 돌연변이는 가장 짧은 진행 시간을 보였다."
-      },
-      "implication": "특정 유전자 돌연변이는 Y-90 방사능동위원소 치료 후 생존기간, 반응률 및 진행 시간과 관련이 있다는 것을 밝혔다. 이 연구는 유전체 프로파일링을 이용하여 개인화된 치료 계획을 개발하는 잠재력을 강조한다.",
-      "detailed_results": {
-        "서브그룹 분석": "ERBB2 돌연변이 환자는 가장 긴 중간 생존 기간 (70.2개월)을 보였으며, RAD21 돌연변이는 가장 짧은 중간 생존 기간 (25.5개월)을 보였다.",
-        "합병증": "연구에서 합병증에 대한 정보는 제공되지 않았다.",
-        "추적 기간": "환자의 추적 기간은 1.3 - 173.0개월로 다양했다."
-      },
-      "critique": {
-        "한계점": "본 연구는 후향적인 연구로서, 유전자 돌연변이와 Y-90 방사능동위원소 치료의 효과 사이의 인과 관계를 확립하기에는 제약이 있다. 또한, 사망하거나 평가되지 않은 환자가 일부 포함되어 있어 결과 해석에 영향을 미칠 수 있다.",
-        "기존 연구와 비교": "기존 연구들과 달리 본 연구는 유전자 돌연변이의 특정 패턴과 Y-90 방사능동위원소 치료 효과 사이의 상관 관계를 탐색했다."
-      },
-      "clinical_application": "유전체 프로파일링을 이용하여 환자의 유전자 돌연변이 패턴을 파악하고, 이를 바탕으로 Y-90 방사능동위원소 치료에 대한 예후와 반응률을 개인화된 방식으로 평가할 수 있는 임상적 적용 가능성이 제시된다."
+      "title_ko": "유방암 간 전이 환자의 Y-90 방사색전술(Radioembolization) 반응 및 무진행 생존 기간에 대한 유전적 변이의 영향",
+      "one_line": "유전적 변이는 유방암 간 전이 환자의 Y-90 방사색전술(Radioembolization) 반응, 무진행 생존 기간, 전체 생존 기간에 영향을 미치며, 맞춤형 치료 계획 수립에 유전체 프로파일링(Genomic profiling) 활용 가능성을 시사한다.",
+      "design": "후향적 단일 기관 연구(Retrospective, single-institution study)",
+      "subjects": "유방암 간 전이 여성 환자 110명(N=110)",
+      "intervention": "Y-90 방사색전술(Y-90 radioembolization)",
+      "results": "전체 중간 생존 기간(Median overall survival)은 32.8개월(1.3 - 173.0개월). *ERBB2* 돌연변이 환자의 중간 생존 기간은 70.2개월(12.5 - 173.0개월), *RAD21* 돌연변이 환자의 중간 생존 기간은 25.5개월(2.4 - 173.0개월). *KDM5C* 및 *CBFB* 돌연변이 환자의 반응률(Response rate)은 각각 100% (p=0.003, p=0.014), *H3C13* 돌연변이 환자의 반응률은 0% (p=0.002). 초기 치료 반응(Initial treatment response)을 보인 환자의 중간 무진행 생존 기간(Median time to progression)은 32.8개월(1.4 - 173.0개월). *H3F3B* 돌연변이 환자의 무진행 생존 기간은 105개월(50.2 - 105.0개월), *RUNX1* 돌연변이 환자의 무진행 생존 기간은 1.4개월(1.4 - 36.5개월).",
+      "implication": "유전체 프로파일링(Genomic profiling)을 통해 환자 개개인의 특성에 맞는 맞춤형 치료 계획을 수립할 수 있는 가능성을 제시한다.",
+      "detailed_results": "17명의 환자는 진행 평가 전에 사망했고, 6명의 환자는 시술 후 평가를 받지 못했다. Y-90 반응은 완전 반응(Complete), 부분 반응(Partial), 반응 없음(None), 진행(Progression)으로 분류되었다. Kaplan Meier 추정법을 사용하여 중간 생존 기간과 유전적 변이 간의 상관 관계를 분석했다.",
+      "critique": "본 연구는 후향적 단일 기관 연구이므로, 연구 결과를 일반화하는 데 제한이 있을 수 있다. 또한, 유전체 프로파일링(Genomic profiling)의 비용과 접근성 문제를 고려해야 한다. 기존 연구와의 비교를 통해 유전적 변이와 치료 반응 간의 관계를 더욱 명확히 밝히기 위한 추가 연구가 필요하다.",
+      "clinical_application": "유방암 간 전이 환자의 Y-90 방사색전술(Radioembolization) 시행 전 유전체 프로파일링(Genomic profiling)을 통해 환자의 치료 반응 예측 및 맞춤형 치료 전략 수립에 활용할 수 있다. 특히 *ERBB2*, *RAD21*, *KDM5C*, *CBFB*, *H3C13*, *H3F3B*, *RUNX1* 돌연변이의 존재 여부를 확인하여 치료 계획에 반영하는 것을 고려할 수 있다."
     }
   },
   {
@@ -231,13 +220,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "초음파 유도 경부 흉골관 전방 천공을 통한 후방 카니울레이션 접근법: 흉골관 내시경 시술을 위한 접근 방법",
-      "one_line": "초음파를 이용한 경부 흉골관의 전방 천공 기법을 통해 후방 카니울레이션이 가능해지는 안전하고 효과적인 접근법이 개발되었다.",
-      "design": "증례 연구 (Case Series)",
-      "subjects": "chylothorax 환자 / N=5",
-      "intervention": "초음파 유도 경부 흉골관의 전방 천공을 통한 후방 카니울레이션 접근법. 초음파를 이용해 경부 흉골관 또는 그 암풀라를 전방으로 천공하고, 마이크로 가이드 와이어를 대퇴 정맥 셰이스를 통해 외부화하여 통과 가능한 가이드 와이어 경로를 설정한다.",
-      "results": "5명의 환자에서 모두 기술적 성공을 달성하였으며, 흉골관 접근 평균 시간은 9.30 ± 4.27 분, 후방 카니울레이션 평균 시간은 28.00 ± 6.67 분이었다. 부상이나 합병증은 발생하지 않았다.",
-      "implication": "표준 접근법이 어려운 경우에 흉골관 내시경 시술을 위한 안전하고 효과적인 대안 접근 방법을 제공한다."
+      "title_ko": "초음파 유도 경부 흉선관 전위 천자술: 흉선관 내 시술을 위한 접근 경로",
+      "one_line": "본 연구는 초음파를 이용하여 경부 흉선관(thoracic duct, TD)에 전위 천자술을 시행하여 흉선관 내 시술을 용이하게 하는 새로운 접근법을 제시하고, 안전성과 효과를 입증하였다.",
+      "design": "증례 보고 (Case Report)",
+      "subjects": "흉선관 누출(chylothorax) 환자 5명 (N=5)",
+      "intervention": "초음파 유도 경부 흉선관 전위 천자술(Ultrasound-Guided Anterograde Cervical Thoracic Duct Puncture) 후 역행성 흉선관 내 삽관(Retrograde Cannulation)",
+      "results": "전위 천자술 성공률 100%, 역행성 삽관 성공률 100%. 흉선관 접근 시간(TD access time) 평균 9.30 ± 4.27분, 역행성 삽관 시간(retrograde cannulation time) 평균 28.00 ± 6.67분. 흉선관 손상 또는 경부 흉선관 누출과 같은 합병증 발생 없음.",
+      "implication": "본 기술은 표준적인 접근법이 어려운 경우, 흉선관 내 시술을 위한 안전하고 실현 가능하며 효과적인 대체 접근 경로를 제공할 수 있다."
     }
   },
   {
@@ -259,13 +248,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "CT 유도 윤화유 표지법을 이용한 소아 암 환자의 흉부경 수술 전 폐 결절 국소화 및 절제 효과와 안전성 평가",
-      "one_line": "CT 유도 윤화유 표지법은 소아암 환자에서 흉부경 수술 전 폐 결절의 정확한 국소화를 위한 안전하고 효과적인 방법임을 확인하였다.",
-      "design": "후향적 단일 중앙 연구",
-      "subjects": "2014년 1월부터 2024년 6월까지 소아 암 환자 30명 (수술 총 횟수: 36회, 평균 연령: 11.5 ± 4.2세)",
-      "intervention": "CT 유도 윤화유 표지법을 이용한 흉부경 수술 전 폐 결절 국소화 및 절제",
-      "results": "총 52개의 폐 결절이 국소화되어 제거되었으며, 평균 크기는 3.7 ± 1.9 mm였고, 폐막 표면으로부터 평균 거리는 5.6 ± 4.1 mm였다. 윤화유 표지법을 이용한 결절 국소화 성공률은 98.1% (53/54)로 매우 높았으며, 부작용으로는 경미한 흉기 내 혈관 침윤 및 소수의 환자에서 흉기 내 혈전 발생이 보고되었다.",
-      "implication": "CT 유도 윤화유 표지법은 소아암 환자의 폐 결절 국소화와 절제를 위한 안전하고 효과적인 방법으로, 흉부경 수술 전 정확한 결절 위치 확인에 크게 기여할 수 있다."
+      "title_ko": "소아 환자에서 흉강경 폐 결절 절제술 시 에티오디즈 오일(Ethiodized Oil) 위치 표지의 유효성과 안전성 평가",
+      "one_line": "본 연구는 소아 환자의 흉강경 폐 결절 절제술 전 에티오디즈 오일(Ethiodized Oil) 위치 표지가 안전하고 효과적인 방법임을 입증했습니다.",
+      "design": "후향적 단일 센터 연구 (Retrospective, single-center study)",
+      "subjects": "소아 암 환자 30명 (N=30), 평균 연령 11.5 ± 4.2세",
+      "intervention": "흉강경 폐 결절 절제술 전 CT-가이드 에티오디즈 오일(CT-guided ethiodized oil) 위치 표지",
+      "results": "총 52개의 폐 결절을 위치 표지 및 절제했으며, 평균 크기는 3.7 ± 1.9 mm, 흉막 표면으로부터 평균 거리는 5.6 ± 4.1 mm였습니다. 위치 표지부터 수술까지 평균 시간은 23.3 ± 12.3시간이었습니다. 수술 시 에티오디즈 오일(Ethiodized Oil)을 이용하여 53/54개 (98.1%)의 결절이 성공적으로 위치 표기되었고 절제되었습니다. 1개의 결절은 해부학적 지표를 이용하여 절제되었습니다. 1명의 환자가 국소 혈관 내 에티오디즈 오일(Ethiodized oil) 침윤을 경험했지만, 추가적인 확산이나 임상적 영향은 없었습니다. 경미한 반대 폐 기흉이 9명(9 patients)에서 발생했으며, 이 중 1명은 흉관 삽입이 필요했습니다. 혈흉이나 수술 후 혈종은 발생하지 않았습니다.",
+      "implication": "CT-가이드 에티오디즈 오일(CT-guided ethiodized oil) 위치 표지는 소아 환자에서 작은 폐 결절을 흉강경 절제술 전에 위치 표지하는 안전하고 효과적인 방법으로, 높은 성공률과 최소한의 합병증을 달성할 수 있습니다."
     }
   },
   {
@@ -303,13 +292,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "MAUDE 보고된 부작용 프로필: 정맥 치료를 위한 일리오페노럴 스텐트",
-      "one_line": "정맥 치료를 위해 사용되는 일리오페노럴 스텐트의 MAUDE 보고서에서 장치 문제와 환자 문제 프로필이 서로 다르다는 것을 확인하였다.",
-      "design": "후향적 연구",
-      "subjects": "2019년 1월 1일부터 2024년 12월 31일까지의 MAUDE 데이터베이스에서 6개의 정맥 스텐트 시스템(Venovo, Vici, Zilver Vena, Wallstent, Abre, Duo)에 대한 929건의 고유한 MDR을 검토했다. Duo는 보고 사례가 적어 제외되었다.",
-      "intervention": "정맥 치료를 위한 일리오페노럴 스텐트 시스템",
-      "results": "장치 문제 프로필은 χ²[16] = 521.2, P < .001, Cramer's V = 0.38로 각 스텐트 간에 유의하게 차이가 있었다. Venovo는 주로 배치 과정에서 문제가 발생했으며(Venovo: 75.9%), Vici는 배치 후 이동이나 막힘 문제(Vici: 60.0%)가 많았다. 환자 프로필은 χ²[20] = 295.3, P < .001, Cramer's V = 0.28로 각 스텐트 간에 유의하게 차이가 있었다. Venovo와 Wallstent에서는 대부분 No-harm 보고가 많았으며(Venovo: 93.7%, Wallstent: 82.5%), Zilver Vena와 Abre에서는 혈관 관련 문제가 상대적으로 더 많이 발생했다(Zilver Vena: 34.7%, Abre: 31.1%).",
-      "implication": "이 연구는 정맥 치료를 위한 일리오페노럴 스텐트의 MAUDE 보고서에서 장치 문제와 환자 문제 프로필이 서로 다르다는 것을 확인하였다. 그러나 이러한 결과는 실제 발생 빈도나 비교 안전성을 나타내는 것이 아니라 보고 패턴을 설명하는 것으로 해석되어야 한다."
+      "title_ko": "정맥 수술용 좌골-피부 혈관 스텐트의 MAUDE 보고된 부작용 프로필: 기술적 시장 사후 감시 연구",
+      "one_line": "본 연구는 정맥 수술용 좌골-피부 혈관 스텐트 종류에 따라 MAUDE 보고되는 스텐트 및 환자 관련 문제 프로필이 다르다는 것을 확인했습니다.",
+      "design": "후향적 연구 (MAUDE 데이터 기반)",
+      "subjects": "총 929건의 고유 Medical Device Report (MDR) (Venovo, 427; Vici, 55; Zilver Vena, 176; Wallstent, 120; Abre, 151). Duo는 보고 건수가 적어 제외되었습니다.",
+      "intervention": "6가지 정맥 스텐트 시스템 (Venovo, Vici, Zilver Vena, Wallstent, Abre, Duo)의 MAUDE 데이터 분석. 기간은 2019년 1월 1일부터 2024년 12월 31일까지입니다.",
+      "results": "스텐트 종류에 따른 스텐트 문제 분포는 유의미한 차이를 보였습니다 (χ2[16] = 521.2, P < .001; Cramer's V = 0.38). 환자 문제 분포 또한 유의미한 차이를 보였습니다 (χ2[20] = 295.3, P < .001; Cramer's V = 0.28). 주요 결과는 다음과 같습니다:\n\n*   **Venovo:** 시술 문제 (324/427, 75.9%), 무해 사례 (400/427, 93.7%)가 많았습니다.\n*   **Vici:** 시술 후 이동 또는 폐색 (33/55, 60.0%)이 많았습니다.\n*   **Zilver Vena:** 시술 후/잘못된 라벨링/재료 무결성 문제 (각각 26.1%, 23.9%, 23.3%), 혈관 문제 (61/176, 34.7%)가 비교적 많았습니다.\n*   **Wallstent:** 시술/재료 무결성 문제 (각각 40/120, 33.3%), 무해 사례 (99/120, 82.5%)가 많았습니다.\n*   **Abre:** 비특이적 스텐트 문제 (49/151, 32.5%), 혈관 문제 (47/151, 31.1%)가 많았습니다.",
+      "implication": "본 연구는 정맥 수술용 스텐트 종류에 따른 보고 패턴의 차이를 보여주며, 실제 발생률이나 비교 안전성을 나타내는 것은 아님을 시사합니다. 향후 스텐트 사용 시 주의해야 할 점을 파악하고, 추가적인 연구를 통해 실제 발생률 및 안전성을 평가할 필요가 있습니다."
     }
   },
   {
@@ -397,13 +386,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "조영감导管血管成形术后12个月不成熟自体动静脉透析瘘功能成熟的临床特征",
-      "one_line": "조영감导管血管成形术治疗不成熟自体动静脉透析瘘的临床成功率和影响因素分析",
-      "design": "후향적 연구 (Retrospective study)",
-      "subjects": "2018년 7월부터 2022년 12월까지 조영감导管血管成形术治疗不成熟自体动静脉透析瘘的连续患者, 총 156명 (평균 연령 65 ± 13세; 남성 58%)",
-      "intervention": "조영감导管血管成形术 (PTA)",
-      "results": "기술적 성공률은 99%였으며, 3개월, 6개월, 9개월, 12개월 후 임상 기능성은 각각 58%, 66%, 74%, 76%로 나타났다. 12개월 시점에서 주요 혈관通畅率(primary patency)는 49%, 보조-주요 혈관通畅率(assisted-primary patency)은 80%, 이차 혈管通畅率(secondary patency)은 87%였다. 다변량 로지스틱 회귀 분석에서 연령 >75세 (OR 4.90, 95% CI 1.50-15.06; P=0.01), 중등도 이상 장애 (OR 3.12, 95% CI 1.12-8.69; P=0.03), 복수의 협착 (OR 2.89, 95% CI 1.16-7.20; P=0.02)은 기능 미성숙을 독립적으로 예측하였다.",
-      "implication": "기술적 성공률이 높은 조영감导管血管成形术可以显著提高不成熟自体动静脉透析瘘的功能性，尽管通畅率并不总是转化为持续的使用。患者的状况（年龄、残疾程度）和病变特征（狭窄数量）独立影响PTA后的临床功能成熟度。"
+      "title_ko": "혈관성루(AVF) 풍선확장술 후 12개월 임상적 성숙에 영향을 미치는 환자 및 병변 특성",
+      "one_line": "혈관성루 풍선확장술 후 임상적 성숙률을 평가하고, 환자 및 병변 특성이 임상적 성숙에 미치는 영향을 분석한 결과, 고령, 심각한 장애, 다발성 협착이 임상적 성숙 저조의 독립적인 예측인자로 확인되었다.",
+      "design": "후향적 연구",
+      "subjects": "대상: 156명 (평균 연령 65 ± 13세, 남성 58%)",
+      "intervention": "혈관성루(AVF) 풍선확장술(PTA, percutaneous transluminal angioplasty)",
+      "results": "기술적 성공률: 99% (154/156). 3, 6, 9, 12개월 시점의 누적 임상적 성숙률: 58%, 66%, 74%, 76%. 12개월 시점의 1차, 보조적, 2차 관통률: 49%, 80%, 87%. 다변량 로지스틱 회귀 분석 결과, 75세 이상(OR 4.90, 95% CI 1.50-15.06; P=0.01), 심각한 장애(OR 3.12, 95% CI 1.12-8.69; P=0.03), 다발성 협착(OR 2.89, 95% CI 1.16-7.20; P=0.02)이 임상적 성숙 저조의 독립적인 예측인자로 나타났다.",
+      "implication": "혈관성루 풍선확장술은 상당수의 환자에게 혈액투석 사용을 가능하게 하지만, 관통률이 항상 일관된 사용 가능성을 보장하는 것은 아니다. 환자의 상태(나이, 장애)와 병변 특성(협착 개수)을 고려하여 치료 계획을 수립해야 한다."
     }
   },
   {
@@ -461,13 +450,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "초음파 유도 하에서 폴리도카놀 화학색전술을 이어받은 복부경로 마이크로웨이브 절제술을 이용한 자궁근종 치료: 전향적 연구",
-      "one_line": "US 유도 하에서 폴리도카놀 화학색전술과 복부경로 마이크로웨이브 절제술을 결합한 치료법은 자궁근종에 대한 임상적 및 기술적 효과, 치료 효율성 그리고 안전성을 입증하였다.",
-      "design": "전향적 연구",
-      "subjects": "57명의 환자 (총 74개의 자궁근종)",
-      "intervention": "초음파 유도 하에서 폴리도카놀 화학색전술과 복부경로 마이크로웨이브 절제술을 결합한 치료법",
-      "results": "치료 후 12개월에 걸쳐, 월경 과다 (76.9%), 월경 기간 연장 (66.7%), 빈혈 (71.4%), 자주 소변 배출 (61.9%), 복부 불편감 (68.8%) 등의 증상 완화율이 확인되었다. 또한 자궁 및 근종 부피 감소와 적혈구 수치 개선, 피실출 평가 점수(PBAC), 증상 중증도 스케일(SSS) 그리고 질병 관련 삶의 질(HRQOL) 점수가 향상되었다. 치료 과정에서 중등도 이상 부작용은 발생하지 않았다.",
-      "implication": "초음파 유도 하에서 폴리도카놀 화학색전술과 복부경로 마이크로웨이브 절제술을 결합한 치료법은 자궁근종에 대한 효과적이고 안전하며 효율적인 치료 방법으로 보여진다."
+      "title_ko": "자궁근종 치료를 위한 폴리도카놀 경화 요법 후 자궁 내시경 전자파 열전달술(transabdominal microwave ablation, MWA): 전향적 연구",
+      "one_line": "초음파 유도 하에 폴리도카놀 경화 요법과 자궁 내시경 전자파 열전달술을 병행한 자궁근종 치료는 효과적이고 안전한 방법으로 보인다.",
+      "design": "전향적 연구 (Prospective Study)",
+      "subjects": "57명 환자, 총 74개의 자궁근종 (N=57)",
+      "intervention": "초음파 유도 하 폴리도카놀 경화 요법(polidocanol sclerotherapy) 후 자궁 내시경 전자파 열전달술(transabdominal microwave ablation, MWA)",
+      "results": "환자 평균 연령 42세 (IQR: 38-46). 경화 요법으로 인한 혈관 폐쇄 정도는 완전 폐쇄 48.6%, 상당한 폐쇄 39.2%, 경미한 폐쇄 6.8%, 실패 5.4%로 나타났다. MRI에서 계산된 비폐색 용적 비율(non-perfusion volume ratio, NPVr) 중앙값은 98.5% (IQR: 88.3-101.1)였으며, 전자파 열전달 효율 중앙값은 4.9 s/cm (IQR: 3.3-6.4)였다. 12개월 후, 경월대하(menorrhagia), 질장 출혈(prolonged menses), 빈혈(anemia), 빈뇨(frequent micturition), 골반 불편감(pelvic discomfort)에 대한 완전한 증상 완화율은 각각 76.9%, 66.7%, 71.4%, 61.9%, 68.8%였다. 자궁 및 자궁근종 용적 감소, 헤모글로빈(hemoglobin, Hb) 수치 증가, PBAC 점수, SSS 점수, HRQOL 점수 개선이 관찰되었다. 중등도 이상의 부작용은 발생하지 않았다.",
+      "implication": "초음파 유도 하 폴리도카놀 경화 요법 후 자궁 내시경 전자파 열전달술은 자궁근종 치료에 실용적이고 효율적이며 안전한 치료 옵션으로 고려될 수 있다."
     }
   },
   {
@@ -566,21 +555,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "생검 확인된 cT1a 신세포 carcinoma 환자의 미분광열 치료(oncologic outcomes of microwave ablation) 결과",
-      "one_line": "2015년부터 2022년까지 CT 유도 미분광열 치료를 받은 생검 확인된 cT1a 신세포 carcinoma 환자들의 종양 진행률, 재발률 및 전이율을 평가한 후향적 연구",
-      "design": "후향적 연구 (Retrospective study)",
-      "subjects": "206명의 환자 (tumor size <4cm, pathologic diagnosis of RCC)",
-      "intervention": "CT 유도 미분광열 치료 (CT-guided microwave ablation)",
-      "results": {
-        "local_tumor_progression_rate": "2.9%",
-        "primary_and_secondary_treatment_efficiency": "94.7%와 97%",
-        "metastasis_rate": "1.0%",
-        "freedom_from_local_tumor_progression_at_2_years": "91.5%",
-        "cancer_specific_survival_rate_at_2_years": "100%",
-        "all_cause_mortality_rate_at_2_years": "4.9%",
-        "adverse_event_rate": "3.3%"
-      },
-      "implication": "CT 유도 미분광열 치료는 cT1a 신세포 carcinoma 환자들에게 안전하고 효과적인 치료법으로 입증되었다."
+      "title_ko": "생검으로 확인된 cT1a 신세포암종에 대한 전자파 열치료의 종양학적 결과",
+      "one_line": "본 연구는 CT-가이드 전자파 열치료(MWA)가 생검으로 확인된 cT1a 신세포암종(RCC) 환자에게 안전하고 효과적인 치료법임을 입증했습니다.",
+      "design": "후향적 연구",
+      "subjects": "대상: 206명 (2015-2022년 MWA 시술 환자)",
+      "intervention": "CT-가이드 전자파 열치료 (CT-guided Microwave Ablation, MWA)",
+      "results": "• 종양의 중간 크기(IQR): 2.1 (1.6-2.7) cm\n• 추적 관찰 기간의 중간값: 27.0 (14.8-45.3) 개월\n• 국소 종양 진행 발생률: 2.9% (중간값 22.5 (16.3, 34.0) 개월)\n• 1차 치료 효능: 94.7%\n• 2차 치료 효능: 97%\n• 전이 발생률: 2명 (1.0%)\n• 24개월 시점의 국소 종양 진행, 질병 진행, 전이로부터 자유로운 생존율: 91.5%\n• 24개월 시점의 암 관련 생존율: 100%\n• 24개월 시점의 전인구 사망률: 4.9%\n• 부작용 발생률: 3.3%\n• CTCAE 기준 Grade III 이상 부작용: 4명 (1.9%) - 이측 요관 폐색으로 인한 일시적 스텐트 삽입 1명, 사위신 적혈종으로 인한 혈관 조영술(angiogram) 또는 색전술(embolization) 필요 2명 (각각 0.4%)",
+      "implication": "cT1a 신세포암종 환자에게 전자파 열치료는 안전하고 효과적인 치료 옵션이며, 국소 진행 및 전이 예방에 기여할 수 있습니다."
     }
   },
   {
@@ -601,16 +582,16 @@
     "is_interest": true,
     "interest_category": "nonvascular",
     "summary": {
-      "title_ko": "후방 페닐레 요관 스타프트를 통한 만성 요도 배액의 결과: 경피적 신우술 배액과 비교",
-      "one_line": "페닐레 요관 스태프트(RUS)는 만성 경피적 신우술(PCN)보다 적은 간섭을 필요로 하지만, 보다 자주 유지 관리가 필요한 것으로 나타났습니다.",
+      "title_ko": "만성 요로 배액을 위한 역행성 경간막 요관 스텐트(RUS)의 결과: 만성 경피적 신우관(PCN) 배액과 비교",
+      "one_line": "역행성 경간막 요관 스텐트(RUS)는 만성 요로 배액에 효과적이지만, 만성 경피적 신우관(PCN)보다 더 짧은 유지보수 간격을 필요로 한다.",
       "design": "후향적 연구",
-      "subjects": "2010년 1월부터 2021년 12월까지 후방 페닐레 요관 스태프트를 사용한 만성 배액 환자 30명 (교환 절차 1,148회), 경피적 신우술을 통해 관리된 환자 71명 (교환 절차 1,068회)",
-      "intervention": "후방 페닐레 요관 스태프트(Retrograde Transileal Ureteric Stents)와 경피적 신우술(Chronic Percutaneous Nephrostomy, PCN)",
-      "results": "신기능 변화는 RUS와 PCN 환자 간에 통계적으로 유의미한 차이가 없었으며 (1년차: GFR -10 ml/min/1.73m2 vs. -5 ml/min/1.73m2, p=0.16; 2-3년차: GFR -16 ml/min/1.73m2 vs. -7 ml/min/1.73m2, p=0.38), RUS 환자는 PCN 환자보다 비정상적인 간섭이 적었으나 (5.9% vs. 20.1%, p<0.001) 정기적 유지 관리 주기가 더 짧았습니다 (p=0.019).",
-      "implication": "만성 RUS는 만성 요도 배액에 효과적이지만, 경피적 신우술보다 더 자주 유지 관리가 필요합니다.",
-      "detailed_results": "RUS 환자 중 30%가 교환 주기가 6주 이하로 짧아졌으며 (PCN 환자는 3%), RUS 환자의 경우 매년 더 짧은 정기적인 유지 관리 주기를 필요로 했고, 이는 주로 스태프트 결합으로 인한 것이었습니다. 4년차에 81%의 환자가 교환 주기가 10주 미만이었으며 (1년차에는 47%), RUS 환자는 중등도에서 심각한 부작용을 더 많이 경험했습니다 (30% vs. 4.2%, p<0.001).",
-      "critique": "RUS는 PCN보다 유지 관리 주기가 짧아서 환자에게 불편함이 있을 수 있으며, 특히 스태프트 결합으로 인한 교환 필요성이 증가합니다. 또한 RUS의 장기적 효과와 안전성에 대한 추가 연구가 필요합니다.",
-      "clinical_application": "RUS는 만성 요도 배액 환자에게 유용할 수 있지만, 정기적인 유지 관리 주기를 고려해야 하며, 특히 스태프트 결합으로 인한 교환 필요성이 높다는 점을 명심해야 합니다."
+      "subjects": "역행성 경간막 요관 스텐트(RUS)를 이용한 환자 30명 (교환 1148회), 만성 경피적 신우관(PCN)을 이용한 환자 71명 (교환 1068회)",
+      "intervention": "역행성 경간막 요관 스텐트(RUS) vs. 만성 경피적 신우관(PCN)",
+      "results": "1년 후 신장 기능 변화는 두 그룹 간에 유의미한 차이가 없었음 (RUS: -10 ml/min/1.73m², PCN: -5 ml/min/1.73m², p=0.16). 2-3년 후에도 유사한 결과 (RUS: -16 ml/min/1.73m², PCN: -7 ml/min/1.73m², p=0.38). 역행성 경간막 요관 스텐트(RUS)는 비정상적인 중재의 빈도가 낮았음 (5.9% vs. 20.1%, p<0.001).",
+      "implication": "만성 요로 배액을 위한 역행성 경간막 요관 스텐트(RUS)는 만성 경피적 신우관(PCN)에 비해 튜브 이탈 빈도가 낮지만, 더 짧은 유지보수 간격을 필요로 한다.",
+      "detailed_results": "3년 시점에서 역행성 경간막 요관 스텐트(RUS)의 정기 교환 간격 중앙값은 8.5주 (IQR: 6.3-10.9)였고, 만성 경피적 신우관(PCN)은 12.9주 (IQR: 9.5-13.1)였다 (p=0.019). 1년 후 역행성 경간막 요관 스텐트(RUS) 환자의 30%가 6주 이내의 정기 교환 간격을 필요로 했고, 만성 경피적 신우관(PCN) 환자는 3%였다. 시간이 지남에 따라 역행성 경간막 요관 스텐트(RUS) 환자에서 더 짧은 유지보수 간격이 필요했으며, 4년 시점에서 81%의 환자가 10주 미만의 교환 간격을 필요로 한 반면, 1년 시점에서는 47%였다. 역행성 경간막 요관 스텐트(RUS) 환자는 중등도에서 심각한 부작용 발생률이 높았음 (30% vs. 4.2%, p<0.001), 주로 튜브 이탈로 인해 진정하에 새로운 경피적 신우관(PCN) 삽입을 통해 역행성 경간막 요관 스텐트(RUS)를 재배치해야 하는 경우였다.",
+      "critique": "본 연구의 제한점은 후향적 연구라는 점이며, 환자 선택 편향 가능성이 존재한다. 또한, 신장 기능 변화에 대한 장기적인 추적 관찰이 필요하다. 역행성 경간막 요관 스텐트(RUS)의 장기적인 안전성과 유효성을 평가하기 위한 추가 연구가 필요하다.",
+      "clinical_application": "만성 요로 배액이 필요한 환자에게 역행성 경간막 요관 스텐트(RUS)를 고려할 수 있지만, 튜브 유지보수 간격이 짧다는 점을 고려하여 환자 교육 및 관리 계획을 수립해야 한다. 특히, 튜브 이탈 및 튜브 막힘과 같은 합병증 발생 가능성에 대한 주의가 필요하다."
     }
   },
   {
@@ -651,73 +632,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "GORE VIABAHN VBX 풍선 확장식 내강성구 사용을 통한 심부전 후 포털정맥 협착 치료: 증례 시리즈",
-      "one_line": "GORE VIABAHN VBX 풍선 확장식 내강성구는 심부전 후 포털정맥 협착(PVS) 치료에 높은 기술적 성공률과 지속적인 통로 유지 및 안전성을 보여주었다.",
-      "design": "후향적 단일기관 검토",
-      "subjects": "심부전 후 포털정맥 협착을 가진 환자 9명 (평균 연령: 49 ± 9.2세)",
-      "intervention": "GORE VIABAHN VBX 풍선 확장식 내강성구를 심부전 후 포털정맥 협착 치료에 사용",
-      "results": "기술적 성공률은 모든 경우에서 달성되었으며, 간으로 향하는 혈류가 개선되었다. 평균 추적 관찰 기간 동안 (41 ± 9.2개월) 주요 통로 유지율이 89% (8명의 환자), 보조 통로 유지율이 11% (1명의 환자)로 나타났다.",
-      "implication": "GORE VIABAHN VBX 풍선 확장식 내강성구는 심부전 후 포털정맥 협착 치료에 대한 잠재적인 치료 옵션이며, 높은 기술적 성공률과 지속적인 통로 유지 및 안전성을 제공한다."
-    }
-  },
-  {
-    "pmid": "41941923",
-    "doi": "10.1016/j.jvir.2026.108783",
-    "title": "Impact of Intravascular Ultrasound in Endovascular Interventions for Chronic Venous Insufficiency with Venous Stasis Ulcers.",
-    "abstract": "PURPOSE: Intravascular ultrasound (IVUS) during venography in patients with chronic venous disease potentially improves identification of significant central venous stenoses. We hypothesized that IVUS use increases the rate of ulcer healing through identification and treatment of venous stenoses not visualized on venography alone. MATERIALS AND METHODS: A retrospective review was performed of 170 patients (104 males, 66 females; mean age 64 years) with Clinical, Etiology, Anatomy and Pathophysiology (CEAP) 6 disease undergoing venography and intervention for active venous ulcers in 178 limbs at a single tertiary care center from 2010-2024. Patient demographics, ulcer characteristics, interventions performed and outcomes were reviewed. Procedures with venography and with (n=83 limbs, 47%) or without IVUS (n=95 limbs, 53%) were compared. Analysis assessed baseline characteristics and procedural outcomes, including ulcer healing rates, symptom scores, and healthcare utilization. RESULTS: Patients who underwent IVUS assessment had a higher rate of complete ulcer healing (27% vs 13%, odds ratio 2.8, p = 0.02) and larger decrease in ulcer size (p< 0.001). There was no significant difference in Venous Clinical Severity Score (VCSS) (p = 0.08). Lower healthcare utilization was observed in the IVUS group (13 wound care visits and 24 home health visits per patient-year, versus 14 wound care visits and 38 home health visits per patient-year), although this did not reach statistical significance (p = 0.06). CONCLUSION: In this retrospective cohort study, patients with active venous ulcers who underwent IVUS and venography experienced improved ulcer healing in comparison to those who underwent venography alone.",
-    "authors": [
-      "Semanek Michael",
-      "Li Xin",
-      "Vance Ansar Z",
-      "D'Angelo David W",
-      "Pugliese Douglas",
-      "Clark Timothy W I"
-    ],
-    "journal_abbr": "J Vasc Interv Radiol",
-    "pub_date": "2026-04-04",
-    "journal": "JVIR",
-    "is_interest": false,
-    "interest_category": null,
-    "summary": {
-      "title_ko": "내피관 내 초음파가 만성 정맥 부전 및 정맥 스테이시 울 ulus 환자에서 엔도바실러리 중재 후 치유율에 미치는 영향",
-      "one_line": "내피관 내 초음파를 사용한 환자의 정맥 부전 및 울 ulcer 치유율은 단순 정맥 조영술만을 받은 환자보다 높았습니다.",
-      "design": "후향적 연구 (Retrospective study)",
-      "subjects": "170명의 만성 정맥 부전 환자 (104명 남성, 66명 여성; 평균 연령 64세) 및 178개의 상지",
-      "intervention": "정맥 조영술과 함께 내피관 내 초음파(IVUS) 사용 또는 미사용",
-      "results": "내피관 내 초음파를 이용한 환자의 완전 치유율은 27%로 단순 정맥 조영술만을 받은 환자보다 높았으며 (13%), OR 2.8, p = 0.02), 울 ulcer 크기의 감소도 더 컸다 (p < 0.001). 또한 내피관 내 초음파 그룹에서 건강 관리 이용률이 낮아졌으나 통계적으로 유의미하지 않았다.",
-      "implication": "내피관 내 초음파를 사용한 정맥 조영술은 만성 정맥 부전 환자의 울 ulcer 치유율을 높이는 데 도움이 될 수 있으며, 추가적인 연구가 필요하다."
-    }
-  },
-  {
-    "pmid": "41941922",
-    "doi": "10.1016/j.jvir.2026.108784",
-    "title": "Efficacy and Safety of Transarterial Radioembolization Following Inferior Phrenic Artery Glue Embolization for Flow Redistribution in Hepatocellular Carcinoma.",
-    "abstract": "PURPOSE: To assess the efficacy and safety of transarterial radioembolization (TARE) following inferior phrenic artery (IPA) glue embolization for flow redistribution in hepatocellular carcinoma (HCC). MATERIALS AND METHODS: This study included 37 consecutive patients with HCC who underwent TARE following IPA glue embolization for flow redistribution between November 2021 and January 2026. Tumor response, local tumor progression-free survival (LTPFS), progression-free survival (PFS), overall survival (OS), and adverse events were retrospectively analyzed. RESULTS: The best response of the index tumor was complete response in 15 patients (40.5%), partial response in 18 (48.6%), and stable disease in 4 (10.8%), resulting in an objective response rate of 89.2%. The median LTPFS, PFS, and OS were 31.7, 12.5, and 31.7 months, respectively. The 12-, 24-, and 36-month LTPFS rates were 77.4%, 51.6%, and 25.8%; PFS rates were 52.0%, 29.3%, and 19.6%; and OS rates were 71.9%, 68.3%, and 48.8%, respectively. Furthermore, severe adverse events included cholecystitis (n = 2, 5.4%), prolonged prothrombin time (n = 1, 2.7%), acute kidney injury (n = 1, 2.7%), infection (n = 1, 2.7%), and radiation pneumonitis (n = 1, 2.7%). All severe adverse events were reversible with appropriate treatment, including steroid therapy for radiation pneumonitis. However, one additional patient experienced a fatal treatment-related death due to a procedure-related complication, specifically radiation pneumonitis. CONCLUSION: TARE following IPA glue embolization for flow redistribution in HCC appears to be an effective treatment and is generally well-tolerated. However, meticulous lung dosimetry is critical to ensure patient safety and minimize the risk of severe complications.",
-    "authors": [
-      "Kim Gun Ha",
-      "Kim Jeongyeon",
-      "Ko Eunbyeol",
-      "Oh Minyoung",
-      "Sung Changhwan",
-      "Kim Jin Hyoung",
-      "Gwon Dong Il"
-    ],
-    "journal_abbr": "J Vasc Interv Radiol",
-    "pub_date": "2026-04-04",
-    "journal": "JVIR",
-    "is_interest": true,
-    "interest_category": "hepatobiliary",
-    "summary": {
-      "title_ko": "하부 횡격막 동맥 접착제 색전술을 통한 혈류 재분배 후 간동맥 방사능색전술(TARE)의 효과와 안전성 평가",
-      "one_line": "하부 횡격막 동맥 접착제 색전술을 통해 혈류를 재분배한 후에 시행된 TARE는 간세포 carcinoma(HCC) 환자에서 효과적이고 대부분 잘 견디어지는 치료법으로 나타났다.",
-      "design": "후향적 연구",
-      "subjects": "간세포 carcinoma(HCC) 환자, 총 37명",
-      "intervention": "하부 횡격막 동맥 접착제 색전술을 통한 혈류 재분배 후 간동맥 방사능색전술(TARE)",
-      "results": "TARE를 받은 HCC 환자에서 종양 반응률은 89.2%로 나타났다. 중간 기준 국소 종양 진행 무진행 생존기간(LTPFS), 무진행 생존기간(PFS), 전체 생존기간(OS)은 각각 31.7개월, 12.5개월, 31.7개월이었다.",
-      "implication": "하부 횡격막 동맥 접착제 색전술을 통한 혈류 재분배 후 TARE는 HCC 환자에서 효과적이고 대부분 잘 견디어지는 치료법으로 보여진다. 그러나 심각한 부작용의 위험을 최소화하기 위해서는 신중한 폐 용량 계산이 필요하다.",
-      "detailed_results": "TARE를 받은 HCC 환자에서 종양 반응률은 완전 반응(40.5%), 부분 반응(48.6%) 및 안정 상태(10.8%)로 나타났다. 중간 기준 국소 종양 진행 무진행 생존기간(LTPFS), 무진행 생존기간(PFS), 전체 생존기간(OS)은 각각 31.7개월, 12.5개월, 31.7개월이었다. 1년, 2년 및 3년 LTPFS는 각각 77.4%, 51.6% 및 25.8%; PFS는 각각 52.0%, 29.3% 및 19.6%; OS는 각각 71.9%, 68.3% 및 48.8%로 나타났다. 심각한 부작용은 담낭염(5.4%), 장기 지속성 원위 혈액응고 시간 증가(2.7%), 급성 신장 손상(2.7%), 감염(2.7%) 및 방사선 폐렴증(2.7%)이었다.",
-      "critique": "연구는 후향적 연구로, 임상 적용 시 다른 환자 집단에서 동일한 결과를 보장하지 못할 수 있다. 또한 심각한 부작용으로 인해 치명적인 사례가 발생하였으므로, TARE의 안전성에 대한 추가 연구가 필요하다.",
-      "clinical_application": "하부 횡격막 동맥 접착제 색전술을 통한 혈류 재분배 후 TARE는 HCC 환자에서 효과적이고 대부분 잘 견디어지는 치료법으로 보여진다. 그러나 심각한 부작용의 위험을 최소화하기 위해서는 신중한 폐 용량 계산이 필요하다."
+      "title_ko": "이식 후 간문맥 협착 치료에 있어 GORE VIABAHN VBX 풍선 확장성 내인공혈관 이식의 효과 및 안전성: 증례 보고",
+      "one_line": "본 증례 보고는 간이식 후 발생한 간문맥 협착 환자에게 GORE VIABAHN VBX 풍선 확장성 내인공혈관 이식(Balloon Expandable Endoprosthesis)을 사용하여 높은 기술적 성공률, 지속적인 개통 유지율, 그리고 안전성을 확인했습니다.",
+      "design": "후향적, 단일 기관 증례 연구(Retrospective, Single-Center Case Series)",
+      "subjects": "9명의 환자 (평균 연령 49 ± 9.2세)",
+      "intervention": "GORE VIABAHN VBX 풍선 확장성 내인공혈관 이식(Balloon Expandable Endoprosthesis, VBX stent) 단일 삽입. 접근 방법: 경피간(transhepatic, n=2), 비장경(transsplenic, n=6), 병합(combined, n=1)",
+      "results": "기술적 성공률 100%, 간 혈류 향상 확인. 1차 개통 유지율 89% (8례), 1차 보조 개통 유지율 11% (1례). 평균 추적 관찰 기간 41 ± 9.2개월. 시술 관련 심각한 부작용(Serious Adverse Events, SIR) 발생 없음.",
+      "implication": "GORE VIABAHN VBX 풍선 확장성 내인공혈관 이식은 간이식 후 간문맥 협착 환자를 위한 잠재적인 치료 옵션으로 고려될 수 있습니다."
     }
   },
   {
@@ -753,13 +674,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "위장 미rowave 절제 시 방광열 모형에서 수질 체계 과열 실험 연구",
-      "one_line": "위장 미파이버 절제 중 방광열 모형을 사용하여 콜렉팅 시스템의 과열 현상을 평가한 연구.",
-      "design": "실험적 연구 (ex vivo)",
-      "subjects": "돼지 신장 5개",
-      "intervention": "60W 미파이버 절제 장치를 이용하여 신질, 콜레키스 내부 및 방광 내부에서 각각 5분간 절제 수행.",
-      "results": "33회 절제 중 모든 위치에서 수질 온도 상승 관찰. 신질 절제: 평균 최대 온도 상승 4.6°C(SD ± 3.0). 콜레키스 내부 절제: 평균 최대 온도 상승 31°C (SD ± 16.7), P = .016 및 P < .001로 신질 그룹과 유의미한 차이 존재. 방광 내부 절제: 평균 최대 온도 상승 70.4°C (SD ± 9.8)로 콜레키스와 신질 모두에서 유의미하게 높음, P < .001.",
-      "implication": "위장 미파이버 절제 중 방광열 모형을 사용할 때, 콜렉팅 시스템 내부 온도 상승은 절제 위치에 따라 크게 달라질 수 있으며 특히 방광 내부 또는 콜레키스 내부에서 수행될 경우 신장의 다른 부위보다 유의미하게 높아지는 경향이 있음을 확인함."
+      "title_ko": "신장 위치적 미세파 열전색술 시 집합관의 과열 가능성: 외생 혈액 순환 신장 모델을 이용한 실험 연구",
+      "one_line": "신장 위치적 미세파 열전색술 시 프로브(probe)가 캘릭스(calyx) 또는 신장 골반 내에 위치할 경우 집합관의 과열이 발생할 수 있음을 실험적으로 확인했습니다.",
+      "design": "실험 연구 (Experimental Study)",
+      "subjects": "포르크(porcine) 신장 5개 (N=33, 총 33회 미세파 열전색술 시행)",
+      "intervention": "60W 미세파 열전색술(microwave ablation, MWA) 시스템을 사용하여 5분간 미세파 열전색술 시행. 프로브(probe) 위치를 신장 피질(renal cortex), 캘릭스(calyx) 내, 신장 골반(renal pelvis) 내로 각각 조절.",
+      "results": "모든 미세파 열전색술 위치에서 소변 온도가 상승했습니다. 피질(cortex) 미세파 열전색술(n=14)의 평균 최대 온도 상승은 4.6 °C (SD ± 3.0)였습니다. 캘릭스(calyx) 내 미세파 열전색술(n=12)은 피질(cortex) 그룹에 비해 소변 온도 상승이 유의미하게 높았으며, 평균 최대 온도 상승은 31 °C (SD ± 16.7) (P = .016 및 P < .001)였습니다. 신장 골반(renal pelvis) 내 미세파 열전색술(n=7)은 피질(cortex) 및 캘릭스(calyx) 위치 모두에 비해 훨씬 높은 온도를 나타냈으며, 평균 최대 온도 상승은 70.4 °C (SD ± 9.8) (P < .001 및 P < .001)였습니다.",
+      "implication": "신장 위치적 미세파 열전색술 시 프로브(probe) 위치에 따라 집합관(collecting system)의 과열 위험이 존재하며, 특히 캘릭스(calyx) 또는 신장 골반(renal pelvis) 내에 프로브(probe)가 위치할 경우 주의가 필요합니다. 향후 환자 안전을 위한 프로브(probe) 위치 선정 및 시술 기법 개선 연구가 필요합니다."
     }
   },
   {
@@ -799,13 +720,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "브론хи올 혈관 색전술 동안 아담키에비츠 동맥과 전방 척추동맥 인식을 위한 딥 러닝 모델: 다기관 후향적 연구",
-      "one_line": "딥러닝 기반의 척수혈관 식별 시스템이 브론хи올 혈관 색전술 동안 아담키에비츠 동맥과 전방 척추동맥을 정확하게 인식할 수 있음을 확인하였다.",
+      "title_ko": "기관지동맥색전술(BAE) 시 아담키에비저 동맥(Artery of Adamkiewicz) 감지를 위한 딥러닝 모델: 다기관 후향적 연구",
+      "one_line": "기관지동맥색전술(BAE) 시 딥러닝 모델이 아담키에비저 동맥(Artery of Adamkiewicz) 및 전방척수동맥(ASA) 감지에 효과적이며, 방사선과 전문의와 유사한 성능을 보였다.",
       "design": "후향적 연구",
-      "subjects": "2019년 1월부터 2023년 12월까지 뇌출혈로 브론хи올 혈관 색전술을 받은 환자 2,036명",
-      "intervention": "딥러닝 기반의 척수혈관 식별 시스템 사용 (지역 관심 영역 인식 및 목표 척추동맥 식별)",
-      "results": "78명(3.8%)이 우측 간격-기관 혈관 조영술에서 아담키에비츠 동맥과 전방 척수동맥을 명확히 인식할 수 있었음. 제안된 방법의 민감도는 92.1%, 특이성은 84.6%로, 방사선 전문의 해석 결과와 통계적으로 유의미한 차이가 없었음.",
-      "implication": "딥러닝 기반 척수혈관 식별 시스템은 브론хи올 혈관 색전술 동안 아담키에비츠 동맥과 전방 척추동맥을 정확하게 인식할 수 있으며, 방사선 전문의 해석 결과와 유사한 성능을 보임. 이는 비목표 색전의 위험성을 줄이는 데 도움이 될 것으로 기대됨."
+      "subjects": "대상: 2036명 (2019년 1월 ~ 2023년 12월, 객혈로 기관지동맥색전술(BAE) 시행)",
+      "intervention": "기관지동맥색전술(BAE) 시 딥러닝 기반의 아담키에비저 동맥(Artery of Adamkiewicz) 및 전방척수동맥(ASA) 감지 시스템 적용. 시스템은 관심 영역(ROI) 인식 및 표적 척수동맥 식별 단계를 포함하며, 다중 척도 정보 상호작용을 통해 식별 결과를 점진적으로 개선한다.",
+      "results": "아담키에비저 동맥(Artery of Adamkiewicz) 및 전방척수동맥(ASA)이 우측 늑간-기관지 동맥 혈관조영술에서 식별된 환자는 78명 (3.8%) 이었다. 제안된 방법의 민감도는 92.1%, 특이도는 84.6%였으며, 방사선과 전문의의 해석과 통계적으로 유의미한 차이가 없었다.",
+      "implication": "딥러닝 시스템은 기관지동맥색전술(BAE) 시 척수동맥 비표적 색전화를 예방하는 데 유용한 도구가 될 수 있으며, 방사선과 전문의의 업무를 지원하고 정확도를 향상시킬 수 있다."
     }
   },
   {
@@ -884,13 +805,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "4차원 CT 혈관造影과 3차원 CT 혈관造影을 이용한 선택적 신장동맥색전술 지도에 대한 비교 연구",
-      "one_line": "4D CT 혈관造影은 3D CT 혈관造影보다 더 높은 자동피딩동맥감지 성공률과 적은 디지털소거혈관造影 회수 및 대조제 사용량을 보여주며, 신장기능 유지가 가능하다.",
-      "design": "후향적 연구",
-      "subjects": "114명의 청색질 신우세포암 환자 (2018-2025)",
-      "intervention": "선택적 신장동맥색전술(SRAE)을 위한 3D CT 혈관造影과 4D CT 혈관造影",
-      "results": "4D CT 혈관造影 그룹은 3D CT 혈관造影에 비해 디지털소거혈관造影 회수 (2 vs 5, P < .001)와 대조제 사용량 (29 mL vs 71.5 mL, P < .001)이 적었으며, 자동피딩동맥감지 성공률은 84.1%로 높았다 (P < .001).",
-      "implication": "4D CT 혈관造影은 시간해상도를 제공하여 신장세포암 색전술 전에 필요한 디지털소거혈관造影 회수와 대조제 사용량을 줄이는 동시에 자동피딩동맥감지 성공률을 높여, 선택적 신장동맥색전술의 안전성과 효과성을 향상시킬 수 있다."
+      "title_ko": "신세포암종 선택적 신동맥색전술(SRAE) 유도에 있어 경피적 4차원(4D) 대 3차원(3D) 전산화단층혈관조영술 비교 연구",
+      "one_line": "본 연구는 신세포암종(RCC) 환자의 SRAE 시술 시 4D CT 혈관조영술이 3D CT 혈관조영술에 비해 DSA 시행 횟수 및 조영제 사용량을 줄이고 자동 급혈관 탐지(AFD) 성공률을 높이는 것을 확인했습니다.",
+      "design": "후향적, 단일 센터 연구",
+      "subjects": "총 111명 (신세포암종 114개, clear cell renal cell carcinoma [RCC])",
+      "intervention": "신동맥색전술(renal artery embolization, SRAE) 유도를 위한 3D CT 혈관조영술 (69명, 70개 종양) 대 4D CT 혈관조영술 (42명, 44개 종양). 4D CT 혈관조영술에서는 최대 강도 투영(maximum intensity projection)을 이용하여 신동맥 지도를 수행하고 자동 급혈관 탐지(AFD)를 시행했습니다.",
+      "results": "4D CT 혈관조영술을 받은 환자는 3D CT 혈관조영술을 받은 환자보다 나이가 많았고(평균 75.3세 vs 68.4세, P < .01) 사구체여과율(estimated glomerular filtration rate, eGFR)이 낮았습니다(55 vs 65.6 mL/min/1.73 m2, P < .01). 4D CT 혈관조영술은 DSA 시행 횟수(중앙값 2회 vs 5회, P < .001) 및 조영제 사용량(29 mL vs 71.5 mL, P < .001)을 감소시켰으며, 시술 시간 및 방사선량은 유사했습니다. AFD 성공률은 4D CT 혈관조영술에서 84.1% vs 15.7% (P < .001)로 높았습니다. 4D CT 혈관조영술은 독립적으로 DSA 시행 횟수 감소(β = -3.229), 조영제 사용량 감소(β = -44.745) 및 AFD 성공률 증가(odds ratio, 41.46)와 관련이 있었습니다(모두 P < .001). 신장 기능은 두 군 모두 유지되었습니다.",
+      "implication": "신세포암종(RCC) 환자의 SRAE 시술 시 4D CT 혈관조영술은 AFD 성공률을 높이고, 시간 분해 혈관 지도를 가능하게 하며, DSA 시행 횟수 감소 및 조영제 사용량 감소를 통해 시술 효율성을 향상시킬 수 있습니다."
     }
   },
   {
@@ -909,13 +830,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "혈관 내 초음파 유도 경정맥 외간부 포르토시스템성 샴(shunt) 생성: TEPS의 장기 안전성과 효과 평가",
-      "one_line": "경정맥 외간부 포르토시스템성 샴(TEPS) 생성은 포르타高血压患者不适合进行经颈静脉肝内门体分流术(TIPS)创建时，使用血管内超声引导的经静脉外肝门体分流手术（TEPS）是可行、有效且持久的。",
-      "design": "단일기관 후향적 연구",
-      "subjects": "23명의 환자 (성인 19명, 소아 4명; 중앙값 연령 55.7세, 범위 8-75세; 남성 13명 [57%])",
-      "intervention": "간동맥화학색전술(TACE)이 적절하지 않은 환자들에게 경정맥 외간부 포르토시스템성 샴(TEPS) 생성을 실시함. TEPS는 포르코발, 메소코발, 스플ено renal 샴 생성으로 이루어짐.",
-      "results": "TEPS 생성의 기술적 성공률은 100%였으며, 주요 부작용은 급성 신부전을 포함한 등급 1-2 부작용이 발생하였음. 1년차 기본적인 통로 유지율은 100%, 3년차 보조된 통로 유지율도 100%였으며, 재발하는 간정맥 출혈은 4명 (17%)에서 관찰되었으나, 치료저항성 복수는 재발하지 않았음. 전체 생존기간 중앙값은 38.4개월로, 활동적인 암 환자에서는 더 짧았음 (10.4 vs 104.8 개월, P = .026).",
-      "implication": "혈관 내 초음파 유도 경정맥 외간부 포르토시스템성 샴 생성은 TIPS 생성이 적절하지 않은 포르타高血压患者中是一种可行、有效且持久的治疗方法，尤其适用于不适合传统再通或TIPS创建的情况。此外，该方法在治疗门脉高压并发症方面具有临床意义，尽管存在一定的短期和长期副作用风险。"
+      "title_ko": "경정맥 외간(extrahepatic) 포자-체계 우회로(Portosystemic Shunt)의 혈관초음파(Intravascular Ultrasound) 유도 시술: 포자-경막(Portocaval), 중막-경막(Mesocaval), 비장-신장(Splenorenal) 우회로 생성",
+      "one_line": "혈관초음파(IVUS) 유도 경정맥 외간(TEPS) 시술은 기존 TIPS 시술이 불가능한 환자에게 효과적이고 안전하며 지속적인 결과를 제공한다.",
+      "design": "단일 센터 후향적 연구(Retrospective Study)",
+      "subjects": "23명 환자 (성인 19명, 소아 4명; 중앙값 55.7세, 범위 8-75세; 남성 13명, 57%)",
+      "intervention": "혈관초음파(IVUS) 유도 경정맥 외간(TEPS) 시술 (포자-경막(Portocaval) 16개, 중막-경막(Mesocaval) 6개 (우열 5개, 하열 1개), 비장-신장(Splenorenal) 우회로 2개)",
+      "results": "기술적 성공률 100%. 시술 중 발생한 부작용은 경증(Grade 1-2) 9건 (38%), 급성 신장 손상(Acute Kidney Injury) 중등도(Grade 3) 1건 (4%). 1년 1차 개통률(Primary Patency) 100%, 3년 1차 보조 개통률(Primary Assisted Patency) 100%. 재발성 출혈 4명 (17%), 난치성 복수 재발 없음. 간성 뇌증(Hepatic Encephalopathy) 8명 (36%) 발생, 약물 치료로 관리. 간-폐 증후군(Hepatopulmonary Syndrome) 및 포자-폐 증후군(Portopulmonary Syndrome) 각각 1명 (4%) 발생. 중앙 생존 기간(Median Overall Survival, OS) 38.4개월, 활성 암(Active Cancer) 환자군에서 10.4개월로 짧음 (대조군 104.8개월, P = .026).",
+      "implication": "기존 TIPS 시술이 어려운 환자에게 혈관초음파(IVUS) 유도 경정맥 외간(TEPS) 시술은 효과적인 치료 옵션이 될 수 있으며, 특히 암 환자의 생존 기간과 관련된 추가적인 연구가 필요하다."
     }
   },
   {
@@ -940,13 +861,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "흉골 골전이에 대한 경피적 냉동응고술: 후향적 연구",
-      "one_line": "경피적 냉동응고술은 흉골 골전이 환자에서 통증 완화와 국소 제어를 효과적으로 달성하며 안전하다.",
-      "design": "후향적 연구 (Retrospective study)",
-      "subjects": "14명의 환자 (여성 10명, 남성 4명; 평균 연령 62세, 범위 39-79세)",
-      "intervention": "경피적 냉동응고술 (Percutaneous cryoablation)",
-      "results": "통증 완화: 통증 등급 수치 척도(NRS) 평균 점수는 7.31에서 3.15로 감소(P < .000001), 시각적 아날로그 척도(VAS) 평균 점수는 6.64에서 3.21로 감소(P < .000001). 국소 제어: 치료 목적이 완치인 두 환자 모두 국소 제어를 달성.",
-      "implication": "경피적 냉동응고술은 흉골 골전이 환자의 통증 완화와 국소 제어에 효과적이고 안전하며, 추가 연구가 필요하다."
+      "title_ko": "흉골 전이 병변에 대한 경피적 동결치료: 후향적 연구",
+      "one_line": "흉골 전이 환자에서 경피적 동결치료는 통증 완화에 효과적이며 안전한 시술로 보인다.",
+      "design": "후향적 연구 (Retrospective Study)",
+      "subjects": "환자 14명 (여성 10명, 남성 4명, 평균 연령 62세, 범위 39-79세)",
+      "intervention": "경피적 동결치료 (Percutaneous Cryoablation). 흉부 내 위치한 중요 구조물과의 근접성 및 심한 통증으로 인해 치료가 어려운 흉골 전이 병변에 대한 덜 침습적인 완화 치료 옵션으로 사용됨. Cone-beam computed tomography (CT) 또는 CT 가이드 하의 초음파 (US) 보조를 통해 시술 진행.",
+      "results": "13명(93%)의 환자가 상당한 통증 감소를 보고함. 통증 수치 평가 척도(numeric rating scale [NRS]) 평균 점수는 7.31 (SD ± 0.95)에서 3.15 (SD ± 1.52)로 감소 (P < .000001). 시각 아날로그 척도(visual analog scale [VAS]) 평균 점수는 6.64 (SD ± 1.65)에서 3.21 (SD ± 1.37)로 감소 (P < .000001). 치료적 의도를 가진 2명의 환자에서 국소 통제 달성.",
+      "implication": "흉골 전이 병변의 완화 치료에 경피적 동결치료가 안전하고 효과적이며, 추가적인 평가가 필요하다."
     }
   },
   {
@@ -968,13 +889,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "블레오미신 주입으로 인한 저혈류 혈관 이상증 치료 시 피부 색소침착 발생률",
-      "one_line": "저혈류 혈관 이상증을 가진 환자에서 블레오미신 주입으로 인한 피부 색소침착의 발생률이 매우 낮음을 보고한다.",
-      "design": "후향적 연구 (retrospective study)",
-      "subjects": "2010년 1월부터 2024년 9월까지 블레오미신 주입 치료를 받은 저혈류 혈관 이상증 환자 333명",
-      "intervention": "블레오미신 주입 (sclerotherapy)",
-      "results": "333명의 환자 중 11명(3.3%; 95% CI, 1.7-5.8)에서 피부 색소침착이 발생하였으며, 총 701회의 치료 세션 중 11회(1.6%; 95% CI, 0.8-2.8)에서 발생하였다. 색소침착은 별도의 혼합 주사제 없이 발생하였고, 전체 환자의 평균 세션당 및 누적 용량은 각각 9 단위 (IQR, 9 units), 12.5 단위 (IQR, 16.5 units)였다.",
-      "implication": "저혈류 혈관 이상증 치료에서 블레오미신 주입으로 인한 피부 색소침착은 매우 드물게 발생하며, 환자에게 위험성을 설명할 때 참고 자료로 활용될 수 있다."
+      "title_ko": "저류혈관기형(Low-Flow Vascular Malformations) 경화 요법 시 블레오마이신 유발 과색소침착 발생률",
+      "one_line": "저류혈관기형 경화 요법에서 블레오마이신 사용 시 과색소침착 발생률은 드물지만, 환자 상담 시 고려해야 할 사항이다.",
+      "design": "후향적 차트 검토 (Retrospective chart review)",
+      "subjects": "환자 N=333명 (2010년 1월 ~ 2024년 9월, 밴쿠버 일반 병원 또는 불리치아 어린이 병원에서 저류혈관기형으로 확진된 환자)",
+      "intervention": "블레오마이신 경화 요법 (Bleomycin sclerotherapy) - 보조 경화제(adjunct sclerosant) 미사용",
+      "results": "과색소침착 발생률은 환자 기준 3.3% (95% CI, 1.7-5.8), 시술 세션 기준 1.6% (95% CI, 0.8-2.8)로 확인되었다. 반응은 1회 시술 후 1.5% (5/333), 2회 시술 후 1.2% (2/164), 3회 시술 후 3.4% (3/87)에서 발생했으며, 4회 이상 시술 후 0.9% (1/117)에서 추가적으로 발생했다. 전체 환자군의 평균 시술 1회당 용량은 9 units (IQR, 9 units), 누적 용량은 12.5 units (IQR, 16.5 units)였다. 과색소침착 발생 환자의 평균 시술 1회당 용량은 11.3 units (IQR, 8 units), 누적 용량은 15 units (IQR, 21 units)였다. 환자의 8명은 여러 부위에, 3명은 단일 부위에 과색소침착이 발생했으며, 이 중 2명은 등, 1명은 손에 국한되었다.",
+      "implication": "블레오마이신 유발 과색소침착은 저류혈관기형 경화 요법에서 드물게 발생하지만, 환자에게 시술 전 위험성을 충분히 설명하고 동의를 얻는 것이 중요하다."
     }
   },
   {
@@ -999,16 +920,16 @@
     "is_interest": true,
     "interest_category": "hepatobiliary",
     "summary": {
-      "title_ko": "치핵 유발한 간경변증과 혈소판 감소증에 대한 요트륨-90 방사능 색전술의 안전성 및 타당성: 연구용기구 면제 연구 결과",
-      "one_line": "요트륨-90 방사능 색전술은 간경변증과 혈소판 감소증에 효과적이고 안전하며 잠재적인 치료 옵션으로 고려될 수 있다.",
+      "title_ko": "간경변으로 인한 비장 비대 및 혈소판 감소증 환자를 위한 이트륨-90 방사선 동맥 색전술의 안전성과 효능: 임상 기기 면제 연구 결과",
+      "one_line": "간경변 환자의 비장 비대 및 혈소판 감소증에 대한 이트륨-90 방사선 동맥 색전술(90Y splenic TARE)은 안전하고 시술 가능하며, 향후 연구를 통해 효능 개선이 기대된다.",
       "design": "전향적 연구",
-      "subjects": "간경변증 환자 7명",
-      "intervention": "요트륨-90 방사능 색전술 (TARE)",
-      "results": "2개의 경미한 부작용이 발생했으며 중등도 또는 심각한 부작용은 없었다. 혈소판 수치와 췌장 볼륨에 대한 유의미한 개선은 관찰되지 않았다.",
-      "implication": "요트륨-90 방사능 색전술은 간경변증과 혈소판 감소증 환자에서 안전하고 타당하며, 이론적으로는 잠재적인 치료 옵션으로 고려될 수 있다.",
-      "detailed_results": "연구 중단으로 인해 표본 크기가 제한되었고 계획된 용량 상향 조정을 초과할 수 없었다. 방사능 색전술 전후의 폐 쇄혈 검사와 요트륨-90 양전자 부호화 영상(PET)/컴퓨터 단층촬영(CT)은 5% 미만의 쇄혈 분율과 간외 요트륨-90 침착을 확인하였다.",
-      "critique": "연구 대상자가 적어 표본 크기 제한이 연구 결과에 영향을 끼쳤다. 또한, 연구 중단으로 인해 계획된 용량 상향 조정을 초과할 수 없었다.",
-      "clinical_application": "요트륨-90 방사능 색전술은 간경변증 환자의 혈소판 감소증 치료에 대한 잠재적인 새로운 치료 옵션으로 추가 연구가 필요하다."
+      "subjects": "대상: 간경변으로 인한 비장 비대 및 혈소판 감소증 환자, N=7",
+      "intervention": "이트륨-90 방사선 동맥 색전술 (90Y splenic Transarterial Radioembolization, TARE)",
+      "results": "이트륨-90 방사선 동맥 색전술 후 혈소판 수 및 비장 용적의 유의미한 개선은 관찰되지 않았으나, 계획된 방사선량 증가는 연구 중단으로 인해 100 Gy를 초과하지 못했다.",
+      "implication": "이트륨-90 방사선 동맥 색전술은 간경변으로 인한 비장 비대 및 혈소판 감소증 환자에게 안전하고 시술 가능하며, 향후 방사선량 증량 및 장기적인 추적 관찰을 통해 효능 개선 가능성이 있다.",
+      "detailed_results": "2명의 환자에서 경미한 부작용(mild AE)이 발생했으며, 중등도/심각한 부작용(moderate/severe AE)은 없었다. 시술 전 핵의학적 폐 우회 평가(lung shunt evaluation)에서 우회 분획(shunt fraction)은 5% 미만이었으며, 시술 후 이트륨-90 양전자 방출 단층 촬영/컴퓨터 단층 촬영(90Y Positron Emission Tomography/Computed Tomography, PET/CT)에서 비장 외 이트륨-90 침착은 관찰되지 않았다.",
+      "critique": "연구의 가장 큰 제한점은 등록 어려움으로 인한 작은 표본 크기(N=7)와 계획된 방사선량 증량을 수행하지 못한 점이다. 또한, 혈소판 수 및 비장 용적의 유의미한 개선이 관찰되지 않은 점은 아쉬운 부분이다. 기존의 약물 치료, 비장 절제술, 부분 비장 색전술에 비해 90Y splenic TARE의 장점을 입증하기 위해서는 더 큰 규모의 연구가 필요하다.",
+      "clinical_application": "간경변으로 인한 비장 비대 및 혈소판 감소증 환자에게 90Y splenic TARE는 안전하고 시술 가능하므로, 향후 임상 적용을 위한 추가 연구가 필요하다. 특히, 방사선량 최적화 및 장기적인 추적 관찰을 통해 효능을 평가해야 한다."
     }
   },
   {
@@ -1039,13 +960,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "나이지리아에서 첫 번째 환자군을 대상으로 하는 뇌동맥류 치료를 위한 내시경 신경혈관외과 서비스 구축: 초기 결과",
-      "one_line": "나이지리아의 첫 번째 환자군에서 뇌동맥류 치료를 위한 내시경 신경혈관외과 서비스가 안전하게 구축되었으며, 초기 임상 결과와 기술 전달 프레임워크에 대한 성공적인 평가가 이루어졌습니다.",
-      "design": "후향적 연구",
-      "subjects": "성인 환자 22명",
-      "intervention": "뇌동맥류 치료를 위한 내시경 신경혈관외과 시술 (endovascular treatment for intracranial aneurysms)",
-      "results": "평균 환자 연령은 49.8세(SD ±12.5), 여성 비율이 81.8%였으며, 가장 흔한 뇌동맥류 위치는 전방 통신 동맥(41.7%)이었습니다. 시술 중 합병증 발생률은 전체 환자의 18.2%, 주로 수술 중 동맥류 파열/코일 관통 (9.1%), 혈관 경련 (4.5%), 혈전 형성 (4.5%) 등이 있었습니다. 좋은 결과는 수정 Rankin Scale 점수가 30일 후 0점인 환자 비율로 정의되었으며, 이 비율은 전체 환자의 68.2%였습니다. 기술 전달 프레임워크는 성공적이었고, 지역 내 시술자가 독립적으로 수행한 케이스가 전체의 45.5%였으며, 결과와 수술 후 입원 기간은 감독 받는 경우와 유사했습니다.",
-      "implication": "나이지리아에서 뇌혈관외과 서비스를 구축하는 것은 초기 임상 결과에 좋은 영향을 미치며 합병증 발생률이 낮습니다. 구조화된 기술 전달 프레임워크는 시술자의 독립성을 안전하게 향상시키는데 도움이 되었습니다. 원격 신경중환자 치료는 현지에서 신경중환자 치료 전문가가 없을 때 환자를 관리하는 데 중요한 역할을 하였습니다."
+      "title_ko": "나이지리아 최초의 뇌혈관풍선 색전술 서비스 설립 후 초기 결과: 뇌동맥류 환자 치료",
+      "one_line": "나이지리아에서 뇌혈관풍선 색전술 서비스를 설립한 후 초기 결과는 양호했으며, 체계적인 기술 이전 프로그램을 통해 안전하게 운영자 독립을 달성하고 원격 신경집중치료를 통해 환자 관리를 지원했다.",
+      "design": "후향적 연구 (Retrospective review)",
+      "subjects": "성인 뇌동맥류 환자 22명 (N=22)",
+      "intervention": "뇌동맥류 풍선 색전술 (Endovascular treatment for intracranial aneurysms). 기술 이전(Skill transfer)은 경험 많은 신경혈관 영상의학과 전문의가 원격 또는 직접 감독(proctoring)을 통해 현지 영상의학과 전문의에게 뇌혈관풍선 색전술 기술을 전수하는 구조화된 멘토링 과정.",
+      "results": "평균 연령 49.8세 (SD ± 12.5), 여성 81.8%. 가장 흔한 동맥류 위치는 전방 교통 동맥 (Anterior communicating artery, 41.7%)이었으며, 뇌동맥류 파열 후 75.0%의 환자가 치료받았다. 시술 관련 합병증 발생률은 18.2%였으며, 주요 합병증은 시술 중 동맥류 파열/코일 천공 (Intraoperative rupture/coil perforation, 9.1%), 혈관 경련 (Vasospasm, 4.5%), 혈전 형성 (Thrombus formation, 4.5%)이었다. 수술 후 새로운 신경학적 결손이 발생한 환자는 1명. 30일 후 수정 랭킨 척도 (Modified Rankin Scale, mRS) 점수가 0인 유리한 결과를 보인 환자는 68.2%였다. 기술 이전은 성공적이었으며, 현지 영상의학과 전문의가 45.5%의 경우를 독립적으로 수행했으며, 감독된 경우와 결과 및 수술 후 입원 기간이 유사했다. 원격 신경집중치료 (Teleneurocritical care)는 현장에 신경집중치료 전문의가 없는 상황에서도 안전한 수술 후 관리를 가능하게 했다.",
+      "implication": "뇌혈관풍선 색전술 서비스 설립은 나이지리아와 같이 의료 자원이 부족한 환경에서도 안전하고 효과적인 뇌동맥류 치료를 제공할 수 있음을 시사한다. 체계적인 기술 이전 프로그램과 원격 신경집중치료는 의료 접근성을 향상시키고 환자 결과를 개선하는 데 중요한 역할을 할 수 있다."
     }
   },
   {
@@ -1080,13 +1001,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "폐타입 사용 가능한 동맥 말초혈관 시술용 투자기계 로봇시스템의 임상 적용가능성 평가: 다기관 타당도 연구",
-      "one_line": "임상적 타당도를 검증하기 위해 실시된 폐타입 사용 가능한 동맥 말초혈관 시술용 투자기계 로봇시스템의 안전성과 성능을 평가한 다기관 임상시험 결과, 100% 기술적 성공률을 달성하였으며, 최소한의 방사선 노출과 사용자의 만족도를 보여주었다.",
-      "design": "전향적 단일 군 연구",
-      "subjects": "3개 미국 의료기관에서 말초혈관 시술이 필요한 환자 20명",
-      "intervention": "동맥 말초혈관 시술용 투자기계 로봇시스템 사용",
-      "results": "로봇 시스템은 모든 20명의 환자에서 기술적 성공을 달성하였으며 (95% 신뢰구간, 83.2%-100%), 장치 관련 중대한 부작용이나 절차상의 합병증이 발생하지 않았다. 평균 시술 시간은 120.1분 (표준편차 ± 34.5) 이었으며, 로봇 내시경 조정 시간은 평균 6.3분 (표준편차 ± 7.6), 플루오로скоп 사용 시간은 중앙값 7.9분 (범위 1.0-18.10분)이었다. 의사의 방사선 노출량은 중앙값 1.4 μSv (범위 0.0-6.7 μSv)였다.",
-      "implication": "폐타입 사용 가능한 동맥 말초혈관 시술용 투자기계 로봇시스템이 기술적 성공을 달성하며 최소한의 의사 방사선 노출과 높은 사용 만족도를 보여주어, 이 시스템이 동맥 말초혈관 시술에서 더 넓게 활용될 가능성을 나타내고 있다."
+      "title_ko": "일회용 혈관로봇 시스템의 동맥 말초혈관 중재 시술 안전성 및 성능 평가: 다기관 타당성 연구",
+      "one_line": "본 연구는 일회용 혈관로봇 시스템을 이용한 동맥 말초혈관 중재 시술의 안전성과 성능을 평가한 결과, 높은 기술적 성공률과 낮은 방사선 노출량을 확인하여 광범위한 적용 가능성을 제시하였다.",
+      "design": "전향적, 다기관, 단일군 연구 (Prospective, Multicenter, Single-Arm Study)",
+      "subjects": "20명 (N=20) - 동맥 말초혈관 중재 시술이 필요한 환자",
+      "intervention": "일회용 혈관로봇 시스템 (Disposable Endovascular Robotic System)을 이용한 동맥 말초혈관 중재 시술",
+      "results": "기술적 성공률 100% (95% CI, 83.2%-100%). 심각한 부작용 또는 시술 관련 합병증 발생 없음. 평균 시술 시간 120.1분 (SD ± 34.5, 중앙값 117분, 범위 67.0-186.0분). 평균 로봇 탐색 시간 6.3분 (SD ± 7.6, 중앙값 3분, 범위 1.0-32.0분). 중앙값 형광 투시 시간 7.9분 (범위 1.0-18.10분). 중앙값 시술자 방사선량 1.4 μSv (범위 0.0-6.7 μSv). 모든 시술자는 시스템을 직관적이고 만족스럽다고 평가함 (5.0점 만점 중 5.0점).",
+      "implication": "일회용 혈관로봇 시스템은 낮은 방사선 노출량과 우수한 사용자 만족도를 통해 동맥 말초혈관 중재 시술에 대한 잠재적인 적용 가능성을 보여주며, 향후 더 넓은 범위의 적용을 고려할 수 있다."
     }
   },
   {
@@ -1109,13 +1030,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "고위험 환자에서 급성 담낭염에 대한 병적 담관 폐색술 및 화학적 담낭 절제술의 장기 결과",
-      "one_line": "고위험 환자의 급성 담낭염에서 병적 담관 폐색술(CDE)과 화학적 담낭 절제술(CGAb)을 시행한 후, 장기 효과와 안전성을 평가하였으며, 재발률은 낮았으나 주의 깊은 환자 선별 및 장기 모니터링이 필요하다는 결과를 얻었다.",
-      "design": "후향적 연구",
-      "subjects": "19명 (평균 연령: 77.7세 [표준편차 ± 19.3])",
-      "intervention": "병적 담관 폐색술(Cystic Duct Embolization, CDE) 후 화학적 담낭 절제술(Chemical Gallbladder Ablation, CGA) (3% Aethoxysklerol 또는 Glubran와 에티오디화유를 사용)",
-      "results": "기술적 성공은 17명 (89.5%)에서 이루어졌으며, 임상적 성공은 14명 (82.4%)에서 관찰되었다. 재발성 담낭염의 자유도는 중간 추적 기간 43.2개월 동안 높게 유지되었다.",
-      "implication": "CDE와 CGA는 수술이 불가능한 고위험 환자의 급성 담낭염 치료에 효과적이며, 장기 성공률이 높지만 재발 가능성을 고려하여 주의 깊은 환자 선별과 장기 모니터링이 필요하다."
+      "title_ko": "급성 담낭염 고위험군에서 낭성관 색전술(CDE)과 화학적 담낭 괴사(CGA) 병행술의 장기적 결과",
+      "one_line": "급성 담낭염 고위험군에서 수술이 불가능한 경우, 낭성관 색전술과 화학적 담낭 괴사 병행술은 장기적으로 효과적인 최소 침습적 치료 옵션이 될 수 있다.",
+      "design": "후향적 코호트 연구(Retrospective Cohort Study)",
+      "subjects": "고위험군 급성 담낭염 환자 19명 (평균 연령 77.7세 [표준편차 ± 19.3])",
+      "intervention": "낭성관 색전술(Cystic Duct Embolization, CDE) 후 화학적 담낭 괴사(Chemical Gallbladder Ablation, CGA) 시행 (3% Aethoxysklerol 또는 Glubran with ethiodized oil 사용). 모든 환자는 먼저 경피적 담낭 배액술(Percutaneous Cholecystostomy) 시행.",
+      "results": "기술적 성공률 89.5% (17/19명). 기술적 실패 원인은 낭성관 카테터 삽입 불가능 2명. 임상적 성공률 82.4% (14/17명). 임상적 실패는 3명 (17.6%)에서 발생: 지속적인 담즙 누출 1명, 후발성 담낭염 재발 2명 (1명은 천공, 1명은 담낭염). 시술 관련 사망은 없었으며, 중간 추적 관찰 기간 43.2개월 동안 재발 없는 담낭염의 높은 확률을 보였다(Kaplan-Meier 분석).",
+      "implication": "수술이 불가능한 급성 담낭염 고위험군에서 낭성관 색전술과 화학적 담낭 괴사 병행술은 효과적인 최소 침습적 치료 옵션이 될 수 있지만, 후발성 재발 가능성을 고려하여 환자 선별 및 장기적인 추적 관찰이 필요하다."
     }
   },
   {
@@ -1145,59 +1066,16 @@
     "is_interest": true,
     "interest_category": "hepatobiliary",
     "summary": {
-      "title_ko": "전이성 간세포암 모델에서 부분 냉동절제술 전에 PD-1 억제제를 사용한 신경주요 요법의 종양 미생태계 조절 효과",
-      "one_line": "PD-1 억제제를 사용한 신경주요 요법은 간세포암에서 부분 냉동절제술 후에 관찰되는 면역억제적 종양 미생태계를 개선할 수 있다.",
-      "design": "전향적 동물 모델 연구",
+      "title_ko": "간세포암(Hepatocellular Carcinoma, HCC)에 대한 부분 동결 치료(Partial Cryoablation) 전 네오-어드잔트 PD-1 면역관문 억제(Immune Checkpoint Inhibition)가 종양 미세 환경을 면역학적으로 유리하게 조절하는 효과",
+      "one_line": "간세포암에 대한 부분 동결 치료 후 잔존 종양의 면역 반응을 개선하기 위해 PD-1 면역관문 억제제를 병용 투여했을 때, 종양 미세 환경이 면역학적으로 유리하게 변화하는 것을 확인했습니다.",
+      "design": "실험적 연구 (in vivo 동물 모델)",
       "subjects": "BALB/c 마우스 48마리 (6-12주령)",
-      "intervention": [
-        "PD-1 억제제 투여 (Day 7, Day 9, Day 11)",
-        "부분 냉동절제술 (Day 13)"
-      ],
-      "results": [
-        {
-          "item": "PD-1 억제제 단독",
-          "result": "CD3+, CD4+, CD8+ T 세포의 종양 침입 증가 (P < .001, P < .001, P = .007)"
-        },
-        {
-          "item": "부분 냉동절제술 단독",
-          "result": "CD206+ M2-like 매크로파지 증가 (P = .03)"
-        },
-        {
-          "item": "PD-1 억제제와 부분 냉동절제술 병용",
-          "result": "CD3+ T 세포 침입 증가 (P = .048), PD-1 발현 감소 (P = .004)"
-        }
-      ],
-      "implication": "PD-1 억제제를 사용한 신경주요 요법은 간세포암에서 부분 냉동절제술 후에 관찰되는 면역억제적 종양 미생태계를 개선할 수 있다.",
-      "detailed_results": [
-        {
-          "item": "PD-1 억제제 단독",
-          "result": "CD3+ T 세포 침입: 중간값 22.4% vs 5.5%, P < .001; CD4+ T 세포 침입: 중간값 19.8% vs 5.1%, P < .001; CD8+ T 세포 침입: 중간값 8.2% vs 3.1%, P = .007"
-        },
-        {
-          "item": "부분 냉동절제술 단독",
-          "result": "CD206+ M2-like 매크로파지 증가: 중간값 36.6% vs 14.7%, P = .03"
-        },
-        {
-          "item": "PD-1 억제제와 부분 냉동절제술 병용",
-          "result": "CD3+ T 세포 침입: 중간값 14.3% vs 4.5%, P = .048; PD-1 발현 감소: 중간값 2.9% vs 7.3%, P = .004"
-        }
-      ],
-      "critique": [
-        {
-          "limitation": "동물 모델 연구로, 인간 환자에서의 적용 가능성에 대한 추가 연구가 필요하다."
-        },
-        {
-          "comparison": "기존 연구와 비교하여 PD-1 억제제 사용이 종양 미생태계 조절에 효과적임을 보여주지만, 병용 요법의 장단점에 대한 더 많은 데이터가 필요하다."
-        }
-      ],
-      "clinical_application": [
-        {
-          "point": "PD-1 억제제와 부분 냉동절제술을 병행하는 치료 전략은 초기 및 진행성 간세포암 환자에서 면역반응을 향상시키는 잠재력을 보여준다."
-        },
-        {
-          "point": "이러한 접근법은 기존의 단독 요법보다 종양 미생태계를 더 효과적으로 조절할 수 있을 것으로 예측된다."
-        }
-      ]
+      "intervention": "4개의 치료군: (a) 대조군, (b) 항-PD-1(Anti-PD-1) 단독, (c) 부분 동결 치료(Partial Cryoablation) 단독, (d) 항-PD-1 및 부분 동결 치료 병용. 항-PD-1은 접종 7, 9, 11일째 투여 후, 13일째 부분 동결 치료를 시행하고 18일째 종양을 채취했습니다.",
+      "results": "항-PD-1 단독 투여군은 대조군에 비해 CD3+, CD4+, CD8+ T 세포 침윤이 유의미하게 증가했습니다 (CD3+: 중앙값 22.4% vs 5.5% [P < .001]; CD4+: 중앙값 19.8% vs 5.1% [P < .001]; CD8+: 중앙값 8.2% vs 3.1% [P = .007]). 부분 동결 치료 단독은 CD206+ M2-like 대식세포(Macrophages) 증가를 유발했습니다 (중앙값 36.6% vs 14.7%; P = .03). 항-PD-1과 부분 동결 치료 병용 투여군은 부분 동결 치료 단독 투여군에 비해 CD3+ T 세포 침윤이 유의미하게 높았고 (중앙값 14.3% vs 4.5%; P = .048), 항-PD-1 단독 투여군에 비해 PD-1 발현이 유의미하게 낮았습니다 (중앙값 2.9% vs 7.3%; P = .004).",
+      "implication": "간세포암 치료에 있어 부분 동결 치료 전 항-PD-1 면역관문 억제제 병용 요법이 종양 미세 환경을 개선하여 치료 효과를 높일 수 있는 가능성을 제시합니다.",
+      "detailed_results": "각 치료군별 CD3+, CD4+, CD8+ T 세포, CD68+, CD206+ 대식세포, PD-1, PD-L1 발현 비율은 QuPath를 사용하여 분석되었습니다. 항-PD-1 단독 투여군에서 CD3+ T 세포 침윤 중앙값은 22.4%, CD4+ T 세포 침윤 중앙값은 19.8%, CD8+ T 세포 침윤 중앙값은 8.2%로 나타났습니다. 부분 동결 치료 단독 투여군에서 CD206+ 대식세포 침윤 중앙값은 36.6%로 나타났습니다. 항-PD-1과 부분 동결 치료 병용 투여군에서 CD3+ T 세포 침윤 중앙값은 14.3%로 나타났으며, PD-1 발현 중앙값은 2.9%로 나타났습니다.",
+      "critique": "본 연구는 동물 모델을 사용했기 때문에 임상 적용 시 주의가 필요합니다. 또한, 종양의 크기, 위치, 환자의 면역 상태 등 다양한 요인이 치료 결과에 영향을 미칠 수 있다는 점을 고려해야 합니다. 기존 연구와 비교했을 때, PD-1 억제제와 동결 치료의 병용 효과를 확인했다는 점에서 의미가 있습니다.",
+      "clinical_application": "간세포암 환자에게 부분 동결 치료를 시행하기 전에 PD-1 면역관문 억제제를 병용 투여하는 것이 치료 효과를 높일 수 있는 전략이 될 수 있습니다. 향후 임상 시험을 통해 효과와 안전성을 검증해야 합니다."
     }
   },
   {
@@ -1218,13 +1096,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "미국에서 실무 중인 간섭형 영상의학 전문의들의 긴급 대기 체제와 연계된 보상 메커니즘 조사",
-      "one_line": "미국에서 실무 중인 간섭형 영상의학 전문의들이 경험하는 긴급 대기 체제와 그에 따른 보상 메커니즘이 다양하게 이루어지고 있음을 조사한 연구",
-      "design": "후향적 설문조사",
-      "subjects": "미국에서 실무 중인 간섭형 영상의학 전문의 / N=799 (응답률: 23.8%)",
-      "intervention": "간섭형 영상의학 전문가들의 긴급 대기 체제와 연계된 보상 메커니즘 조사",
-      "results": "응답자의 67%는 긴급 대기를 위한 일정한 형태의 현금 또는 시간 대비 보상을 받고 있으며, 개인 병원에서 더 높은 확률로 보상이 이루어지고 있다. 또한 모든 실무 환경에서 긴급 대기 주기가 증가함에 따라 현금 보상 확률도 상승한다.",
-      "implication": "간섭형 영상의학 전문가들이 자신의 긴급 대기 책임을 수행하기 위해 사용하는 다양한 보상 모델을 이해하면, 개인과 실무 그룹이 자체 보상 계획을 설립하거나 수정할 때 큰 도움이 될 수 있다."
+      "title_ko": "미국 내 인터벤션 영상의학과 전문의의 당직 체계 및 보상 체계 조사",
+      "one_line": "본 연구는 미국 내 인터벤션 영상의학과 전문의의 당직 경험 및 보상 체계를 조사하여 다양한 모델을 파악하고, 개별 의사 및 진료 그룹의 보상 계획 수립에 도움이 되는 정보를 제공하고자 한다.",
+      "design": "후향적 조사 (Survey)",
+      "subjects": "미국 내 인터벤션 영상의학과 전문의 3,362명 중 799명 (응답률 23.8%), 설문 완료자 758명 (94.9%)",
+      "intervention": "인터벤션 영상의학과 전문의의 당직 체계 및 보상 체계 조사 (Survey of IR practices, call experiences, and call compensation mechanisms)",
+      "results": "응답자의 67%가 당직에 대한 금전적 또는 시간 교환 보상을 받는다고 보고했으며, 민간 영상의학과에서 보상이 더 흔하게 나타났다. 당직 빈도가 높을수록 금전적 보상 가능성이 증가했다. 다양한 당직 체계 및 보상 모델이 존재하며, 진료 환경에 따른 패턴이 일부 관찰되었으나, 뚜렷한 차이점보다는 유사성이 더 두드러졌다.",
+      "implication": "본 연구는 인터벤션 영상의학과 전문의들이 당직에 대한 보상 체계를 수립하거나 수정할 때 참고할 수 있는 다양한 모델을 제시하여, 개별 의사 및 진료 그룹의 보상 계획 수립에 도움이 될 수 있다."
     }
   },
   {
@@ -1251,19 +1129,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "소형 신장 종양 환자에서 적극적인 감시와 치료법의 암학적 및 신기능 예후 비교: 체계적 문헌 검토 및 메타분석",
-      "one_line": "소형 신장 종양(SRM) 환자의 적극적인 감시(AS)와 치료법(AT) 간의 암학적 및 신기능 예후를 비교한 연구.",
-      "design": "메타분석",
-      "subjects": "78개 연구 (9개 AS 관련, 68개 AT 관련, 1개 비교 연구)",
-      "intervention": "적극적인 감시(AS)와 치료법(AT), 특히 이미지 지도 방식의 AT",
-      "results": {
-        "OS": "AT 그룹이 AS 그룹보다 전체 생존율(OS)이 높음 (84.8% vs 74.0%)",
-        "CSS": "암 특이 생존율(CSS)은 두 그룹 간 유사함 (AS: 99.6%, AT: 93.5%)",
-        "metastasis_rate": "양 그룹 모두 전이 발생률 낮음 (AS: 0.6%, AT: 0.9%)",
-        "CKD": "AT 치료 환자에서 만성 신장 질환(CKD) 발생율 12.0%로 AS 그룹보다 높음, 그러나 AS 그룹의 데이터는 제한적임",
-        "eGFR": "치료 후 추정 갈락토신 분비율(eGFR) 두 그룹 모두 유사함"
-      },
-      "implication": "SRM 관리에서 AS와 AT 모두 안전하고 효과적이며, 암학적 예후가 좋고 치료 후 신기능이 비슷함. 특히 고령이나 합병증을 가진 환자에서는 AS를 선호할 수 있으며, 적극적인 치료가 필요한 경우 이미지 지도 방식의 AT가 최소 침습적 치료법으로 효과적임. 향후 전향적 비교 연구가 필요함."
+      "title_ko": "소신장 종양의 능동적 경과 관찰(Active Surveillance)과 병변 절제술(Ablative Therapy)의 종양학적 및 기능적 결과: 체계적 검토 및 메타분석",
+      "one_line": "소신장 종양 환자에서 능동적 경과 관찰과 병변 절제술은 모두 안전하고 효과적이며, 특히 병변 절제술은 전반 생존율(Overall Survival) 향상과 최소 침습적 치료 옵션을 제공할 수 있다.",
+      "design": "체계적 검토 및 메타분석(Systematic Review and Meta-Analysis)",
+      "subjects": "PubMed, Cochrane, Web of Science 데이터베이스 검색을 통해 78편의 연구 식별 (능동적 경과 관찰(AS) 9편, 병변 절제술(AT) 68편, 비교 연구 1편)",
+      "intervention": "능동적 경과 관찰(Active Surveillance, AS) vs. 병변 절제술(Ablative Therapy, AT)",
+      "results": "병변 절제술(AT)은 능동적 경과 관찰(AS)에 비해 전반 생존율(Overall Survival)이 더 높았다 (AT: 84.8% vs. AS: 74.0%). 암 특이 생존율(Cancer-Specific Survival)은 양 군 간에 유사했다 (AS: 99.6% vs. AT: 93.5%). 전이율(Metastasis rate)은 양 군 모두 낮았으며, 능동적 경과 관찰(AS)군 0.6%, 병변 절제술(AT)군 0.9%였다. 병변 절제술(AT)을 받은 환자의 12.0%에서 치료 후 만성 신장 질환(Chronic Kidney Disease, CKD)이 발생했으며, 능동적 경과 관찰(AS)군은 데이터가 제한적이었다. 치료 후 추정 사구체 여과율(Estimated Glomerular Filtration Rate, eGFR)은 양 전략 모두 유사했다.",
+      "implication": "능동적 경과 관찰(AS)은 고령 또는 기저 질환이 있는 환자에게 더 적합할 수 있으며, 병변 절제술(AT), 특히 영상 유도적 접근법은 적극적인 치료가 필요한 환자를 위한 최소 침습적 대안을 제공한다. 환자 선택을 명확히 하고 관리 전략을 최적화하기 위해 전향적 비교 연구가 필요하다."
     }
   },
   {
@@ -1304,13 +1176,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "경피적 간 및 신장 생검에서 부정적인 출혈 사건을 감지하는 알고리즘의 성능 평가",
-      "one_line": "경피적 간과 신장 생검에서 부정적인 출혈 사건을 검출하기 위한 알고리즘이 제공자 보고 시스템보다 우수한 성능을 나타냈습니다.",
-      "design": "후향적 연구",
-      "subjects": "3년 동안 단일 기관에서 수행된 총 4,821건의 간 생검과 1,320건의 신장 생검",
-      "intervention": "전자 의료기록 내 키워드와 이벤트를 사용하여 생검 관련 출혈 부정적 사건(AE)을 감지하는 알고리즘 개발 및 적용",
-      "results": "후향적 검토 결과, 간 생검 그룹에서 57건(1.16%)의 출혈 관련 AE가, 신장 생검 그룹에서는 104건(7.8%)이 확인되었습니다. 알고리즘은 간 생검 그룹에서 민감도 100%, 특이도 99.5%를 보였으며, 신장 생검 그룹에서는 각각 99%와 98.9%의 성능을 나타냈습니다. 반면에 제공자 보고 시스템은 간 생검에서 민감도 63.2%, 특이도 99.9%; 신장 생검에서 각각 29.8%, 100%를 기록했습니다.",
-      "implication": "경피적 간 및 신장 생검에서 부정적인 출혈 사건을 검출하기 위한 알고리즘은 제공자 보고 시스템보다 더 정확하고 효과적으로 AE를 식별할 수 있음을 입증하였습니다. 이는 임상 관리의 품질 개선과 환자의 안전성을 높이는 데 도움이 될 것입니다."
+      "title_ko": "경피적 간 및 신장 생검 시 출혈 관련 부작용 발생 감지 알고리즘의 성능 평가",
+      "one_line": "본 연구는 경피적 간 및 신장 생검 시 출혈 관련 부작용을 감지하는 알고리즘이 기존 보고 시스템보다 우수한 성능을 보임을 입증했습니다.",
+      "design": "후향적 코호트 연구 (Retrospective Cohort Study)",
+      "subjects": "간 생검(N=4,821), 신장 생검(N=1,320)",
+      "intervention": "알고리즘 기반 부작용 감지 시스템 vs. 의료진 보고 시스템 (Provider-Reported Quality Tracking, QT)",
+      "results": "후향적 검토 결과, 간 생검군에서 1.16%(57/4,821)의 출혈 관련 부작용이, 신장 생검군에서 7.8%(104/1,320)의 출혈 관련 부작용이 확인되었습니다. 알고리즘은 간 생검군에서 민감도(Sensitivity) 100%, 특이도(Specificity) 99.5%, 신장 생검군에서 민감도 99%, 특이도 98.9%를 보였습니다. 반면, 기존 보고 시스템은 간 생검군에서 민감도 63.2%, 특이도 99.9%, 신장 생검군에서 민감도 29.8%, 특이도 100%를 보였습니다. 알고리즘은 간 및 신장 생검 모두에서 기존 보고 시스템보다 유의하게 우수한 성능을 보였습니다 (P < .001).",
+      "implication": "절차별(Procedure-Specific) 부작용 감지 알고리즘은 경피적 간 및 신장 생검 시 출혈 관련 부작용을 식별하는 데 기존 보고 시스템보다 효과적이며, 환자 안전성 향상에 기여할 수 있습니다."
     }
   },
   {
@@ -1337,13 +1209,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "간암 전이 마우스 모델에서 간동맥 색전술(HAE) 모델 개발을 위한 임상 전기 연구",
-      "one_line": "간암 전이를 유도한 BALB/c 마우스에서 간동맥 색전술(HAE) 모델을 개발하고 그 효과를 평가하였다.",
-      "design": "증례 연구",
-      "subjects": "마우스 / N=11 (HAE 그룹: 6마리, 대조군: 5마리)",
-      "intervention": "간동맥 색전술(HAE): 콜론암 세포를 주입한 후 간 전이가 확인된 마우스에서 림노 gastrica 동맥을 역류로 관통하여 미세 입자 주사를 실시.",
-      "results": "기술적 성공률은 100%였으나, HAE 그룹의 생존율은 2일차에 67%(4/6)였다. HAE 그룹에서 바이OLUM 이미징을 통해 루시페라제 활성도가 대조군보다 유의하게 감소하였으며(P < .001), 조직학적 분석에서도 더 큰 염증 영역이 관찰되었다(interquartile range, 6.0%-34.9% vs 0.0%-0.5%; P < .05).",
-      "implication": "간암 전이를 유도한 마우스에서 간동맥 색전술(HAE) 모델을 개발함으로써, 실험 동물 모델을 이용한 치료법 연구에 중요한 플랫폼을 제공할 수 있다."
+      "title_ko": "IR(Interventional Radiology, 중재 영상의학) 분야의 번역 연구를 위한 간동맥화학색전술(HAE) 마우스 모델 개발",
+      "one_line": "본 연구는 간암 전이 마우스 모델에 간동맥화학색전술(HAE)을 적용하여, 중재 영상의학 분야의 번역 연구를 위한 플랫폼을 제공하는 것을 목표로 합니다.",
+      "design": "증례 연구 (Proof-of-concept study)",
+      "subjects": "BALB/c 마우스, 실험군 6마리, 대조군 5마리",
+      "intervention": "간동맥화학색전술(HAE): 34 게이지 바늘을 사용하여 췌장-위동맥(lienogastric artery)을 역행적으로 천자하여 수행. 미세구(microbead) 주입.",
+      "results": "기술적 성공률은 100%였으나, 2일 생존율은 실험군에서 67% (4/6)였습니다. 시술 다음 날 생체 발광 이미징(bioluminescent imaging) 결과, 실험군에서 루시페라아제 활성(luciferase activity)이 유의하게 감소했습니다 (P < .001), 대조군에서는 감소가 관찰되지 않았습니다 (P = .0367). 조직학적 분석 결과, 실험군에서 괴사 면적(necrotic areas)이 대조군보다 컸습니다 (사분위 범위, interquartile range, 6.0%-34.9% vs 0.0%-0.5%; P < .05).",
+      "implication": "본 모델은 중재 영상의학 분야의 번역 연구를 위한 가치 있는 플랫폼이 될 수 있습니다."
     }
   },
   {
@@ -1366,16 +1238,16 @@
     "is_interest": true,
     "interest_category": "hepatobiliary",
     "summary": {
-      "title_ko": "리신 마이크로스피어를 사용한 고용량 방사능 샤먼테이션에서 폐 쇼트가 제한하는 국소 간세포암의 완전 반응 예측을 위한 가상 종양 흡수 선량",
-      "one_line": "고용량 리신 마이크로스피어를 사용한 방사능 샤먼테이션에서, 폐 쇼트가 제한하는 국소 간세포암의 완전 반응 예측을 위한 가상 종양 흡수 선량(vTAD)의 임계치를 확인하였다.",
-      "design": "후향적 연구",
-      "subjects": "국소 간세포암(HCC) 환자 160명",
-      "intervention": "리신 기반 yttrium-90 (90Y) 전경맥 방사능 샤먼테이션(TARE)",
-      "results": "평균 종양 크기는 8.6cm, 단일 결절 종양 환자는 전체의 42.5%를 차지하였다. 평균 흡수 선량(mAD), 사전 TAD, 후 TAD, 가상 TAD(vTAD)는 각각 178 Gy (IQR: 124-228 Gy), 375 Gy (IQR: 219-514 Gy), 427 Gy (IQR: 283-605 Gy), 그리고 728 Gy (IQR: 417-1,105 Gy)였다. 완전 반응(CR)은 환자의 37.5%에서 관찰되었다.",
-      "implication": "vTAD ≥600 Gy는 리신 기반 TARE에서 CR을 예측하는 실용적이고 신뢰할 수 있는 임계치로 제시된다.",
-      "detailed_results": "다중 변수 분석에서는 vTAD >597 Gy가 독립적인 완전 반응(CR) 예측 인자로 확인되었다 (P = .004).",
-      "critique": "이 연구는 후향적이고, 따라서 잠재적으로 선택 편향을 포함할 수 있다. 또한, vTAD 계산은 실제 TARE와 비교하여 더 간단하고 정확하며, 등가성 검증이 필요하다.",
-      "clinical_application": "vTAD는 실제 TARE에서 CR 예측에 유용한 도구로 사용될 수 있으며, 임상 실무와 치료 계획에도 적용 가능하다."
+      "title_ko": "고용량 방사성 미세구체 방사선색전술(Radioembolization)에서 폐 관류(Lung Shunt) 제한 하의 국소 간세포암(Hepatocellular Carcinoma) 환자의 완전 반응(Complete Response) 예측을 위한 종양 흡수선량(Tumor Absorbed Dose): 가상 종양 흡수선량(Virtual Tumor Absorbed Dose)의 예측력",
+      "one_line": "국소 간세포암 환자의 방사성 미세구체 방사선색전술에서 가상 종양 흡수선량(vTAD) > 597 Gy가 완전 반응 예측 변수로 확인되었다.",
+      "design": "후향적 단일 센터 연구",
+      "subjects": "간세포암 환자 160명 (N=160)",
+      "intervention": "레진 기반 이트륨-90(Yttrium-90, 90Y) 방사선색전술(TARE)",
+      "results": "완전 반응(CR)은 환자의 37.5% (60명)에서 관찰되었으며, 다변량 분석 결과 가상 종양 흡수선량(vTAD) > 597 Gy가 완전 반응의 독립적인 예측 변수로 확인되었다 (P = .004). 평균 종양 크기는 8.6 cm (중앙값 7.9 cm, 사분위수 범위 [IQR] 5.6-10.2 cm)였으며, 단일 결절 종양 환자는 42.5% (68명)였다. 평균 흡수선량(mAD), 치료 전 종양 흡수선량(pre-TAD), 치료 후 종양 흡수선량(post-TAD), 가상 종양 흡수선량(vTAD)은 각각 178 Gy (IQR, 124-228 Gy), 375 Gy (IQR, 219-514 Gy), 427 Gy (IQR, 283-605 Gy), 728 Gy (IQR, 417-1,105 Gy)였다.",
+      "implication": "가상 종양 흡수선량(vTAD) ≥ 600 Gy는 레진 기반 방사선색전술에서 완전 반응을 예측하는 실용적이고 신뢰할 수 있는 기준이 될 수 있다.",
+      "detailed_results": "연구 결과는 가상 종양 흡수선량(vTAD)이 등록 오류(registration artifacts)에 영향을 받지 않고 쉽게 계산할 수 있다는 장점을 가지고 있으며, 임상 실무 및 치료 계획 수립에 유용한 방사선량 측정 도구로 활용될 수 있음을 시사한다.  추적 기간, 합병증, 서브그룹 분석에 대한 정보는 제공되지 않았다.",
+      "critique": "본 연구는 후향적 단일 센터 연구라는 한계점을 가지고 있으며, 따라서 연구 결과를 일반화하는 데 주의가 필요하다. 또한, 폐 관류(lung shunt)에 대한 제한이 방사선색전술의 효과에 미치는 영향에 대한 추가적인 연구가 필요하다. 기존 연구와 비교했을 때, 가상 종양 흡수선량(vTAD)을 완전 반응 예측 변수로 활용한 연구는 비교적 새로운 시도이며, 향후 더 많은 연구를 통해 검증될 필요가 있다.",
+      "clinical_application": "방사선색전술 치료 계획 시 가상 종양 흡수선량(vTAD)을 활용하여 치료 효과를 예측하고, 환자 맞춤형 치료 전략을 수립하는 데 도움을 줄 수 있다. vTAD ≥ 600 Gy를 기준으로 완전 반응 예측 가능성을 판단하여 치료 계획을 조정할 수 있다."
     }
   },
   {
@@ -1400,27 +1272,16 @@
     "is_interest": true,
     "interest_category": "hepatobiliary",
     "summary": {
-      "title_ko": "TACE 후 급성 및 지연 통증 조절을 위한 예방적 옥시코돈과 수펜탄릴 효과 비교: 염증 생물마커 분석 포함 무작위 대조 임상시험",
-      "one_line": "TACE 후 급성 및 지연 통증 조절에서 예방적 옥시코돈이 수펜탄릴보다 더 효과적이며 안전성이 유사하다.",
-      "design": "무작위 배정, 전향적, 이중맹검",
-      "subjects": "간동맥화학색전술(TACE)을 계획한 환자 40명",
-      "intervention": "TACE 15분 전에 정맥주사로 옥시코돈(0.1 mg/kg) 또는 수펜탄릴(0.1 μg/kg) 투여",
-      "results": {
-        "급성기 통증 관리": "옥시코돈 그룹에서 TACE 중 및 TACE 후 1-6시간 동안 통증 등급이 더 낮았다 (P < .05).",
-        "지연 기간 통증 관리": "TACE 후 2일부터 7일까지의 지연 기간 동안 옥시코돈 그룹에서 통증 등급이 더 낮았으며, 중등도 이상 통증 발생률이 더 낮았다 (P < .05).",
-        "염증 생물마커": "지연 기간 통증을 경험한 환자에서 IL-6 상승률이 더 높았다 (P = .030)."
-      },
-      "implication": "TACE 후 급성 및 지연 통증 관리에 있어 예방적 옥시코돈 투여가 수펜탄릴보다 효과적이며 안전성이 유사하다. IL-6 상승률과 지연 기간 통증 간의 연관성을 통해 염증 관련 통증 요인을 확인할 수 있다.",
-      "detailed_results": {
-        "급성기 통증 관리": "TACE 중 VAS 점수 (중앙값, IQR): 옥시코돈 그룹은 0 [0-1.0] vs 수펜탄릴 그룹은 3.5 [1.3-4.8], P < .001.",
-        "지연 기간 통증 관리": "TACE 후 2일부터 7일까지 VAS 점수 (중앙값, IQR): 옥시코돈 그룹은 0 [0-0] vs 수펜탄릴 그룹은 0 [0-3.8], P = .042.",
-        "중등도 이상 통증 발생률": "옥시코돈 그룹은 5% vs 수펜탄릴 그룹은 50%, P = .003."
-      },
-      "critique": {
-        "제한점": "연구 대상이 제한적이고, 장기 추적 데이터가 부족하다.",
-        "비교 연구": "기존 연구와의 비교에서 통증 관리 효과는 유사하나, 옥시코돈 그룹에서 지연 기간 통증 발생률이 더 낮았다."
-      },
-      "clinical_application": "TACE 후 급성 및 지연 통증을 효과적으로 관리하기 위해 예방적 옥시코돈 투여가 고려될 수 있으며, 염증 관련 통증 요인에 대한 추가 연구가 필요하다."
+      "title_ko": "경동맥 화학색전술(TACE) 후 급성 및 지연성 통증 조절을 위한 사전 투여 오피오이드(옥시코돈) vs 수펜타닐 비교 무작위 배정 임상 연구: 염증 바이오마커 분석을 포함",
+      "one_line": "경동맥 화학색전술(TACE) 환자에서 사전 투여 옥시코돈이 수펜타닐보다 급성 및 지연성 통증 조절에 더 효과적이며 안전성이 유사하다.",
+      "design": "전향적, 이중 맹검 무작위 배정 임상 연구 (RCT)",
+      "subjects": "TACE 예정 환자 40명",
+      "intervention": "옥시코돈(0.1 mg/kg) 또는 수펜타닐(0.1 μg/kg) 정맥 주사, TACE 15분 전 사전 투여",
+      "results": "옥시코돈군은 급성기 시술 중 통증 VAS 점수(median, 0 [IQR, 0-1.0] vs 3.5 [IQR, 1.3-4.8]; P < .001)가 낮았고, 중등도 이상의 통증 발생률(5% vs 50%; P = .003)이 감소했다. 1-6시간 후에도 통증 VAS 점수가 낮았으며 (median, 0 [IQR, 0-1.0] vs 2 [IQR, 0-3.0]; P = .042), 지연기 통증 점수(median, 0 [IQR, 0-0] vs 0 [IQR, 0-3.8]; P = .042) 및 중등도 통증 발생률(0% vs 25%; P = .047)이 감소했다.",
+      "implication": "TACE 후 통증 관리를 위한 사전 투여 옥시코돈의 효과를 입증하여 환자 편안함 증진 및 잠재적으로 시술 성공률 향상에 기여할 수 있다.",
+      "detailed_results": "옥시코돈군은 수펜타닐군에 비해 급성기 VAS 점수가 유의미하게 낮았으며, 1-6시간 후에도 효과가 지속되었다. 지연기 통증 발생 환자군에서 IL-6 증가율이 더 높았다 (671.16% vs 135.97% increase; P = .030). 부작용 발생률은 두 군 간에 차이가 없었다.",
+      "critique": "연구의 제한점으로는 40명의 소규모 환자군으로 인해 결과의 일반화 가능성이 제한될 수 있다는 점이 있다. 또한, IL-6의 변화와 지연성 통증의 연관성에 대한 추가적인 연구가 필요하다. 기존 연구에서 TACE 후 통증 관리에 다양한 약물이 사용되었으나, 사전 투여 약물의 효과에 대한 직접적인 비교 연구는 부족했다.",
+      "clinical_application": "TACE 시술 전 옥시코돈 사전 투여를 고려하여 환자의 급성 및 지연성 통증을 효과적으로 조절하고, 잠재적으로 염증성 통증을 완화하는 데 도움이 될 수 있다. 향후 IL-6와 같은 염증 바이오마커를 표적으로 하는 항염증제와 오피오이드 병용 요법의 효과를 평가하는 연구가 필요하다."
     }
   },
   {
@@ -1451,16 +1312,16 @@
     "is_interest": true,
     "interest_category": "hepatobiliary",
     "summary": {
-      "title_ko": "분획 투여 후 Holmium 미크로스피어를 이용한 간동맥 방사능색전술(TARE)에서 발생하는 복부 자기공명 영상 기반의 간 종양 및 비종양 목표 간 조직 내 부하 불균형",
-      "one_line": "분획 투여 후 TARE를 수행한 인간 종양을 가진 간 해부 모델에서 MR 영상 기반 복부 방사선 분석을 통해 간 종양과 비종양 목표 간 조직 내 부하 불균형을 조사하고 이를 임상 데이터와 비교하여 미세 수준의 부하 불균형이 치료 결과에 미치는 잠재적 영향을 평가합니다.",
-      "design": "실험 연구",
-      "subjects": "인간 종양을 가진 간 해부 모델 4개, TARE 치료를 받은 환자 2명",
-      "intervention": "분획 투여 후 Transarterial Radioembolization (TARE) 수행",
-      "results": "MR 영상 기반 복부 방사선 분석을 통해 간 종양 내 부하 불균형이 비종양 목표 간 조직보다 낮은 것으로 나타났으나 통계적으로 유의미한 차이는 없음 (P = .06). 미크로스피어 농도가 높아질수록 부하 불균형은 감소함 (ρ = -0.88, P < .001).",
-      "implication": "TARE 치료는 간 종양 및 비종양 목표 간 조직 내 미세 수준의 부하 불균형을 유발하며, 이는 핵 영상 해상도를 초과하는 크기에서 관찰됩니다.",
-      "detailed_results": "분획 투여 후 TARE 치료로 인해 HI가 감소하였으며, 이전 분획의 공간적 분포 패턴을 대부분 유지하였습니다. 미크로스피어 농도가 높아질수록 부하 불균형은 감소하는 경향이 있었습니다.",
-      "critique": "연구는 인간 종양을 가진 간 해부 모델을 사용하였으므로 실제 임상 환자와의 차이를 고려해야 합니다. 또한, 미세 수준의 부하 불균형이 치료 결과에 미치는 잠재적 영향은 아직 명확히 밝혀지지 않았습니다.",
-      "clinical_application": "TARE 치료에서 발생하는 복부 방사선 분석을 통해 간 종양 및 비종양 목표 간 조직 내 부하 불균형에 대한 이해를 높일 수 있으며, 이는 향후 TARE 치료 계획 개발과 최적화에 도움이 될 것입니다."
+      "title_ko": "간동맥방사성색전술(TARE) 후 분획 투여 시 호올뮴 마이크로구체의 복용량 불균일성: MR 영상 기반 인간 종양 보유 간 실체 관류 모델 연구",
+      "one_line": "본 연구는 간동맥방사성색전술(TARE) 후 분획 투여 시 간 종양과 비종양 간 조직에서 발생하는 복용량 불균일성을 MR 영상 기반의 인간 간 실체 관류 모델을 통해 평가하고, 실제 환자 데이터와 비교 검증하였다.",
+      "design": "증례 연구 (Ex vivo perfusion model)",
+      "subjects": "4개의 인간 종양 보유 간 실체 (human tumor-bearing liver explants), 2명의 TARE 치료 환자 (HI 값 검증)",
+      "intervention": "간동맥방사성색전술(TARE) - 형광 호올뮴 마이크로구체(fluorescent holmium microspheres) 분획 투여, MR 영상 하에서 시행",
+      "results": "MR 영상 기반 복용량 지도(dose maps)에서 간 종양의 균일성 지수(HI, homogeneity index)는 평균 2.41 (범위, 0.72-4.43)으로 비종양 간 조직(NTTL)의 평균 2.95 (범위, 1.58-5.94)보다 낮았으나, 통계적으로 유의미한 차이는 아니었다 (P = .06). 종양 내 마이크로구체 농도가 높을수록 불균일성이 감소하는 경향을 보였다 (ρ = -0.88, P < .001). 연속적인 분획으로 투여된 마이크로구체는 HI를 감소시키면서 이전 분획의 공간적 분포 패턴을 유지했다.",
+      "implication": "간동맥방사성색전술(TARE)은 핵의학적 영상 해상도 이하의 미세 규모에서 간 종양과 비종양 간 조직 모두에서 복용량 불균일성을 유발한다. 이러한 불균일성이 치료 결과에 미치는 영향은 불확실하며, 추가적인 연구가 필요하다.",
+      "detailed_results": "간 종양의 평균 HI는 2.41 (0.72-4.43), 비종양 간 조직의 평균 HI는 2.95 (1.58-5.94).  마이크로구체 투여 분획이 증가함에 따라 HI가 감소하는 경향을 보였다. 형광 현미경 검사 결과, 연속 분획 투여 시 이전 분획의 공간적 분포 패턴이 유지되었다.",
+      "critique": "본 연구는 인간 간 실체(human liver explant)를 사용한 실험적 모델을 기반으로 하므로, 실제 환자에서의 결과를 완전히 반영하지 못할 수 있다는 한계가 있다. 또한, 복용량 불균일성의 임상적 의미와 치료 결과에 미치는 영향에 대한 추가적인 연구가 필요하다. 기존 연구에서 TARE 후 복용량 불균일성에 대한 제한적인 정보가 있었으며, 본 연구는 MR 영상 기반의 정량적 평가를 통해 불균일성의 존재를 확인하고, 분획 투여가 불균일성에 미치는 영향을 분석했다는 점에서 기여한다.",
+      "clinical_application": "간동맥방사성색전술(TARE) 치료 계획 수립 시, 환자별 종양의 특성과 마이크로구체 분포 패턴을 고려하여 복용량 불균일성을 최소화하는 방안을 모색해야 한다.  향후, 복용량 불균일성이 치료 효과 및 부작용에 미치는 영향을 평가하기 위한 임상 연구가 필요하다."
     }
   },
   {
@@ -1499,13 +1360,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "중간 경막동맥 색전술을 이용한 암 환자의 하부두정막하 혈종 치료: 안전성과 효과",
-      "one_line": "암 환자에서 중간 경막동맥 색전술이 하부두정막하 혈종의 치료에 있어 안전하고 효과적임을 평가한 연구",
-      "design": "후향적 연구",
-      "subjects": "2022년부터 2025년까지 중간 경막동맥 색전술(MMAE)을 받은 암 환자 30명 (이중 12명은 양측 혈종)",
-      "intervention": "코일만 사용한 중간 경막동맥 색전술(coil-only middle meningeal artery embolization, MMAE)",
-      "results": "색전술 전 평균 하부두정막하 혈종의 두께는 12mm (IQR: 9mm)에서, 색전술 후 최종 영상에서는 3.6mm (IQR: 8.8mm)로 감소(p < .001). 56%의 환자에서 혈종 크기가 50% 이상 줄어들었으며, 37%의 환자는 완전한 영상학적 치료 효과를 보였다. 색전술 후 수술적 치료가 필요한 경우는 1명 (3%)이었다. 전체 생존율은 59%에서 암 진행으로 인해 사망하였으며, 초기 추적 검사에서 혈종 두께 감소를 보인 환자들의 중간 생존 기간은 148일로, 그렇지 않은 경우는 29일로 길게 나타났다 (log-rank P = .0002).",
-      "implication": "암 환자의 하부두정막하 혈종 치료에 있어 코일만을 사용한 중간 경막동맥 색전술은 안전하고 효과적인 치료 옵션이 될 수 있으며, 혈종 크기의 감소는 이 고위험 집단에서 생존 기간 연장과 관련이 있는 것으로 나타났다."
+      "title_ko": "암 환자의 피하혈종(Subdural Hematoma)에 대한 중대정맥(Middle Meningeal Artery) 코일 색전술(Coil Embolization)의 안전성과 효과성 평가",
+      "one_line": "암 환자의 피하혈종에 대한 코일 색전술은 안전하고 효과적인 치료 옵션이며, 혈종 두께 감소는 생존 기간 연장과 관련이 있다.",
+      "design": "후향적 단일 센터 분석 (Retrospective Single-Center Analysis)",
+      "subjects": "암 환자, 피하혈종 환자 30명 (N=30), 양측 피하혈종 환자 12명 포함",
+      "intervention": "중대정맥 코일 색전술(MMAE) (Coil-only Middle Meningeal Artery Embolization)",
+      "results": "혈종 두께는 색전술 전 12mm (interquartile range [IQR], 9 mm)에서 최종 영상에서 3.6 mm (IQR, 8.8 mm)로 감소함 (Wilcoxon signed-rank z = 4.59, P < .001). 56%의 피하혈종에서 ≥50% 감소가 관찰되었고, 37%에서 완전한 방사선학적 소멸이 관찰됨. 색전술 후 1명의 환자(3%)가 수술적 배액이 필요했으며, 17명의 환자(59%)는 암 진행으로 사망함. 초기 추적 영상에서 혈종 두께 감소가 있는 환자의 중앙 생존 기간은 148일로, 혈종 두께 감소가 없는 환자의 29일보다 유의미하게 길었음 (log-rank P = .0002).",
+      "implication": "암 환자의 피하혈종 치료에 코일 색전술이 안전하고 효과적인 대안이 될 수 있으며, 혈종 두께 감소는 예후 개선과 관련이 있을 수 있다. 따라서 고위험군 환자에게 코일 색전술을 고려할 수 있는 근거를 제공한다."
     }
   },
   {
@@ -1525,13 +1386,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "터키 대형 삼차 진료 센터에서 시행된 간섭 방사선학과 심장혈관내과학 의사와 직원들의 피로감, 스트레스 및 직무 만족도 비교 연구",
-      "one_line": "터키의 대규모 삼차 진료 센터에서 간섭 방사선학과 심장혈관내과학 팀 사이의 피로감, 스트레스 및 직무 만족도 차이를 평가한 횡단면 연구",
-      "design": "횡단면 연구 (cross-sectional study)",
-      "subjects": "터키 최대 규모의 삼차 진료 센터에서 근무하는 간섭 방사선학과 심장혈관내과학 의사, 간호사 및 기술자",
-      "intervention": "Maslach 피로감 인벤토리, Perceived Stress Scale-14, Minnesota 만족도 설문지 사용",
-      "results": "간섭 방사선학과 의사들은 심장혈관내과학 의사들보다 감정적 피로와 타인에 대한 소진화 수준이 더 높았다 (각각 P = .025, P < .001). 직원 집단에서는 심장혈관내과학 인력의 피로감 수준이 간섭 방사선학 인력보다 높았으며 감정적 피로와 타인에 대한 소진화에서 더 높은 점수를 받았다 (각각 P = .002, P = .010). 또한 심장혈관내과학 직원들은 모든 하위척도에서 직무 만족도가 더 낮게 나타났다 (모두 P < .001). 구조 방정식 모델링을 통해 스트레스는 직무 만족도에 직접적으로 부정적인 영향을 미치며, 이는 감정적 피로를 통한 간접 효과를 포함하였다. 이 모델은 직무 만족도의 변동성 34.4%를 설명하였다.",
-      "implication": "간섭 방사선학과 심장혈관내과학 팀 사이에서 피로감, 스트레스 및 직무 만족도 수준이 차이가 있다는 것을 발견하였으며, 이는 각 그룹의 특수한 요구에 맞춘 기관 전략을 개발할 필요성을 강조한다."
+      "title_ko": "터키 고용량 3차 의료기관에서 인터벤션 영상의학과(IR)와 인터벤션 심장혈관중재술(IC) 종사자의 소진, 지각된 스트레스, 직무 만족도 비교 연구",
+      "one_line": "본 연구는 인터벤션 영상의학과(IR) 의사들은 인터벤션 심장혈관중재술(IC) 의사보다 소진 정도가 높았으며, 인터벤션 심장혈관중재술(IC) 종사자들은 직무 만족도가 더 낮다는 것을 확인했습니다.",
+      "design": "횡단적, 설문 조사 기반 연구 (Cross-sectional, questionnaire-based study)",
+      "subjects": "터키 최대 규모의 고용량 3차 의료기관의 의사, 간호사, 기술자 (N 미상)",
+      "intervention": "Maslach 소진 측정 도구(Maslach Burnout Inventory), 지각된 스트레스 척도-14(Perceived Stress Scale-14), 미네소타 직무 만족도 척도(Minnesota Satisfaction Questionnaire)를 이용한 설문 조사",
+      "results": "• 인터벤션 영상의학과(IR) 의사는 인터벤션 심장혈관중재술(IC) 의사보다 정서적 소진(emotional exhaustion) (중앙값, 26.0 vs 20.0; P = .025) 및 비인간화(depersonalization) (17.0 vs 8.0, P < .001) 점수가 유의미하게 높았습니다.\n• 인터벤션 심장혈관중재술(IC) 종사자는 인터벤션 영상의학과(IR) 종사자보다 소진 정도가 더 높았으며, 정서적 소진(20.5 vs 15.0, P = .002) 및 비인간화(9.5 vs 5.0, P = .010) 점수가 높았습니다.\n• 인터벤션 심장혈관중재술(IC) 종사자는 모든 하위 척도에서 직무 만족도가 유의미하게 낮았습니다 (all P < .001).\n• 구조 방정식 모델링(SEM) 결과, 지각된 스트레스는 직무 만족도에 직접적으로 부정적인 영향을 미쳤습니다 (β = -0.903, P < .001) 및 정서적 소진을 통해 간접적으로 영향을 미쳤습니다. 모델은 직무 만족도의 분산의 34.4%를 설명했습니다.",
+      "implication": "인터벤션 영상의학과(IR)와 인터벤션 심장혈관중재술(IC) 팀의 특수한 요구사항에 맞는 맞춤형 기관 전략이 필요합니다. 인터벤션 심장혈관중재술(IC) 종사자의 직무 만족도 향상 및 소진 감소를 위한 노력이 필요합니다."
     }
   },
   {
@@ -1560,13 +1421,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "반복 불응성 소아 신동맥 협착에 대한 절단풍선 안지오텐술: 단일 기관 경험",
-      "one_line": "절단풍선 안지오텐술(CBA)은 반복 불응성 소아 신동맥 협착(RAS)의 치료 옵션으로 임상적 이점을 보여주지만, 주의 깊은 환자 선별이 필요하다.",
-      "design": "증례 연구",
-      "subjects": "21세 미만의 르네오혈압을 가진 환자 30명 (남성 70%, 중앙값 연령: 7.5세 [사분위수, 5.7-12.5 세])",
-      "intervention": "절단풍선 안지오텐술(Cutting Balloon Angioplasty, CBA)",
-      "results": "총 37개의 협착이 대상으로, 기술적 성공률은 89% (33/37), 협착 개선율은 94% (31/33)로 나타났다. 부작용 발생률은 16% (6/37)였으며, 중등도 부작용이 2건, 심각한 부작용이 2건 발생하였다. 평균 추적 관찰 기간 동안 임상적 이점을 보인 환자는 83% (25/30)였다.",
-      "implication": "절단풍선 안지오텐술은 반복 불응성 신동맥 협착의 치료 옵션으로 기술적으로 가능하며 임상적 이점을 보여주지만, 발생한 부작용을 고려할 때 주의 깊은 환자 선별이 필요하다."
+      "title_ko": "저항성 소아 신동맥 협착증에 대한 절개 풍선 확장술의 효과: 단일 기관 경험",
+      "one_line": "본 연구는 기존 풍선 확장술로 조절되지 않는 저항성 소아 신동맥 협착증 환자에서 절개 풍선 확장술(Cutting Balloon Angioplasty, CBA)을 시행한 결과, 혈압 조절 및 신장 성장에 긍정적인 효과를 보였으나, 합병증 발생 가능성을 고려해야 함을 시사합니다.",
+      "design": "후향적 증례 연구 (Retrospective Case Study)",
+      "subjects": "만 21세 미만 신혈관 고혈압 환자, N=30명 (남성 70%, 중간 연령 7.5세 [IQR, 5.7-12.5세])",
+      "intervention": "절개 풍선 확장술(CBA) (기존 풍선 확장술 실패 후 시행)",
+      "results": "총 37개의 협착 부위가 치료되었으며, 6곳은 이전에 풍선 확장술을 시행한 적이 있음. 기술적 성공률(협착 부위 통과)은 89% (33/37)였으며, 풍선 확장술 개선율(협착 감소 >30%)은 94% (31/33)로 나타남. 중간 추적 관찰 기간은 59개월 (IQR, 37-95개월)이었으며, 임상적 이득률은 83% (25/30)로 확인됨. 합병증 발생률은 16% (6/37)였으며, 중등도(세분동맥 및 아세분동맥 혈전) 2건, 중증(가성 동맥류 및 동맥 천공) 2건이 발생함.",
+      "implication": "절개 풍선 확장술(CBA)은 저항성 신동맥 협착증(Renal Artery Stenosis, RAS) 치료에 유망한 대안이 될 수 있으며, 임상적 이점을 제공하지만, 환자 선택 시 합병증 발생 가능성을 신중하게 고려해야 한다."
     }
   },
   {
@@ -1586,16 +1447,16 @@
     "is_interest": true,
     "interest_category": "nonvascular",
     "summary": {
-      "title_ko": "대체 고정 방법을 사용한 회수 가능한 완전히 덮인 자가 확장형 금속 담관 스텐트의 임상적 적용과 결과",
-      "one_line": "회수 가능한 완전히 덮인 자가 확장형 금속 담관 스텐트와 대체 고정 방법을 사용한 임상적 관리 효과를 평가하고, 기술적 성공률 및 임상적 성공률, 합병증 발생률 및 장기 통로 유지율 등을 분석하였다.",
-      "design": "후향적 연구",
-      "subjects": "2020년 3월부터 2025년 2월까지 단일 의료기관에서 회수 가능한 완전히 덮인 자가 확장형 금속 담관 스텐트를 페르쿠탄식으로 삽입한 환자 87명",
-      "intervention": "회수 가능한 완전히 덮인 자가 확장형 금속 담관 스텐트와 대체 고정 방법을 사용한 페르쿠탄식 삽입술",
-      "results": "기술적 성공률은 98%로 나타났으며, 임상적 성공률은 각각 동부루크성 협착(6개월 추적 기간)에서 97%, 담즙 누출에서 91%, 담관 결석에서 94%였다. 평균 스텐트 내주 시간은 각각 동부루크성 협착에서 3.0 ± 0.8개월, 담즙 누출에서 1.9 ± 0.7개월, 담관 결석에서 0.7 ± 0.3개월이었다.",
-      "implication": "회수 가능한 완전히 덮인 자가 확장형 금속 담관 스텐트와 대체 고정 방법을 사용한 페르쿠탄식 삽입술은 양호한 장기 통로 유지율과 낮은 스텐트 이동률을 보이는 안전하고 효과적인 접근법으로, 양호한 임상적 결과를 나타냈다.",
-      "detailed_results": "기술적 성공률은 98%였으며, 동부루크성 협착에서 6개월 추적 기간 후 임상적 성공률이 97%, 담즙 누출에서 91%, 담관 결석에서 94%로 나타났다. 평균 스텐트 내주 시간은 동부루크성 협착에서 3.0 ± 0.8개월, 담즙 누출에서 1.9 ± 0.7개월, 담관 결석에서 0.7 ± 0.3개월이었다. 동부루크성 협착의 평균 재발 없는 기간은 41.7개월로 추정되었으며, 36개월 통로 유지율은 67%였다. 스텐트 이동은 3.4%(87명 중 3명)에서 발생하였고, 회수 스트링 파손이 1건, 담관염이 3건으로 기록되었다.",
-      "critique": "단일 의료기관에서 수행된 후향적 연구로 인해 일반화가 제한적일 수 있으며, 추가적인 대규모 전향적 임상 시험의 필요성이 있다. 또한, 다른 고정 방법과 비교할 때 이 접근법이 모든 환자에게 적합하지 않을 수도 있다는 점을 고려해야 한다.",
-      "clinical_application": "회수 가능한 완전히 덮인 자가 확장형 금속 담관 스텐트와 대체 고정 방법은 양호한 장기 통로 유지율과 낮은 합병증 발생률을 보이는 안전하고 효과적인 접근법으로, 동부루크성 협착, 담즙 누출 및 담관 결석의 관리에 유용하게 적용될 수 있다."
+      "title_ko": "양성 담도 협착, 누출, 결석에 대한 회수 가능한 완전 커버형 자가 팽창성 금속 담도 스텐트의 임상적 적용: 대체 회수 문자열 고정 기술",
+      "one_line": "본 연구는 대체 회수 문자열 고정 기술을 이용한 회수 가능한 완전 커버형 자가 팽창성 금속 담도 스텐트(retrievable fully covered self-expandable metallic biliary stent)를 사용하여 양성 담도 질환을 관리하는 데 있어 안전성과 효과성을 평가하였다.",
+      "design": "후향적 단일 센터 연구 (Retrospective, Single-Center Study)",
+      "subjects": "87명 (anastomotic stricture: 30명, bile leak: 41명, biliary stones: 16명)",
+      "intervention": "회수 가능한 완전 커버형 자가 팽창성 금속 담도 스텐트(retrievable fully covered self-expandable metallic biliary stent)를 대체 회수 문자열 고정 기술(alternative retrieval string fixation technique)을 사용하여 경피적으로 삽입",
+      "results": "기술적 성공률 98%, 임상적 성공률은 anastomotic stricture (6개월 추적) 97%, bile leak 91%, biliary stones 94%.",
+      "implication": "대체 회수 문자열 고정 기술을 이용한 회수 가능한 완전 커버형 자가 팽창성 금속 담도 스텐트 삽입은 양성 담도 질환 관리에 안전하고 효과적인 방법으로 보이며, 특히 anastomotic stricture 환자에서 장기적인 관해 기간을 제공할 수 있다.",
+      "detailed_results": "환자별 스텐트 체내 존재 기간은 anastomotic stricture 3.0 ± 0.8개월, bile leak 1.9 ± 0.7개월, biliary stones 0.7 ± 0.3개월이었다. anastomotic stricture 환자의 재발 없는 기간은 평균 41.7개월이었으며, 36개월 관해율은 67%였다. 스텐트 이탈(stent migration)은 3.4% (3/87)에서 발생했으며, 회수 문자열 파손(retrieval string breakage) 1건, 담낭염(cholangitis) 3건이 보고되었다.",
+      "critique": "본 연구는 단일 센터에서 후향적으로 진행되었으므로, 연구 결과의 일반화에는 한계가 있을 수 있다. 또한, 장기적인 추적 관찰의 필요성이 있으며, 스텐트 이탈 및 기타 합병증 발생에 영향을 미치는 요인에 대한 추가적인 연구가 필요하다.",
+      "clinical_application": "양성 담도 협착, 담즙 누출, 담석 등의 양성 담도 질환 관리에 회수 가능한 완전 커버형 자가 팽창성 금속 담도 스텐트(retrievable fully covered self-expandable metallic biliary stent)를 고려할 때, 대체 회수 문자열 고정 기술(alternative retrieval string fixation technique)을 활용하는 것이 안전하고 효과적인 선택지가 될 수 있다."
     }
   },
   {
@@ -1616,13 +1477,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "외측 공통 갈래와 부신 중간 정맥 사이의 왼쪽 부신 정맥 채취 비교",
-      "one_line": "외측 공통 갈래(P-CMT)가 부신 중간 정맥(LCV)과 유사한 성능을 보여, 왼쪽 부신 정맥 채취에서 LCV의 대안으로 사용될 수 있음.",
-      "design": "후향적 연구",
-      "subjects": "2019년 9월부터 2023년 10월까지 일반 병원에서 시행된 AVS를 받은 155명의 환자 (남성 90명)",
-      "intervention": "왼쪽 부신 중간 정맥(LCV), 외측 공통 갈래(P-CMT), 중간 공통 갈래(M-CMT)에서의 부신 정맥 채취",
-      "results": "LCV와 P-CMT 모두 M-CMT보다 더 높은 코르티솔 수치, 선택성 지수(SI), 그리고 성공률을 보였음 (P < .05). LCV와 P-CMT 사이에는 유의미한 차이가 없었으며, 측면화 인덱스(LI)를 기준으로 한 우위측 결정에서도 차이가 없었음. 피질 코르티솔, 혈장 알도스테론 농도(PAC), LI 사이에는 강한 상관 관계가 확인되었으며, 양측 부신 억제율은 P-CMT와 LCV 간에 유의미한 차이 없었음.",
-      "implication": "P-CMT는 왼쪽 부신 정맥 채취에서 LCV와 동등한 성능을 보여, 임상적으로 실용적인 대안으로 사용될 수 있음."
+      "title_ko": "좌측 부신샘 혈액 채취 시 말초 공통 관(Peripheral Common Trunk, P-CMT)과 부신 중심정맥(Adrenal Central Vein, LCV)의 동등성 연구",
+      "one_line": "좌측 부신샘 혈액 채취 시 P-CMT는 LCV와 동등하게 효과적이며, 실용적인 대안으로 사용될 수 있다.",
+      "design": "후향적 증례 연구",
+      "subjects": "155명 (남성 90명)",
+      "intervention": "좌측 부신샘 혈액 채취 (Left Adrenal Vein Sampling, AVS) - 좌측 부신 중심정맥(LCV), 말초 공통 관(P-CMT), 중간 공통 관(M-CMT) 비교",
+      "results": "LCV와 P-CMT는 M-CMT에 비해 코르티솔(cortisol) 수치, 선택성 지수(selectivity index, SI, ≥2 기준), 혈액 채취 성공률이 유의하게 높았으며 (P < .05), 두 사이의 유의미한 차이는 관찰되지 않았다. 126명의 성공적인 채취 환자군에서 LCV의 코르티솔 수치가 P-CMT보다 약간 높았으나, 혈장 알도스테론 농도(plasma aldosterone concentration, PAC), 알도스테론-코르티솔 비율(aldosterone-to-cortisol, A/C) 비율, 측면화 지수(lateralization index, LI)에는 유의미한 차이가 없었다. LI 절단값(≥2 또는 ≥4)에 따른 우측 부신 우세 판정에도 차이가 없었으며, 코르티솔, PAC, LI 간의 상관관계 분석 결과 LCV와 P-CMT 사이에 강한 상관관계가 확인되었다 (Pearson analysis). 양측 부신 억제율은 P-CMT와 LCV 간에 유의미한 차이가 없었다.",
+      "implication": "P-CMT는 좌측 부신샘 혈액 채취 시 LCV의 실용적인 대안으로 활용될 수 있으며, 이는 시술의 접근성을 높이고 환자에게 더 편안한 경험을 제공할 수 있다."
     }
   },
   {
@@ -1679,13 +1540,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "복잡한 실질성 요로 종양에 대한 경피적 마이크로웨이브 절제술: 기법, 안전성 및 임상 결과 평가",
-      "one_line": "CT 유도 경피적 마이크로웨이브 절제술은 복잡한 실질성 요로 종양을 포함한 캐스틱 요로 종양에 대해 기술적으로 가능하고 높은 효과를 보이며 부작용 발생률이 낮다.",
-      "design": "후향적 연구",
-      "subjects": "56명의 환자 (61개의 복잡한 캐스틱 요로 종양)",
-      "intervention": "CT 유도 경피적 마이크로웨이브 절제술",
-      "results": "주요 결과: 기술 성공률은 95.1%였으며, 부작용 발생률은 Society of Interventional Radiology (SIR) Grade 1 등급의 부작용으로 8%였다. 이 부작용들은 모두 작은 페리네프릭 혈종이었다.",
-      "implication": "CT 유도 경피적 마이크로웨이브 절제술은 복잡한 캐스틱 요로 종양을 포함하여 안전하고 효과적인 치료 옵션이 될 수 있다."
+      "title_ko": "복합성 낭성 신장 종괴의 경피적 마이크로파 응고술: 기법, 안전성 및 임상 결과 평가",
+      "one_line": "본 연구는 CT-가이드 하에 시행된 마이크로파 응고술이 복합성 낭성 신장 종괴 치료에 대해 기술적으로 가능하고 효과적이며, 낮은 부작용률을 보이는 것을 확인했습니다.",
+      "design": "후향적 증례 연구 (Retrospective Case Study)",
+      "subjects": "56명의 환자, 총 61개의 낭성 신장 종괴 (N=56, 61 lesions)",
+      "intervention": "CT-가이드 하 마이크로파 응고술 (Percutaneous Microwave Ablation, PMWA). 낭성 성분 관리를 포함한 응고 기법, 보조 기법, 응고에 사용된 전력 및 시간 등이 기록되었습니다.",
+      "results": "1차 기술적 성공률은 95.1%였습니다. 낭성 신장 종괴 생검의 진단적 정확도는 87%였으며, 61개의 낭성 신장 종괴 중 50개(82%)가 신세포암종(Renal Cell Carcinoma, RCC)으로 진단되었습니다. 마이크로파 응고술 시행 전후 혈청 크레아티닌(Serum Creatinine) 및 추정 사구체 여과율(Estimated Glomerular Filtration Rate, eGFR)은 유의한 변화를 보이지 않았습니다. SIR(Society of Interventional Radiology) Grade 1의 경미한 신장 주변 혈종(Perinephric Hematoma) 4건(8%)이 발생했으며, 이는 경미한 부작용으로 간주되었습니다.",
+      "implication": "CT-가이드 하 마이크로파 응고술은 복합성 낭성 신장 종괴, 특히 낭성 신세포암종 치료에 효과적인 최소 침습적 치료 옵션으로 고려될 수 있으며, 안전성 또한 확보된 것으로 보입니다."
     }
   },
   {
@@ -1708,13 +1569,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "골반정맥압박이 골반정맥질환 환자에서 골반정맥색전술 후 만성골반통 해소에 미치는 영향",
-      "one_line": "골반정맥질환이 있는 환자에서 골반정맥압박 유무와 무관하게 골반정맥색전술의 만성골반통 해소 효과가 비슷하다.",
-      "design": "후향적 연구",
-      "subjects": "102명의 골반정맥질환 환자 (골반정맥압박 그룹: 51명, 비골반정맥압박 그룹: 51명)",
-      "intervention": "골반정맥색전술(Pelvic Venous Embolization)",
-      "results": "골반정맥압박이 있는 환자와 없는 환자의 만성골반통 해소율(비골반정맥압박 그룹: 78.4%, 골반정맥압박 그룹: 82.4%)과 무통 생존률은 유의미한 차이가 없었다 (P = .941). 만성골반통 해소에 실패한 독립적인 위험 요인으로는 사전 시술 전 비시각적 척도(VAS) 점수와 하지 정맥질환의 존재 여부가 확인되었다. 골반정맥압박이 있는 환자 47명에서 1개월 후 추적 관찰 결과, 하지 심부정맥혈전증(DVT)은 발견되지 않았다.",
-      "implication": "골반정맥질환과 골반정맥압박을 동반한 환자 중 심각한 하지 정맥질환이 없는 경우, 골반정맥색전술만으로도 안전하고 효과적일 수 있다."
+      "title_ko": "골반정맥질환 환자에서 골반정맥색전술 시 장골정맥 압박이 결과에 미치는 영향",
+      "one_line": "골반정맥질환 환자에서 장골정맥 압박 여부에 따른 골반 만성 통증 개선 효과를 비교한 결과, 장골정맥 압박군과 비압박군 간 통증 조절률 및 무통증 생존율에 유의미한 차이가 없었으며, 시술 전 통증 정도 및 하지 침범 여부가 만성 통증 조절 실패의 독립적인 예측인자로 확인되었다.",
+      "design": "후향적 연구 (Retrospective review)",
+      "subjects": "대상: 골반정맥질환으로 골반정맥색전술을 시행한 환자, N = 102",
+      "intervention": "시술: 골반정맥색전술 (Pelvic Venous Embolization), 장골정맥 압박군 (Iliac Vein Compression group, N = 51) vs 비압박군 (Non-Iliac Vein Compression group, N = 51)",
+      "results": "주요 결과:\n* 장골정맥 압박 환자는 비압박 환자보다 나이가 더 어렸음 (장골정맥 압박군: 35.7세 [SD ± 6.7] vs 비압박군: 43.6세 [SD ± 12.1]; P < .001)\n* 하지 침범 정도가 장골정맥 압박군에서 더 높음 (장골정맥 압박군: 18/51 [35.3%] vs 비압박군: 6/51 [11.8%]; P = .009)\n* 만성 골반 통증 조절률: 장골정맥 압박군 42/51 [82.4%], 비압박군 40/51 [78.4%]; P = 1.00\n* 만성 골반 통증 없는 생존율: P = .941\n* 만성 통증 조절 실패의 독립적인 예측인자: 시술 전 시각통증척도 점수 (Visual Analog Scale score, adjusted OR, 0.37; 95% CI, 0.21-0.67; P < .001), 하지 침범 여부 (adjusted OR, 7.49; 95% CI, 2.10-26.68; P = .002)\n* 장골정맥 압박군에서 1개월 추적 관찰 시 하지 심부정맥혈전증 (Deep Vein Thrombosis, DVT) 발생 없음 (47명 중)",
+      "implication": "장골정맥 압박이 동반된 골반정맥질환 환자에서 심각한 하지 정맥 질환이 없는 경우, 장골정맥 스텐트 삽입 없이 골반정맥색전술만 시행하는 것이 안전하고 효과적일 수 있다."
     }
   },
   {
@@ -1742,28 +1603,16 @@
     "is_interest": true,
     "interest_category": "hepatobiliary",
     "summary": {
-      "title_ko": "리升级改造后的回答如下：对于树脂微球进行90Y放射性叶切除术（RL-90Y）治疗原发性肝癌的安全性和有效性",
-      "one_line": "90Y放射性叶切除术使用树脂微球对原发性肝癌患者是安全的，并且可以促进未来肝脏残余体积的生长和增生，同时控制肿瘤的发展。",
-      "design": "후향적 단일기관 연구",
-      "subjects": "28명의 원발성 간암 환자 (68% 간세포 carcinoma, 36% intrahepatic cholangiocarcinoma)",
-      "intervention": "yttrium-90 방사선 절제술(Transarterial radioembolization with resin microspheres)",
-      "results": {
-        "hypertrophy_rate": "16% (IQR, 4%-28%)",
-        "KGR_at_T1": "1.5% per week (IQR, 0.6%-2.3%)",
-        "treatment_response_HCC": "HCC: complete response 53%, partial response 24%, stable disease 6%, progressive disease 18%",
-        "treatment_response_iCCA": "iCCA: complete response 0%, partial response 20%, stable disease 50%, progressive disease 30%"
-      },
-      "implication": "90Y 방사선 절제술은 원발성 간암 환자에서 안전하게 수행될 수 있으며, 평균 한 주에 1.5%의 성장률을 보이는 것으로 나타났다.",
-      "detailed_results": {
-        "hypertrophy_and_KGR": "FLRV와 FLRV/TLPV 비율은 시간 경과에 따라 증가하였으며 (P < .001), KGR은 T1에서 T2로 감소하였다 (T1: 1.3% vs T2: 0.6%, P = .034).",
-        "treatment_response": "HCC 환자에서는 완전 반응이 53%, 부분 반응이 24%를 차지하였으며, iCCA 환자에서는 완전 반응이 없었으나 안정 상태가 50%로 가장 높았다.",
-        "bridged_to_surgery": "7명의 환자가 수술을 위한 다리 역할을 수행하여 평균 2.5개월 후 수술을 받았으며 (IQR, 1.9-4.7 months)."
-      },
-      "critique": {
-        "limitations": "연구는 단일기관에서 이루어진 후향적 연구로 인해 일반화가 어렵다.",
-        "comparison_with_previous_studies": "기존 연구와 비교하여, 이 연구에서는 세부적인 병리학적 상태에 따른 차이를 분석하지 않았다."
-      },
-      "clinical_application": "90Y 방사선 절제술은 간암 환자에서 안전하고 효과적인 치료법으로 사용될 수 있으며, 특히 수술을 위한 다리 역할로도 활용 가능하다."
+      "title_ko": "레진 마이크로구체(resin microspheres)를 이용한 90Y 방사선엽절술(radiation lobectomy)의 안전성과 효과: 간 잔여 용적(future liver remnant)의 비대(hypertrophy) 및 운동 성장률(kinetic growth rate, KGR) 평가",
+      "one_line": "본 연구는 레진 마이크로구체를 이용한 90Y 방사선엽절술(RL-90Y)이 간암(primary liver cancer) 환자의 간 잔여 용적(FLRV)의 안전한 비대(hypertrophy)를 유도하고, 운동 성장률(KGR)을 조절할 수 있음을 시사합니다.",
+      "design": "후향적(retrospective), 단일 센터(single-center) 연구",
+      "subjects": "간암(primary liver cancer) 환자, N=28 (만성 B형 간염 관련 간암(HCC) 68%, 경동맥내암종(intrahepatic cholangiocarcinoma, iCCA) 36%)",
+      "intervention": "90Y 방사선엽절술(RL-90Y) 동맥 내 방사선색전술(transarterial radioembolization, TARE) (레진 마이크로구체(resin microspheres) 사용)",
+      "results": "치료 후 0-4개월(T1) 시점의 간 잔여 용적(FLRV) 비대(hypertrophy)는 16% (사분위 범위(interquartile range, IQR): 4%-28%), 운동 성장률(KGR)은 1.5% per week (IQR: 0.6%-2.3%)로 나타났으며, 간 잔여 용적(FLRV) 및 FLRV/전체 간 실질 용적(total liver parenchymal volume, TLPV) 비율이 유의하게 증가했습니다(P < .001). T1 시점의 KGR은 T2 시점보다 높았으며(1.3% vs 0.6%, P = .034), 치료 반응은 만성 B형 간염 관련 간암(HCC) 환자의 경우 완전 반응(complete response) 53%, 부분 반응(partial response) 24%, 안정 반응(stable disease) 6%, 진행성(progressive disease) 18%였고, 경동맥내암종(iCCA) 환자의 경우 완전 반응 0%, 부분 반응 20%, 안정 반응 50%, 진행성 30%로 나타났습니다. 수술로의 교량(bridging) 환자는 7명(25%)으로, 평균 2.5개월(IQR: 1.9-4.7 months) 후에 수술을 받았습니다.",
+      "implication": "레진 마이크로구체(resin microspheres)를 이용한 90Y 방사선엽절술(RL-90Y)은 간암(primary liver cancer) 환자의 간 잔여 용적(FLRV)을 안전하게 비대(hypertrophy)시키고, 수술 전 교량(bridging) 가능성을 제공할 수 있습니다.",
+      "detailed_results": "간암 종류, 간경변(cirrhosis), 문맥 혈전증(portal vein thrombosis), 투여된 종양 용량(prescribed tumor dose)에 따라 간 잔여 용적(FLRV)의 비대(hypertrophy), 운동 성장률(KGR)에 차이가 없었습니다. 치료 반응은 간암 종류에 따라 달랐습니다.  수술로의 교량(bridging) 기간은 평균 2.5개월(IQR: 1.9-4.7 months)였습니다.",
+      "critique": "본 연구는 후향적(retrospective) 연구이며, 단일 센터(single-center)에서 수행되었으므로 일반화에 제한이 있을 수 있습니다. 또한, 단일 구획 방사선 용량 모델(single-compartment dosimetry model)을 사용했다는 점도 한계점으로 작용할 수 있습니다.  향후 전향적(prospective) 연구를 통해 더 많은 환자를 대상으로 결과를 확인하고, 다양한 방사선 용량 모델(radiation dosimetry model)을 적용하여 검증할 필요가 있습니다.",
+      "clinical_application": "레진 마이크로구체(resin microspheres)를 이용한 90Y 방사선엽절술(RL-90Y)은 간암(primary liver cancer) 환자의 치료 옵션으로 고려될 수 있으며, 특히 간 잔여 용적(FLRV) 확보가 어려운 환자에게 유용할 수 있습니다.  수술 전 교량(bridging)을 통해 환자의 상태를 안정화시키고, 수술 가능성을 높일 수 있습니다."
     }
   },
   {
@@ -1781,16 +1630,16 @@
     "is_interest": true,
     "interest_category": "nonvascular",
     "summary": {
-      "title_ko": "중앙부 신세포 carcinoma 치료를 위한 경동맥색전술과 CT 유도 미파이브레이션 절단 병행 단일 세션 치료법: 탐색 연구",
-      "one_line": "중앙부 신세포 carcinoma 환자에게 TAE와 MWA를 동시에 적용한 단일 세션 치료법의 효과 및 안전성을 평가하였다.",
-      "design": "증례 연구",
-      "subjects": "중央部肾细胞癌患者 / N=7",
-      "intervention": "经动脉栓塞术(TAE)与碘化油染色结合CT引导下的微波消融(MWA)",
-      "results": "3名转移性肾细胞癌患者的局部肿瘤控制时间为18.3个月(SD ± 11.2)，4名I期患者接受根治性治疗后的持续反应时间为29.8个月(SD ± 8.7)。估计的肾小球滤过率在治疗后6个月下降，但无统计学意义(P = .13)。",
-      "implication": "对于高风险且治疗选择有限的中央部肾细胞癌患者，TAE-MWA技术上可行，并显示出可管理的安全性。",
-      "detailed_results": "7名患者的平均改良RENAL评分为10.7(SD ± 0.8)，其中3名为转移性RCC，4名为I期RCC。治疗后6个月的估计肾小球滤过率下降，但无统计学意义(P = .13)。一名患者出现III级不良事件，需要进行经皮肾造瘘术。",
-      "critique": "该研究样本量较小且未充分评估肾功能变化；对于高分Nephrometry评分肿瘤的治疗需谨慎。",
-      "clinical_application": "TAE-MWA联合疗法为中央部肾细胞癌患者提供了一种新的治疗选择，特别是在那些传统治疗方法有限的情况下。"
+      "title_ko": "중앙부 신세포암종에 대한 간동맥화학색전술(TACE)과 경피적 마이크로파 열전달술(MWA) 병용, 단회 세션 치료의 예비 연구",
+      "one_line": "중앙부 신세포암종 환자에서 간동맥화학색전술(TACE)과 경피적 마이크로파 열전달술(MWA)을 병용하여 단회 세션으로 치료했을 때 기술적으로 가능하며 안전성이 관리 가능한 것으로 나타났으나, 신장 기능 저하에 대한 주의가 필요하다.",
+      "design": "증례 연구 (Case Study)",
+      "subjects": "대상: 중앙부 신세포암종 환자 7명 (modified RENAL 점수 평균 10.7 [SD ± 0.8])",
+      "intervention": "간동맥화학색전술(TACE) (ethiodized oil staining 사용) + 경피적 마이크로파 열전달술(MWA)",
+      "results": "평균 추적 기간 18.3개월 (SD ± 11.2) 동안 3명의 전이성 신세포암종 환자는 국소 종양 조절을 보이다 사망, 4명의 1기 신세포암종 환자는 29.8개월 (SD ± 8.7) 동안 지속적인 반응을 보임. 치료 후 6개월 시점에서 평균 사구체 여과율(eGFR) 감소가 관찰되었으나 통계적으로 유의하지 않음 (P = .13).",
+      "implication": "중앙부 신세포암종 환자에게 제한적인 치료 옵션이 있는 경우 간동맥화학색전술(TACE)과 경피적 마이크로파 열전달술(MWA) 병용 치료가 기술적으로 가능하며, 안전성이 관리 가능한 대안이 될 수 있다.",
+      "detailed_results": "3명의 전이성 신세포암종 환자는 국소 종양 조절을 보였고, 4명의 1기 신세포암종 환자는 29.8개월 동안 지속적인 반응을 보였다. 치료 후 6개월 시점에서 평균 사구체 여과율(eGFR)은 감소했지만, 통계적 유의성은 없었다 (P = .13). 1명의 환자는 Grade III 부작용으로 인해 신장 배액술(nephrostomy)이 필요했다.  modified RENAL 점수가 높은 경우 신장 기능 저하에 대한 주의가 필요하다.",
+      "critique": "본 연구는 증례 연구로, 표본 크기가 작아 신장 기능 변화에 대한 통계적 유의성을 판단하기에 충분한 검정력을 확보하지 못했다. 따라서 신장 기능 저하에 대한 추가적인 연구가 필요하다. 또한, modified RENAL 점수가 높은 환자군에서 신장 기능 저하 위험이 높을 수 있다는 점을 고려해야 한다.",
+      "clinical_application": "중앙부 신세포암종 환자, 특히 전이성 신세포암종 환자 또는 수술이 어려운 경우, 간동맥화학색전술(TACE)과 경피적 마이크로파 열전달술(MWA) 병용 치료를 고려할 수 있다. 다만, modified RENAL 점수를 평가하여 신장 기능 저하 위험을 예측하고, 필요에 따라 신장 보호 전략을 수립해야 한다."
     }
   },
   {
@@ -1832,45 +1681,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "하부 대퇴동맥 질환을 위한 내피내 치료 방법: DCB와 함께 사용되는 가용성 스크래프 요법을 고려한 베이지안 네트워크 메타분석",
-      "one_line": "가용성 스크래프 요법(RST)과 다른 내피내 치료 방법의 비교 효과를 분석하여, 아테롬ectomy가 재관련 수술 및 사망률 감소에 가장 효과적임을 확인했습니다.",
-      "design": "네트워크 메타분석",
-      "subjects": "21개 무작위 배정 연구와 4개 단일 군 연구 (n=3,184)",
-      "intervention": [
-        {
-          "PTA": "단순 폐색 혈관 성형술"
-        },
-        {
-          "DCB": "약물 코팅 볼루ーム"
-        },
-        {
-          "DES": "약물 방출 스텐트 및 비방출 금속 스텐트"
-        },
-        {
-          "atherectomy": "아테롬ectomy"
-        },
-        {
-          "RST": "가용성 스크래프 요법"
-        }
-      ],
-      "results": [
-        {
-          "30일 중대 부작용(MAE)": "아테롬ectomy가 가장 낮은 발생률을 보였으나, 통계적으로 유의미한 차이는 없음 (SUCRA 77.2%)"
-        },
-        {
-          "1년 사망률": "아테롬ectomy가 PTA 대비 통계적으로 유의미하게 감소함 (OR 0.39, 95% CrI 0.15-0.90; SUCRA 97.8%)"
-        },
-        {
-          "6개월 임상적 재관련 수술(CD-TLR)": "아테롬ectomy, DCB 및 DES가 통계적으로 유의미한 효과를 보임 (OR 각각 0.26, 0.42, 0.43)"
-        },
-        {
-          "6개월 중대 절단": "통계적으로 유의미한 감소 없음"
-        },
-        {
-          "RST": "통계적으로 유의미하지 않은 감소를 보였으나, 모든 결과에서 중간 등급을 차지함"
-        }
-      ],
-      "implication": "아테롬ectomy가 사망률과 재관련 수술에 가장 효과적임이 확인되었으며, RST는 잠재적인 가능성을 보여주지만 추가 대규모 무작위 배정 연구가 필요하다."
+      "title_ko": "경골하 동맥 질환에 대한 혈관내 치료 방법: 회수 가능한 스텐트 치료의 탐색적 평가를 포함한 베이지안 네트워크 메타분석",
+      "one_line": "경골하 동맥 질환 치료에 있어 혈관 스행술(PTA), 약물 코팅 풍선(DCB), 약물 용출 스텐트(DES), 스행술(atherectomy) 및 회수 가능한 스텐트 치료(RST)의 효과를 비교 분석한 결과, 스행술이 사망률 감소 및 재개혈 필요성 감소에 가장 유리한 것으로 나타났으며, RST는 유망하지만 추가 연구가 필요함.",
+      "design": "베이지안 네트워크 메타분석(Bayesian Network Meta-Analysis)",
+      "subjects": "21개의 무작위 배정 임상 시험(RCT) 및 4개의 단일군 임상 시험, 총 3184명",
+      "intervention": "혈관 스행술(PTA), 약물 코팅 풍선(DCB), 약물 용출/무약물 스텐트(DES), 스행술(atherectomy), 회수 가능한 스텐트 치료(RST)",
+      "results": "30일 주요 악영향(MAE)에서 스행술(atherectomy)이 가장 높은 SUCRA 값(77.2%)을 보였으며, 12개월 사망률에서 스행술(atherectomy)은 풍선 확장술(PTA) 대비 Odds Ratio(OR) 0.39 (95% 신뢰 구간(CrI) 0.15-0.90; SUCRA 97.8%)으로 유의미한 감소를 보임. 6개월 임상적으로 유도된 표적 병변 재개혈(CD-TLR)에서 스행술(atherectomy) (OR 0.26, 95% CrI 0.00-0.62), 약물 코팅 풍선(DCB) (OR 0.42, 95% CrI 0.30-0.58), 약물 용출 스텐트(DES) (OR 0.43, 95% CrI 0.19-0.88)가 유의미한 이점을 보였음. 만성 신장 질환(CKD) 및 병변 길이와 CD-TLR 위험이 연관됨.",
+      "implication": "스행술(atherectomy)은 사망률 및 재개혈 결과에 있어 가장 일관된 이점을 보였으며, 회수 가능한 스텐트 치료(RST)는 유망하지만 결론을 내리기에는 연구 데이터가 부족하여 추가적인 무작위 배정 임상 시험이 필요함."
     }
   },
   {
@@ -1920,13 +1737,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "중간-고위험 급성 폐색塞栓症患者的导管导向机械血栓切除术与全身溶栓治疗的多中心随机对照试验：研究方案",
-      "one_line": "중간-고위험 급성 폐색塞栓症患者的导管导向机械血栓切除术（使用Tendvia系统）与全身溶栓治疗的有效性和安全性比较的多中心随机对照试验。",
-      "design": "1:1 블록 무작위 배정, 통제된 개방형 병렬군 연구, 다기관 우월성 시험",
-      "subjects": "18-75세 중간-고위험 급성 폐색塞栓症患者，N=未指定",
-      "intervention": "중재군: Tendvia系统导管导向机械血栓切除术；对照组: 阿替普酶静脉滴注",
-      "results": "主要有效性终点：基线至48小时后右心室/左心室直径比的绝对减少量，通过盲法核心实验室CT肺动脉造影分析得出。主要安全性终点：48小时内复合重大不良事件的发生率。",
-      "implication": "本试验将为中高危急性肺栓塞患者使用导管导向机械血栓切除术提供证据支持，并可能改变现有的治疗指南和临床实践。"
+      "title_ko": "급성 중간-고위험 폐색전증 환자에서 경동맥화학색전술(Catheter-Directed Mechanical Thrombectomy) 대 체계적 혈전 용해술(Systemic Thrombolysis) 비교 다기관 무작위 배정 임상 연구: 연구 프로토콜",
+      "one_line": "본 연구는 급성 중간-고위험 폐색전증 환자에서 경동맥화학색전술(Tendvia 시스템 사용)이 체계적 혈전 용해술보다 효과적이고 안전한지 비교하기 위한 무작위 배정 임상 연구입니다.",
+      "design": "1:1 블록 무작위 배정, 통제, 공개 라벨 병행군, 다기관, 우월성 임상 연구 (Randomized Controlled Trial, RCT)",
+      "subjects": "18-75세, 중간-고위험 급성 폐색전증 진단 및 혈역학적 악화 환자 (N 수 미상)",
+      "intervention": "경동맥화학색전술(Tendvia 시스템 사용, CT 폐색전증 혈관조영 검사 후 4시간 이내) vs. 체계적 알테플라제(alteplase) 주입",
+      "results": "주요 효능 지표는 CT 폐색전증 혈관조영 검사 분석을 통해 기준선 대비 48시간 후 우심실/좌심실 직경 비율의 절대 감소량입니다. 주요 안전 지표는 48시간 이내 복합 주요 악영향 발생률입니다. 이차 지표로는 NT-proBNP 수치 감소, 호흡곤란 점수, 폐동맥압 변화, 시술 후 48시간 임상 악화, 30일 이내 증상 재발, 주요 접근 부위 합병증, 기기 관련 심각한 부작용, 시술 후 입원 및 중환자실 체류 기간, 심장 바이오마커 변화 등이 포함됩니다.",
+      "implication": "본 연구는 중간-고위험 폐색전증 환자에서 경동맥화학색전술의 유용성에 대한 근거를 제공할 것으로 기대됩니다."
     }
   },
   {
@@ -1976,13 +1793,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "블레오마이신 전기경화술(BEST)을 이용한 느린 흐름 혈관 이상의 효과와 안전성: 체계적 문헌 검토",
-      "one_line": "블레오마이신 전기경화술(BEST)은 느린 흐름 혈관 이상 치료에 대해 잠재적으로 유망하지만, 연구 설계의 다양性和高偏倚风险限制了其结论的普遍性。",
-      "design": "체계적 문헌 검토",
-      "subjects": "401명의 환자 (총 416개 병변)",
-      "intervention": "블레오마이신 전기경화술(BEST)",
-      "results": "환자의 증상 개선율은 62-100%로 보고되었으며, 병변 크기는 83-100%에서 감소되었다. 중대한 부작용은 드물었고 전신 독성은 보고되지 않았다.",
-      "implication": "BEST는 선택된 느린 흐름 혈관 이상 치료에 대해 잠재적으로 유망하지만, 연구 설계의 다양성과 높은 편향 위험으로 인해 증거가 제한적이다. 따라서 치료 결정은 다학제 평가를 기반으로 개인화되어야 한다."
+      "title_ko": "블레오마이신 전기 경화술(Bleomycin Electrosclerotherapy, BEST)을 이용한 저속 혈관 기형(Slow-Flow Vascular Malformations)의 효과 및 안전성에 대한 체계적 검토",
+      "one_line": "본 연구는 블레오마이신 전기 경화술(BEST)이 저속 혈관 기형 치료에 유망하지만, 방법론적 이질성과 높은 편향 위험으로 인해 추가 연구가 필요함을 시사합니다.",
+      "design": "체계적 검토 (Systematic Review, PRISMA 가이드라인 준수)",
+      "subjects": "총 401명의 환자, 416개의 병변 (7개의 후향적 연구, 3개의 전향적 연구, 1개의 비교 연구)",
+      "intervention": "블레오마이신 전기 경화술(Bleomycin Electrosclerotherapy, BEST)",
+      "results": "증상 호전은 62-100%의 환자에서 보고되었으며, 병변 크기 감소는 임상적 및 영상 기반 평가(볼루메트리 포함)를 통해 83-100%의 병변에서 보고되었습니다. 심각한 부작용은 드물었고, 전신 독성은 보고되지 않았습니다. 모든 비무작위 배정 연구는 심각한 편향 위험을 가졌습니다.",
+      "implication": "블레오마이신 전기 경화술(BEST)은 선택된 저속 혈관 기형에 유망하지만, 방법론적 이질성과 높은 편향 위험으로 인해 치료 결정은 개별화되어 다학제적 평가를 기반으로 이루어져야 합니다."
     }
   },
   {
@@ -2035,13 +1852,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "다중 부위 협착성 병변을 가진 주정맥동맥 질환 환자에서 계산 유체역학(CFD)을 이용한 압력 차 검사의 유효성 평가",
-      "one_line": "CFD 기반 비침습적 방법이 다중 부위 협착성 병변을 가진 주정맥동맥 질환 환자의 압력 차와 흐름 예측에서 실제 측정값과 유사한 결과를 보여주며, 임상적 진단 정확도를 제공한다.",
-      "design": "전향적 연구",
-      "subjects": "15명의 주정맥동맥 질환 환자 (다중 협착성 병변)",
-      "intervention": "압력 측정 및 CFD 기반 비침습적 압력 차와 흐름 예측",
-      "results": "CFD 기반 비침습적 방법은 실제 압력 차를 -4.0 ± 6.2 mmHg로 추정하였으며, 이는 실제 측정값과 유사한 결과를 보여주었습니다 (CFDi: 0.1 ± 3.1 mmHg). 전체 부위의 흐름 예측 지수(FFR)와 개별 병변 FFR은 각각 -0.02 ± 0.06과 0.01 ± 0.06로 실제 측정값과 유사한 결과를 보여주었습니다. CFD의 진단 정확도는 압력 차에 대한 비침습적 방법이 73% (CFDi)와 80% (CFDm), 전체 부위 FFR은 89%, 개별 병변 FFR은 83%로 나타났습니다.",
-      "implication": "CFD 기반 비침습적 방법을 이용한 다중 부위 협착성 병변의 주정맥동맥 질환 환자의 압력 차와 흐름 예측이 임상적으로 유용하며, 이는 치료 계획 수립에 도움이 될 수 있습니다."
+      "title_ko": "다분절 대퇴-경골 동맥 질환 환자의 압력 구배 결정에 대한 전산 유체 역학(CFD)의 생체 내 검증",
+      "one_line": "다분절 대퇴-경골 동맥 질환 환자의 압력 구배를 비침습적으로 평가하는 데 전산 유체 역학(CFD)을 활용하는 것이 가능함을 입증하는 연구입니다.",
+      "design": "전향적 증례-대조 연구 (Prospective Case-Control Study)",
+      "subjects": "대퇴-경골 동맥에 다발성 병변이 있는 환자 15명 (N=15)",
+      "intervention": "전산 유체 역학(CFD) 시뮬레이션 (CTA 기반 CFDm, 초음파 유도 CFDi)을 사용하여 압력 구배 및 분획 유혈 보존 지수(FFR)를 추정",
+      "results": "CFDm은 압력 구배를 평균 -4.0 ± 6.2 mmHg 과소 추정했습니다. CFDi는 측정된 압력 구배와 0.1 ± 3.1 mmHg의 차이를 보였습니다. 전체 혈관 FFR은 -0.02 ± 0.06의 차이를, 개별 병변 FFR은 0.01 ± 0.06의 차이를 보였습니다. CFD의 휴식 압력 구배 진단 정확도는 CFDi의 경우 73%, CFDm의 경우 80%였습니다. 전체 혈관 FFR에 대한 CFD의 진단 정확도는 89%, 개별 병변 FFR에 대한 진단 정확도는 83%였습니다.",
+      "implication": "전산 유체 역학(CFD)은 다분절 대퇴-경골 동맥 질환의 비침습적 평가에 활용될 수 있으며, 이는 다분절 말초 동맥 질환(PAD) 치료 계획 수립에 도움이 될 수 있습니다."
     }
   },
   {
@@ -2067,13 +1884,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "인공지능이 개입영상의학 전문가들의 직장 스트레스 해소에 미치는 영향에 대한 고찰",
-      "one_line": "인공지능은 개인, 조직 및 시스템 수준에서 발생하는 개입영상의학 전문가들의 직업적 피로를 감소시키는데 도움이 될 수 있다.",
-      "design": "리뷰 논문",
-      "subjects": "개입영상의학 전문가들",
-      "intervention": "인공지능을 활용한 직장 환경 개선 및 업무 효율성 향상",
-      "results": "AI는 개인, 조직 및 시스템 수준에서 발생하는 피로를 감소시키는데 도움이 될 수 있다. AI는 직원의 피로도를 인구통계학적 데이터와 자유형 텍스트를 통해 식별하고 행정 업무 부담을 완화하며, 작업 효율성을 높이는 워크플로 관리 도구를 제공한다.",
-      "implication": "AI는 개입영상의학 전문가들의 피로도 감소에 중요한 역할을 할 수 있으며, 이를 통해 장기적으로 직원 만족도와 업무 효율성을 향상시킬 수 있다. 그러나 이러한 기술 도입은 데이터 접근성과 보안 문제를 해결해야 하는 추가적인 고려사항이 필요하다."
+      "title_ko": "영상의학 중재 분야의 소진(Burnout) 해결을 위한 인공지능(Artificial Intelligence) 활용에 대한 고찰",
+      "one_line": "본 연구는 영상의학 중재(Interventional Radiology, IR) 분야의 소진 위험 요인을 분석하고, 인공지능(AI)이 업무 환경 측면에서 소진 문제를 해결할 수 있는 방안을 모색한다.",
+      "design": "문헌 고찰(Review Article)",
+      "subjects": "해당 사항 없음 (문헌 고찰)",
+      "intervention": "인공지능(AI) 기술 활용 (자동화된 내비게이션 시스템, 워크플로우 관리, 행정 업무 경감 등)",
+      "results": "영상의학 중재 전문의들은 개인적, 업무 환경적, 시스템적 수준에서 소진 위험에 직면하며, 인공지능(AI)은 인구통계학적 데이터 및 자유 텍스트 분석을 통해 소진을 식별하고, 행정 업무 부담을 줄이며, 워크플로우를 관리할 수 있다. 또한, 자동화된 내비게이션 시스템을 통해 시술 효율성을 향상시켜 방사선 노출로 인한 스트레스를 감소시킬 수 있다. 향후 연구 방향으로는 소진 식별 기능 강화 및 의료 코딩을 통한 장기 데이터 접근성이 필요하다.",
+      "implication": "인공지능(AI)은 영상의학 중재 분야의 특정 소진 위험 요인을 해결하는 데 도움이 될 수 있으며, 향후 소진 예방 및 관리 전략에 중요한 역할을 할 것으로 기대된다."
     }
   },
   {
@@ -2117,13 +1934,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "임상 치료에 반응하지 않는 증상성 대퇴관절 골관절염 환자에서 경동맥 색전술(TAE)의 안전성 및 임상 효과 평가",
-      "one_line": "임상 치료에 반응하지 않는 증상성 대퇴관절 골관절염 환자를 대상으로 한 경동맥 색전술(TAE)이 안전하고 통증 완화와 기능 개선을 가져온다는 것을 확인하였다.",
-      "design": "후향적 연구",
-      "subjects": "2023년 1월부터 2025년 4월까지 경동맥 색전술(TAE)을 받은 환자 41명 (중앙값 연령: 65세)",
-      "intervention": "경동맥 색전술(TAE), 임시 색전제(신속히 흡수되는 젤라틴 미크로스피어 또는 이 mipenem/cilastatin 사용)",
-      "results": "기술적 성공률은 97.5% (40/41)였으며, 중대한 부작용은 없었고 경미한 일시적인 피부 색소 침착이 7.3%에서 관찰되었다. 통증 등급(NRS)은 기저선 7에서 12개월 후 4로 감소(p < .001), 모든 HOOS 도메인에서 유의미한 개선을 보였다. NRS에서는 MCID를 달성한 환자가 64.3%, HOOS에서는 85-92%였으며, 두 명의 환자(4.9%)가 전신관절 교체술(Total Hip Replacement)을 받았다.",
-      "implication": "임시 색전제를 사용한 경동맥 색전술(TAE)은 증상성 대퇴관절 골관절염에 대한 지속적인 통증 감소와 기능 개선을 가져오며, 안전성이 우수하다."
+      "title_ko": "증상성 고관절 골관절염 환자를 위한 동맥내 색전술(Transarterial Embolization)",
+      "one_line": "본 연구는 보존적 치료에 반응하지 않는 증상성 고관절 골관절염 환자에서 동맥내 색전술(TAE)이 안전하고 임상적으로 효과적인지 평가한 결과, 지속적인 통증 감소 및 기능 개선을 보이는 것을 확인했습니다.",
+      "design": "후향적 단일 센터 분석(Retrospective Single-Centre Analysis)",
+      "subjects": "41명 (중앙값 연령 65세)",
+      "intervention": "간헐적 색전제(Temporary Embolic Agents)를 사용한 동맥내 색전술(TAE). 주로 빠르게 재흡수되는 젤라틴 마이크로구(Gelatin Microspheres) 또는 이미페넴/실라스타틴(Imipenem/Cilastatin) 사용.  대부분의 경우 외측 회내굴상 동맥(Lateral Circumflex Femoral Artery)을 색전시키고, 27.5% (11/40)의 경우 추가적으로 내부 장골 동맥(Internal Iliac Branches)을 치료했습니다.",
+      "results": "기술적 성공률(Technical Success Rate)은 97.5% (40/41)였습니다.  심각하거나 중간 정도의 부작용은 없었으며, 경미한 일시적인 피부 변색(Minor Transient Skin Discoloration)이 7.3% (모두 이미페넴/실라스타틴 사용 후)에서 관찰되었습니다.  12개월 시점에서 수치 평가 척도(Numeric Rating Scale, NRS) 통증 점수는 중앙값 7점에서 4점으로 감소했으며 (p < .001), 힙 장애 및 골관절염 결과 점수(Hip Disability and Osteoarthritis Outcome Score, HOOS)의 모든 영역에서 유의미한 개선이 있었습니다.  최소 임상적으로 중요한 차이(Minimum Clinically Important Difference, MCID) 기준 (NRS ≥ 2점, HOOS ≥ 10점)을 충족한 환자는 NRS에서 64.3%, HOOS에서 85-92%였습니다. 전체 환자의 4.9% (2명)가 전체 고관절 치환술(Total Hip Replacement)을 받았습니다.",
+      "implication": "간헐적 색전제(Temporary Embolic Agents)를 사용한 동맥내 색전술(TAE)은 12개월 동안 지속적인 통증 감소 및 기능 개선을 보이며, 안전한 프로파일을 가지고 있습니다.  전체 고관절 치환술(Total Hip Replacement)의 대안으로 고려될 수 있습니다."
     }
   },
   {
@@ -2175,13 +1992,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "당뇨 발 궤양 환자의 하지동맥질환에 대한 내피혈관 치료: 무작위 대조 임상시험 시스템 리뷰",
-      "one_line": "하지동맥 질환을 가진 당뇨 발 궤양 환자에서 경피적 동맥성형술(PTA)이 정맥 우회술보다 궤양 치유에 더 효과적이지만, 사망률이나 중대한 절단율에는 차이가 없다.",
-      "design": "시스템 리뷰 및 메타분석 (무작위 대조 시험 기반)",
-      "subjects": "6개 무작위 대조 시험에서 총 945명의 환자",
-      "intervention": "경피적 동맥성형술(PTA) vs 정맥 우회술, 경피적 동맥성형술(PTA) vs 약물코팅 밸loon 또는 약물코팅 스텐트 치료법",
-      "results": "PTA는 정맥 우회술에 비해 궤양 치유 확률이 더 높음 (위험비: 1.20, 신뢰구간: 1.07-1.33, p=0.0001; 낮은 수준의 증거). PTA와 약물코팅 밸loon 또는 스텐트 치료법 간에는 통계적으로 유의미한 차이가 없음.",
-      "implication": "PTA는 당뇨 발 궤양 환자의 하지동맥질환에서 정맥 우회술보다 궤양 치유에 더 효과적일 수 있으나, 사망률이나 중대한 절단율에는 유의미한 차이가 없음. 그러나 증거의 확실성은 낮으므로 주의해서 해석해야 함. 추가적인 충분히 파워된 무작위 대조 시험을 통해 하지동맥 재관류 전략의 상대적 효과를 명확하게 확인할 필요가 있음."
+      "title_ko": "당뇨병성족부궤양 환자의 하지말초동맥질환에 대한 혈관내 치료: 무작위 배정 임상시험에 대한 체계적 검토",
+      "one_line": "당뇨병성족부궤양 환자의 하지말초동맥질환 치료 시 경피적혈관풍선확장술(PTA)이 정맥 우회술(venous bypass)에 비해 궤양 치유율이 더 높을 수 있지만, 사망률이나 주요 절단술 발생률에는 차이가 없으며, 증거의 확실성은 낮음.",
+      "design": "무작위 배정 임상시험(RCT)에 대한 체계적 검토(Systematic Review)",
+      "subjects": "총 945명 (6개의 무작위 배정 임상시험)",
+      "intervention": "경피적혈관풍선확장술(PTA) vs. 정맥 우회술(venous bypass), 경피적혈관풍선확장술(PTA) vs. 약물 코팅 풍선(drug-coated balloon), 경피적혈관풍선확장술(PTA) vs. 약물 코팅 스텐트(drug-coated stent)",
+      "results": "경피적혈관풍선확장술(PTA)은 정맥 우회술(venous bypass)에 비해 궤양 치유율이 유의하게 높았으며, 위험비(risk ratio)는 1.20 (95% 신뢰구간(confidence interval) 1.07-1.33; p = 0.0001)으로 나타났습니다. 사망률이나 주요 절단술 발생률에는 유의미한 차이가 없었습니다. 약물 코팅 풍선 또는 약물 코팅 스텐트와 경피적혈관풍선확장술(PTA) 비교에서도 유의미한 차이는 관찰되지 않았습니다.",
+      "implication": "경피적혈관풍선확장술(PTA)은 당뇨병성족부궤양 환자의 하지말초동맥질환 치료 시 궤양 치유율 향상에 도움이 될 수 있지만, 증거의 확실성이 낮으므로 주의하여 해석해야 합니다. 더 많은 규모의 무작위 배정 임상시험이 필요합니다."
     }
   },
   {
@@ -2282,13 +2099,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "진보된 안내성 망막색소상피암 치료를 위한 동맥 내 화학치료의 안전성 및 유효성 평가",
-      "one_line": "동맥 내 화학치료는 진보된 안내성 망막색소상피암 치료에 효과적이고 안전하며, 눈을 보존하는 데 유망한 방법임이 확인되었다.",
-      "design": "후향적 단일기관 코호트 연구",
-      "subjects": "13명의 소아 환자 (15눈)",
-      "intervention": "동맥 내 화학치료 (Intra-Arterial Chemotherapy, IAC)",
-      "results": "기술 성공률은 97.8%로 높았으며, 부작용은 주로 경미한 절차 관련 문제였고 중대한 체계적 부작용은 없었다. 치료 후 시력 유지 또는 개선율이 93.3%로 나타났다. 환자 중 어느 누구도 눈 제거 수술을 필요로 하지 않았으며, 전이나 사망 사례는 발생하지 않았다.",
-      "implication": "동맥 내 화학치료는 망막색소상피암 치료에 있어 기술적으로 가능하며 안전하고 효과적인 방법으로 보존적 치료를 위한 유망한 옵션이다. 그러나 장기 추적 관찰을 통해 더 큰 규모의 연구가 필요하다."
+      "title_ko": "고급 안구 망막모세포종에 대한 동맥내 화학요법",
+      "one_line": "본 연구는 안구 망막모세포종 치료를 위한 동맥내 화학요법의 안전성과 효능을 평가하고 단일 기관에서의 경험을 제시하며, 높은 기술적 성공률과 유리한 안전 프로파일을 확인했습니다.",
+      "design": "후향적 코호트 연구(Retrospective Cohort Study)",
+      "subjects": "소아 환자 13명 (15안), 2020년 1월부터 2024년 12월까지 단일 기관에서 치료를 받은 환자",
+      "intervention": "동맥내 화학요법(Intra-Arterial Chemotherapy, IAC). 환자는 1차 치료 옵션으로 치료를 받은 그룹 1과 이전 치료 실패 후 치료를 받은 그룹 2로 분류되었습니다.",
+      "results": "대부분의 안구(66.7%)는 ICRB 분류 D군이었으며, 평균 발병 나이는 22.5개월이었습니다. 총 45회의 동맥내 화학요법 절차가 진행되었으며, 97.8%의 경우에 성공적인 카테터 삽입이 이루어졌습니다. 경미한 시술 관련 합병증은 8.8%의 세션에서 관찰되었으며, 심각한 전신 부작용은 없었습니다. 시력은 치료받은 안구의 93.3%에서 유지되거나 개선되었습니다. 안구 적출술이 필요한 환자는 없었고, 추적 기간 동안 전이 또는 사망 사례는 발생하지 않았습니다.",
+      "implication": "동맥내 화학요법은 안구 망막모세포종에 대한 기술적으로 실현 가능하고 안구 보존 치료법으로 유망하며, 장기적인 효능과 안전성을 확인하기 위해 다학제적 접근 방식 내에서 더 큰 규모의 연구와 더 긴 추적 기간이 필요합니다."
     }
   },
   {
@@ -2362,13 +2179,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "투과형 헤드 마운트 디스플레이를 이용한 경피적 생검에서 광학 투과형과 비디오 투과형의 비교 폐인 연구",
-      "one_line": "Magic Leap 2와 Apple Vision Pro를 사용한 투과형 헤드 마운트 디스플레이가 초음파 안내 경피적 생검에서 초보자에게 더 큰 이점을 제공하는 것으로 나타났다.",
-      "design": "전향적 코호트 연구",
-      "subjects": "16명의 방사선 전문의 (경험자 5명, 초보자 11명)",
-      "intervention": "투과형 헤드 마운트 디스플레이(Magic Leap 2와 Apple Vision Pro)를 이용한 경피적 생검",
-      "results": "초보 방사선 전문의는 XR을 사용할 때 더 높은 정확도를 보였으며, 특히 혈관에 가까운 복잡한 장애물이 있는 경우 성공률이 증가하였다. (Magic Leap 2: 18%, Apple Vision Pro: 36%). 또한 초보자와 고급 전문의 모두 XR을 사용할 때 시간 단축 효과를 보였다.",
-      "implication": "Apple Vision Pro는 Magic Leap 2와 유사한 성능을 보여, 향후 연구 및 임상 적용에서 더 많은 활용이 가능하다."
+      "title_ko": "피부경유 생검 시 광학 시야 투과형(Optical See-Through) 및 비디오 시야 투과형(Video See-Through) 헤드 마운트 디스플레이(Head-Mounted Display) 확장 현실(XR)의 비교 유효성 연구: 팬텀 연구",
+      "one_line": "초보 기사는 광학 시야 투과형(ML2) 및 비디오 시야 투과형(AVP) 헤드 마운트 디스플레이(XR)를 사용할 때 피부경유 생검의 정확도가 향상되었으며, 숙련된 기사는 AVP가 정신적 부담을 더 크게 느꼈다.",
+      "design": "전향적 코호트 연구(Prospective Cohort Study)",
+      "subjects": "16명의 방사선과 의사 (경험 많은 의사 5명, 초보 의사 11명)",
+      "intervention": "피부경유 생검 시술 (XR 미사용 2회, ML2 사용 2회, AVP 사용 2회). 두 가지 난이도(깊이 및 혈관 근접성)의 병변을 표적으로 삼음.",
+      "results": "초보 의사는 경험 많은 의사보다 XR의 이점을 더 크게 보였으며, 특히 혈관 근처의 복잡한 병변 표적 정확도가 향상되었다. XR 사용 시 성공률은 다음과 같았다: 기존(Conventional): 1/11, ML2: 2/11, AVP: 4/11. 표적까지 평균 거리(Mean Distance to Target)는 기존: 17.95 ± 9.14 mm, ML2: 14.21 ± 6.27 mm, AVP: 12.02 ± 7.19 mm.  초보 의사의 천자 시간(Puncture Time)은 ML2: 기준 대비 68.1% 감소, AVP: 기준 대비 56.9% 감소. 숙련된 의사의 천자 시간은 ML2: 기준 대비 79.0% 감소, AVP: 기준 대비 61.7% 감소.  AVP는 경험 많은 의사에게 정신적 부담(Mental Demand)이 더 크게 느껴졌으며 (평점: 기존 12, ML2 11, AVP 17), 초보 의사는 기존 천자와 유사한 수준의 정신적 부담을 느꼈다 (평점: 기존 9, ML2 9, AVP 12).",
+      "implication": "AVP는 ML2와 유사한 성능을 보이며, 인터벤션 영상의학 분야의 추가 연구 및 임상 적용 가능성을 제시한다. 초보 기사는 XR 시스템에 잘 적응하며, 숙련된 기사는 AVP 사용 시 정신적 부담을 고려해야 한다."
     }
   },
   {
@@ -2403,13 +2220,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "메타분석: 인터벤션 종양학에서의 역할과 한계",
-      "one_line": "인터벤션 종양학 분야에서 메타분석의 현재 상태와 그 중요성에 대한 평가",
-      "design": "문헌 검토 및 메타분석",
-      "subjects": "문헌 검색을 통해 식별된 다양한 연구 유형 (연구 수는 시간 경과에 따른 변화를 보임)",
-      "intervention": "시스템 리뷰와 메타분석을 통한 임상 의사결정 지침 제공",
-      "results": "최근 몇 년 동안 원저의 수가 상대적으로 안정적이었으나, 시스템 리뷰 및 메타분석의 수는 크게 증가함. 이는 새로운 전망적 연구보다 기존 연구 평가에 더 큰 중점을 두고 있음을 나타냄.",
-      "implication": "인터벤션 종양학에서 메타분석은 결정적인 지표로 보다는 방법론 도구로서, 결론의 정확성은 기본 연구의 품질, 일관성 및 관련성을 크게 의존함."
+      "title_ko": "메타분석: 신성한 성배인가?",
+      "one_line": "영상종양학(Interventional Oncology, IO) 분야에서 메타분석의 활용 현황을 평가하고, 메타분석의 한계와 중요성을 강조하는 리뷰 논문이다.",
+      "design": "메타분석 (체계적 문헌 고찰)",
+      "subjects": "PubMed 데이터베이스에 등재된 영상종양학 관련 논문",
+      "intervention": "PubMed 검색을 통해 지난 수십 년간 발표된 다양한 유형의 논문 분석 (원발 논문, 체계적 리뷰, 메타분석 등)",
+      "results": "지난 수십 년간 원발 논문의 수는 비교적 안정적이었으나, 체계적 리뷰(Systematic Review) 및 메타분석(Meta-Analysis)의 수는 크게 증가했다. 원발 논문의 수 변화에 비해 체계적 리뷰 및 메타분석의 수가 상대적으로 증가하는 경향을 보였다. GRADE(Grading of Recommendations Assessment, Development and Evaluation) 접근법을 통한 증거 품질 평가, PRISMA(Preferred Reporting Items for Systematic Reviews and Meta-Analyses) 가이드라인 준수, 그리고 편향 위험(Risk of Bias) 및 출판 편향(Publication Bias)과 같은 일반적인 문제점들이 논의되었다.",
+      "implication": "메타분석은 영상종양학 분야에서 결정적인 벤치마크(Benchmark)로 간주되어서는 안 되며, 오히려 근본적인 연구의 품질, 일관성, 관련성에 따라 결론이 달라지는 방법론적 도구로 활용되어야 한다."
     }
   },
   {
@@ -2427,6 +2244,66 @@
     "is_interest": false,
     "interest_category": null,
     "summary": null
+  },
+  {
+    "pmid": "41941923",
+    "doi": "10.1016/j.jvir.2026.108783",
+    "title": "Impact of Intravascular Ultrasound in Endovascular Interventions for Chronic Venous Insufficiency with Venous Stasis Ulcers.",
+    "abstract": "PURPOSE: Intravascular ultrasound (IVUS) during venography in patients with chronic venous disease potentially improves identification of significant central venous stenoses. We hypothesized that IVUS use increases the rate of ulcer healing through identification and treatment of venous stenoses not visualized on venography alone. MATERIALS AND METHODS: A retrospective review was performed of 170 patients (104 males, 66 females; mean age 64 years) with Clinical, Etiology, Anatomy and Pathophysiology (CEAP) 6 disease undergoing venography and intervention for active venous ulcers in 178 limbs at a single tertiary care center from 2010-2024. Patient demographics, ulcer characteristics, interventions performed and outcomes were reviewed. Procedures with venography and with (n=83 limbs, 47%) or without IVUS (n=95 limbs, 53%) were compared. Analysis assessed baseline characteristics and procedural outcomes, including ulcer healing rates, symptom scores, and healthcare utilization. RESULTS: Patients who underwent IVUS assessment had a higher rate of complete ulcer healing (27% vs 13%, odds ratio 2.8, p = 0.02) and larger decrease in ulcer size (p< 0.001). There was no significant difference in Venous Clinical Severity Score (VCSS) (p = 0.08). Lower healthcare utilization was observed in the IVUS group (13 wound care visits and 24 home health visits per patient-year, versus 14 wound care visits and 38 home health visits per patient-year), although this did not reach statistical significance (p = 0.06). CONCLUSION: In this retrospective cohort study, patients with active venous ulcers who underwent IVUS and venography experienced improved ulcer healing in comparison to those who underwent venography alone.",
+    "authors": [
+      "Semanek Michael",
+      "Li Xin",
+      "Vance Ansar Z",
+      "D'Angelo David W",
+      "Pugliese Douglas",
+      "Clark Timothy W I"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-04-04",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "만성 정맥 부전 및 정맥 부동 울창 환자에서 혈관 내 초음파(IVUS)가 혈관 내 시술에 미치는 영향",
+      "one_line": "본 연구는 혈관 내 초음파(IVUS) 사용이 정맥 부동 울창 환자의 궤양 치유율을 향상시킬 수 있음을 시사합니다.",
+      "design": "후향적 연구",
+      "subjects": "대상: 64세 평균 연령의 남성 104명, 여성 66명, 총 170명 (178개 사지)",
+      "intervention": "시술: 정맥혈관조영술(Venography)과 혈관 내 초음파(IVUS)를 이용한 혈관 내 시술 (IVUS군: 83개 사지, 47%; IVUS 미사용군: 95개 사지, 53%)",
+      "results": "IVUS군에서 완전 궤양 치유율이 27% vs 13%로 높았으며 (odds ratio 2.8, p = 0.02), 궤양 크기 감소폭이 더 컸습니다 (p< 0.001). 정맥 임상 중증도 점수(VCSS)는 유의한 차이를 보이지 않았습니다 (p = 0.08). 의료 이용량은 IVUS군에서 연간 환자당 13회 상처 치료 방문 및 24회 방문 간호 서비스 방문으로, IVUS 미사용군(연간 환자당 14회 상처 치료 방문 및 38회 방문 간호 서비스 방문)보다 적었으나 통계적 유의성은 달성하지 못했습니다 (p = 0.06).",
+      "implication": "혈관 내 초음파(IVUS)를 이용한 정맥혈관조영술(Venography)은 정맥 부동 울창 환자의 궤양 치유율을 향상시킬 수 있으며, 잠재적으로 의료 이용량을 감소시킬 수 있습니다. 하지만 의료 이용량 감소 효과는 통계적으로 유의하지 않았습니다."
+    }
+  },
+  {
+    "pmid": "41941922",
+    "doi": "10.1016/j.jvir.2026.108784",
+    "title": "Efficacy and Safety of Transarterial Radioembolization Following Inferior Phrenic Artery Glue Embolization for Flow Redistribution in Hepatocellular Carcinoma.",
+    "abstract": "PURPOSE: To assess the efficacy and safety of transarterial radioembolization (TARE) following inferior phrenic artery (IPA) glue embolization for flow redistribution in hepatocellular carcinoma (HCC). MATERIALS AND METHODS: This study included 37 consecutive patients with HCC who underwent TARE following IPA glue embolization for flow redistribution between November 2021 and January 2026. Tumor response, local tumor progression-free survival (LTPFS), progression-free survival (PFS), overall survival (OS), and adverse events were retrospectively analyzed. RESULTS: The best response of the index tumor was complete response in 15 patients (40.5%), partial response in 18 (48.6%), and stable disease in 4 (10.8%), resulting in an objective response rate of 89.2%. The median LTPFS, PFS, and OS were 31.7, 12.5, and 31.7 months, respectively. The 12-, 24-, and 36-month LTPFS rates were 77.4%, 51.6%, and 25.8%; PFS rates were 52.0%, 29.3%, and 19.6%; and OS rates were 71.9%, 68.3%, and 48.8%, respectively. Furthermore, severe adverse events included cholecystitis (n = 2, 5.4%), prolonged prothrombin time (n = 1, 2.7%), acute kidney injury (n = 1, 2.7%), infection (n = 1, 2.7%), and radiation pneumonitis (n = 1, 2.7%). All severe adverse events were reversible with appropriate treatment, including steroid therapy for radiation pneumonitis. However, one additional patient experienced a fatal treatment-related death due to a procedure-related complication, specifically radiation pneumonitis. CONCLUSION: TARE following IPA glue embolization for flow redistribution in HCC appears to be an effective treatment and is generally well-tolerated. However, meticulous lung dosimetry is critical to ensure patient safety and minimize the risk of severe complications.",
+    "authors": [
+      "Kim Gun Ha",
+      "Kim Jeongyeon",
+      "Ko Eunbyeol",
+      "Oh Minyoung",
+      "Sung Changhwan",
+      "Kim Jin Hyoung",
+      "Gwon Dong Il"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-04-04",
+    "journal": "JVIR",
+    "is_interest": true,
+    "interest_category": "hepatobiliary",
+    "summary": {
+      "title_ko": "간세포암종(Hepatocellular Carcinoma, HCC)에서 하둔간동맥(Inferior Phrenic Artery, IPA) 접착제 색전술 후 방사성 미세구체 색전술(Transarterial Radioembolization, TARE)의 유효성 및 안전성 평가",
+      "one_line": "간세포암종 환자에서 하둔간동맥 접착제 색전술 후 방사성 미세구체 색전술을 시행하여 혈류 재분배를 유도한 결과, 높은 반응률과 적절한 생존율을 보였으나, 폐 합병증 발생 가능성에 대한 주의가 필요하다.",
+      "design": "후향적 증례 연구",
+      "subjects": "간세포암종 환자 37명 (N=37)",
+      "intervention": "하둔간동맥 접착제 색전술 후 방사성 미세구체 색전술 (TARE following IPA glue embolization)",
+      "results": "종괴 반응률(objective response rate) 89.2%, 국소 종양 진행 없는 생존 기간(local tumor progression-free survival, LTPFS) 중앙값 31.7개월, 무진행 생존 기간(progression-free survival, PFS) 중앙값 12.5개월, 전체 생존 기간(overall survival, OS) 중앙값 31.7개월.",
+      "implication": "하둔간동맥 접착제 색전술 후 방사성 미세구체 색전술은 간세포암종 치료에 효과적이며, 혈류 재분배를 통해 치료 효과를 높일 수 있다.",
+      "detailed_results": "• 종괴 반응: 완전 반응(complete response) 15명 (40.5%), 부분 반응(partial response) 18명 (48.6%), 안정 병변(stable disease) 4명 (10.8%).\n• LTPFS: 12개월 77.4%, 24개월 51.6%, 36개월 25.8%.\n• PFS: 12개월 52.0%, 24개월 29.3%, 36개월 19.6%.\n• OS: 12개월 71.9%, 24개월 68.3%, 36개월 48.8%.\n• 심각한 부작용: 담낭염(cholecystitis) 2명 (5.4%), 프로트롬빈 시간 연장(prolonged prothrombin time) 1명 (2.7%), 급성 신장 손상(acute kidney injury) 1명 (2.7%), 감염(infection) 1명 (2.7%), 방사선 폐렴(radiation pneumonitis) 1명 (2.7%).\n• 방사선 폐렴으로 인한 치명적 치료 관련 사망 1명 발생.",
+      "critique": "본 연구는 후향적 증례 연구로, 연구 대상 환자의 선택 편향 및 데이터 수집의 한계가 존재한다. 또한, 장기적인 추적 관리가 필요하며, 방사선 폐렴 발생 위험을 줄이기 위한 폐 방사선량 측정(lung dosimetry)의 중요성을 강조하고 있다. 기존 연구와 비교했을 때, 하둔간동맥 접착제 색전술을 병행하여 방사성 미세구체 색전술의 효과를 높이는 전략은 새로운 접근 방식이며, 추가적인 전향적 연구를 통해 그 효과를 검증할 필요가 있다.",
+      "clinical_application": "간세포암종 환자에서 방사성 미세구체 색전술을 시행하기 전에 하둔간동맥 접착제 색전술을 고려하여 혈류 재분배를 유도하는 것이 치료 효과를 높일 수 있다. 하지만, 방사선 폐렴과 같은 심각한 부작용 발생 가능성을 염두에 두고, 폐 방사선량 측정 및 환자 모니터링을 철저히 해야 한다."
+    }
   },
   {
     "pmid": "42051059",
@@ -2523,16 +2400,16 @@
     "is_interest": true,
     "interest_category": "hepatobiliary",
     "summary": {
-      "title_ko": "기저 고빌리루빈혈증을 가진 간세포암 환자에서 세그먼트별 방사능색전술(TARE)의 안전성 및 다운스테이징률 평가",
-      "one_line": "기저 고빌리루빈혈증을 가진 간세포암 환자에서 세그먼트별 TARE는 높은 다운스테이징률과 관리 가능한 독성을 보이며 안전하게 수행될 수 있음.",
-      "design": "후향적 연구",
-      "subjects": "119명의 간세포암 환자 (중앙값 연령: 64세, IQR: 58-71)",
-      "intervention": "세그먼트별 방사능색전술(TARE)",
-      "results": "TARE 후 중등도 이상의 빌리루빈 독성은 1개월 및 3개월 시점에서 각각 1.0%, 6개월 시점에서 8.0%로 관찰되었음. 전체 생존기간(OS) 중앙값은 대수술 그룹에서는 도달하지 않았고, 보조 치료 그룹에서는 22.0개월 (95% CI: 18.0-NC)이었음.",
-      "implication": "기저 고빌리루빈혈증을 가진 간세포암 환자에서 세그먼트별 TARE는 높은 다운스테이징률과 관리 가능한 독성을 보이며 안전하게 수행될 수 있음을 시사함.",
-      "detailed_results": "TARE의 중앙값 흡수량은 211 Gy (IQR: 157-318), 치료 부피는 160 cc (IQR: 109-227)였음. 전체 간 부피는 1402 cc (IQR: 1136-1830)로, 치료받은 간 부피의 비율은 중앙값으로 11.0% (IQR: 8.2-15.5)였음. 기저 TBili는 중앙값으로 2.7 mg/dL (IQR: 2.3-3.2)로 관찰되었으며, 시간 경과에 따라 TBili와 알부민 수치가 유의하게 변화하였으나, ALBI 등급은 안정적이었음. 다운스테이징 그룹에서 67.0%가 성공적으로 다운스테이징 되었고, 이중 2명이 간 이식을 받았으며, 브리지링 그룹에서는 92.0%가 미란 기준 내에 있었음.",
-      "critique": "연구는 단일 기관에서 수행된 후향적 연구로, 잠재적인 선택 편향이 있을 수 있음. 또한, TARE의 효과를 평가하는 데 있어 간 이식을 받은 환자들의 비율이 상대적으로 낮았으며, 이를 고려할 필요성이 있음.",
-      "clinical_application": "기저 고빌리루빈혈증을 가진 간세포암 환자의 치료 옵션으로 세그먼트별 TARE를 고려할 수 있으며, 이는 높은 다운스테이징률과 관리 가능한 독성을 보이는 것으로 나타남."
+      "title_ko": "고빌리루빈혈증이 있는 간세포암 환자에서 부분 간동맥방사성색전술(TARE)의 안전성 및 교량/병기 하락 성공률 평가",
+      "one_line": "고빌리루빈혈증이 있는 간세포암 환자에서 부분 간동맥방사성색전술(TARE)은 안전하며, 간이식 교량 또는 병기 하락에 높은 성공률을 보이며, 관리 가능한 독성을 나타낸다.",
+      "design": "후향적 단일 기관 연구",
+      "subjects": "간세포암 환자 119명 (중앙값 연령: 64세, IQR: 58-71세), 부분 간동맥방사성색전술(TARE) 129회 시행",
+      "intervention": "부분 간동맥방사성색전술(TARE)",
+      "results": "흡수선량 중앙값 211 Gy (IQR: 157-318), 치료 부피 160 cc (IQR: 109-227), 전체 간 부피 1402 cc (IQR: 1136-1830), 치료된 간의 비율 11.0% (IQR: 8.2-15.5). 기준 빌리루빈(TBili) 중앙값 2.7 mg/dL (IQR: 2.3-3.2). 3/4등급 빌리루빈 독성 1개월 및 3개월 시점 1.0%, 6개월 시점 8.0% 발생. 전체 생존율(OS) 중앙값은 도달하지 않음 (95% CI: 59.0개월 - NC). 완화 치료군(palliative group)의 전체 생존율 중앙값 22.0개월 (95% CI: 18.0-NC), 교량 치료군(bridging group)의 전체 생존율은 도달하지 않음. 71명의 교량 치료 환자 중 92.0%가 밀란 기준(Milan criteria) 내에 유지되었으며, 78.0%가 간이식을 받음. 6명의 병기 하락(downstaging) 환자 중 67.0%가 성공적으로 병기 하락되었으며, 2명이 간이식을 받음.",
+      "implication": "고빌리루빈혈증이 있는 간세포암 환자에게 부분 간동맥방사성색전술(TARE)은 간이식 가능성을 높이는 안전하고 효과적인 치료 옵션이 될 수 있다.",
+      "detailed_results": "기준 빌리루빈(TBili) 및 알부민(albumin) 수치는 시간이 지남에 따라 유의미하게 변화했지만, 사후 검정(post-hoc testing) 결과 시간 경과에 따른 차이는 없었으며, ALBI 등급은 안정적이었다(P=0.900). 교량 치료 환자의 92.0%가 밀란 기준 내에 유지되었고, 78.0%가 간이식을 받았다. 병기 하락 환자의 67.0%가 성공적으로 병기 하락되었고, 2명이 간이식을 받았다. 3/4등급 빌리루빈 독성은 6개월 시점에 8.0%로 나타났다.",
+      "critique": "본 연구는 후향적 연구이므로 선택 편향(selection bias)의 가능성이 있으며, 단일 기관에서 시행되었으므로 결과를 일반화하는 데 제한이 있을 수 있다. 또한, 장기적인 추적 관찰 데이터가 부족하여 장기적인 생존율에 대한 평가는 제한적이다.",
+      "clinical_application": "고빌리루빈혈증이 있는 간세포암 환자에게 부분 간동맥방사성색전술(TARE)을 고려할 때, 간이식 가능성을 높이기 위한 교량 또는 병기 하락 치료 전략으로 활용할 수 있다. 환자의 간 기능 상태를 면밀히 모니터링하고 독성 발생 여부를 주의 깊게 관찰해야 한다."
     }
   },
   {
@@ -2572,16 +2449,16 @@
     "is_interest": true,
     "interest_category": "nonvascular",
     "summary": {
-      "title_ko": "내시경 담도 스텐트를 통한 경피적 담관 조영술을 이용한 PTBD의 기술적 가능성과 안전성 평가",
-      "one_line": "내시경 담도 스텐트를 통한 경피적 담관 조영술은 비확장된 담관에서 PTBD의 안전하고 실용적인 방법임을 확인하였다.",
-      "design": "후향적 연구 (retrospective study)",
-      "subjects": "15명의 환자, 총 17건의 시술",
-      "intervention": "기존 내시경 담도 스텐트를 통한 경피적 담관 조영술 및 PTBD",
-      "results": "모든 시술이 기술적으로 성공하였으며 중대한 부작용은 없었다. 또한, 스텐트 펀칭은 후속 스텐트 관리에 문제가 되지 않았다.",
-      "implication": "비확장된 담관에서 PTBD를 수행할 때 기존 내시경 담도 스텐트를 통한 경피적 담관 조영술이 안전하고 실용적인 방법임을 시사한다.",
-      "detailed_results": "15명의 환자 중 3명은 재시술이 필요하였으며, 전체적으로 시술 기간 동안 중대한 부작용은 발생하지 않았다. 평균 추적 기간은 제공되지 않았으나, 모든 환자의 후속 스텐트 관리에 문제가 없었다.",
-      "critique": "연구는 후향적이며 샘플 사이즈가 작아 일반화하기 어렵다는 한계점이 있다. 또한, 연구 결과의 외삽성을 확인하기 위해서는 추가적인 전향적 연구가 필요하다.",
-      "clinical_application": "비확장된 담관에서 PTBD를 수행할 때 기존 내시경 담도 스텐트를 통한 경피적 담관 조영술은 안전하고 실용적이며, 특히 내시경 접근이 어려운 환자들에게 유용하다."
+      "title_ko": "기존 내시경 담즙 스텐트 직접 천자 시 경피경간담즙 배액술(PTBD)의 기술적 성공률 및 안전성 평가",
+      "one_line": "수술적 변형 또는 불량한 임상 상태로 내시경적 역행 담즙 배액술(ERBD)이 불가능한 환자에서 기존 내시경 담즙 스텐트를 직접 천자하여 경피경간담즙 배액술(PTBD)을 용이하게 하는 것이 안전하고 기술적으로 실현 가능하다는 것을 시사합니다.",
+      "design": "후향적 연구",
+      "subjects": "총 15명의 환자, 17회 시술 (N=17)",
+      "intervention": "기존 내시경 담즙 스텐트(endoscopic biliary stents) 직접 천자를 통한 경피경간담즙 배액술(PTBD)",
+      "results": "모든 시술이 기술적으로 성공적이었으며, 심각한 부작용은 발생하지 않았습니다. 스텐트 천자는 스텐트 손상이나 후속 스텐트 관리의 어려움과 관련이 없었습니다. 재시술은 3건에서 필요했습니다.",
+      "implication": "기존 내시경 담즙 스텐트 직접 천자는 비확장된 담즙관을 가진 환자에서 경피경간담즙 배액술(PTBD)을 위한 안전하고 실현 가능한 선택지가 될 수 있습니다.",
+      "detailed_results": "기술적 성공률은 100%였으며, 심각한 부작용은 보고되지 않았습니다. 스텐트 천자는 스텐트 손상이나 후속 스텐트 관리에 어려움을 초래하지 않았습니다. 재시술은 3건(17.6%)에서 필요했습니다.  환자들은 수술적 변형 또는 불량한 임상 상태로 인해 ERBD가 불가능한 상태였습니다.",
+      "critique": "본 연구는 후향적 디자인과 작은 표본 크기를 가지고 있어 일반화에 제한이 있습니다.  더욱 큰 규모의 전향적 연구를 통해 결과를 확인해야 합니다.",
+      "clinical_application": "수술적 변형 또는 불량한 임상 상태로 ERBD가 불가능한 환자에서 경피경간담즙 배액술(PTBD)을 고려할 때, 기존 내시경 담즙 스텐트 직접 천자를 안전하고 효과적인 방법으로 활용할 수 있습니다.  이는 특히 담즙관이 확장되지 않은 경우에 유용할 수 있습니다."
     }
   },
   {
@@ -2734,13 +2611,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "아미카신/실라스틴 나트륨을 이용한 초선택적 경동맥 색전술(TAE)이 만성 발바닥 페시티스에 대한 치료 효과를 평가",
-      "one_line": "초선택적 TAE는 만성 발바닥 페시티스 환자에서 통증 완화에 효과적이며 안전하다.",
-      "design": "후향적 연구",
-      "subjects": "12명의 만성 발바닥 페시티스 환자 (평균 연령: 36세, 남성 50%)",
-      "intervention": "초선택적 경동맥 색전술(TAE)을 이용한 아미카신/실라스틴 나트륨 주입",
-      "results": "기술 성공률은 91.7%였으며, 통증 평가 지표(VAS)는 시술 후 1일에 2.27 (SD ±1.19)로 대폭 감소하여 1년 동안 지속되었다. 임상적 성공률(6개월 후 VAS 점수 50% 이상 감소)은 72.73%를 기록했다.",
-      "implication": "초선택적 TAE는 만성 발바닥 페시티스 환자에서 통증 완화에 효과적이며, 보존적인 치료법으로 치료가 어려운 경우 안전하고 효과적인 대안이 될 수 있다."
+      "title_ko": "보존적 치료에 반응하지 않는족저근막염에 대한 초선택적 간동맥화학색전술(TAE)의 안전성 및 유효성 평가",
+      "one_line": "본 연구는 보존적 치료에 실패한족저근막염 환자에서 초선택적 간동맥화학색전술(TAE)을 시행한 결과, 통증 완화에 효과적이며 안전하다는 것을 확인했습니다.",
+      "design": "후향적 연구 (Retrospective study)",
+      "subjects": "족저근막염 환자 12명 (남성 50%, 평균 연령 36세 [표준편차 ± 9.07])",
+      "intervention": "초선택적 간동맥화학색전술(TAE) - 후경정맥동(PTA) 분지 선택적 색전술 후, 5mL의 요오드화 조영제에 현탁된 500mg의 이미페넴/실라스타틴 나트륨을 사용하여 과혈관성 조영 증상(contrast blush)을 보이는 혈관 색전",
+      "results": "기술적 성공률 91.7% (12명 중 11명에서 후경정맥동(PTA) 분지 초선택적 색전술 성공). 시술 후 1일째 통증 VAS 점수 유의미한 감소 (2.27 [표준편차 ±1.19] vs 7.36 [표준편차 ± 0.92]; P < .0001), 12개월까지 지속. 6개월 시점에서 VAS 점수가 50% 이상 감소한 임상적 성공률 72.73% (11명 중 8명)로 확인되었으며, 12개월까지 유지.",
+      "implication": "보존적 치료에 반응하지 않는족저근막염 환자에게 초선택적 간동맥화학색전술(TAE)은 안전하고 효과적인 통증 완화 방법이 될 수 있으며, 부작용 위험이 낮은 것으로 판단됩니다."
     }
   },
   {
@@ -2761,13 +2638,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "DIVA와 기존 최소 침습법을 이용한 죽상성 담관염 치료 비교",
-      "one_line": "DIVA는 더 심각한 상태에서 빠른 회복을 보여, 추가 연구가 필요하다.",
-      "design": "후향적 단일기관 연구",
-      "subjects": "20명의 죽상성 담관염 환자 (DIVA 그룹: 6명, VARD/ETN 그룹: 14명)",
-      "intervention": "DIVA 시술: 음압(98.9 kPa)을 사용한 청소 및 농양 제거\nVARD/ETN: 비디오 보조 후복막적 농양 제거 또는 내시경 경구적 농양 제거",
-      "results": "DIVA 그룹은 더 심각한 상태에서 시작했지만, VARD/ETN 그룹보다 빠른 회복을 보였음 (평균 이미지 해소 시간: DIVA 48.8일 vs VARD/ETN 110.1일; P = .017). 또한 DIVA 그룹은 모든 환자가 완전히 회복되었으며, 부작용 발생률이 더 낮게 나타났으나 통계적으로 유의미하지는 않았음 (위험비: 0.20; 95% 신뢰구간: 0.03-1.5; P = .161).",
-      "implication": "DIVA 시술은 초기 더 심각한 상태에서도 빠른 회복을 보여, 죽상성 담관염 치료에서 DIVA의 역할에 대한 추가 연구가 필요하다."
+      "title_ko": "괴사성 췌장염에 대한 진공 보조 배액술(DIVA)의 효과: 기존 최소 침습적 치료법과의 비교",
+      "one_line": "괴사성 췌장염 환자를 대상으로 한 연구에서 진공 보조 배액술(DIVA)은 기존의 비디오 보조 후복막 박리술(VARD) 또는 내시경 경식도 괴사성 췌장염 절제술(ETN)에 비해 질병의 빠른 해결을 가져왔으며, 더 심각한 질병 상태에서 시작했음에도 불구하고 더 빠른 해결 시간을 보였다.",
+      "design": "후향적 단일 센터 연구",
+      "subjects": "괴사성 췌장염 환자 20명 (DIVA 6명, VARD/ETN 14명)",
+      "intervention": "진공 보조 배액술(DIVA, negative pressure 98.9 kPa) vs 비디오 보조 후복막 박리술(VARD) 또는 내시경 경식도 괴사성 췌장염 절제술(ETN)",
+      "results": "DIVA 환자는 초기 질병 심각도가 더 높았으며 (Acute Physiology and Chronic Health Evaluation II score, 15.0 vs 6.5; P = .012), 복부 액체 집합 해결까지 걸리는 시간이 더 짧았다 (48.8일 vs 110.1일, P = .017). DIVA 환자는 모두 해결되었고, VARD/ETN 환자의 12명(86%)만 해결되었다. DIVA는 부작용 발생 위험이 낮았으나 통계적으로 유의미하지 않았다 (risk ratio, 0.20; 95% CI, 0.03-1.5; P = .161).",
+      "implication": "진공 보조 배액술(DIVA)은 괴사성 췌장염 치료에 있어 잠재적인 치료 옵션이며, 향후 추가 연구를 통해 DIVA의 역할과 효과를 검증할 필요가 있다."
     }
   },
   {
@@ -2789,13 +2666,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "갑상선 기능항진증 병변 위치가 치료 성공률과 부작용에 미치는 영향",
-      "one_line": "갑상선 기능항진증 병변 위치와 관계없이 마이크로파 점화 요법의 성공률은 높고 부작용 위험도 낮으나, Perrier 분류 D 유형에서는 성공률이 상대적으로 낮음",
-      "design": "후향적 관찰 연구",
-      "subjects": "갑상선 기능항진증 병변을 가진 환자 285명",
-      "intervention": "마이크로파 점화 요법",
-      "results": "전체 성공률은 88.4%였으며, 일시적 목소리 저하 위험은 모든 그룹에서 3.8%였다. Perrier 분류 D 유형(재생성 신경 근처)에서는 절차 성공률이 가장 낮았으나 (72.2%), 위치에 따른 부작용 위험이나 절차 성공률의 통계적으로 유의미한 차이는 없었다.",
-      "implication": "마이크로파 점화 요법은 갑상선 기능항진증 병변의 모든 위치에서 높은 성공률과 낮은 부작용 위험을 보임. 그러나 Perrier 분류 D 유형에서는 성공률이 상대적으로 낮으나, 이 차이는 통계적으로 유의미하지 않았다."
+      "title_ko": "부갑상선 종양 위치에 따른 치료 성공률 및 부작용 발생률 연구",
+      "one_line": "부갑상선 종양의 위치에 따라 치료 성공률이 차이를 보이지만, 통계적으로 유의미하지 않았으며, 마이크로파 열전기 치료는 전반적으로 높은 성공률과 낮은 부작용 위험을 보였다.",
+      "design": "후향적 관찰 증례 연구 (Retrospective, observational case study)",
+      "subjects": "대상: 부갑상선 종양 환자 285명 (N=285)",
+      "intervention": "시술 또는 중재: 마이크로파 열전기 치료 (Microwave ablation therapy)",
+      "results": "전체 시술 성공률은 88.4%였으며, 일시적인 쉰 목소리 발생 위험은 3.8%였다. Perrier Type D 위치의 종양에서 시술 성공률은 72.2%로 가장 낮았으나, 위치별 그룹 간 시술 성공률 또는 일시적인 쉰 목소리 발생 위험에는 통계적으로 유의미한 차이가 없었다.",
+      "implication": "마이크로파 열전기 치료는 부갑상선 종양의 위치에 관계없이 높은 성공률을 보이며, 부작용 위험도 낮은 편이다. Perrier Type D 위치의 종양은 성공률이 낮을 수 있으므로 주의가 필요하지만, 추가적인 연구가 필요하다."
     }
   },
   {
@@ -2826,13 +2703,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "inguinal 림프절 내부 n-부틸-2-사이아노아크릴레이트 색전술 후 하지 림페데마 발생 및 임상 경과 평가",
-      "one_line": "inguinal 림프절 내부 nBCA 색전술은 수술 후 림포리에라를 효과적으로 제어하지만, 기존의 하지 림페데마 악화를 유발할 수 있다.",
-      "design": "후향적 연구",
-      "subjects": "26명 (남성 24명, 여성 2명; 평균 연령 69.5세)",
-      "intervention": "inguinal 림프절 내부 n-부틸-2-사이아노아크릴레이트(nBCA) 색전술",
-      "results": "임상적 성공률은 24명 (92.3%)으로, 평균적으로 6일 후 증상이 호전되었다. 색전술 이후 하지 림페데마가 악화된 환자는 6명 (23.1%)로, 그 중 4명은 일시적인 악화였고 2명은 지속적인 악화였다. 모든 경우는 기존의 부종이 악화된 것이었으며, 두 명의 지속적 림페데마 환자는 과거에 펄스 림프절 절제술을 받았던 환자들이었다.",
-      "implication": "inguinal 림프절 내부 nBCA 색전술은 수술 후 림포리에라를 효과적으로 제어할 수 있으나, 이전 펄스 림프절 절제술을 받았던 환자에서 기존의 하지 림페데마 악화가 발생할 가능성이 있다. 따라서 비목적 색전을 최소화하기 위해 가능한 한 빠르게 누수 부위에 가까운 위치에서 선택적으로 색전술을 수행해야 한다."
+      "title_ko": "체부 림프절(Inguinal Lymph Node) 내 n-부틸-2-시아노아크릴레이트(nBCA) 색전술(Embolization) 후 하지부종(Lower-Limb Lymphedema) 발생률 및 임상 경과 평가",
+      "one_line": "체부 림프절 내 nBCA 색전술은 수술 후 림프관누출(Lymphorrhea)에 효과적이지만, 기존의 하지부종을 악화시킬 수 있으며, 특히 골반 림프절 절제술(Pelvic Lymph Node Dissection) 과거력이 있는 환자에게서 더 흔하게 발생한다.",
+      "design": "후향적 연구(Retrospective Study)",
+      "subjects": "환자 26명 (남성 24명, 여성 2명, 평균 연령 69.5세)",
+      "intervention": "초음파(Ultrasound, US) 유도 하에 체부 림프절을 천자(Puncture)하고, 에티오디즈드 오일(Ethiodized Oil)과 nBCA를 2:1 비율로 혼합하여 색전술을 시행 (에티오디즈드 오일:nBCA)",
+      "results": "임상적 성공률(Clinical Success)은 26명 중 24명(92.3%)으로 나타났으며, 증상 완화까지의 중간 시간은 6일 (2-21일 범위)이었다. 하지부종 악화는 6명(23.1%)에서 관찰되었으며, 이 중 4명은 가역적(Reversible)이었고 2명은 지속적(Persistent)이었다. 새로운 하지부종 발생은 없었고, 모두 기존 부종의 악화였다. 골반 림프절 절제술 과거력이 있는 환자 2명에서 지속적인 부종이 관찰되었다. 시술 관련 사망 또는 주요 합병증은 없었다.",
+      "implication": "체부 림프절 내 nBCA 색전술은 수술 후 림프관누출 관리에 효과적이지만, 기존의 하지부종 악화 가능성을 고려해야 한다. 특히 골반 림프절 절제술 과거력이 있는 환자에서는 더욱 주의해야 하며, 하하지부 림프 배출 경로의 비표적 색전(Nontarget Embolization)을 최소화하기 위해 가능한 한 선택적으로, 누출 부위와 가까운 곳에서 색전술을 시행해야 한다."
     }
   },
   {
@@ -2878,13 +2755,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "브론хи올라르 아테리올 케모색전술과 tislelizumab 병용 요법이 진행성 비소세포폐암에서의 효과와 안전성 평가",
-      "one_line": "브론хи올라르 아테리올 케모색전술(BACE)과 tislelizumab 병용요법은 진행성 비소세포폐암(NSCLC) 환자에서 유의한 효과와 관용 가능한 안전성을 보여주며, 추가 임상시험을 지원한다.",
-      "design": "전향적 단일군 연구 (Phases II)",
-      "subjects": "Stage IIIA-IIIC 비소세포폐암(NSCLC) 환자, N=30",
-      "intervention": "브론хи올라르 아테리올 케모색전술(BACE) 후 tislelizumab 200mg 주사, 3주 간격으로 진행성 또는 부작용 발생 시까지 투여",
-      "results": "진행무반응기간(PFS): 중앙값 10.5개월 (95% CI: 7.8-13.2), 전체 생존기간(OS): 중앙값 15.0개월 (95% CI: 8.2-21.8), 객관적 반응률(ORR): 60.0%, 질병 통제율(DCR): 80.0%. 주요 부작용은 등급 1-2의 구역질, 가슴통증 및 빈혈이었으며, 중등도 이상의 부작용은 관찰되지 않았다.",
-      "implication": "BACE와 tislelizumab 병용 요법은 진행성 비소세포폐암(NSCLC) 환자에서 유의한 효과를 보여주며, 추가 임상적 연구가 필요하다."
+      "title_ko": "후진성 비소세포폐암(NSCLC)에서 기관지동맥화학색전술(BACE)과 티스텔리주맙 병용 요법의 효과 및 안전성 평가",
+      "one_line": "본 연구는 기관지동맥화학색전술(BACE)과 티스텔리주맙 병용 요법이 후진성 비소세포폐암(NSCLC) 환자에게 유망한 효과와 안전성을 보이며, 추가적인 무작위 대조 연구를 뒷받침한다는 것을 시사합니다.",
+      "design": "전향적 단일군 2상 연구",
+      "subjects": "대상: 30명 (중앙값 연령 67세, 남성 24명)",
+      "intervention": "기관지동맥화학색전술(BACE) 후 매 3주마다 200mg 티스텔리주맙 투여 (질병 진행, 용납할 수 없는 독성, 연구자 판단에 따른 중단까지)",
+      "results": "무진행 생존 기간(PFS): 중앙값 10.5개월 (95% CI, 7.8-13.2)\n전체 생존 기간(OS): 중앙값 15.0개월 (95% CI, 8.2-21.8)\n객관적 반응률(ORR): 60.0% (30명 중 18명)\n질병 조절률(DCR): 80.0% (30명 중 24명)\nPD-L1 발현, 종양 영양 동맥, 이전 치료 이력은 PFS 및 OS의 예후 인자임\n치료 관련 부작용(TRAEs): CTCAE 버전 4.0에 따라 Grade ≥3의 심각한 부작용은 관찰되지 않음. 흔한 Grade 1-2 TRAEs는 구역질, 흉통, 빈혈\n삶의 질(QoL): 1회 치료 주기 후 전반적, 신체적, 정서적 기능이 기준선 대비 유의미하게 개선됨",
+      "implication": "기관지동맥화학색전술(BACE)과 티스텔리주맙 병용 요법은 후진성 비소세포폐암(NSCLC) 환자에게 효과적이고 안전하며, 향후 무작위 대조 연구를 통해 추가적인 검증이 필요합니다."
     }
   },
   {
@@ -2908,13 +2785,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "알도스테론 측면화 예측을 위한 대조측 억제 지수(CSI)의 진단 도구로서의 가치 평가",
-      "one_line": "대조측 억제 지수가 시뮬레이션된 부정확한 부신 정맥 샘플링(AVS) 조건 하에서 알도스테론 측면화를 예측하는 데 효과적임을 확인하고, 나이와 부신 결절의 존재가 CSI 성능에 미치는 영향을 평가함.",
-      "design": "후향적 연구",
-      "subjects": "2016년 1월 1일부터 2024년 6월 30일까지 부신 정맥 샘플링(AVS)을 받은 원발성 알도스테론증 환자 362명",
-      "intervention": "부정확한 AVS를 시뮬레이션하기 위해 한 쪽 부신의 데이터를 가려서 양측 선택적 연구 재분석, 대조측 억제 지수(CSI) 계산 및 세 가지 임계값(≥1.0, ≥0.5, ≥0.2)에서 성능 평가",
-      "results": "CSI의 평균 값은 측면화된 경우(LI ≥4.0)에 0.33이었고 비측면화된 경우에 3.16으로 차이가 유의미(P < .001). CSI ≤1은 측면화를 지지하는 높은 양성 예측도(PPV, 70%), 민감도(88%), 특이도(94%)를 보였으며, 더 엄격한 임계값(CSI ≤0.5)은 PPV가 98%, 특이도가 99%로 상승했음. CSI ≤0.2는 PPV와 특이도 모두 100%를 달성했으나 민감도는 28%로 감소함. 부신 결절과 함께 CSI를 사용하면 PPV가 향상되었으며, 나이에 따른 결과 일관성이 확인됨.",
-      "implication": "대조측 억제 지수(CSI)는 시뮬레이션된 부정확한 AVS 조건 하에서도 알도스테론 측면화를 예측하는 데 신뢰성을 제공하며, 특히 엄격한 임계값(CSI ≤0.5 및 ≤0.2)과 함께 결절이 있는 경우에 더욱 정확함."
+      "title_ko": "불완전한 부신정맥 채혈 시 측면 억제 지수(CSI)를 이용한 알도스테론 측면화 예측의 유용성 평가",
+      "one_line": "본 연구는 불완전한 부신정맥 채혈(AVS) 상황에서 측면 억제 지수(CSI)가 알도스테론 측면화를 예측하는 데 유용하며, 부신 결절 및 연령에 따른 성능 변화를 확인하였다.",
+      "design": "후향적 연구 (Retrospective study)",
+      "subjects": "대상: 원발성 알도스테론증 환자, N = 362",
+      "intervention": "시술 또는 중재: 부신정맥 채혈(AVS) 재분석 (한쪽 부신을 가려 불완전 채혈 상황 시뮬레이션). 측면 억제 지수(CSI) 계산 및 임계값(≥1.0, ≥0.5, ≥0.2) 설정하여 측면화 지수(LI) ≥4.0을 기준으로 성능 평가.",
+      "results": "측면화된 경우(LI ≥ 4.0)의 평균 CSI는 0.33, 측면화되지 않은 경우(LI < 4.0)는 3.16으로 유의한 차이를 보였다 (P < .001). 부신 결절이 없는 경우, CSI ≤1은 측면화를 시사하며 양성 예측도(PPV) 70%, 민감도(sensitivity) 88%, 특이도(specificity) 94%를 나타냈다. 더 엄격한 임계값(CSI ≤0.5)은 PPV 98%, 특이도 99%, 민감도 61%를, CSI ≤0.2는 PPV 및 특이도 100%, 민감도 28%를 보였다. 부신 결절이 있는 경우, CSI ≤1, ≤0.5, ≤0.2에서 각각 PPV 94%, 99%, 100%를 보였으며, 민감도는 98%에서 64% 사이였다. 연령에 따른 결과의 차이는 없었다.",
+      "implication": "측면 억제 지수(CSI)는 불완전한 부신정맥 채혈(AVS) 상황에서도 알도스테론 측면화를 신뢰성 있게 예측할 수 있으며, 특히 영상 검사 결과와 함께 CSI ≤0.5 또는 ≤0.2 임계값을 적용하면 확정적인 정확도를 얻을 수 있다."
     }
   },
   {
@@ -2937,39 +2814,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "간동맥색전술과 체계적인 제미타빈 + 시스플라틴 병용 치료가 담도암 모델에서 Tregs 및 VEGF에 미치는 영향",
-      "one_line": "간동맥색전술(TAE)과 체계적 제미타빈 + 시스플라틴(GC) 병용 치료가 담도암 동물 모델에서 Tregs와 VEGF의 분비를 감소시키는 효과를 보임",
-      "design": "동물 실험 (전향적)",
-      "subjects": "ICC를 유발한 남성 Sprague-Dawley 대수 24마리",
-      "intervention": [
-        {
-          "control_group": "치료 없음"
-        },
-        {
-          "GC_group": "제미타빈(200 mg/kg) + 시스플라틴(8 mg/kg) 복강 주사 (일주일에 한 번)"
-        },
-        {
-          "TAE_group": "간동맥색전술(TAE)"
-        },
-        {
-          "combination_group": "TAE 후 제미타빈 + 시스플라틴 병용 치료"
-        }
-      ],
-      "results": [
-        {
-          "tumor_volume": "14일 이내에 모든 그룹에서 종양 부피 차이 없음"
-        },
-        {
-          "peripheral_Treg_proportion": "TAE는 말초 Tregs 비율 증가, GC 및 병용 치료로 감소 (병용 치료 그룹: 5.25% [SEM ± 0.76])"
-        },
-        {
-          "intratumoral_Treg_density": "모든 치료 그룹에서 종양 내 Tregs 밀도 감소"
-        },
-        {
-          "VEGF_expression": "TAE 그룹에서 VEGF 발현 증가, 병용 치료 그룹에서 감소 (병용 치료 그룹: 8.68% [SEM ± 1.36] vs 대조군: 18.37% [SEM ± 3.24], P = .0140)"
-        }
-      ],
-      "implication": "간동맥색전술과 체계적 제미타빈 + 시스플라틴 병용 치료는 담도암 동물 모델에서 종양 내 Tregs 및 VEGF의 분비를 감소시켜 면역 조절 효과가 단독 치료보다 우수함을 나타냄"
+      "title_ko": "간내 담관암(ICC) 모델에서 간동맥화학색전술(TACE)과 전신 제미시타빈(gemcitabine) + 시스플라틴(cisplatin) 병용 요법이 조절 T 세포(Tregs) 침윤 및 혈관내피성장인자(VEGF) 발현에 미치는 영향",
+      "one_line": "간내 담관암(ICC) 모델에서 간동맥화학색전술(TACE)과 전신 제미시타빈(gemcitabine) + 시스플라틴(cisplatin) 병용 요법은 단독 요법보다 더 우수한 면역 조절 효과를 나타내며, 종양 내 조절 T 세포(Tregs) 침윤과 혈관내피성장인자(VEGF) 발현을 감소시킨다.",
+      "design": "실험적 연구 (동물 모델)",
+      "subjects": "수컷 Sprague-Dawley(SD) 래트, N = 24 (각 그룹당 6마리)",
+      "intervention": "대조군(무치료), 제미시타빈(200 mg/kg) + 시스플라틴(8 mg/kg) 투여군(GC), 간동맥화학색전술(TACE) 시행군, 간동맥화학색전술(TACE) 후 제미시타빈(200 mg/kg) + 시스플라틴(8 mg/kg) 투여군(TACE + GC)",
+      "results": "14일 이내 종양 크기 변화는 유의미하지 않았으나, 간동맥화학색전술(TACE)은 말초 조절 T 세포(Tregs) 비율을 증가시켰고, 제미시타빈(gemcitabine) + 시스플라틴(cisplatin)과 병용 요법은 감소시켰습니다. 병용 요법군에서 종양 내 조절 T 세포(Tregs) 비율이 가장 낮았으며 5.25% (SEM ± 0.76)였습니다. 혈관내피성장인자(VEGF) 발현은 간동맥화학색전술(TACE)군에서 증가했지만 병용 요법군에서는 감소했습니다 (8.68% [SEM ± 1.36] vs 대조군, 18.37% [SEM ± 3.24]; P = .0140). 모든 치료군에서 종양 내 조절 T 세포(Tregs) 밀도가 대조군에 비해 감소했습니다.",
+      "implication": "간내 담관암(ICC) 치료에 있어 간동맥화학색전술(TACE)과 전신 제미시타빈(gemcitabine) + 시스플라틴(cisplatin) 병용 요법이 면역 조절 효과를 통해 치료 효과를 향상시킬 수 있다는 가능성을 제시합니다."
     }
   },
   {
@@ -3047,13 +2898,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "혈관 내 치료를 위한 대퇴부-무릎동맥 동맥질환 치료에 대한 플라크 특성화 기반 권장사항",
-      "one_line": "다양한 전문가 그룹의 토론을 통해 FP 동맥 질환 치료에서 가장 적절한 혈관 내 중재 방법을 제안합니다.",
-      "design": "수렴적 콘센서스 (Delphi Consensus)",
-      "subjects": "22명의 다학제 전문가들",
-      "intervention": "FP 동맥 질환 치료를 위한 혈관 내 중재 방법, 플라크 형태에 따른 기기 준비 및 정식 치료법 선정",
-      "results": "490개 항목을 대상으로 투표가 이루어졌으며, 이 중 93%인 458개 항목이 콘센서스를 이루었고, 나머지 7%는 비콘센서스로 분류되었습니다.",
-      "implication": "FP 동맥 질환 치료에서 플라크 형태에 따른 혈관 내 중재 방법을 제안하여 임상 의사 결정을 지원하고 최선의 치료 전략을 촉진합니다."
+      "title_ko": "대퇴-경골 동맥 질환에 대한 혈관내 중재 시술의 적절성: 플라크 특성을 기반으로 한 전문가 합의",
+      "one_line": "대퇴-경골 동맥 질환 환자의 플라크 형태에 따른 최적의 혈관내 중재 시술 방법을 결정하기 위한 전문가 합의 도출 연구",
+      "design": "델파이 합의 (Delphi Consensus) - 수정된 델파이 방법론 (Modified Delphi Method)",
+      "subjects": "22명의 다학제 의료진 (multiple disciplines)",
+      "intervention": "플라크 형태에 따른 혈관내 시술 방법 권고 (endovascular intervention of femoropopliteal (FP) arterial disease based on plaque characterization).  플라크 형태 결정 방법, 혈관 준비 및 확장을 위한 선호하는 혈관내 기기 (endovascular devices) 선택, 스텐트 협착 (in-stent restenosis)에 대한 Tosaka 분류를 이용한 시술 방법, 혈관 준비 기기의 안전성 고려 사항 등.",
+      "results": "총 490개의 항목에 대한 투표 결과, 458개(93%) 항목에서 합의에 도달했으며, 32개(7%) 항목은 합의되지 않은 항목으로 분류됨.  합의는 플라크 형태에 따른 혈관 준비 및 확장을 위한 시술 방법 권고에 초점을 맞춤.",
+      "implication": "본 연구는 플라크 형태에 따른 맞춤형 혈관내 중재 시술에 대한 전문가 의견을 제공하여 임상 의사 결정을 지원하고, 기존 지침 기반 치료 경로를 보완하여 최적의 혈관내 중재 시술을 촉진하는 것을 목표로 한다."
     }
   },
   {
@@ -3074,13 +2925,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "전이성 갑상선암 환자에서 부신 생검의 안전성 평가",
-      "one_line": "부신 암환자의 CT 유도 부신 생검은 높은 기술적 및 진단적 성공률을 보였으며, 대부분의 경우 내분비 검사 없이 안전하게 수행될 수 있음.",
-      "design": "후향적 연구",
-      "subjects": "2011년 10월부터 2023년 12월까지 부신 암 또는 의심되는 부신 암을 가진 환자 426명 (남성 249명, 여성 177명; 평균 연령 66.1세 [SD ± 11.0])",
-      "intervention": "CT 유도 부신 생검 (487건)",
-      "results": "기술적 성공률은 99.8% (486/487), 진단적 성공률은 97.1% (473/487)였으며, 내분비 검사를 받은 환자는 전체의 8.2%(40명)에 불과했음. 부신 생검으로 인한 부작용 발생률은 9.2%로 주로 등급 1-2의 부작용이었으며, 등급 3 이상의 중등도 부작용은 6건 (1.2%)였음.",
-      "implication": "부신 암 또는 의심되는 부신 암 환자에서 CT 유도 부신 생검은 높은 성공률과 낮은 부작용 발생률을 보임. 따라서 국제 가이드라인의 권고와 달리, 내분비 검사를 미리 시행하지 않아도 안전하게 부신 생검을 수행할 수 있음."
+      "title_ko": "악성 종양 환자의 부신 생검 시 사전 내분비 평가의 필요성에 대한 안전성 평가 연구",
+      "one_line": "본 연구는 악성 종양 환자의 부신 생검 시 사전 내분비 평가 없이도 안전하게 시술이 가능하며, 뇌종양 발생률이 낮다는 것을 확인했습니다.",
+      "design": "후향적 단일 센터 연구 (Retrospective Single-Center Study)",
+      "subjects": "426명 (남성 249명, 여성 177명; 평균 연령 66.1세 [표준편차 ± 11.0])",
+      "intervention": "컴퓨터 단층 촬영(Computed Tomography, CT) 유도 부신 생검(Adrenal Biopsy) (총 487회)",
+      "results": "기술적 성공률(Technical Success Rate)은 99.8% (486/487), 진단적 성공률(Diagnostic Success Rate)은 97.1% (473/487)였습니다. 기존 악성 종양과 조직학적 소견이 다른 경우는 2.9% (14/487)였습니다. 사전 내분비 평가(Endocrine Assessments)는 40회 (8.2%) 시행되었습니다. 페오크로모시토마(Pheochromocytoma)의 새로운 조직학적 진단은 3건 (3/487, 0.61%) 발생했으며, 이 중 2건(66%)은 기존 악성 종양 환자에게서 발생했습니다. 총 45건 (9.2%)의 부작용이 관찰되었으며, 대부분 1-2등급이었고, 6건은 3등급 (출혈 4건, 고혈압 2건)으로 분류되었습니다. 페오크로모시토마와 관련된 3등급 고혈압 1건이 있었습니다.",
+      "implication": "국제 지침에서 권고하는 바와 달리, 악성 종양 환자의 부신 생검 시 사전 내분비 평가는 필수가 아닐 수 있습니다. 부신 생검 시 사전 내분비 평가를 생략하는 것이 안전할 수 있다는 점을 시사합니다."
     }
   },
   {
@@ -3123,13 +2974,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "무릎 관절염 치료를 위한 신경관개동맥 색전술(GAE)의 잠재적 역할",
-      "one_line": "신경관개동맥 색전술이 무릎 관절염에서 통증 발생과 염증 사이의 순환을 중단시키는 역할을 하는 것으로 제안됨.",
-      "design": "증례 및 문헌 고찰",
-      "subjects": "무릎 관절염 환자",
-      "intervention": "신경관개동맥 색전술(Genicular Artery Embolization, GAE)",
-      "results": "GAE는 무릎 관절염에서 통증 발생과 염증 사이의 순환을 중단시키는 것으로 보고됨. 그러나 장기 효과에 대한 연구가 더 필요함.",
-      "implication": "GAE는 무릎 관절염 치료를 위한 새로운 비침습적 옵션으로 고려될 수 있으며, 임상적으로 추가적인 연구와 검증이 요구됨."
+      "title_ko": "무릎 골관절염(Knee Osteoarthritis)에 대한 제니큘라 동맥 색전술(Genicular Artery Embolization, GAE)의 치료적 역할: 개관",
+      "one_line": "본 논문은 전 세계적으로 증가하는 무릎 골관절염(Knee Osteoarthritis)의 병태생리학적 특징과 제니큘라 동맥 색전술(GAE)이 통증 완화에 미치는 잠재적 치료적 역할을 검토한다.",
+      "design": "내러티브 리뷰 (Narrative Review)",
+      "subjects": "해당 없음 (개관 논문)",
+      "intervention": "제니큘라 동맥 색전술(Genicular Artery Embolization, GAE) - 병리학적 활액막(synovial) 및 피하골(subchondral) 신생혈관(neovascularization)을 표적하여 염증을 줄이는 시술",
+      "results": "본 논문은 GAE가 활액막 염증과 통증 신호 전달의 악순환을 차단할 수 있는 잠재력을 가지고 있다고 제시하지만, 구체적인 수치 데이터는 제시되지 않았다. GAE에 대한 연구가 지난 10년간 꾸준히 증가하고 있다.",
+      "implication": "무릎 골관절염(Knee Osteoarthritis) 환자의 통증 완화를 위한 새로운 최소 침습적 치료 옵션으로서 제니큘라 동맥 색전술(GAE)의 가능성을 제시하며, 인터벤션 영상의학 전문의는 무릎 골관절염(Knee Osteoarthritis)의 병태생리학과 GAE의 작용 기전을 이해해야 한다."
     }
   },
   {
@@ -3150,13 +3001,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "간静脉微波消融与射频消融治疗下肢静脉曲张的疗效和安全性比较",
-      "one_line": "微波消融(MWA)和射频消融(RFA)在治疗下肢静脉曲张(LLVV)方面具有相似的有效性和安全性，但RFA在住院天数和操作时间上略占优势。",
-      "design": "메타분석 (Meta-analysis)",
-      "subjects": "887명의 환자 (436명이 MWA를 받고, 451명이 RFA를 받음)",
-      "intervention": "간静脉微波消融(MWA) vs 射频消融(RFA)治疗下肢静脉曲张",
-      "results": "两组在术后一个月和一年的闭塞率分别为100%和97.5%-98.0%，无显著差异；生活质量评分也未见明显不同。次要结果方面，两种方法在住院天数、操作时间和不良事件发生率上表现相当，但敏感性分析显示RFA组平均住院天数更少（均差(MD)：0.14天），且操作时间较短（MD: 8.68分钟）。",
-      "implication": "微波消融和射频消融在治疗下肢静脉曲张方面具有相似的长期闭塞率和低临床严重程度评分，但射频消融可能由于其更短的操作时间和住院天数而更具优势。"
+      "title_ko": "하지정맥류(Lower Limb Varicose Veins) 치료 시 경혈적 마이크로파 열전기 치료(Endovenous Microwave Ablation, MWA)와 고주파 열전기 치료(Radiofrequency Ablation, RFA)의 효과 및 안전성 비교 연구",
+      "one_line": "하지정맥류 치료에 있어 경혈적 마이크로파 열전기 치료와 고주파 열전기 치료는 1년 후 폐쇄율과 삶의 질 측면에서 유사한 효과를 보이며 안전하지만, 민감도 분석 결과 고주파 열전기 치료가 입원 일수와 시술 시간에서 약간의 이점을 보였다.",
+      "design": "메타분석 (Randomized Controlled Trials, RCT 및 관찰 연구)",
+      "subjects": "총 887명 (경혈적 마이크로파 열전기 치료군 436명, 고주파 열전기 치료군 451명)",
+      "intervention": "경혈적 마이크로파 열전기 치료(MWA) vs 고주파 열전기 치료(RFA)",
+      "results": "1개월 시점 폐쇄율은 두 군 모두 100%였으며, 1년 시점 폐쇄율은 경혈적 마이크로파 열전기 치료군 97.5%, 고주파 열전기 치료군 98.0%로 통계적으로 유의한 차이가 없었다 (odds ratio, 0.80; 95% CI, 0.33-1.92; P = .620; I2 = 0%). 삶의 질 점수 또한 두 군 간에 유의한 차이가 없었다. 민감도 분석 결과, 고주파 열전기 치료군에서 입원 일수(mean difference [MD], 0.14; 95% CI, 0.01-0.27; P = .050; I2 = 0%)가 적고 시술 시간(MD, 8.68; 95% CI, 6.45-10.90; P < .00001; I2 = 38.0%)이 짧았다.",
+      "implication": "하지정맥류 치료에 있어 경혈적 마이크로파 열전기 치료와 고주파 열전기 치료는 모두 안전하고 효과적인 선택지이며, 환자의 선호도 및 의료기관의 숙련도 등을 고려하여 치료 방법을 결정할 수 있다. 민감도 분석 결과 고주파 열전기 치료가 입원 일수 및 시술 시간 측면에서 약간의 이점을 제공할 수 있다."
     }
   },
   {
@@ -3179,13 +3030,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "2000년부터 2024년까지 발표된 문헌을 통해 CBE 스텐트 그라프를 이용한 AIOD 치료의 안전성과 효과 분석",
-      "one_line": "2000-2024 년 사이에 발행된 문헌에서 얻은 데이터를 바탕으로, covered balloon-expandable (CBE) stent grafts가 aortoiliac occlusive disease (AIOD) 치료에 있어 안전하고 효과적인 방법임을 분석하였다.",
-      "design": "메타분석",
-      "subjects": "1983명의 AIOD 환자",
-      "intervention": "covered balloon-expandable (CBE) stent grafts를 이용한 AIOD 치료",
-      "results": "12, 24, 36, 48, 그리고 60개월 동안 CBE 스텐트 그라프의 primary patency rates는 각각 91%, 85%, 81%, 79%, 그리고 80%였으며, freedom from target lesion revascularization (fTLR) rates는 각각 94%, 91%, 87%, 84%, 그리고 85%였다. 특히 GORE VIABAHN VBX Balloon Expandable Endoprosthesis (VBX Stent Graft)은 다른 스텐트 그라프들에 비해 primary patency와 fTLR에서 더 높은 효율을 보여주었다.",
-      "implication": "이 연구는 covered balloon-expandable stents가 aortoiliac occlusive disease 치료에서 임상적으로 유용하다는 증거를 추가하며, CBE 스텐트 그라프의 사용에 대한 신뢰성을 높인다."
+      "title_ko": "대동맥-둔장 폐색 질환(AIOD) 치료를 위한 커버드 풍선 확장형 스텐트 짋트(CBE)의 안전성과 유효성에 대한 체계적 문헌 검토 및 메타분석",
+      "one_line": "2000년부터 2024년까지의 문헌을 분석한 결과, 커버드 풍선 확장형 스텐트 짋트(CBE)는 대동맥-둔장 폐색 질환(AIOD) 치료에 유용하며, 특히 GORE VIABAHN VBX 풍선 확장형 내막 이식술(VBX 스텐트 짋트)이 Advanta V12/iCast 스텐트 짋트보다 초기 관류율이 더 높았다.",
+      "design": "메타분석 (체계적 문헌 검토)",
+      "subjects": "총 1,983명 (25개 연구, 29개 논문)",
+      "intervention": "커버드 풍선 확장형 스텐트 짋트(CBE)를 이용한 대동맥-둔장 폐색 질환(AIOD) 치료 (Advanta V12/iCast, GORE VIABAHN VBX, BeGraft, LifeStream, iCover 등)",
+      "results": "12개월, 24개월, 36개월, 48개월, 60개월 시점의 스텐트 짋트의 1차 관류율(primary patency)은 각각 91%, 85%, 81%, 79%, 80%였으며, 표적 병변 재관류술 실패율(fTLR)은 각각 94%, 91%, 87%, 84%, 85%였다. 6개월(OR, 3.1), 12개월(OR, 2.2), 24개월(OR, 2.8) 시점에서 VBX 스텐트 짋트의 1차 관류율이 V12/iCast 스텐트 짋트보다 유의미하게 높았으며, 24개월 시점에서 표적 병변 재관류술 실패율(fTLR)도 VBX 스텐트 짋트에서 더 높게 나타났다 (OR, 1.8; P = .042).",
+      "implication": "본 연구는 커버드 풍선 확장형 스텐트 짋트(CBE)가 대동맥-둔장 폐색 질환(AIOD) 관리에 유용한 치료 옵션임을 뒷받침하며, 스텐트 짋트 선택 시 VBX 스텐트 짋트의 초기 관류율이 더 높다는 점을 고려해야 한다. 다만, 연구는 관찰 연구이며 확증적이지 않다는 한계가 있다."
     }
   },
   {
@@ -3227,13 +3078,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "니트릴 콘스트레인드 발란스를 이용한 경피적 관내 혈관성형술이 CTOs에서 DISFORM III 후 협착 해부학적 이상을 치료하는 효과 평가",
-      "one_line": "니트릴 콘스트레인드 발란스(Chocolate)를 사용한 PTA는 CTOs에서 DISFORM III 후 협착 해부학적 이상을 안전하게 치료하며, 스텐트 삽입을 줄이는 데 효과적임",
-      "design": "후향적 연구",
-      "subjects": "68명의 만성 하지 위협성 동맥질환 환자 (평균 나이: 72세, 당뇨병 환자 비율: 39%)",
-      "intervention": "니트릴 콘스트레인드 발란스(Chocolate)를 이용한 경피적 관내 혈관성형술(PTRA)",
-      "results": "기술 성공률은 91% (62/68), 스텐트 삽입 필요 환자는 9% (6/68). 3년 추정 전체 생존율: 98.5%, 주요 혈관通畅率：88.2%，免于重大截肢的自由度：94.1%，免于临床靶病变血运重建的自由度：94.1%。",
-      "implication": "니트릴 콘스트레인드 발란스를 이용한 PTRA는 CTOs에서 DISFORM III 후 협착 해부학적 이상을 안전하게 치료하며, 특히 약물코팅발란스 또는 일반 발란스 성형술로 치료된 환자에게 스텐트 삽입의 필요성을 줄이는 데 효과적임"
+      "title_ko": "혈관 확장술 후 발생한 DISFORM III 혈관 파열에 대한 니티놀 구속 풍선 혈관 확장술의 효과 평가",
+      "one_line": "본 연구는 혈관 확장술 후 발생한 DISFORM III 혈관 파열 환자에서 니티놀 구속 풍선(Nitinol-Constrained Balloon, NCB) 혈관 확장술이 안전하고 효과적이며, 스텐트 삽입 필요성을 줄일 수 있음을 보여준다.",
+      "design": "전향적 연구",
+      "subjects": "하지 동맥 만성 완전 폐색(Chronic Total Occlusion, CTO) 환자 68명 (평균 연령 72세, SD ± 10, 당뇨병 유병률 39%)",
+      "intervention": "초기 혈관 확장술 후 발생한 DISFORM III 혈관 파열 환자에게 니티놀 구속 풍선(Chocolate; Medtronic) 혈관 확장술(Percutaneous Transluminal Angioplasty, PTA) 시행. 일부 환자(6%)에게는 추가적으로 스텐트 삽입.",
+      "results": "기술적 성공률 91% (62/68). 3년 예상 전체 생존율 98.5%, 1차 혈관 개통 유지율 88.2%, 주요 절단술 없이 생존율 94.1%, 임상적 표적 병변 재관혈 없이 생존율 94.1%. 초기 혈관 확장술에 약물 코팅 풍선(Drug-Coated Balloon, DCB)을 사용한 환자 69% (47/68).",
+      "implication": "혈관 확장술 후 발생한 DISFORM III 혈관 파열은 스텐팅이 필요한 중요한 부작용이며, 니티놀 구속 풍선 혈관 확장술은 약물 코팅 풍선 또는 일반 풍선 혈관 확장술 후 발생한 혈관 파열 환자에게 스텐트 사용을 줄이는 안전하고 효과적인 치료 옵션이 될 수 있다."
     }
   },
   {
@@ -3273,13 +3124,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "카테터 지도 하지 혈전 제거술을 이용한 중등도에서 고위험 급성 폐색동맥염 치료의 안전성과 유효성 평가",
-      "one_line": "중등도에서 고위험 급성 폐색동맥염 환자에서 혈전 제거술만을 이용한 치료는 출혈 및 사망률이 낮으며, 심장 기능 개선과 입원 기간 단축에 효과적이다.",
-      "design": "메타분석",
-      "subjects": "13개 연구를 포함하여 총 1001명의 환자",
-      "intervention": "카테터 지도 하지 혈전 제거술 (mechanical thrombectomy)을 이용한 치료",
-      "results": "주요 결과: 주요 출혈률은 2.39% (95% CI 1.20-3.58), 입원 중 사망률은 0.38% (95% CI 0.00 to 1.00), 30일 내 총사유 사망률은 0.72% (95% CI 0.00-1.49). 평균적으로 우심실 대 좌심실 비율이 0.42 (95% CI 0.38-0.46) 감소하였으며, 중환자실 입원 기간은 평균 1.96일 (95% CI 1.22-2.70), 병원 전체 입원 기간은 평균 5.41일 (95% CI 4.48-6.34)이었다.",
-      "implication": "중등도에서 고위험 급성 폐색동맥염 환자에서 혈전 제거술만을 이용한 치료는 낮은 출혈 및 사망률, 심장 기능 개선, 그리고 입원 기간 단축에 효과적이며 이 방법이 임상적으로 유용하다고 평가된다."
+      "title_ko": "중간-고위험군 급성 폐색전증 환자에서 혈전용해제 병용 없이 경동맥을 이용한 기계적 혈전 제거술의 안전성과 효능 평가: 메타분석",
+      "one_line": "본 메타분석은 혈전용해제 병용 없이 경동맥을 이용한 기계적 혈전 제거술이 중간-고위험군 급성 폐색전증 환자에게 안전하고 효과적이며, 낮은 출혈 및 사망률, 개선된 혈역학적 지표, 짧은 입원 및 중환자실 체류 기간과 관련이 있음을 시사합니다.",
+      "design": "메타분석(Meta-analysis)",
+      "subjects": "총 1001명의 환자 (13개 연구)",
+      "intervention": "혈전용해제(thrombolysis) 병용 없이 경동맥(catheter-directed)을 이용한 기계적 혈전 제거술(mechanical thrombectomy)",
+      "results": "주요 결과는 다음과 같습니다:\n* 주요 출혈(major bleeding) 발생률: 2.39% (95% CI 1.20-3.58)\n* 입원 중 사망(in-hospital mortality) 발생률: 0.38% (95% CI 0.00-1.00)\n* 30일 전인종 사망(30-day all-cause mortality) 발생률: 0.72% (95% CI 0.00-1.49)\n* 우심실-좌심실 비율 감소(right ventricle-to-left ventricle ratio reduction): 평균 0.42 (95% CI 0.38-0.46)\n* 중환자실(intensive care unit) 체류 기간: 평균 1.96일 (95% CI 1.22-2.70)\n* 입원(hospital) 체류 기간: 평균 5.41일 (95% CI 4.48-6.34)",
+      "implication": "본 연구는 혈전용해제 병용 없이 기계적 혈전 제거술이 중간-고위험군 급성 폐색전증 환자에게 효과적인 치료 옵션이 될 수 있으며, 출혈 및 사망 위험을 최소화하면서 혈역학적 개선 및 입원 기간 단축에 기여할 수 있음을 시사합니다. 다만, 고위험군 환자 및 작은 카테터(catheter) 사용 시 출혈 및 사망률이 증가할 수 있다는 점을 고려해야 합니다."
     }
   },
   {
@@ -3317,13 +3168,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "리트리버-증강형 생성 프레임워크를 통합한 대규모 언어 모델이 간섭 방사선학에서 항응고제 처방 추천에 미치는 영향",
-      "one_line": "대규모 언어 모델을 리트리버-증강형 생성 시스템과 통합하여 간섭 방사선학의 항응고제 처방 추천의 정확성을 평가하고, 이를 통해 임상적 의사결정 도구로서의 활용 가능성을 탐색",
-      "design": "후향적 연구",
-      "subjects": "MIMIC-IV 데이터베이스에서 추출된 간섭 방사선학 절차와 항응고제 처방 쌍 394개",
-      "intervention": "Claude-3.5-Sonnet, GPT-4o, LLaMA-3.1, Mistral-Large-2411, Qwen-2.5 등의 대규모 언어 모델을 리트리버-증강형 생성 시스템에 통합",
-      "results": "Claude가 가장 높은 지침 준수도를 보였으며 (평균 1.51/2), Claude와 GPT-4o는 항응고제 중단 결정에서 유사한 성능을 보여 (각각 평균 1.88, 1.86), INR 추천에서도 Claude가 가장 높은 점수를 기록함 (평균 1.37). Mistral은 혈소판 임계치 준수도에서 가장 우수한 성능을 보였음 (평균 1.52). LLaMA와 Qwen은 모든 카테고리에서 저조한 성과를 보임 (p<0.001)",
-      "implication": "대규모 언어 모델을 리트리버-증강형 생성 시스템과 통합하면, 간섭 방사선학에서 지침 준수도가 높은 항응고제 처방 추천을 제공할 수 있으며, 이는 임상적 의사결정 도구로서의 활용 가능성을 증대시킬 것으로 보임"
+      "title_ko": "인공지능 기반 검색 증강 생성(RAG) 프레임워크를 활용한 인터벤션 영상의학 환자의 항응고(AC) 치료 권고안 생성 연구",
+      "one_line": "인공지능 모델과 검색 증강 생성(RAG) 프레임워크를 결합하여 인터벤션 영상의학 시술 환자의 항응고 치료 권고안을 생성했을 때, 기존 가이드라인과 일치하는 정확하고 환자 맞춤형 권고안을 제공할 수 있는 가능성을 확인했습니다.",
+      "design": "후향적 코호트 연구",
+      "subjects": "MIMIC-IV 데이터베이스에서 추출된 인터벤션 영상의학 시술-항응고(AC) 치료 쌍 394건",
+      "intervention": "5가지 최신 대규모 언어 모델(LLM) (Claude-3.5-Sonnet, GPT-4o, LLaMA-3.1, Mistral-Large-2411, Qwen-2.5)을 검색 증강 생성(RAG) 시스템 내에 통합하여 Society of Interventional Radiology (SIR) 가이드라인을 기반으로 항응고(AC) 권고안 생성",
+      "results": "전체 가이드라인 일치도는 Claude가 1.51/2로 가장 높았습니다.  Claude, GPT-4o, Mistral은 항응고(AC) 중단 결정에서 유사한 성능(Claude: 1.88 [95% CI 1.83, 1.93], GPT-4o: 1.86 [1.81, 1.91], Mistral: 1.88 [1.84, 1.93])을 보였습니다. Claude와 GPT-4o는 항응고(AC) 중단(1.56 [1.44, 1.67] vs. 1.55 [1.44, 1.67]; p=0.871) 및 재개 시간(1.34 [1.20, 1.47] vs. 1.37 [1.26, 1.49]; p=0.920) 정확도에서도 유사했습니다. Mistral은 혈소판 임계값 일치도(1.52 [1.45, 1.59])에서 가장 높았고, Claude는 국제정상화비율(INR) 권고(1.37 [1.32, 1.42])에서 선도했습니다. LLaMA (0.76)와 Qwen (0.52)은 모든 범주에서 유의미하게 낮은 성능(p<0.001)을 보였습니다. 검색 증강 생성(RAG) 통합은 혈소판 임계값 외의 모든 범주에서 Claude의 성능을 향상시켰습니다.",
+      "implication": "대규모 언어 모델(LLM)과 검색 증강 생성(RAG) 시스템의 통합은 인터벤션 영상의학 시술 환자의 항응고(AC) 치료에 대한 가이드라인 일치 권고안을 제공할 수 있으며, 안전하고 효율적이며 맞춤화 가능한 임상 의사 결정 지원 도구로서의 역할을 할 수 있습니다."
     }
   },
   {
@@ -3382,13 +3233,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "흉부 영역에서의 개입 방사선 의학: 혁신과 도전",
-      "one_line": "2025년 흉부 영역에서의 개입 방사선 의학은 혁신과 기존 관행에 대한 도전을 반영하고 있으며, 이는 폐 생검이라는 가장 널리 사용되는 절차에 대해 미래 방향성을 고민하게 한다.",
-      "design": "증례/논문 리뷰",
-      "subjects": "흉부 영역에서의 개입 방사선 의학 관련 연구들",
-      "intervention": "흉부 영역에서의 다양한 시술과 중재, 특히 폐 생검",
-      "results": "2025년에 발표된 흉부 개입 방사선 의학 관련 두 가지 주요 연구가 기존 관행을 재고하게 하고, 미래의 방향성을 고민하도록 한다.",
-      "implication": "흉부 영역에서의 개입 방사선 의학은 계속해서 혁신과 도전에 직면하며, 이는 폐 생검과 같은 기본적인 절차에서도 새로운 접근법을 요구할 수 있다."
+      "title_ko": "흉부 영상의학 분야 인터벤션 방사선 전문의를 위한 2025년 현황 및 폐 생검의 미래에 대한 고찰",
+      "one_line": "최근 발표된 두 연구를 통해 흉부 인터벤션 방사선 분야, 특히 폐 생검의 미래 방향에 대한 비판적 성찰을 촉구하는 논문 요약.",
+      "design": "증례 보고 (Case Report)",
+      "subjects": "구체적인 대상 및 N수는 언급되지 않음. 흉부 영상의학 분야 인터벤션 방사선 전문의를 대상으로 함.",
+      "intervention": "폐 생검(Lung Biopsy)을 포함한 흉부 인터벤션 시술",
+      "results": "구체적인 수치 및 통계 자료는 언급되지 않음. 두 연구의 내용이 제시되었으며, 기존의 폐 생검 방식에 대한 질문과 비판적 성찰을 제기함.",
+      "implication": "흉부 인터벤션 방사선 분야, 특히 폐 생검의 미래 방향에 대한 새로운 접근 방식 및 개선점을 모색해야 함을 시사하며, 기존 관행에 대한 비판적 검토의 필요성을 강조함."
     }
   },
   {
@@ -3413,13 +3264,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "초기 데이터셋과 오픈소스 AI 도구를 사용한 실시간 갑상선 세침흡인검사 적절성 평가 인공지능 애플리케이션 개발 타당성 연구",
-      "one_line": "갑상선 세침흡인검사의 적절성을 실시간으로 평가하기 위한 AI 애플리케이션 개발을 위한 소규모 데이터셋과 오픈소스 AI 도구를 사용한 타당성 연구",
-      "design": "후향적 연구 및 시뮬레이션",
-      "subjects": "1,244개의 갑상선 세침흡인검사 슬라이드 사진 미세조직 사진 (데이터셋), 50명의 환자 샘플 (실제 테스트)",
-      "intervention": "YOLOv5 컨볼루션 신경망 모델을 사용한 갑상선 세침흡인검사 적절성 평가 AI 애플리케이션 개발",
-      "results": "독립적인 정적 이미지 테스트 세트에서, CNN은 AUROC 0.954 (95% 신뢰구간: 0.922-0.986), 민감도 0.969, 특이도 0.933, 정확도 95.5%를 달성했습니다. 스마트폰 카메라로 캡처된 이미지에서는 AUROC가 0.983 (95% 신뢰구간: 0.965-1.000), 민감도 0.980, 특이도 1.000, 정확도 98.8%로 향상되었습니다. 시뮬레이션 임상 작업 프로세스에서 인간 사용자는 증강현실 AI 도구의 지원을 받고 참조 표준 세침흡인검사 적절성 평가와 96% 일치를 보였습니다.",
-      "implication": "증강현실 현미경 도구는 갑상선 세침흡인검사 샘플의 실시간 적절성을 평가하는 데 타당성이 있으며, 이를 통해 별도의 현장 병리학자가 없는 방사선 시설에서 원격세포학적 지원이 가능해집니다."
+      "title_ko": "갑상선세포흡인검사(FNA) 시 실시간 검체 적절성 평가를 위한 인공지능(AI) 애플리케이션 개발 가능성 평가",
+      "one_line": "소규모 데이터셋과 오픈소스 AI 도구를 활용하여 개발된 인공지능 기반 증강현실(AR) 현미경 도구가 갑상선세포흡인검사 검체 적절성 평가에 실시간으로 도움을 줄 수 있음을 시사한다.",
+      "design": "후향적 연구 (Retrospective Study)",
+      "subjects": "갑상선세포흡인검사 슬라이드 사진 1,244장 (N=1,244), 검사 중재를 받은 환자 50명 (N=100, 이중 검사)",
+      "intervention": "YOLOv5 컨볼루션 신경망(Convolutional Neural Network, CNN) 모델을 기반으로 한 증강현실(AR) 현미경 도구 활용. 스마트폰 카메라로 촬영한 이미지 사용 시 성능 향상.",
+      "results": "독립적인 정적 이미지 테스트 세트에서 CNN 모델은 전반적인 AUROC 0.954 (95% CI, 0.922-0.986), 민감도(Sensitivity) 0.969, 특이도(Specificity) 0.933, 정확도(Accuracy) 95.5%를 달성. 스마트폰 카메라로 촬영한 이미지 사용 시 AUROC 0.983 (95% CI, 0.965-1.000), 민감도 0.980, 특이도 1.000, 정확도 98.8%로 성능 향상. 증강현실(AR) AI 도구의 도움을 받은 인간 관찰자는 표준 검사 기준과 96%의 일치도를 보임.",
+      "implication": "본 연구 결과는 소규모 데이터셋과 오픈소스 AI 도구를 활용하여 갑상선세포흡인검사(FNA) 시 실시간 검체 적절성 평가를 위한 증강현실(AR) 현미경 도구를 개발할 수 있음을 보여준다. 이는 방사선과에 상주하는 병리학자가 없는 시설에서도 원격 세포병리학 지원을 가능하게 하여 갑상선세포흡인검사(FNA)의 정확성과 효율성을 향상시킬 수 있다."
     }
   },
   {
@@ -3502,13 +3353,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "경피성 림프선 세동맥 내 경화제 주입 요법에 사용된 다양한 경화제의 효과 분석",
-      "one_line": "경피성 림프선 세동맥 내 경화요법에서 에탄올이 가장 일관된 결과를 보였으나, 추가적인 전향적 연구가 필요함을 제안합니다.",
-      "design": "메타분석 (Systematic Review)",
-      "subjects": "림프선 335례",
-      "intervention": "경피성 림프선 세동맥 내 경화요법 (Percutaneous lymphocele sclerotherapy) - 에탄올, 폴리비돈-아이오딘, OK-432, 피브린글루, 폴리도카놀, 도키시클린",
-      "results": "에탄올은 가장 일관된 결과를 보였으며 임상적 성공률이 97.4% (95% CI: 82.6-99.7%)이고 재발률이 6.7% (95% CI: 3.1-14.2%)로 가장 낮았음. 다른 경화제들도 유사한 결과를 보였으나, 증거의 확실성은 더 낮음. 부작용 발생률은 12.2%, 주로 경미하고 일시적인 부작용이었으며 중대한 부작용은 두 건만 보고됨.",
-      "implication": "경피적 경화요법은 모든 경화제에서 유망한 결과를 나타냈으나, 에탄올이 가장 잘 특성화된 경화제임을 확인하였음. 최상의 경화제 선택과 절차 표준화를 위한 고질적인 전향적 연구가 필요함."
+      "title_ko": "경피 림포세관경화술(Percutaneous Lymphocele Sclerotherapy)에 사용되는 다양한 경화제(Sclerosant Agents)의 결과에 대한 메타분석",
+      "one_line": "본 연구는 림포세관경화술에 사용되는 다양한 경화제의 효과를 메타분석하여 에탄올이 가장 일관된 결과를 보이는 것으로 나타났으며, 향후 전향적 연구의 필요성을 강조합니다.",
+      "design": "메타분석 (후향적 연구의 체계적 검토)",
+      "subjects": "림포세관(Lymphocele) 335개 (16개 연구, 15개 후향적, 1개 전향적)",
+      "intervention": "경피 림포세관경화술(Percutaneous Lymphocele Sclerotherapy) - 에탄올(Ethanol), 폴리비돈아이오딘(Povidone-Iodine), OK-432, 피브린 접착제(Fibrin Glue), 폴리도카놀(Polidocanol), 독시사이클린(Doxycycline) 등 다양한 경화제 사용",
+      "results": "에탄올(Ethanol)은 97.4% (95% CI: 82.6-99.7%)의 높은 임상 성공률과 6.7% (95% CI: 3.1-14.2%)의 낮은 재발률을 보였습니다. 다른 경화제들도 유사한 결과를 보였으나, 증거의 확실성은 낮았습니다. 경미한 합병증 발생률은 12.2%로, 대부분 경미하고 자가 해결되는 부작용이었습니다. 주요 합병증은 2건 보고되었습니다.",
+      "implication": "경피 림포세관경화술(Percutaneous Lymphocele Sclerotherapy)은 모든 경화제에서 우수한 결과를 나타내지만, 에탄올(Ethanol)이 가장 잘 연구된 경화제이며, 일관된 결과와 중간 정도의 증거 확실성을 가집니다. 최적의 경화제 선택 및 절차 표준화를 위해 고품질의 전향적 연구가 필요합니다."
     }
   },
   {
@@ -3527,30 +3378,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "간질성蛛网膜下腔出血后血管痉挛内血管治疗的有效性比较",
-      "one_line": "간질성蛛网膜下腔出血后的血管痉挛内血管治疗中，联合应用双药和经皮球囊成形术比单药治疗更有效。",
-      "design": "후향적 연구 (Retrospective Study)",
-      "subjects": "2017-2022년 간질성蛛网膜下腔出血后接受内血管治疗的60例患者",
-      "intervention": [
-        {
-          "항동맥 경련 치료(EVT)": [
-            "단일 또는 이중 항동맥 경련제 사용",
-            "경피적 볼록 안주형 성형술(TBA) 단독 또는 이중 항동맥 경련제와 함께 사용",
-            "스텐트-리트라이버-안주형 성형술 단독 또는 이중 항동맥 경련제와 함께 사용"
-          ]
-        }
-      ],
-      "results": [
-        {
-          "이중 항동맥 경련제 사용은 단일 항동맥 경련제 사용보다 평균 혈관 직경을 4.4% 더 회복시킴 (p-.015). TBA는 이중 또는 단일 항동맥 경련제와 함께 사용할 때 가장 효과적, 단독 항동맥 경련제 사용 대비 28.4% 더 많은 혈관 직경 회복 (p < .001). 스텐트-리트라이버-안주형 성형술은 이중 항동맥 경련제와 함께 사용할 때 효과적, 단독 또는 항동맥 경련제 없이 사용 시 효과 미미 (p < .001). 부작용 발생률: 2.4%의 경우에서 기록됨.": [
-            "628개의 치료 혈관 구간에서 이중 항동맥 경련제 사용은 단일 항동맥 경련제 사용보다 평균 혈관 직경을 4.4% 더 회복시킴 (p-.015).",
-            "TBA는 이중 또는 단일 항동맥 경련제와 함께 사용할 때 가장 효과적, 단독 항동맥 경련제 사용 대비 28.4% 더 많은 혈관 직경 회복 (p < .001).",
-            "스텐트-리트라이버-안주형 성형술은 이중 항동맥 경련제와 함께 사용할 때 효과적, 단독 또는 항동맥 경련제 없이 사용 시 효과 미미 (p < .001).",
-            "부작용 발생률: 2.4%의 경우에서 기록됨."
-          ]
-        }
-      ],
-      "implication": "간질성蛛网膜下腔出血后的血管痉挛内血管治疗的有效性取决于正确的治疗方法。经皮球囊成形术在血管扩张方面最有效，而斯滕特-回收器-成形术可能提供了一种平衡可及性和风险的替代药理学治疗方案。使用多种血管扩张剂组合可以增强治疗效果，但尼莫地平和罂粟碱的组合在我研究中显示的效果有限。"
+      "title_ko": "뇌동맥류 출혈 후 혈관연축 치료에서 혈관확장제 단독 투여와 병용 요법, 풍선확장술(Balloon Angioplasty), 스텐트 회수술-풍선확장술 병용술의 효과 비교 연구",
+      "one_line": "뇌동맥류 출혈 후 혈관연축 치료 시 풍선확장술(Balloon Angioplasty)이 혈관 직경 확장 효과가 가장 높았으며, 스텐트 회수술-풍선확장술 병용술은 혈관확장제(Vasodilator) 병용 시 효과적이었다.",
+      "design": "후향적 단일 센터 분석 (Retrospective Single-Center Analysis)",
+      "subjects": "뇌동맥류 출혈 후 혈관연축 치료를 받은 환자 60명 (N=60)",
+      "intervention": "혈관연축 치료 방법 비교: 1) 혈관확장제 단독 투여, 2) 혈관확장제 이중 투여, 3) 풍선확장술(TBA) 단독, 4) 스텐트 회수술-풍선확장술 병용술 + 혈관확장제 단독 투여, 5) 스텐트 회수술-풍선확장술 병용술 + 혈관확장제 이중 투여",
+      "results": "혈관 직경 변화: \n- 혈관확장제 이중 투여는 단독 투여보다 혈관 직경을 4.4% 더 확장시켰으며, p = .015로 통계적으로 유의미했다.\n- 풍선확장술(TBA) 단독 또는 혈관확장제 병용 시 단독 혈관확장제 투여보다 혈관 직경을 28.4% 더 확장시켰으며, p < .001로 통계적으로 유의미했다.\n- 스텐트 회수술-풍선확장술 병용술은 혈관확장제 이중 투여 시 효과적이었으며, 단독 또는 혈관확장제 미투여 시에는 효과가 없었다 (p < .001).\n- 시술 관련 부정적인 결과는 2.4%에서 발생했다.",
+      "implication": "혈관연축 치료에서 적절한 치료 방법을 선택하는 것이 중요하며, 풍선확장술(Balloon Angioplasty)이 혈관 확장 효과가 가장 높다. 스텐트 회수술-풍선확장술 병용술은 약물 치료의 대안이 될 수 있으며, 혈관확장제 병용은 치료 효과를 높일 수 있지만, 니모디핀(Nimodipine)과 파파베린(Papaverine) 병용은 효과가 미미했다."
     }
   },
   {
@@ -3578,13 +3412,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "직업 방사선 보호: 개입 영상학에서의 최신 지침 업데이트",
-      "one_line": "2010년 초판 이후, 직업 방사선 보호는 플루오로스코피 외 다른 원인으로부터의 노출을 포함하여 더욱 포괄적인 개념이 되었으며, 이에 대한 최신 지침을 제공합니다.",
-      "design": "시스템 리뷰 및 지침 개발",
-      "subjects": "국제적으로 인정받은 전문가들 (의사, 방사선 기술사, 간호사 등 포함)",
-      "intervention": "직업 방사선 보호와 관련된 국제 및 국내 규정, 가이드라인, 방사선 보호 문서 검토 및 PubMed에서 2011년부터 2025년까지의 영문 연구 논문 검색",
-      "results": "개정된 지침은 개입 영상학에 참여하는 모든 직원에게 조언과 지침을 제공하며, 온라인 부록에는 추가적인 깊이 있는 내용이 포함되어 있습니다.",
-      "implication": "직업 방사선 보호는 플루오로스코피 외 다른 원인으로부터의 노출에 대한 인식을 높이고, 이에 따른 보호 조치를 개입 영상학에서 더욱 강화할 필요성을 제시합니다."
+      "title_ko": "영상의학 중재 시술 분야 종사자 보호 지침 개정",
+      "one_line": "영상의학 중재 시술 분야 종사자 보호에 대한 지침을 방사선 노출 외 다른 위험 요소까지 포함하여 업데이트하고, 최신 정보를 반영했다.",
+      "design": "전문가 합의 (Consensus)",
+      "subjects": "12명의 임상 전문가, 의료물리학 전문가, 영상의학 중재 시술 분야 종사자 보호 분야 국제적으로 인정받는 전문가",
+      "intervention": "영상의학 중재 시술 분야 종사자 보호 지침 개정 (방사선 노출 외 위험 요소 포함, 최신 정보 반영)",
+      "results": "개정된 지침은 의사, 방사선사, 간호사, 의료물리학 전문가 및 영상의학 중재 시술에 관여하는 모든 직원을 위한 조언과 지침을 제공하며, 온라인 부록을 통해 추가적인 심층적인 내용을 제공한다. 2011년부터 2025년까지 PubMed에서 영어로 발표된 관련 연구를 검색하여 활용했다.",
+      "implication": "영상의학 중재 시술 분야 종사자 보호를 위한 포괄적인 지침을 제공하여, 방사선 노출 외 다른 위험 요소까지 고려하여 안전한 작업 환경을 조성하고, 최신 지견을 바탕으로 종사자의 건강과 안전을 보호하는 데 기여할 수 있다."
     }
   },
   {
@@ -3679,13 +3513,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "경과裻루트를 이용한 CT 유도 내시경 절제 전 미세 폐결절 정위술의 타당성 및 안전성 평가",
-      "one_line": "CT 유도 내시경 절제 전 경과裻루트를 통한 미세 폐결절 정위술은 기술적으로 가능하고 안전하지만, 증상 관련 통증이 더 높다.",
-      "design": "후향적 연구",
-      "subjects": "2019년 1월부터 2024년 8월까지 CT 유도 내시경 절제 전 미세 폐결절 정위술을 받은 환자, 총 544명 (경과裻루트 그룹: 31명, 기존 경로 그룹: 513명)",
-      "intervention": "CT 유도 내시경 절제 전 미세 폐결절 정위술",
-      "results": "전체 환자군에서 두 그룹 모두 100%의 정위 성공률을 보였으며, 초기 실패율, 절제 성공률, 정위 시간 및 합병증 발생률(출혈과 폐기능 저하 포함)에 차이가 없었다. 그러나 경과裻루트 그룹은 통증 스코어에서 더 높은 값을 보였으며, 이는 다중 선형 회귀 분석을 통해 증명되었다 (P < 0.001).",
-      "implication": "경과裻루트를 이용한 CT 유도 내시경 절제 전 미세 폐결절 정위술은 기술적으로 가능하고 안전하지만, 증상 관련 통증이 더 높다는 것을 고려해야 한다."
+      "title_ko": "흉부 VATS 절제술 전 영상의학적 위치 결정 시 경횡격막(transfissural) 경로의 안전성과 통증 정도 평가",
+      "one_line": "흉부 VATS 절제술 전 영상의학적 위치 결정 시 경횡격막 경로를 이용하는 것은 안전하지만, 통증 정도가 더 심할 수 있다.",
+      "design": "후향적 코호트 연구 (Non-controlled retrospective cohort study)",
+      "subjects": "총 544명 (경횡격막 경로군(Group T), n=31; 전형적 경로군(Group C), n=513). 경향 점수 매칭(propensity score matching, 1:4) 후, 경횡격막 경로군 27명, 전형적 경로군 69명.",
+      "intervention": "전산화 단층 촬영(CT)-가이드 하 의료용 접착제를 이용한 위치 결정술. 경횡격막 경로(transfissural route) vs. 전형적 경로(conventional route)",
+      "results": "전체 환자군에서 위치 결정 성공률은 양 군 모두 100%였다. 초기 실패율, 절제 성공률, 위치 결정 시간, 출혈 및 기흉과 같은 합병증 발생률은 경향 점수 매칭 전후 모두 유의미한 차이를 보이지 않았다 (모두 P > 0.05). 하지만 경횡격막 경로군(Group T)은 위치 결정 전(median 4 vs. 3, P < 0.001) 및 후(median 4 vs. 3, P = 0.008) 모두 통증 점수가 유의미하게 높았으며, 모르핀 사용량은 유사했다 (P = 0.947, 경향 점수 매칭 후). 다중 선형 회귀 분석 결과, 경횡격막 경로가 위치 결정 후 통증 증가와 독립적으로 연관되어 있음이 확인되었다 (P < 0.001).",
+      "implication": "어려운 폐 결절의 VATS 절제술 전 영상의학적 위치 결정 시 경횡격막 경로를 이용하는 것은 기술적으로 가능하고 안전하지만, 통증 증가를 고려해야 한다."
     }
   },
   {
@@ -3723,13 +3557,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "복잡한 해부학적 특성을 가진 외측 경동맥 협착 환자에서 비표준 스텐트 사용의 타당성, 안전성 및 단기 결과 평가",
-      "one_line": "비표준 스텐트 사용은 복잡한 해부학적 특성을 가진 외측 경동맥 협착 환자에서 높은 기술 적합성과 의미 있는 기능 회복을 제공할 수 있다.",
-      "design": "후향적 다기관 코호트 연구",
-      "subjects": "2017년부터 2025년까지 여러 고용량 뇌졸중 센터에서 치료받은 1,522명의 환자 (ACCLINO® 스텐트: 48명, CAS: 1,274명, CEA: 200명)",
-      "intervention": "카오티드 엔다르테렉토미(Carotid Endarterectomy), 일반적인 카오티드 아터리 스텐팅(Conventional Carotid Artery Stenting), 또는 해부학적 특성으로 인해 CEA와 표준 CAS가 기술적으로 불가능한 환자에서 비표준 천공 외부 스텐트 사용",
-      "results": "비표준 스텐팅 그룹은 근접 협착 또는 완전 폐쇄의 발생 빈도와 증상적 발현이 가장 높았으며, 기술 성공률은 모든 비표준 및 CEA 절차에서 100%였고 CAS에서는 99.4%였다. 3개 그룹 모두 3개월 후 재狭窄率≥50%的比较结果相似（4.2% vs. 5.3% vs. 5.5%; p=0.78）。功能独立性在非标准组从31.3%提高到100%，而在CAS组和CEA组分别为87.2%至96.5%和82.0%至94.0%（所有p<0.001）。",
-      "implication": "비표준 스텐트 사용은 복잡하고 수술적으로 도전적인 경동맥 협착 환자에서 높은 기술 적합성, 용이한 동맥通畅性和有意义的功能恢复提供了可能，表明它可能是精心挑选的解剖学困难患者的潜在补救选择。"
+      "title_ko": "복잡한 해부학적 구조를 가진 환자의 경동맥 재관혈술에서 표적 외 스텐트 사용의 안전성, 실현 가능성 및 단기 결과 평가",
+      "one_line": "복잡한 해부학적 구조로 인해 기존 시술이 어려운 경동맥 협착 환자에서 표적 외 스텐트 사용은 높은 기술적 성공률과 기능적 회복을 제공하며, 잠재적인 구원 옵션으로 고려될 수 있다.",
+      "design": "후향적 다기관 코호트 연구 (Retrospective Multicenter Cohort Study)",
+      "subjects": "총 1,522명의 경동맥 재관혈술 환자 (ACCLINO® 스텐트 48명, CAS 1,274명, CEA 200명)",
+      "intervention": "경동맥 재관혈술: 경동맥 내막류 제거술(CEA), 기존 경동맥 스텐트 삽입술(CAS), 표적 외 뇌 스텐트 삽입술 (Off-label Intracranial Stent Deployment)",
+      "results": "• 표적 외 스텐트 그룹은 수술 전 완전 폐쇄 또는 거의 폐쇄 비율이 CAS (25.5%) 및 CEA (23.0%) 그룹보다 유의미하게 높았음 (68.8%, p < 0.001).\n• 표적 외 스텐트 그룹의 급성 뇌졸중 발생률은 25.0% (12/48)로 CAS (7.8%, 99/1274) 및 CEA (6.0%, 12/200) 그룹보다 유의미하게 높았음 (p < 0.001).\n• 기술적 성공률은 표적 외 스텐트 및 CEA 시술에서 100%, CAS 시술에서 99.4%로 나타났음 (p = 0.41).\n• 30일 사망률은 표적 외 스텐트 그룹 6.3%, CAS 그룹 2.7%, CEA 그룹 3.0%로 유의미한 차이가 없었음 (p = 0.17).\n• 3개월 시점의 50% 이상 재협착률은 세 그룹 간에 유사했음 (4.2% vs. 5.3% vs. 5.5%, p = 0.78).\n• 표적 외 스텐트 그룹의 기능적 독립성 (mRS ≤ 2) 개선율은 31.3%에서 100%로 향상되었으며 (p < 0.001), CAS 그룹은 87.2%에서 96.5%, CEA 그룹은 82.0%에서 94.0%로 향상됨 (모두 p < 0.001).",
+      "implication": "복잡하고 수술적으로 어려운 경동맥 협착 환자에서 표적 외 스텐트 사용은 높은 기술적 성공률, 허용 가능한 혈관 개통 유지, 의미 있는 기능적 회복을 제공할 수 있으므로, 신중하게 선별된 해부학적으로 어려운 환자에게 잠재적인 구원 옵션으로 고려될 수 있다."
     }
   },
   {
@@ -3754,13 +3588,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "폐 점막 혈액 패치를 이용한 동반 트랙 폐색술의 안전성 및 유효성",
-      "one_line": "폐 암 치료 시 폐 흉수 발생을 예방하기 위한 새로운 기법인 Tandem Needle Technique Pleural Blood Patch (TNT PBP)가 안전하고 효과적임을 보여주는 후향적 연구 결과",
-      "design": "후향적 단일 중앙병원 케이스 시리즈 연구",
-      "subjects": "폐 암 환자 12명, 폐 종양 14개",
-      "intervention": "Tandem Needle Technique Pleural Blood Patch (TNT PBP) - 절차 수행 중 폐 조직 주변에 혈액 패치를 적용하는 기법",
-      "results": "TNT PBP가 모든 환자에게 성공적으로 적용되었으며, 12명의 환자 중 한 명만 흉강 천자 치료를 필요로 하였음. 평균 추적 관찰 기간 (233.7 ± 67.8 일) 동안 절차 관련 합병증은 보고되지 않았다.",
-      "implication": "TNT PBP는 폐 암 치료 중 발생할 수 있는 폐 흉수를 예방하는 데 효과적이고 안전한 기법임을 입증하였으며, 추가적인 임상 연구가 필요함 (Oxford Pleural Embolisation Trial, OxPET, NCT06651658)"
+      "title_ko": "폐절제술 시 기흉 예방을 위한 새로운 트랙 색전술: 탠덤 니들 기법 плевра 혈액 패치 (TNT PBP) 기술",
+      "one_line": "폐절제술 시 기흉 발생 위험이 높은 환자에서 탠덤 니들 기법 плевра 혈액 패치 (TNT PBP)를 시행하여 안전하고 효과적으로 기흉을 예방할 수 있다는 결과를 보여줍니다.",
+      "design": "후향적 증례 연구 (Retrospective Case Series)",
+      "subjects": "대상: 12명 (총 14개의 폐 종양)",
+      "intervention": "탠덤 니들 기법 плевра 혈액 패치 (TNT PBP) (Tandem Needle Technique Pleural Blood Patch). 폐절제술 시행 시, 절제 기구 인출 시 плевра에 혈액 패치를 주입하는 방식.",
+      "results": "TNT PBP는 12명의 환자 모두에게 성공적으로 시행되었으며, 1명의 환자(1/12)만이 시술 후 흉관 삽입이 필요했습니다. 대부분의 환자(11/12)는 예상되는 수술 후 경과를 보였으며 다음 날 퇴원했습니다. 최종 추적 관찰 시점 (233.7 ± 67.8 일)까지 시술 관련 합병증은 관찰되지 않았습니다.",
+      "implication": "TNT PBP는 기흉 발생 위험이 높은 폐절제술 환자에게 안전하고 효과적인 기흉 예방 방법으로 활용될 수 있으며, 무작위 대조 시험 (Oxford Pleural Embolisation Trial, OxPET, NCT06651658)을 통해 추가적인 평가가 진행될 예정입니다."
     }
   },
   {
@@ -3779,13 +3613,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "돼지 모델에서 흉부 관 동맥 내 역류 카논화의 기술적 타당성 평가",
-      "one_line": "흉부 관 동맥 내 역류 카논화(TDE)를 위한 돼지 모델에서의 기술적 타당성이 확인되었다.",
-      "design": "전향적 연구",
-      "subjects": "5마리의 건강한 암컷 대형 백색 돼지 (평균 체중: 50.2 ± 8.9 kg)",
-      "intervention": "흉부 관 동맥 내 역류 카논화(TDE)를 위한 흉부 관 역류 카논화 시도",
-      "results": "인터스티털 림프앙고그래피가 세 마리의 돼지에서 흉부 관 종말을 시각화하였으며, 선택적 정맥 조영술은 모든 경우에 흉부 관 앰풀라를 일관되게 확인하였다. 동맥조영카테터는 모든 5개 사례에서 성공적으로 흉부 관 앰플라를 접속하였고, 마이크로카테터 카논화는 세 마리 중 다섯 마리를 성공시켰다.",
-      "implication": "흉부 관 동맥 내 역류 카논화(TDE)의 기술적 타당성이 돼지 모델에서 확인되었으며, 임상 연구를 위한 전임상 플랫폼을 제공한다. 그러나 성공률 향상을 위해 기술 개선이 필요하다."
+      "title_ko": "돼지 모델을 이용한 흉관 색전술 전 채취를 위한 경정맥 역행 흉관 천자 기술적 타당성 평가",
+      "one_line": "본 연구는 흉관 누출 치료를 위한 최소 침습적 시술인 흉관 색전술(TDE) 전 임상 연구를 위한 돼지 모델에서 경정맥 역행 흉관 천자 기술적 타당성을 평가하고, 기술적 개선점을 모색하였다.",
+      "design": "전향적 타당성 연구 (Prospective feasibility study)",
+      "subjects": "건강한 암컷 대형 흰 돼지 5마리 (평균 체중 50.2 ± 8.9 kg)",
+      "intervention": "경정맥 역행 흉관 천자 (Transvenous retrograde thoracic duct cannulation). 좌측 앞다리 간질 림프관조영술(Interstitial lymphangiography)을 이용하여 흉관 말단을 시각화하고, 경피적 대퇴정맥 접근 후 흉관 ampulla를 천자하였다.",
+      "results": "3마리에서 간질 림프관조영술을 통해 흉관 말단이 시각화되었으며, 5마리 모두에서 혈관조영술을 통해 흉관 ampulla가 좌측 내경정맥(left internal jugular vein)과 외경정맥(left external jugular vein)의 합류 지점에 위치하는 것을 확인하였다. 흉관 ampulla에 혈관조영 카테터를 성공적으로 삽입하였으며, 미세 카테터를 이용하여 흉관을 천자하는 데는 5마리 중 3마리에서 성공하였다. 부검 결과 흉관 ampulla는 좌측 내경정맥과 외경정맥의 합류 지점 사이 및 꼬리 방향에 위치하는 것을 확인하였다.",
+      "implication": "흉관 색전술(TDE) 전 임상 연구를 위한 돼지 모델에서 경정맥 역행 흉관 천자 기술적 타당성이 입증되었으며, 성공률 향상을 위한 기술적 개선이 필요하다."
     }
   },
   {
@@ -3813,13 +3647,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "이미지 유도 기법을 활용한 경기관지 접근법의 진단 및 치료 잠재력",
-      "one_line": "영상유도 기술을 이용한 경기관지 시술 방법들이 진단과 치료에 있어 새로운 가능성을 제시하고 있다.",
-      "design": "리뷰",
-      "subjects": "논문은 특정 대상 집단을 다루지 않으며, 관련 연구와 문헌을 검토한다.",
-      "intervention": "영상유도 기법 및 IR 장비를 이용한 경기관지 접근법 (예: 가이드 와이어, 조향 가능한 쉬트)",
-      "results": "현재의 경기관지 시술 방법들이 진단율은 낮으나, 영상 유도 기법을 활용하면 더 높은 진단률과 치료 효과를 달성할 수 있는 잠재력이 있다. 그러나 아직 표준화된 접근법은 제시되지 않았다.",
-      "implication": "영상의학 전문가들이 경기관지 시술에 이미지 유도 기법을 적용함으로써, 주변 폐 결절의 진단 및 치료에서 더 효과적인 방법이 될 수 있다. 이를 통해 현재의 경기관지 접근법의 한계를 극복하고 새로운 임상적 기회를 창출할 수 있을 것으로 예상된다."
+      "title_ko": "폐 주변 결절 진단 및 치료를 위한 기관경내 시술의 혁신과 영상의학적 접근의 가능성",
+      "one_line": "폐 주변 결절 진단 및 치료 시 기관경내 시술의 낮은 진단율을 개선하기 위해 영상의학 전문의(Interventional Radiology, IR)의 기술과 장비를 활용한 새로운 접근법의 가능성을 제시하는 리뷰 논문.",
+      "design": "리뷰 (Review)",
+      "subjects": "해당 없음 (리뷰 논문)",
+      "intervention": "기존 기관경내 시술(Transbronchial interventions)의 한계를 극복하기 위해 영상의학 전문의(IR)의 이미지 유도(Image guidance), 이미지 융합(Image fusion), 가이드와이어(Guidewires), 조향성 커버(Steerable sheaths) 등의 장비를 활용한 기관경 없이 최소 침습적 이미지 유도 기관경내 시술법의 도입 가능성 검토.",
+      "results": "기존 기관경내 시술은 진단율이 영상의학적 경피적 접근법(Percutaneous approaches)에 비해 낮으며, 기관경을 사용하지 않고 이미지 유도 및 IR 장비를 활용하는 새로운 접근법이 대안이 될 수 있음.  구체적인 수치는 제시되지 않았음.",
+      "implication": "영상의학 전문의의 기술과 장비를 활용하여 기관경내 시술의 진단율을 향상시키고, 환자에게 더 안전하고 효과적인 치료 옵션을 제공할 수 있을 것으로 기대됨.  향후 IR 전문가의 교육 및 인력 확보가 필요함."
     }
   },
   {
@@ -3844,13 +3678,13 @@
     "is_interest": false,
     "interest_category": null,
     "summary": {
-      "title_ko": "로봇 보조 흉부 수술에서 비감지 가능한 폐 결절의 내시경 정확한 위치 확인을 위한 CT 유도 이중 유전자 마킹 기법",
-      "one_line": "CT 유도 이중 유전자 마킹 기법이 로봇 보조 흉부 수술 중 비감지 가능한 폐 결절의 정확한 위치를 찾는데 효과적임을 보여주며, 부작용 없이 음성 경계로 완전 절제 가능하다.",
-      "design": "후향적 단일 센터 시리즈",
-      "subjects": "2021년 10월부터 2024년 10월까지 84명의 연속 환자 (고형 또는 부분 고형 폐 결절 ≤ 2cm)",
-      "intervention": "CT 유도 이중 유전자 마킹 기법: 메틸렌 블루 + 인도시아닌 그린을 프리빈-트롬빈 매트릭스에 안정화한 후, 일반마취 하에서 Chiba 바늘을 사용하여 결절 내 주입",
-      "results": "모든 84개의 결절이 수술 중 정확히 위치 확인되었고 음성 경계로 완전 절제되었다. 평균 수술 시간은 163.7 ± 66.7 분, 마킹 후 수술까지 평균 시간은 74.6 ± 20.6 분이었다. 부분 고형 결절 환자들은 일반적으로 더 나이가 많고 결절 크기가 더 컸다 (p < 0.05). 평균 임상 추적 관찰 기간 동안 국소 재발은 발생하지 않았다.",
-      "implication": "CT 유도 이중 유전자 마킹 기법은 로봇 보조 흉부 수술에서 비감지 가능한 결절의 정확한 위치 확인에 효과적이며, 부작용 없이 음성 경계로 완전 절제를 가능하게 한다. 그러나 메틸렌 블루가 인도시아닌 그린보다 추가적인 이점이 있는지는 전향적 연구에서 확인되어야 할 필요성이 있다."
+      "title_ko": "로봇 보조 흉강 수술(RATS) 시 촉진되지 않는 폐 결절의 술전 위치 표식을 위한 CT-가이드 영상 형광 표식 기법의 유용성 평가",
+      "one_line": "본 연구는 CT-가이드 영상 형광 표식 기법(메틸렌 블루(methylene blue) + 인도시아닌 그린(indocyanine green)이 피브린-트롬빈(fibrin-thrombin) 매트릭스에 안정화된 용액)이 로봇 보조 흉강 수술(RATS) 시 촉진되지 않는 폐 결절의 술전 위치 표식에 효과적이며 안전하다는 것을 보여준다.",
+      "design": "후향적 단일 기관 연구(Retrospective, single-center series)",
+      "subjects": "2021년 10월부터 2024년 10월까지 RATS를 위해 의뢰된 고형 또는 부분 고형 결절(≤ 2 cm)을 가진 환자 84명(N=84)",
+      "intervention": "CT-가이드 영상 형광 표식 기법: 22-G 치바 바늘(Chiba needle)을 사용하여 표준화된 용액(1 mL 1% 메틸렌 블루(methylene blue) + 1 mL 인도시아닌 그린(indocyanine green) + 3 mL 피브린-트롬빈(fibrin-thrombin) + 1 mL 요오드화된 조영제; 주입량 0.2-1.0 mL)을 경피적으로 주입.  수술은 근적외선(near-infrared) Firefly® 이미징을 사용하여 진행.",
+      "results": "84개의 결절 모두 술중에서 위치가 확인되었으며, 음성 절단 여유(negative margins)를 확보하며 절제되었다. 개복 수술로의 전환은 없었으며, 표식과 관련된 합병증은 보고되지 않았다. 평균 수술 시간은 163.7 ± 66.7분, 표식과 수술 간 평균 시간은 74.6 ± 20.6분이었다. 부분 고형 결절(subsolid nodules) 환자는 고형 결절(solid nodules) 환자보다 나이가 많았고(70.5 vs. 63.1세, p = 0.003) 결절 크기가 더 컸다(14.7 vs. 11.4 mm, p = 0.010). 평균 임상 추적 관찰 기간은 17.3개월이었으며, 국소 재발(local recurrences)은 관찰되지 않았다.",
+      "implication": "CT-가이드 영상 형광 표식 기법은 로봇 보조 흉강 수술(RATS) 워크플로우에 원활하게 통합되어 음성 절단 여유(negative margins)를 확보한 엽절제술(lobectomy)을 가능하게 하는 실용적인 방법이다. 메틸렌 블루(methylene blue)의 추가적인 기여는 분리하여 평가하기 어렵고, 이에 대한 전향적 평가가 필요하다. 또한, 본 연구에는 기존 표식 기법을 대조군으로 포함하지 않았으므로 결과 해석 시 주의가 필요하다."
     }
   }
 ]
