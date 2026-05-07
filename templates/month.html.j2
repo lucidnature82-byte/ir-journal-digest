@@ -16,7 +16,7 @@
 </head>
 <body class="min-h-screen bg-gray-50 dark:bg-gray-950 text-gray-900 dark:text-gray-100">
 
-  <!-- Header -->
+  <!-- Sticky header -->
   <header class="bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-800 shadow-sm sticky top-0 z-10">
     <div class="max-w-4xl mx-auto px-4 py-3 flex items-center justify-between gap-3">
       <div class="flex items-center gap-3 min-w-0">
@@ -28,17 +28,10 @@
       </div>
 
       <div class="flex items-center gap-2 shrink-0">
-        <!-- Stats badges -->
         <span class="hidden sm:inline-flex items-center px-2 py-0.5 bg-gray-100 dark:bg-gray-800
                      text-gray-600 dark:text-gray-400 text-xs rounded-full">
           {{ count }}편
         </span>
-        {% if interest_count > 0 %}
-        <span class="hidden sm:inline-flex items-center px-2 py-0.5 bg-amber-50 dark:bg-amber-900/30
-                     text-amber-600 dark:text-amber-400 text-xs rounded-full border border-amber-200 dark:border-amber-700">
-          ⭐ 관심 {{ interest_count }}
-        </span>
-        {% endif %}
 
         <button id="dark-toggle"
                 class="p-1.5 rounded-lg bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700
@@ -62,56 +55,61 @@
     </div>
   </header>
 
+  <!-- Stats + update bar -->
+  <div class="max-w-4xl mx-auto px-4 pt-3 pb-0">
+    <div class="flex flex-wrap items-center justify-between gap-1 text-xs text-gray-400 dark:text-gray-500">
+      <span>
+        JVIR/CVIR Monthly Digest — 영상의학과 인터벤션 신간 한글 요약 ·
+        전체 {{ count }}편 (요약 {{ summary_count }}편 / 제목만 {{ no_abstract_count }}편)
+      </span>
+      <span>최근 업데이트: {{ now.strftime('%Y-%m-%d') }}</span>
+    </div>
+  </div>
+
   <!-- Paper list -->
-  <main class="max-w-4xl mx-auto px-4 py-5 space-y-4" id="paper-list">
+  <main class="max-w-4xl mx-auto px-4 py-4 space-y-3" id="paper-list">
     {% if articles %}
 
     {% for article in articles %}
     {% set s = article.summary %}
     {% set has_summary = s and '_error' not in s %}
-    {% set is_hep = article.interest_category == 'hepatobiliary' %}
-    {% set is_nv  = article.interest_category == 'nonvascular' %}
+    {% set has_abstract = article.abstract %}
 
-    <article class="paper-card bg-white dark:bg-gray-900 rounded-xl shadow-sm border
-                    {% if is_hep %}border-l-4 border-blue-500 dark:border-blue-400{% elif is_nv %}border-l-4 border-emerald-500 dark:border-emerald-400{% else %}border-gray-200 dark:border-gray-700{% endif %}
-                    px-5 py-4"
+    <article class="paper-card rounded-xl shadow-sm px-5 py-4
+                    {% if has_abstract %}
+                    bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700
+                    {% else %}
+                    bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-700 border-l-4 border-l-gray-300 dark:border-l-gray-600
+                    {% endif %}"
              data-search="{{ article.title }} {{ article.authors | join(' ') }} {% if has_summary and s.title_ko %}{{ s.title_ko }}{% endif %}">
 
-      <!-- Top row: category + journal badges, date -->
+      <!-- Top row: journal badge, no-abstract label, date -->
       <div class="flex flex-wrap items-center gap-2 mb-2">
-        {% if article.is_interest %}
-          {% if is_hep %}
-          <span class="inline-flex items-center gap-1 px-2 py-0.5 bg-blue-100 dark:bg-blue-900/40
-                       text-blue-700 dark:text-blue-300 text-xs font-medium rounded-full">
-            ⭐ 간담도
-          </span>
-          {% elif is_nv %}
-          <span class="inline-flex items-center gap-1 px-2 py-0.5 bg-emerald-100 dark:bg-emerald-900/40
-                       text-emerald-700 dark:text-emerald-300 text-xs font-medium rounded-full">
-            ⭐ 비혈관
-          </span>
-          {% endif %}
-        {% endif %}
-
         {% if article.journal == 'JVIR' %}
         <span class="px-2 py-0.5 bg-orange-100 dark:bg-orange-900/30 text-orange-700 dark:text-orange-300 text-xs rounded-full">JVIR</span>
         {% else %}
         <span class="px-2 py-0.5 bg-purple-100 dark:bg-purple-900/30 text-purple-700 dark:text-purple-300 text-xs rounded-full">CVIR</span>
         {% endif %}
 
+        {% if not has_abstract %}
+        <span class="text-xs text-gray-400 dark:text-gray-600 italic">초록 없음 (Editorial · Letter · Commentary 등)</span>
+        {% endif %}
+
         <span class="ml-auto text-xs text-gray-400 dark:text-gray-500">{{ article.pub_date }}</span>
       </div>
 
-      <!-- English title -->
+      <!-- Korean title (primary) / English only if no Korean -->
+      {% if has_summary and s.title_ko %}
       <h2 class="text-sm font-semibold text-gray-900 dark:text-gray-100 leading-snug mb-1">
+        {{ s.title_ko }}
+      </h2>
+      <p class="text-xs text-gray-500 dark:text-gray-500 leading-snug mb-2">
+        {{ article.title }}
+      </p>
+      {% else %}
+      <h2 class="text-sm font-semibold text-gray-900 dark:text-gray-100 leading-snug mb-2">
         {{ article.title }}
       </h2>
-
-      <!-- Korean title -->
-      {% if has_summary and s.title_ko %}
-      <p class="text-sm font-medium text-gray-600 dark:text-gray-400 mb-2">
-        {{ s.title_ko }}
-      </p>
       {% endif %}
 
       <!-- Authors -->
@@ -123,7 +121,7 @@
 
       {% if has_summary %}
 
-        <!-- Design badge -->
+        <!-- Study design badge -->
         {% if s.design %}
         <span class="inline-block px-2 py-0.5 bg-gray-100 dark:bg-gray-800 text-gray-600 dark:text-gray-400 text-xs rounded mb-2">
           {{ s.design }}
@@ -168,7 +166,7 @@
             </div>
             {% endif %}
 
-            {% if article.is_interest %}
+            {% if s.detailed_results or s.critique or s.clinical_application %}
             <div class="mt-3 pt-3 border-t border-gray-100 dark:border-gray-700 space-y-3">
               {% if s.detailed_results %}
               <div>
@@ -195,13 +193,11 @@
 
       {% elif s and '_error' in s %}
         <p class="text-xs text-red-500 dark:text-red-400 mb-3">⚠ 요약 생성 실패 (JSON 파싱 오류)</p>
-      {% else %}
-        <p class="text-xs text-gray-400 dark:text-gray-600 mb-3">— 요약 없음 (초록 미수록) —</p>
       {% endif %}
 
       <!-- Links -->
       <div class="flex gap-2 flex-wrap">
-        <a href="https://pubmed.ncbi.nlm.nih.gov/{{ article.pmid }}"
+        <a href="https://pubmed.ncbi.nlm.nih.gov/{{ article.pmid }}/"
            target="_blank" rel="noopener"
            class="inline-flex items-center gap-1 px-3 py-1 text-xs rounded
                   bg-blue-50 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300
@@ -221,7 +217,7 @@
     </article>
     {% endfor %}
 
-    <!-- No results message (shown by JS when search has no matches) -->
+    <!-- No results (shown by JS) -->
     <div id="no-results" class="hidden text-center py-16 text-gray-400 dark:text-gray-600">
       <p class="text-3xl mb-2">🔍</p>
       <p>검색 결과가 없습니다.</p>
@@ -238,19 +234,18 @@
   <!-- Footer -->
   <footer class="max-w-4xl mx-auto px-4 py-8 mt-4 border-t border-gray-200 dark:border-gray-800
                  text-center text-xs text-gray-400 dark:text-gray-600">
-    <p>AI 생성 요약은 참고용이며 임상 판단을 대체하지 않습니다.</p>
+    <p>JVIR/CVIR Monthly Digest — 영상의학과 인터벤션 신간 한글 요약</p>
+    <p class="mt-1">AI 생성 요약은 참고용이며 임상 판단을 대체하지 않습니다.</p>
     <p class="mt-1">생성일: {{ now.strftime('%Y-%m-%d') }}</p>
   </footer>
 
   <script>
-    // Dark mode toggle
     document.getElementById('dark-toggle').addEventListener('click', () => {
       const html = document.documentElement;
       html.classList.toggle('dark');
       localStorage.theme = html.classList.contains('dark') ? 'dark' : 'light';
     });
 
-    // In-page search
     const searchBox = document.getElementById('search');
     const noResults = document.getElementById('no-results');
     if (searchBox) {
@@ -258,17 +253,13 @@
         const q = searchBox.value.trim().toLowerCase();
         const cards = document.querySelectorAll('.paper-card');
         let visible = 0;
-
         cards.forEach(card => {
           const haystack = (card.dataset.search || '').toLowerCase();
           const match = !q || haystack.includes(q);
           card.style.display = match ? '' : 'none';
           if (match) visible++;
         });
-
-        if (noResults) {
-          noResults.classList.toggle('hidden', visible > 0 || !q);
-        }
+        if (noResults) noResults.classList.toggle('hidden', visible > 0 || !q);
       });
     }
   </script>

@@ -22,7 +22,7 @@
       <div>
         <h1 class="text-2xl font-bold tracking-tight">IR Journal Digest</h1>
         <p class="text-sm text-gray-500 dark:text-gray-400 mt-0.5">
-          JVIR · CVIR 최신 논문 한글 요약 — Gemini AI 생성
+          JVIR/CVIR Monthly Digest — 영상의학과 인터벤션 신간 한글 요약
         </p>
       </div>
       <button id="dark-toggle"
@@ -39,11 +39,12 @@
     <div class="bg-blue-50 dark:bg-blue-950/40 border border-blue-200 dark:border-blue-800 rounded-xl p-5">
       <h2 class="font-semibold text-blue-800 dark:text-blue-300 mb-2">이 사이트에 대하여</h2>
       <p class="text-sm text-blue-700 dark:text-blue-400 leading-relaxed">
-        매월 1일, PubMed에서 <strong>JVIR</strong>(Journal of Vascular and Interventional Radiology)와
+        매월 PubMed에서 <strong>JVIR</strong>(Journal of Vascular and Interventional Radiology)와
         <strong>CVIR</strong>(CardioVascular and Interventional Radiology)의 최신 색인 논문을 자동으로 가져와
-        Google Gemini AI로 한글 요약합니다.<br>
-        간담도 인터벤션(TACE, 고주파절제술, HCC 등) 및 비혈관 인터벤션(담도, 신루, 배액술 등) 관련 논문은
-        상세 요약 + 비판적 코멘트가 추가됩니다.
+        AI로 한글 요약합니다.<br>
+        초록이 있는 논문은 한 줄 요약과 상세 내용(연구 설계·대상·결과·함의)을 제공하며,
+        간담도·비혈관 인터벤션 관련 논문은 비판적 코멘트와 임상 적용 분석이 추가됩니다.
+        모든 논문은 <strong>최신순</strong>으로 정렬됩니다.
       </p>
     </div>
   </section>
@@ -70,10 +71,10 @@
                        text-gray-600 dark:text-gray-400 text-xs rounded-full">
             📄 {{ m.count }}편
           </span>
-          {% if m.interest_count > 0 %}
-          <span class="inline-flex items-center gap-1 px-2.5 py-1 bg-amber-50 dark:bg-amber-900/30
-                       text-amber-700 dark:text-amber-400 text-xs rounded-full border border-amber-200 dark:border-amber-700">
-            ⭐ 관심 {{ m.interest_count }}편
+          {% if m.summary_count > 0 %}
+          <span class="inline-flex items-center gap-1 px-2.5 py-1 bg-blue-50 dark:bg-blue-900/30
+                       text-blue-700 dark:text-blue-400 text-xs rounded-full border border-blue-200 dark:border-blue-700">
+            요약 {{ m.summary_count }}편
           </span>
           {% endif %}
         </div>

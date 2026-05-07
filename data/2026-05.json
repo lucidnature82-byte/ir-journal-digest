@@ -500,8 +500,8 @@
   {
     "pmid": "41967601",
     "doi": "10.1016/j.jvir.2026.108791",
-    "title": "Segmental/Subsegmental Bile Duct Embolization Using N-Butyl Cyanoacrylate After Living Donor Liver Transplantation.",
-    "abstract": "",
+    "title": "Segmental/Subsegmental Bile Duct Embolization Using n-Butyl Cyanoacrylate after Living Donor Liver Transplantation.",
+    "abstract": "This study reports experience with segmental and subsegmental bile duct embolization using n-butyl cyanoacrylate (nBCA) in patients with isolated biliary obstruction after living donor liver transplantation refractory to conventional interventional treatment. Eleven liver transplant recipients with refractory biliary obstruction, despite successful external biliary drainage but failed guide wire passage across the obstructed bile duct, underwent nBCA embolization. Procedural success, adverse events, laboratory, and clinical outcomes were evaluated. Changes in embolized segment and total liver volume were assessed using paired volumetric analysis. Technical success was achieved in all patients, with 1 initial technical failure requiring repeat embolization. Major adverse events were not observed. Minor adverse events occurred in 2 patients (18.2%) and were treated with antibiotics. Volumetric analysis showed significant atrophy of embolized segments (P = .005), whereas total liver volume remained preserved (P = .206). nBCA embolization may represent a salvage option for isolated biliary obstruction after liver transplantation.",
     "authors": [
       "Islek Irem",
       "Erol Cengiz",
@@ -512,9 +512,20 @@
     "journal_abbr": "J Vasc Interv Radiol",
     "pub_date": "2026-04-10",
     "journal": "JVIR",
-    "is_interest": false,
-    "interest_category": null,
-    "summary": null
+    "is_interest": true,
+    "interest_category": "nonvascular",
+    "summary": {
+      "title_ko": "간 이식 후 살아있는 공여자 간 이식 시 분절/아분절 담도 화학색전술(Bile Duct Embolization) 경험 보고: n-부틸 시아노아크릴레이트(nBCA) 사용",
+      "one_line": "간 이식 후 기존 시술에 반응하지 않는 분절 담도 폐쇄 환자에서 n-부틸 시아노아크릴레이트(nBCA) 화학색전술(Bile Duct Embolization)은 안전하고 효과적인 구제 옵션이 될 수 있다.",
+      "design": "증례 연구(Case Series)",
+      "subjects": "간 이식 수혜자 11명 (N=11)",
+      "intervention": "n-부틸 시아노아크릴레이트(nBCA)를 이용한 분절/아분절 담도 화학색전술(Bile Duct Embolization)",
+      "results": "기술적 성공률은 100%였으며 (초기 실패 1례, 재시술 필요), 주요 악영향은 관찰되지 않았고, 경미한 악영향은 2명(18.2%)에서 발생하여 항생제 치료로 해결됨. 화학색전술(Bile Duct Embolization)을 시행한 분절의 용적 감소는 유의미했으며 (P = .005), 전체 간 용적은 유지됨 (P = .206).",
+      "implication": "기존의 시술에 반응하지 않는 간 이식 후 분절 담도 폐쇄 환자에게 n-부틸 시아노아크릴레이트(nBCA) 화학색전술(Bile Duct Embolization)은 효과적인 치료 옵션이 될 수 있다.",
+      "detailed_results": "기술적 성공률은 11명 중 1례에서 초기 실패 후 재시술을 통해 100% 달성. 경미한 악영향은 2명(18.2%)에서 발생했으며, 이는 항생제 치료로 해결됨. 화학색전술(Bile Duct Embolization)을 시행한 분절의 용적 감소는 paired volumetric analysis 결과 P = .005로 통계적으로 유의미했으며, 전체 간 용적은 P = .206으로 유지됨. 추적 기간은 명시되지 않음.",
+      "critique": "본 연구는 증례 연구(Case Series)로, 환자 수가 적고, 장기적인 추적 관찰이 부족하여 결과의 일반화에는 한계가 있다. 또한, 다른 치료 옵션과의 직접적인 비교 연구가 아니므로 n-부틸 시아노아크릴레이트(nBCA) 화학색전술(Bile Duct Embolization)의 효과를 명확하게 입증하기는 어렵다. 기존 연구에서는 담즙 배액술(biliary drainage)과 같은 다른 치료법을 고려할 수 있지만, 본 연구는 담즙 배액술 실패 후의 환자를 대상으로 하므로, n-부틸 시아노아크릴레이트(nBCA) 화학색전술(Bile Duct Embolization)의 역할이 더욱 중요할 수 있다.",
+      "clinical_application": "간 이식 후 분절 담도 폐쇄 환자 중, 기존의 시술(예: 담즙 배액술)에 반응하지 않고, 가이드와이어(guide wire)를 통과할 수 없는 경우, n-부틸 시아노아크릴레이트(nBCA) 화학색전술(Bile Duct Embolization)을 고려할 수 있다. 하지만, 환자의 상태를 면밀히 평가하고, 잠재적인 합병증에 대한 대비가 필요하다."
+    }
   },
   {
     "pmid": "41967192",
@@ -702,125 +713,115 @@
     }
   },
   {
-    "pmid": "41935622",
-    "doi": "10.1016/j.jvir.2026.108780",
-    "title": "TARE the Hazards: Bringing High-Risk Patients to the Transplant Finish Line.",
-    "abstract": "",
+    "pmid": "42091673",
+    "doi": "10.1007/s00270-026-04463-x",
+    "title": "Directional Atherectomy Versus Plain Old Balloon Angioplasty for Vessel Preparation Before Drug-Coated Balloon Treatment in Moderate-to-Severe Calcified Lesions.",
+    "abstract": "PURPOSE: This study aimed to compare directional atherectomy (DA) and plain old balloon angioplasty (POBA) for vessel preparation before drug-coated balloon (DCB) therapy in moderately to severely calcified peripheral artery disease. MATERIALS AND METHODS: This study is a sub-analysis of the Evolusion study. Inverse probability weighting was applied to balance the two groups. The primary endpoints were freedom from major adverse events (f-MAE), freedom from all-cause mortality (f-ACM), and major adverse limb events (MALE). Secondary endpoints included Rutherford classification improvement rate, bailout stent implantation rate, and bailout stent length. RESULTS: A total of 337 patients were included (254 in POBA group, 83 in DA group). POBA had higher bailout stent implantation rate (28.7% vs 16.9%, p = 0.004) and longer mean stent length (159.0 ± 78.8 mm vs 119.3 ± 58.9 mm, p < 0.001); DA enabled larger-diameter DCBs (5.11 ± 0.69 mm vs 4.73 ± 0.62 mm, p < 0.01). Over 24 months, POBA had 43 deaths (41.9% cardiovascular) and 15 post-procedural reinterventions; DA had 4 deaths and 5 reinterventions. POBA also showed lower f-MAE (78.4% vs 85.4%, p = 0.027) and f-ACM (83.2% vs 92.7%, p = 0.0035), plus higher cumulative MALE (8.5% vs 4.8%, p = 0.006). DA had greater Rutherford category improvement, reaching 89.1% vs 71.3% at 24 months. CONCLUSION: In patients with calcified lesions, DA-based vessel preparation before DCB therapy was associated with superior clinical outcomes, including higher f-MAE and f-ACM, lower MALE rates, reduced bailout stenting, shorter stent length, and greater improvement in Rutherford category, compared with POBA.",
     "authors": [
-      "Toskich Beau Bosko"
+      "Wang Bing",
+      "Wang Linjun",
+      "Fang Zhengyuan",
+      "Qiu Chenyang",
+      "Xu Yiting",
+      "Fang Xin",
+      "Feng Zibo",
+      "Guo Lianrui",
+      "He Chunshui",
+      "Ye Meng",
+      "Wu Ziheng"
     ],
-    "journal_abbr": "J Vasc Interv Radiol",
-    "pub_date": "2026-04-02",
-    "journal": "JVIR",
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-05-06",
+    "journal": "CVIR",
     "is_interest": false,
     "interest_category": null,
-    "summary": null
-  },
-  {
-    "pmid": "41935621",
-    "doi": "10.1016/j.jvir.2026.108778",
-    "title": "Radial access in IR and the risk of stroke: lessons learned.",
-    "abstract": "",
-    "authors": [
-      "Iezzi Roberto",
-      "Bilhim Tiago",
-      "Pua Uei",
-      "Levigard Raphael Braz",
-      "Wells David",
-      "Rogan Chris",
-      "Guimaraes Marcelo"
-    ],
-    "journal_abbr": "J Vasc Interv Radiol",
-    "pub_date": "2026-04-02",
-    "journal": "JVIR",
-    "is_interest": false,
-    "interest_category": null,
-    "summary": null
-  },
-  {
-    "pmid": "41935620",
-    "doi": "10.1016/j.jvir.2026.108781",
-    "title": "Rates of Successful Bridging or Downstaging and Safety of Segmental Radioembolization for Hepatocellular Carcinoma in Patients with Baseline Hyperbilirubinemia.",
-    "abstract": "PURPOSE: To evaluate the safety and rates of bridging or downstaging following segmental transarterial radioembolization (TARE) in hepatocellular carcinoma (HCC) patients with baseline hyperbilirubinemia (total bilirubin [TBili] ≥2.0 mg/dL). MATERIALS AND METHODS: This single-institution retrospective study included 119 HCC patients (median age: 64 years, IQR: 58-71) with baseline hyperbilirubinemia who underwent 129 segmental TARE procedures between 2006 and 2021. Baseline and post-treatment liver function, toxicities, overall survival (OS), and bridging/downstaging rates were analyzed. Patients were stratified by treatment intent: palliative, bridging, or downstaging. RESULTS: The median absorbed dose was 211 Gy (IQR: 157-318), treatment volume 160 cc (IQR: 109-227), whole liver volume 1402 cc (IQR: 1136-1830), and percentage of liver treated 11.0% (IQR: 8.2-15.5). Median baseline TBili was 2.7 mg/dL (IQR: 2.3-3.2). Grade 3/4 bilirubin toxicity occurred in 1.0% at 1 and 3 months, and 8.0% at 6 months. Although TBili (P=0.011) and albumin (P=0.047) changed significantly over time, post-hoc testing showed no differences between timepoints, and ALBI grade remained stable (P=0.900). Median intention-to-treat OS was not reached (95% CI: 59.0 months-not calculable [NC]). The palliative group had a median OS of 22.0 months (95% CI: 18.0-NC), while OS was not reached in the bridging group. Among 71 bridging patients, 92.0% remained within Milan criteria and 78.0% underwent transplantation. Of 6 downstaging patients, 67.0% were successfully downstaged, and 2 underwent transplantation. CONCLUSION: Segmental TARE is safe and well tolerated in HCC patients with baseline hyperbilirubinemia, achieving high rates of successful bridging and downstaging to liver transplant with manageable toxicity.",
-    "authors": [
-      "Serhal Muhamad",
-      "Nadeem Arsalan",
-      "Gabr Ahmed",
-      "Entezari Pouya",
-      "Riaz Ahsun",
-      "Kulik Laura",
-      "Kalyan Aparna",
-      "Borja-Cacho Daniel",
-      "Dietch Zachary",
-      "Salem Riad",
-      "Gordon Andrew C",
-      "Lewandowski Robert J"
-    ],
-    "journal_abbr": "J Vasc Interv Radiol",
-    "pub_date": "2026-04-02",
-    "journal": "JVIR",
-    "is_interest": true,
-    "interest_category": "hepatobiliary",
     "summary": {
-      "title_ko": "고빌리루빈혈증을 동반한 간세포암 환자에서 분절형 동맥방사선색전술(TARE)의 교량 또는 병기 하락 성공률 및 안전성 평가",
-      "one_line": "본 연구는 고빌리루빈혈증을 동반한 간세포암 환자에서 분절형 동맥방사선색전술(TARE)이 안전하며 교량 또는 병기 하락에 효과적임을 보여준다.",
-      "design": "후향적 단일 기관 연구",
-      "subjects": "간세포암 환자 119명 (중앙값 나이 64세, IQR: 58-71세), 동맥방사선색전술(TARE) 시술 129회",
-      "intervention": "분절형 동맥방사선색전술(Segmental TARE)",
-      "results": "교량(bridging) 환자군에서 생존 중앙값(median OS)은 도달하지 않았으며, 병기 하락(downstaging) 환자군에서 성공률은 67.0%였다.  Grade 3/4 빌리루빈 독성(bilirubin toxicity)은 1개월 및 3개월 시점에 1.0%, 6개월 시점에 8.0%에서 발생했다.",
-      "implication": "고빌리루빈혈증을 동반한 간세포암 환자에서 동맥방사선색전술(TARE)은 간 이식(liver transplantation)을 위한 교량 또는 병기 하락을 가능하게 하는 안전하고 효과적인 치료 옵션이 될 수 있다.",
-      "detailed_results": "흡수선량(absorbed dose) 중앙값은 211 Gy (IQR: 157-318), 치료 부피(treatment volume)는 160 cc (IQR: 109-227), 전체 간 부피(whole liver volume)는 1402 cc (IQR: 1136-1830), 치료된 간의 비율(percentage of liver treated)은 11.0% (IQR: 8.2-15.5)였다.  기저(baseline) 빌리루빈(TBili) 중앙값은 2.7 mg/dL (IQR: 2.3-3.2)였다.  경과에 따른 빌리루빈(TBili) (P=0.011) 및 알부민(albumin) (P=0.047) 수치의 유의미한 변화가 있었으나, 사후 검정(post-hoc testing)에서는 시점 간 차이가 없었고, ALBI grade는 안정적이었다 (P=0.900).  교량 환자 중 92.0%가 밀란 기준(Milan criteria) 내에 있었으며, 78.0%가 이식을 받았다.  병기 하락 환자 중 67.0%가 성공적으로 병기 하락했으며, 2명이 이식을 받았다.  전체 생존 중앙값(median OS)은 도달하지 않았으며 95% 신뢰구간(CI)은 59.0개월 - 도달하지 않음(NC)이었다.  완화(palliative) 환자군의 생존 중앙값(median OS)은 22.0개월 (95% CI: 18.0-NC)이었다.",
-      "critique": "본 연구는 후향적 연구라는 한계점을 가지고 있으며, 단일 기관에서 수행되었기 때문에 결과를 일반화하는 데 주의가 필요하다.  또한, ALBI grade의 안정성은 다른 간 기능 지표와 함께 고려되어야 할 것이다.",
-      "clinical_application": "고빌리루빈혈증을 동반한 간세포암 환자에게 동맥방사선색전술(TARE)을 고려할 때, 간 이식 가능성을 높이기 위한 교량 또는 병기 하락 전략으로 활용할 수 있다.  환자의 간 기능 상태를 면밀히 모니터링하고, 독성 발생 가능성에 대비해야 한다."
+      "title_ko": "중등도~심한 석회화 병변에서 약물코팅풍선 치료 전 혈관 전처리: 방향성 풍선절제술(Directional Atherectomy) vs. 일반 풍선확장술(Plain Old Balloon Angioplasty)",
+      "one_line": "중등도~심한 석회화 병변 환자에서 약물코팅풍선 치료 전 혈관 전처리 시 방향성 풍선절제술이 일반 풍선확장술보다 우수한 임상 결과를 보였다.",
+      "design": "후향적 분석 (Evolusion 연구의 하위 분석)",
+      "subjects": "총 337명 (POBA군 254명, DA군 83명)",
+      "intervention": "방향성 풍선절제술(DA) vs. 일반 풍선확장술(POBA) (약물코팅풍선(DCB) 치료 전 혈관 전처리)",
+      "results": "POBA군은 DA군에 비해 구조적 합병증 발생률(f-MAE) 78.4% vs 85.4% (p=0.027), 사망률(f-ACM) 83.2% vs 92.7% (p=0.0035), 주요 사지 합병증(MALE) 발생률 8.5% vs 4.8% (p=0.006)이 높았으며, 구조적 합병증 회피를 위한 스텐트 삽입률 28.7% vs 16.9% (p=0.004), 스텐트 길이 159.0±78.8 mm vs 119.3±58.9 mm (p<0.001)이 길었다. DA군은 더 큰 직경의 DCB (5.11±0.69 mm vs 4.73±0.62 mm, p<0.01) 사용이 가능했으며, 24개월 시점에서 랭퍼드 분류 개선율 89.1% vs 71.3%를 보였다.",
+      "implication": "석회화 병변 환자에서 약물코팅풍선 치료 전 혈관 전처리 시 방향성 풍선절제술을 고려하면 구조적 합병증 발생률 감소, 사망률 감소, 주요 사지 합병증 감소, 스텐트 사용량 감소, 랭퍼드 분류 개선 등의 임상적 이점을 얻을 수 있다."
     }
   },
   {
-    "pmid": "41935619",
-    "doi": "10.1016/j.jvir.2026.108777",
-    "title": "Authors' reply to \"Radial access in IR and the risk of stroke: lessons learned.\".",
+    "pmid": "42091672",
+    "doi": "10.1007/s00270-026-04445-z",
+    "title": "Safety of Ultrasound-Guided Small-Bore Percutaneous Chest Drain Insertion in Cardiac Surgical Patients Receiving Dual Antiplatelet Therapy.",
     "abstract": "",
     "authors": [
-      "Koretsune Yuji",
-      "Sone Miyuki",
-      "Higashihara Hiroki"
+      "Adroja Naimish",
+      "Saeed Danial",
+      "Obasi Emeka",
+      "Padley Simon P G",
+      "Ridge Carole A"
     ],
-    "journal_abbr": "J Vasc Interv Radiol",
-    "pub_date": "2026-04-02",
-    "journal": "JVIR",
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-05-06",
+    "journal": "CVIR",
     "is_interest": false,
     "interest_category": null,
     "summary": null
   },
   {
-    "pmid": "41935618",
-    "doi": "10.1016/j.jvir.2026.108779",
-    "title": "Direct Puncture of Preexisting Endoscopic Stents for Percutaneous Transhepatic Biliary Drainage: Technical Feasibility and Safety.",
-    "abstract": "Percutaneous transhepatic biliary drainage (PTBD) is an alternative approach for biliary drainage in patients for whom endoscopic retrograde biliary drainage is not available due to surgically altered anatomy or poor clinical status; however, it remains technically challenging with nondilated bile ducts. This retrospective study evaluated the technical feasibility and safety of puncture of preexisting endoscopic biliary stents to opacify the biliary system and facilitate PTBD. Seventeen procedures in 15 patients with nondilated bile ducts were included. Technical success, adverse events, procedural details, and subsequent stent management were assessed. All procedures were technically successful. No severe adverse events occurred, and stent puncture was not associated with stent damage or difficulty in subsequent stent management. Reintervention was required in 3 cases. Despite the retrospective design and small sample size, these findings suggest direct puncture of preexisting endoscopic stents is a safe and feasible option for PTBD in patients with nondilated bile ducts.",
+    "pmid": "42091671",
+    "doi": "10.1007/s00270-026-04462-y",
+    "title": "Fear Leads to Failure and Failure Leads to Fear.",
+    "abstract": "",
     "authors": [
-      "Ozawa Mizuki",
-      "Sugawara Shunsuke",
-      "Kimura Shintaro",
-      "Nakama Rakuhei",
-      "Hiruma Hiromitsu",
-      "Hijioka Susumu",
-      "Sone Miyuki"
+      "Garnon Julien",
+      "Weiss Julia"
     ],
-    "journal_abbr": "J Vasc Interv Radiol",
-    "pub_date": "2026-04-02",
-    "journal": "JVIR",
-    "is_interest": true,
-    "interest_category": "nonvascular",
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-05-06",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42091670",
+    "doi": "10.1007/s00270-026-04464-w",
+    "title": "The Invisible Architect: A Letter to CVIR Reviewers.",
+    "abstract": "",
+    "authors": [
+      "Diaz-Lorenzo Ignacio",
+      "Clements Warren"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-05-06",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42089963",
+    "doi": "10.1007/s00270-026-04458-8",
+    "title": "Trans-radial and \"Snuffbox\" Access Versus Trans-femoral Access in Emergency Embolization: A Retrospective Comparative Analysis of 421 Procedures.",
+    "abstract": "PURPOSE: Trans-radial access (TRA) offers advantages in elective settings, but its safety and feasibility in emergencies remain understudied. This study compares TRA and trans-femoral access (TFA) in emergency embolizations at a Level 1 trauma center. MATERIALS AND METHODS: Ethical approval was obtained for this retrospective analysis. A total of 421 emergency embolizations performed on 389 patients were included. TRA (n = 95, including 44 distal radial) and TFA (n = 326) were compared for technical success rate, procedural success rate, and access-site complications. Multivariate analysis was used to identify independent predictors of complications. RESULTS: TRA patients were younger (median 58 vs. 66 years; p = 0.044) with less hypertension (33.7% vs. 46.6%; p = 0.025). Technical success rate was 99.0% for TRA and 99.7% for TFA (p = 1.000). Procedural success was 100% for TRA and 99.7% for TFA (p = 1.000). Overall complications occurred in 5.5% (3.2% TRA vs. 6.1% TFA; p = 0.234), most were minor bleeding-related complications (2.1% TRA vs. 5.2% TFA; p = 0.164). Major complications (1.0% total) included pseudoaneurysm formation (n = 3; 1 in TRA, 2 in TFA) and retroperitoneal hemorrhage (n = 1 in TFA), with no group differences (p = 0.908). Adjusting for age, hypertension, diabetes mellitus, antithrombotic use and sheath size, multivariate analysis found that access site (TRA vs. TFA) was not found to be an independent predictor of all complications (OR 0.524; 95% CI: 0.147 - 1.859; p = 0.317). CONCLUSION: TRA, including distal radial \"snuffbox\" access, is a safe alternative to TFA for emergency embolization, demonstrating high technical and procedural success rates. LEVEL OF EVIDENCE: Level 4, Cohort study.",
+    "authors": [
+      "Hui Terrence",
+      "To Lilian",
+      "Annabattula Chandra",
+      "Xiang Hao",
+      "Schlaphoff Glen",
+      "El Hgar Yehia"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-05-06",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
     "summary": {
-      "title_ko": "기존 내시경 스텐트 직접 천자 시 경피경간담즙배액술(PTBD)의 기술적 타당성 및 안전성 평가",
-      "one_line": "기존 내시경 스텐트를 직접 천자하여 경피경간담즙배액술(PTBD)을 시행하는 것이 좁아진 담도 환자에게 안전하고 기술적으로 타당한 방법임을 시사한다.",
-      "design": "후향적 연구 (Retrospective study)",
-      "subjects": "15명의 환자, 총 17회 시술 (N=17)",
-      "intervention": "기존 내시경 담즙 스텐트(endoscopic biliary stents) 직접 천자(direct puncture)를 이용한 경피경간담즙배액술(Percutaneous Transhepatic Biliary Drainage, PTBD)",
-      "results": "모든 시술이 기술적으로 성공적이었으며, 심각한 부작용은 발생하지 않았다. 스텐트 천자는 스텐트 손상이나 후속 스텐트 관리의 어려움을 야기하지 않았다. 재시술은 3건에서 필요했다.",
-      "implication": "좁아진 담도를 가진 환자에서 경피경간담즙배액술(PTBD)을 시행할 때 기존 내시경 스텐트 직접 천자는 안전하고 효과적인 대안이 될 수 있다.",
-      "detailed_results": "17회 시술 중 기술적 성공률은 100%였다. 심각한 부작용은 보고되지 않았으며, 스텐트 손상이나 후속 스텐트 관리의 어려움은 관찰되지 않았다. 재시술은 3건(3/17, 17.6%)에서 필요했으며, 이는 시술 후 스텐트 막힘 또는 담즙 누출과 관련되었다.  추적 기간은 명시되지 않았다.",
-      "critique": "본 연구는 후향적 디자인과 작은 표본 크기(N=17)라는 제한점을 가지고 있다. 따라서 결과의 일반화에는 주의가 필요하며, 더 큰 규모의 전향적 연구를 통해 결과를 확인해야 한다. 기존 연구에서는 좁아진 담도에서 경피경간담즙배액술(PTBD)의 기술적 어려움이 보고되었으나, 본 연구는 기존 내시경 스텐트 직접 천자를 통해 이러한 어려움을 극복할 수 있음을 보여준다.",
-      "clinical_application": "내시경 역행 담즙 배액술(Endoscopic Retrograde Cholangiopancreatography, ERCP)이 불가능한 좁아진 담도를 가진 환자에게 기존 내시경 스텐트 직접 천자를 이용한 경피경간담즙배액술(PTBD)을 고려할 수 있다.  이는 시술의 성공률을 높이고 합병증 발생 위험을 줄이는 데 기여할 수 있을 것이다."
+      "title_ko": "응급 혈관 색전술에서 요골 접근법(Trans-radial) 대 대동맥 접근법(Trans-femoral) 비교: 후향적 분석",
+      "one_line": "응급 상황에서 요골 접근법은 대동맥 접근법과 유사한 높은 성공률과 안전성을 보이며, 접근 부위가 전체 합병증의 독립적인 예측 인자가 아니다.",
+      "design": "후향적 코호트 연구(Cohort study)",
+      "subjects": "총 389명의 환자에서 421건의 응급 혈관 색전술 (N=421)",
+      "intervention": "요골 접근법(Trans-radial, TRA, n=95, 이 중 원위 요골 'snuffbox' 접근법 44건) 대 대동맥 접근법(Trans-femoral, TFA, n=326)",
+      "results": "기술적 성공률은 TRA에서 99.0%, TFA에서 99.7% (p=1.000)였으며, 절차적 성공률은 TRA에서 100%, TFA에서 99.7% (p=1.000)였다. 전체 합병증 발생률은 TRA에서 5.5%, TFA에서 6.1% (p=0.234)였으며, 출혈 관련 합병증은 TRA에서 2.1%, TFA에서 5.2% (p=0.164)였다. 주요 합병증(총 1.0%)은 가성 동맥류(pseudoaneurysm) 형성(TRA 1건, TFA 2건) 및 후복막 출혈(retroperitoneal hemorrhage)(TFA 1건)이 있었으며, 그룹 간 차이는 없었다 (p=0.908). 다변량 분석 결과, 연령, 고혈압, 당뇨병, 항혈전제 사용, 카테터 사이즈를 보정한 후에도 접근 부위(TRA vs. TFA)는 전체 합병증의 독립적인 예측 인자가 아니었다 (OR 0.524; 95% CI: 0.147 - 1.859; p=0.317).",
+      "implication": "응급 혈관 색전술에서 요골 접근법은 대동맥 접근법의 안전하고 효과적인 대안이 될 수 있으며, 특히 원위 요골 'snuffbox' 접근법도 고려할 수 있다."
     }
   },
   {
@@ -1425,6 +1426,128 @@
     "is_interest": false,
     "interest_category": null,
     "summary": null
+  },
+  {
+    "pmid": "41935622",
+    "doi": "10.1016/j.jvir.2026.108780",
+    "title": "TARE the Hazards: Bringing High-Risk Patients to the Transplant Finish Line.",
+    "abstract": "",
+    "authors": [
+      "Toskich Beau Bosko"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-04-02",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "41935621",
+    "doi": "10.1016/j.jvir.2026.108778",
+    "title": "Radial access in IR and the risk of stroke: lessons learned.",
+    "abstract": "",
+    "authors": [
+      "Iezzi Roberto",
+      "Bilhim Tiago",
+      "Pua Uei",
+      "Levigard Raphael Braz",
+      "Wells David",
+      "Rogan Chris",
+      "Guimaraes Marcelo"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-04-02",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "41935620",
+    "doi": "10.1016/j.jvir.2026.108781",
+    "title": "Rates of Successful Bridging or Downstaging and Safety of Segmental Radioembolization for Hepatocellular Carcinoma in Patients with Baseline Hyperbilirubinemia.",
+    "abstract": "PURPOSE: To evaluate the safety and rates of bridging or downstaging following segmental transarterial radioembolization (TARE) in hepatocellular carcinoma (HCC) patients with baseline hyperbilirubinemia (total bilirubin [TBili] ≥2.0 mg/dL). MATERIALS AND METHODS: This single-institution retrospective study included 119 HCC patients (median age: 64 years, IQR: 58-71) with baseline hyperbilirubinemia who underwent 129 segmental TARE procedures between 2006 and 2021. Baseline and post-treatment liver function, toxicities, overall survival (OS), and bridging/downstaging rates were analyzed. Patients were stratified by treatment intent: palliative, bridging, or downstaging. RESULTS: The median absorbed dose was 211 Gy (IQR: 157-318), treatment volume 160 cc (IQR: 109-227), whole liver volume 1402 cc (IQR: 1136-1830), and percentage of liver treated 11.0% (IQR: 8.2-15.5). Median baseline TBili was 2.7 mg/dL (IQR: 2.3-3.2). Grade 3/4 bilirubin toxicity occurred in 1.0% at 1 and 3 months, and 8.0% at 6 months. Although TBili (P=0.011) and albumin (P=0.047) changed significantly over time, post-hoc testing showed no differences between timepoints, and ALBI grade remained stable (P=0.900). Median intention-to-treat OS was not reached (95% CI: 59.0 months-not calculable [NC]). The palliative group had a median OS of 22.0 months (95% CI: 18.0-NC), while OS was not reached in the bridging group. Among 71 bridging patients, 92.0% remained within Milan criteria and 78.0% underwent transplantation. Of 6 downstaging patients, 67.0% were successfully downstaged, and 2 underwent transplantation. CONCLUSION: Segmental TARE is safe and well tolerated in HCC patients with baseline hyperbilirubinemia, achieving high rates of successful bridging and downstaging to liver transplant with manageable toxicity.",
+    "authors": [
+      "Serhal Muhamad",
+      "Nadeem Arsalan",
+      "Gabr Ahmed",
+      "Entezari Pouya",
+      "Riaz Ahsun",
+      "Kulik Laura",
+      "Kalyan Aparna",
+      "Borja-Cacho Daniel",
+      "Dietch Zachary",
+      "Salem Riad",
+      "Gordon Andrew C",
+      "Lewandowski Robert J"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-04-02",
+    "journal": "JVIR",
+    "is_interest": true,
+    "interest_category": "hepatobiliary",
+    "summary": {
+      "title_ko": "고빌리루빈혈증을 동반한 간세포암 환자에서 분절형 동맥방사선색전술(TARE)의 교량 또는 병기 하락 성공률 및 안전성 평가",
+      "one_line": "본 연구는 고빌리루빈혈증을 동반한 간세포암 환자에서 분절형 동맥방사선색전술(TARE)이 안전하며 교량 또는 병기 하락에 효과적임을 보여준다.",
+      "design": "후향적 단일 기관 연구",
+      "subjects": "간세포암 환자 119명 (중앙값 나이 64세, IQR: 58-71세), 동맥방사선색전술(TARE) 시술 129회",
+      "intervention": "분절형 동맥방사선색전술(Segmental TARE)",
+      "results": "교량(bridging) 환자군에서 생존 중앙값(median OS)은 도달하지 않았으며, 병기 하락(downstaging) 환자군에서 성공률은 67.0%였다.  Grade 3/4 빌리루빈 독성(bilirubin toxicity)은 1개월 및 3개월 시점에 1.0%, 6개월 시점에 8.0%에서 발생했다.",
+      "implication": "고빌리루빈혈증을 동반한 간세포암 환자에서 동맥방사선색전술(TARE)은 간 이식(liver transplantation)을 위한 교량 또는 병기 하락을 가능하게 하는 안전하고 효과적인 치료 옵션이 될 수 있다.",
+      "detailed_results": "흡수선량(absorbed dose) 중앙값은 211 Gy (IQR: 157-318), 치료 부피(treatment volume)는 160 cc (IQR: 109-227), 전체 간 부피(whole liver volume)는 1402 cc (IQR: 1136-1830), 치료된 간의 비율(percentage of liver treated)은 11.0% (IQR: 8.2-15.5)였다.  기저(baseline) 빌리루빈(TBili) 중앙값은 2.7 mg/dL (IQR: 2.3-3.2)였다.  경과에 따른 빌리루빈(TBili) (P=0.011) 및 알부민(albumin) (P=0.047) 수치의 유의미한 변화가 있었으나, 사후 검정(post-hoc testing)에서는 시점 간 차이가 없었고, ALBI grade는 안정적이었다 (P=0.900).  교량 환자 중 92.0%가 밀란 기준(Milan criteria) 내에 있었으며, 78.0%가 이식을 받았다.  병기 하락 환자 중 67.0%가 성공적으로 병기 하락했으며, 2명이 이식을 받았다.  전체 생존 중앙값(median OS)은 도달하지 않았으며 95% 신뢰구간(CI)은 59.0개월 - 도달하지 않음(NC)이었다.  완화(palliative) 환자군의 생존 중앙값(median OS)은 22.0개월 (95% CI: 18.0-NC)이었다.",
+      "critique": "본 연구는 후향적 연구라는 한계점을 가지고 있으며, 단일 기관에서 수행되었기 때문에 결과를 일반화하는 데 주의가 필요하다.  또한, ALBI grade의 안정성은 다른 간 기능 지표와 함께 고려되어야 할 것이다.",
+      "clinical_application": "고빌리루빈혈증을 동반한 간세포암 환자에게 동맥방사선색전술(TARE)을 고려할 때, 간 이식 가능성을 높이기 위한 교량 또는 병기 하락 전략으로 활용할 수 있다.  환자의 간 기능 상태를 면밀히 모니터링하고, 독성 발생 가능성에 대비해야 한다."
+    }
+  },
+  {
+    "pmid": "41935619",
+    "doi": "10.1016/j.jvir.2026.108777",
+    "title": "Authors' reply to \"Radial access in IR and the risk of stroke: lessons learned.\".",
+    "abstract": "",
+    "authors": [
+      "Koretsune Yuji",
+      "Sone Miyuki",
+      "Higashihara Hiroki"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-04-02",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "41935618",
+    "doi": "10.1016/j.jvir.2026.108779",
+    "title": "Direct Puncture of Preexisting Endoscopic Stents for Percutaneous Transhepatic Biliary Drainage: Technical Feasibility and Safety.",
+    "abstract": "Percutaneous transhepatic biliary drainage (PTBD) is an alternative approach for biliary drainage in patients for whom endoscopic retrograde biliary drainage is not available due to surgically altered anatomy or poor clinical status; however, it remains technically challenging with nondilated bile ducts. This retrospective study evaluated the technical feasibility and safety of puncture of preexisting endoscopic biliary stents to opacify the biliary system and facilitate PTBD. Seventeen procedures in 15 patients with nondilated bile ducts were included. Technical success, adverse events, procedural details, and subsequent stent management were assessed. All procedures were technically successful. No severe adverse events occurred, and stent puncture was not associated with stent damage or difficulty in subsequent stent management. Reintervention was required in 3 cases. Despite the retrospective design and small sample size, these findings suggest direct puncture of preexisting endoscopic stents is a safe and feasible option for PTBD in patients with nondilated bile ducts.",
+    "authors": [
+      "Ozawa Mizuki",
+      "Sugawara Shunsuke",
+      "Kimura Shintaro",
+      "Nakama Rakuhei",
+      "Hiruma Hiromitsu",
+      "Hijioka Susumu",
+      "Sone Miyuki"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-04-02",
+    "journal": "JVIR",
+    "is_interest": true,
+    "interest_category": "nonvascular",
+    "summary": {
+      "title_ko": "기존 내시경 스텐트 직접 천자 시 경피경간담즙배액술(PTBD)의 기술적 타당성 및 안전성 평가",
+      "one_line": "기존 내시경 스텐트를 직접 천자하여 경피경간담즙배액술(PTBD)을 시행하는 것이 좁아진 담도 환자에게 안전하고 기술적으로 타당한 방법임을 시사한다.",
+      "design": "후향적 연구 (Retrospective study)",
+      "subjects": "15명의 환자, 총 17회 시술 (N=17)",
+      "intervention": "기존 내시경 담즙 스텐트(endoscopic biliary stents) 직접 천자(direct puncture)를 이용한 경피경간담즙배액술(Percutaneous Transhepatic Biliary Drainage, PTBD)",
+      "results": "모든 시술이 기술적으로 성공적이었으며, 심각한 부작용은 발생하지 않았다. 스텐트 천자는 스텐트 손상이나 후속 스텐트 관리의 어려움을 야기하지 않았다. 재시술은 3건에서 필요했다.",
+      "implication": "좁아진 담도를 가진 환자에서 경피경간담즙배액술(PTBD)을 시행할 때 기존 내시경 스텐트 직접 천자는 안전하고 효과적인 대안이 될 수 있다.",
+      "detailed_results": "17회 시술 중 기술적 성공률은 100%였다. 심각한 부작용은 보고되지 않았으며, 스텐트 손상이나 후속 스텐트 관리의 어려움은 관찰되지 않았다. 재시술은 3건(3/17, 17.6%)에서 필요했으며, 이는 시술 후 스텐트 막힘 또는 담즙 누출과 관련되었다.  추적 기간은 명시되지 않았다.",
+      "critique": "본 연구는 후향적 디자인과 작은 표본 크기(N=17)라는 제한점을 가지고 있다. 따라서 결과의 일반화에는 주의가 필요하며, 더 큰 규모의 전향적 연구를 통해 결과를 확인해야 한다. 기존 연구에서는 좁아진 담도에서 경피경간담즙배액술(PTBD)의 기술적 어려움이 보고되었으나, 본 연구는 기존 내시경 스텐트 직접 천자를 통해 이러한 어려움을 극복할 수 있음을 보여준다.",
+      "clinical_application": "내시경 역행 담즙 배액술(Endoscopic Retrograde Cholangiopancreatography, ERCP)이 불가능한 좁아진 담도를 가진 환자에게 기존 내시경 스텐트 직접 천자를 이용한 경피경간담즙배액술(PTBD)을 고려할 수 있다.  이는 시술의 성공률을 높이고 합병증 발생 위험을 줄이는 데 기여할 수 있을 것이다."
+    }
   },
   {
     "pmid": "41793824",

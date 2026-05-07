@@ -17,7 +17,11 @@
       "Bash(Get-Content \"C:\\\\Users\\\\nanli\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--project-ir-journal-digest\\\\3950b470-a4b5-4eb8-ac39-2376d02cc045\\\\tasks\\\\bb6m6emcj.output\")",
       "Bash(Select-String \"INFO|ERROR|WARNING|Traceback|summariz|Saved|완료|DONE|failed|Exception\")",
       "Bash(Select-Object -Last 50)",
-      "Bash(powershell -Command \"Get-Content 'C:\\\\Users\\\\nanli\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--project-ir-journal-digest\\\\3950b470-a4b5-4eb8-ac39-2376d02cc045\\\\tasks\\\\bb6m6emcj.output' -Wait | Select-String 'Digest complete|ERROR|Traceback|Exception|=== IR Journal'\")"
+      "Bash(powershell -Command \"Get-Content 'C:\\\\Users\\\\nanli\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--project-ir-journal-digest\\\\3950b470-a4b5-4eb8-ac39-2376d02cc045\\\\tasks\\\\bb6m6emcj.output' -Wait | Select-String 'Digest complete|ERROR|Traceback|Exception|=== IR Journal'\")",
+      "Bash(Get-ChildItem -Path \"C:\\\\project\\\\ir-journal-digest\" -Force)",
+      "Bash(Select-Object -Property Name, PSIsContainer)",
+      "PowerShell([System.IO.File]::ReadAllText\\('C:\\\\project\\\\ir-journal-digest\\\\data\\\\2026-05.json'\\) | ConvertFrom-Json | Select-Object -First 2 | ConvertTo-Json -Depth 10)",
+      "Bash(start *)"
     ]
   }
 }

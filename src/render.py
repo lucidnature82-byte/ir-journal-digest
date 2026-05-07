@@ -28,11 +28,11 @@ def _format_authors(authors: list[str], max_n: int = 3) -> str:
 
 
 def _sort_articles(articles: list[dict]) -> list[dict]:
-    interest = [a for a in articles if a.get("is_interest")]
-    other = [a for a in articles if not a.get("is_interest")]
-    interest.sort(key=lambda x: x.get("pub_date", ""), reverse=True)
-    other.sort(key=lambda x: x.get("pub_date", ""), reverse=True)
-    return interest + other
+    def sort_key(a):
+        date = a.get("pubmed_date") or a.get("pub_date", "")
+        pmid = int(a["pmid"]) if str(a.get("pmid", "")).isdigit() else 0
+        return (date, pmid)
+    return sorted(articles, key=sort_key, reverse=True)
 
 
 def _build_env() -> Environment:
@@ -56,12 +56,19 @@ def render_all(data_dir: Path) -> None:
             raw = json.load(f)
         articles = _sort_articles(raw)
         interest_count = sum(1 for a in articles if a.get("is_interest"))
+        summary_count = sum(
+            1 for a in articles
+            if a.get("summary") and "_error" not in (a.get("summary") or {})
+        )
+        no_abstract_count = sum(1 for a in articles if not a.get("abstract"))
         months_data.append({
             "month": month_str,
             "month_label": _format_month_ko(month_str),
             "articles": articles,
             "count": len(articles),
             "interest_count": interest_count,
+            "summary_count": summary_count,
+            "no_abstract_count": no_abstract_count,
         })
 
     if not months_data:
