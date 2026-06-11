@@ -32,7 +32,7 @@ _BASIC_SCHEMA = """{
   "subjects": "대상 / N수",
   "intervention": "시술 또는 중재",
   "results": "주요 결과 (수치 포함)",
-  "implication": "임상적 함의"
+  "implication": "임상 시사점"
 }"""
 
 _DETAILED_SCHEMA = """{
@@ -42,7 +42,7 @@ _DETAILED_SCHEMA = """{
   "subjects": "대상 / N수",
   "intervention": "시술 또는 중재",
   "results": "주요 결과 (수치 포함)",
-  "implication": "임상적 함의",
+  "implication": "임상 시사점",
   "detailed_results": "상세 결과 (subgroup 분석, 합병증, 추적 기간 포함)",
   "critique": "비판적 코멘트 (limitation, 기존 연구와의 비교)",
   "clinical_application": "임상 적용 시사점"

@@ -572,7 +572,7 @@
       "subjects": "대상: 206명 (2015-2022년 사이 cT1a RCC로 MWA 시술을 받은 환자)",
       "intervention": "시술 또는 중재: CT-가이드 전자파 응고술(CT-guided microwave ablation, MWA)",
       "results": "주요 결과:\n* 종양의 중간 크기(Median, IQR): 2.1 (1.6-2.7) cm\n* 추적 관찰 기간의 중간값(Median, IQR): 27.0 (14.8-45.3) 개월\n* 국소 종양 진행(Local tumor progression) 발생률: 2.9% (중간 시간 22.5 (16.3, 34.0) 개월)\n* 1차 치료 효능(Primary treatment efficacy): 94.7%\n* 2차 치료 효능(Secondary treatment efficacy): 97%\n* 전이(Metastasis) 발생률: 2명 (1.0%)\n* 24개월 시점의 국소 종양 진행, 질병 진행, 전이로부터 자유로운 생존율(Freedom from local tumor progression, disease progression, and metastasis): 91.5%\n* 24개월 시점의 암 관련 생존율(Cancer-specific survival): 100%\n* 24개월 시점의 전체 사망률(All-cause mortality rate): 4.9%\n* 이상반응(Adverse event, AE) 발생률: 3.3%\n* CTCAE 기준 Grade III 이상 이상반응: 4명 (1.9%), 이중 동측 요관 폐색(ipsilateral ureteral obstruction) 1명 (임시 스텐트 필요), 신주변 혈종(perinephric hematoma) 2명 (혈관조영술(angiogram) 또는 색전술(embolization) 필요)",
-      "implication": "임상적 함의: cT1a 신세포암종 환자에게 전자파 응고술(MWA)은 안전하고 효과적인 치료 옵션으로 고려될 수 있습니다."
+      "implication": "임상 시사점: cT1a 신세포암종 환자에게 전자파 응고술(MWA)은 안전하고 효과적인 치료 옵션으로 고려될 수 있습니다."
     }
   },
   {
@@ -1834,7 +1834,7 @@
       "subjects": "대상: 간경변으로 인한 비장 비대 및 혈소판 감소증 환자, N=7",
       "intervention": "시술 또는 중재: 이트륨-90 방사선 색전술(Yttrium-90 splenic Transarterial Radioembolization, TARE). 핵의학 폐류 우회(lung shunt) 평가를 시행하고, 시술 후 이트륨-90 양전자 방출 단층 촬영/컴퓨터 단층 촬영(Positron Emission Tomography/Computed Tomography, PET/CT)을 통해 방사성 의약품의 분포를 확인했다.",
       "results": "주요 결과: 경미한 부작용 2건 발생, 중등도/심각한 부작용은 없었으며, 혈소판 수 및 비장 용적의 유의미한 개선은 관찰되지 않았다. 연구 중단으로 인해 100 Gy를 초과하는 용량 증가는 이루어지지 않았다. 폐류 우회 분율(shunt fraction)은 5% 미만이었고, 비장 외 이트륨-90 침착은 관찰되지 않았다.",
-      "implication": "임상적 함의: 간경변으로 인한 비장 비대 및 혈소판 감소증 환자에게 이트륨-90 방사선 색전술은 안전하고 실현 가능하며, 향후 용량 증량 및 환자군 확대 연구를 통해 치료 효과를 개선할 수 있다.",
+      "implication": "임상 시사점: 간경변으로 인한 비장 비대 및 혈소판 감소증 환자에게 이트륨-90 방사선 색전술은 안전하고 실현 가능하며, 향후 용량 증량 및 환자군 확대 연구를 통해 치료 효과를 개선할 수 있다.",
       "detailed_results": "상세 결과: 시술 전 핵의학 폐류 우회 평가 결과, 폐류 우회 분율은 5% 미만으로 확인되었다. 시술 후 90Y PET/CT 검사 결과, 비장 외 이트륨-90 침착은 관찰되지 않았다. 경미한 부작용 2건은 구체적으로 명시되지 않았다. 연구 중단으로 인해 추적 기간 및 장기적인 효과는 평가하지 못했다.",
       "critique": "비판적 코멘트: 표본 크기가 작아(N=7) 결과의 일반화에 제한이 있으며, 연구 중단으로 인해 용량 증량 및 장기적인 효과를 평가하지 못했다는 한계가 있다. 기존의 수술적 절제술(splenectomy)이나 부분 비장 색전술(partial splenic embolization)에 비해 안전성 측면에서 우수하지만, 치료 효과에 대한 추가 연구가 필요하다.",
       "clinical_application": "임상 적용 시사점: 간경변으로 인한 비장 비대 및 혈소판 감소증 환자에게 이트륨-90 방사선 색전술은 안전한 치료 옵션으로 고려될 수 있으며, 향후 대규모 임상 연구를 통해 효과를 입증하고 최적의 치료 프로토콜을 확립해야 한다."
@@ -1915,7 +1915,7 @@
       "subjects": "대상: 동맥 말초혈관 중재 시술이 필요한 환자 20명 (N=20)",
       "intervention": "시술 또는 중재: 일회용 혈관로봇 시스템을 이용한 동맥 말초혈관 중재 시술 (Disposable Endovascular Robotic System for Arterial Peripheral Vascular Interventions)",
       "results": "주요 결과: \n* 기술적 성공률: 100% (95% CI, 83.2%-100%)\n* 심각한 부작용 또는 시술 관련 합병증 발생 없음\n* 평균 시술 시간: 120.1분 (SD ± 34.5, 중앙값 117분, 범위 67.0-186.0분)\n* 평균 로봇 탐색 시간: 6.3분 (SD ± 7.6, 중앙값 3분, 범위 1.0-32.0분)\n* 중앙값 형광 투시 시간: 7.9분 (범위 1.0-18.10분)\n* 중앙값 시술자 방사선량: 1.4 μSv (범위 0.0-6.7 μSv)\n* 모든 시술자가 시스템을 직관적이고 만족스럽다고 평가 (모든 성능 지표에서 5.0/5.0)",
-      "implication": "임상적 함의: 일회용 혈관로봇 시스템은 낮은 방사선 노출량과 우수한 사용자 만족도를 제공하며, 동맥 말초혈관 중재 시술에 광범위하게 적용될 수 있는 잠재력을 가지고 있다."
+      "implication": "임상 시사점: 일회용 혈관로봇 시스템은 낮은 방사선 노출량과 우수한 사용자 만족도를 제공하며, 동맥 말초혈관 중재 시술에 광범위하게 적용될 수 있는 잠재력을 가지고 있다."
     }
   },
   {
