@@ -720,7 +720,7 @@
   {
     "pmid": "42456937",
     "doi": "10.1016/j.jvir.2026.108957",
-    "title": "Delayed pulmonary artery-bronchial fistula following embolization of mucormycosis related pulmonary artery pseudoaneurysms.",
+    "title": "Delayed Pulmonary Artery-Bronchial Fistula Following Embolization of Mucormycosis-Related Pulmonary Artery Pseudoaneurysms.",
     "abstract": "",
     "authors": [
       "Wu Hongxia",
@@ -850,7 +850,7 @@
   {
     "pmid": "42431362",
     "doi": "10.1016/j.jvir.2026.108958",
-    "title": "Ultrasound-Guided Radiofrequency Ablation for a Recurrent Post-Surgical Neck Neuroma: A Case Report.",
+    "title": "Ultrasound-Guided Radiofrequency Ablation for a Recurrent Postsurgical Neck Neuroma: A Case Report.",
     "abstract": "",
     "authors": [
       "Shu Chang",
@@ -888,7 +888,7 @@
   {
     "pmid": "42425451",
     "doi": "10.1016/j.jvir.2026.108952",
-    "title": "Percutaneous cholangioscopic laser removal of intraductal suture causing recurrent intrahepatic cholelithiasis.",
+    "title": "Percutaneous Cholangioscopic Laser Removal of Intraductal Suture Causing Recurrent Intrahepatic Cholelithiasis.",
     "abstract": "",
     "authors": [
       "Ahmed Omar M",
@@ -1287,35 +1287,6 @@
     "is_interest": false,
     "interest_category": null,
     "summary": null
-  },
-  {
-    "pmid": "42392356",
-    "doi": "10.1016/j.jvir.2026.108928",
-    "title": "Medical Therapies for Vascular Anomalies: What Interventional Radiologists Need to Know.",
-    "abstract": "Vascular anomalies comprise a heterogeneous group of vascular tumors and vascular malformations, which often require longitudinal multidisciplinary care. Interventional radiology (IR) plays a central role in the diagnosis and management of these lesions through imaging, image-guided intervention, and biopsy. Although embolization and related procedures remain fundamental, many vascular anomalies are diffuse, recurrent, syndromic, and procedural therapy alone may provide incomplete or temporary control. In this setting, medical therapy has become an important component of comprehensive care, with the potential to reduce pain, bleeding, coagulopathy, lesion activity, and the need for repeated procedures. This narrative review summarizes current medical therapies for common vascular anomalies from an IR perspective. The review addresses treatment indications, available outcome data, dosing and monitoring considerations, and treatment duration when known. As vascular anomaly care shifts toward genotype-informed and pathway-directed treatment, familiarity with systemic therapies may help interventional radiologists optimize patient selection, procedural timing, and multidisciplinary management.",
-    "authors": [
-      "Rouientan Hamidreza",
-      "Kiani Iman",
-      "Nezami Nariman",
-      "Rostambeigi Nassir",
-      "Ahmadzade Mohadese",
-      "Ghasemi-Rad Mohammad",
-      "Akhlaghpoor Shahram"
-    ],
-    "journal_abbr": "J Vasc Interv Radiol",
-    "pub_date": "2026-07-02",
-    "journal": "JVIR",
-    "is_interest": false,
-    "interest_category": null,
-    "summary": {
-      "title_ko": "혈관 이상에 대한 약물 치료: 인터벤션 영상의학과 의사가 알아야 할 사항",
-      "one_line": "본 논문은 혈관 종양 및 기형을 가진 환자의 관리를 위해 인터벤션 영상의학(IR) 전문의가 알아두어야 할 약물 치료법을 요약하고, 절차적 치료만으로는 효과를 보기 어려운 경우 약물 치료가 어떻게 도움이 될 수 있는지 설명합니다.",
-      "design": "서술형 리뷰 (Narrative Review)",
-      "subjects": "혈관 이상 환자 (구체적인 N수 정보는 없음)",
-      "intervention": "혈관 이상에 대한 약물 치료 (예: 혈관 종양, 기형) - 구체적인 시술명은 언급되지 않음. 인터벤션 영상의학과적 관점에서 치료 지표, 결과 데이터, 용량 및 모니터링 고려 사항, 치료 기간 등을 다룹니다.",
-      "results": "본 논문에서는 약물 치료가 통증 감소, 출혈 감소, 응고 장애 개선, 병변 활성 감소, 반복 시술 필요성 감소에 잠재적으로 기여할 수 있다고 언급합니다. 구체적인 수치 데이터는 제시되지 않았습니다. 유전형-정보 기반 및 경로-지향적 치료로의 전환이 이루어짐에 따라, 인터벤션 영상의학과 의사는 환자 선택, 절차 시기 조절, 다학제적 관리를 최적화하기 위해 약물 치료에 대한 이해가 필요합니다.",
-      "implication": "혈관 이상 관리에서 약물 치료는 절차적 치료와 병행하여 사용될 수 있으며, 인터벤션 영상의학과 의사는 환자 선택 및 치료 계획 수립 시 약물 치료에 대한 지식을 갖추어야 합니다. 향후 유전체 정보 기반의 맞춤형 치료 전략 개발을 위해 인터벤션 영상의학 전문의는 약물 치료에 대한 이해도를 높여야 할 것입니다."
-    }
   },
   {
     "pmid": "42533159",
@@ -2091,6 +2062,35 @@
         "기술적 성공률 유사 (RR = 1.01, 95% CI: 1.00-1.01)"
       ],
       "implication": "혈관내 초음파(IVUS) 가이드 하에 시행하는 말초동맥혈관중재시술(PVI)은 절단, 표적 병변 재관혈(TLR), 재협착, 전체 사망률 감소와 관련이 있습니다. 하지만 현재 증거는 주로 관찰 연구이며 신뢰도가 낮거나 중간 정도입니다. 따라서 추가적인 무작위 배정 임상시험(RCT)을 통해 혈관내 초음파(IVUS)의 효과를 검증할 필요가 있습니다."
+    }
+  },
+  {
+    "pmid": "42392356",
+    "doi": "10.1016/j.jvir.2026.108928",
+    "title": "Medical Therapies for Vascular Anomalies: What Interventional Radiologists Need to Know.",
+    "abstract": "Vascular anomalies comprise a heterogeneous group of vascular tumors and vascular malformations, which often require longitudinal multidisciplinary care. Interventional radiology (IR) plays a central role in the diagnosis and management of these lesions through imaging, image-guided intervention, and biopsy. Although embolization and related procedures remain fundamental, many vascular anomalies are diffuse, recurrent, syndromic, and procedural therapy alone may provide incomplete or temporary control. In this setting, medical therapy has become an important component of comprehensive care, with the potential to reduce pain, bleeding, coagulopathy, lesion activity, and the need for repeated procedures. This narrative review summarizes current medical therapies for common vascular anomalies from an IR perspective. The review addresses treatment indications, available outcome data, dosing and monitoring considerations, and treatment duration when known. As vascular anomaly care shifts toward genotype-informed and pathway-directed treatment, familiarity with systemic therapies may help interventional radiologists optimize patient selection, procedural timing, and multidisciplinary management.",
+    "authors": [
+      "Rouientan Hamidreza",
+      "Kiani Iman",
+      "Nezami Nariman",
+      "Rostambeigi Nassir",
+      "Ahmadzade Mohadese",
+      "Ghasemi-Rad Mohammad",
+      "Akhlaghpoor Shahram"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-07-02",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "혈관 이상에 대한 약물 치료: 인터벤션 영상의학과 의사가 알아야 할 사항",
+      "one_line": "본 논문은 혈관 종양 및 기형을 가진 환자의 관리를 위해 인터벤션 영상의학(IR) 전문의가 알아두어야 할 약물 치료법을 요약하고, 절차적 치료만으로는 효과를 보기 어려운 경우 약물 치료가 어떻게 도움이 될 수 있는지 설명합니다.",
+      "design": "서술형 리뷰 (Narrative Review)",
+      "subjects": "혈관 이상 환자 (구체적인 N수 정보는 없음)",
+      "intervention": "혈관 이상에 대한 약물 치료 (예: 혈관 종양, 기형) - 구체적인 시술명은 언급되지 않음. 인터벤션 영상의학과적 관점에서 치료 지표, 결과 데이터, 용량 및 모니터링 고려 사항, 치료 기간 등을 다룹니다.",
+      "results": "본 논문에서는 약물 치료가 통증 감소, 출혈 감소, 응고 장애 개선, 병변 활성 감소, 반복 시술 필요성 감소에 잠재적으로 기여할 수 있다고 언급합니다. 구체적인 수치 데이터는 제시되지 않았습니다. 유전형-정보 기반 및 경로-지향적 치료로의 전환이 이루어짐에 따라, 인터벤션 영상의학과 의사는 환자 선택, 절차 시기 조절, 다학제적 관리를 최적화하기 위해 약물 치료에 대한 이해가 필요합니다.",
+      "implication": "혈관 이상 관리에서 약물 치료는 절차적 치료와 병행하여 사용될 수 있으며, 인터벤션 영상의학과 의사는 환자 선택 및 치료 계획 수립 시 약물 치료에 대한 지식을 갖추어야 합니다. 향후 유전체 정보 기반의 맞춤형 치료 전략 개발을 위해 인터벤션 영상의학 전문의는 약물 치료에 대한 이해도를 높여야 할 것입니다."
     }
   },
   {
