@@ -1,0 +1,2145 @@
+[
+  {
+    "pmid": "42665129",
+    "doi": "10.1016/j.jvir.2026.109054",
+    "title": "Reintervention Through Five Years After Prostatic Artery Embolization for Benign Prostatic Hyperplasia: A National Claims Analysis.",
+    "abstract": "PURPOSE: To evaluate reintervention patterns after prostatic artery embolization (PAE) for benign prostatic hyperplasia (BPH) using a U.S. claims database. MATERIALS AND METHODS: This retrospective cohort study used the MarketScan Commercial and Medicare Databases (2017-2025) to identify men aged ≥50 years who underwent PAE as their first BPH procedure. The primary outcome was time to first BPH-directed reintervention of any type. Cumulative incidence at 1, 3, and 5 years was estimated using Kaplan-Meier methods; cumulative incidence by reintervention type was estimated using Aalen-Johansen methods. Multivariable Cox proportional hazards regression assessed associations between patient characteristics and reintervention hazard. RESULTS: 959 patients (median age 68 years, IQR 61-77; 55% Medicare) underwent index PAE for BPH. The cumulative incidence of any reintervention was 7.5% (95% CI 5.4-9.5) at 1 year, 17.1% (12.7-21.2) at 3 years, and 25.8% (16.2-34.3) at 5 years (numbers at risk: 455, 107, 23, respectively). Transurethral resection of the prostate (TURP) was the most common reintervention (n=28, 34.6% of reinterventions), followed by laser enucleation (n=13, 16.0%), repeat PAE (n=12, 14.8%), and laser vaporization (n=11, 13.6%). The 5-year cumulative incidence of TURP-specific reintervention was 9.1% (4.92-16.86), highest among reintervention types. No predictor for reintervention was statistically significant in multivariable Cox regression. CONCLUSIONS: 5-year reintervention rates after PAE for BPH in routine U.S. practice were comparable to those reported in specialized academic centers and trial settings. TURP accounted for the largest share of reinterventions after PAE. These findings are relevant for patient counseling and motivate further PAE technique optimization to improve treatment durability.",
+    "authors": [
+      "Mabud Tarub S",
+      "Sajan Abin",
+      "Azevedo Ricardo",
+      "Posham Raghuram",
+      "Naser-Tavakolian Kiyon",
+      "Filtes John",
+      "Sarkar Debkumar",
+      "Baig Asad",
+      "Noor Amir",
+      "Guichet Phillip L",
+      "Reis Stephen"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-28",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "양성 전립선 비대증(BPH)에 대한 전립선 동맥 색전술(PAE) 후 5년간 재시술 패턴: 미국 보험 청구 데이터 분석",
+      "one_line": "본 연구는 양성 전립선 비대증(BPH) 환자의 전립선 동맥 색전술(PAE) 후 5년간 재시술 패턴을 분석하여, 재시술률은 5년 후 25.8%로 나타났으며, 가장 흔한 재시술은 전립선 요도 절제술(TURP)임을 확인했습니다.",
+      "design": "후향적 코호트 연구(Retrospective Cohort Study)",
+      "subjects": "50세 이상 남성 환자, N=959 (중앙값 연령 68세, IQR 61-77; 55% Medicare)",
+      "intervention": "전립선 동맥 색전술(Prostatic Artery Embolization, PAE) (BPH 치료를 위한 첫 번째 시술)",
+      "results": "5년 재시술 누적 발생률은 7.5% (95% CI 5.4-9.5) at 1 year, 17.1% (12.7-21.2) at 3 years, and 25.8% (16.2-34.3) at 5 years (위험군 수: 455, 107, 23). 가장 흔한 재시술은 전립선 요도 절제술(Transurethral Resection of the Prostate, TURP) (n=28, 재시술의 34.6%), 레이저 웅출술(Laser Enucleation) (n=13, 16.0%), 반복 전립선 동맥 색전술(Repeat Prostatic Artery Embolization, PAE) (n=12, 14.8%), 레이저 기화술(Laser Vaporization) (n=11, 13.6%) 순으로 나타났으며, 전립선 요도 절제술(TURP)에 대한 5년 누적 발생률은 9.1% (4.92-16.86)로 가장 높았습니다. 다변량 Cox 비례 위험 회귀 분석에서 재시술 위험에 대한 유의미한 예측 인자는 없었습니다.",
+      "implication": "전립선 동맥 색전술(PAE) 후 재시술률은 일반적인 미국 의료 환경에서 전문적인 학술 센터 또는 임상 시험 환경과 유사하며, 전립선 요도 절제술(TURP)이 주요 재시술 수단으로 사용됩니다. 따라서 환자 상담 시 이러한 정보를 제공하고, 전립선 동맥 색전술(PAE) 기술을 최적화하여 치료 효과를 높이는 노력이 필요합니다."
+    }
+  },
+  {
+    "pmid": "42665128",
+    "doi": "10.1016/j.jvir.2026.109053",
+    "title": "Vascular Anatomy Analysis During Prostatic Artery Embolization: Retrospective Comparison of Cone-Beam CT, Augmented Planning, and Single-Projection Digital Subtraction Angiography.",
+    "abstract": "PURPOSE: To test the hypothesis that cone-beam computed tomography (CBCT), particularly when combined with augmented planning, improves identification and classification of prostatic arteries (PAs) compared with digital subtraction angiography (DSA) during prostatic artery embolization (PAE). MATERIALS AND METHODS: This retrospective study included 133 hemipelves from PAEs performed between 2017 and 2019 at a single academic center. PA anatomy was assessed using DSA, unprocessed CBCT (uCBCT), and CBCT processed with augmented planning (pCBCT; Embo ASSIST, GE HealthCare, Chicago, IL). Findings were compared with the intraprocedural anatomical reference based on multi-imaging analysis. Performance measures are reported relative to this reference. Primary endpoints were hemipelvis-level assessment, defined as identification and correct origin classification of all PAs, and detection of multiple PA supply. RESULTS: The intraprocedural anatomical reference identified 172 PAs, including 39 secondary PAs; 38/133 hemipelves (28.6%) had multiple PA supply. Anatomical assessment was accurate in 53.4% of hemipelves [44.5%-62.1%] with DSA, 91.0% [84.8%-95.3%] with uCBCT, and 100% [97.3%-100%] with pCBCT (P<.001 for all pairwise comparisons). For multiple PA detection, sensitivity was 28.9% [15.4%-45.9%] with DSA, 84.2% [68.7%-94.0%] with uCBCT, and 100% [90.7%-100%] with pCBCT. DSA detected 28.2% [15.0%-44.9%] secondary PAs, compared with 82.1% [66.5%-92.5%] with uCBCT and 100% [91.0%-100%] with pCBCT. Compared with uCBCT and DSA, pCBCT identified 7 and 28 additional secondary PAs, corresponding to increases of 17.9% and 71.8%, respectively. CONCLUSION: CBCT, especially with augmented planning, provides superior anatomical analysis compared to DSA, allowing more accurate identification and classification of PAs, increasing the detection of multiple PA supply during PAE.",
+    "authors": [
+      "Rocha Arthur Diego Dias",
+      "Moreira de Assis André",
+      "Moreira Airton Mota",
+      "Carnevale Francisco Cesar"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-28",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "전립선동맥색전술(PAE) 시 전립선동맥(PA) 혈관 해부학적 분석: 콘빔CT(CBCT), 증강 계획, 단면 디지털감소영상혈관조영술(DSA)의 후향적 비교 연구",
+      "one_line": "본 연구는 전립선동맥색전술(PAE) 시 콘빔CT(CBCT), 특히 증강 계획을 활용하면 디지털감소영상혈관조영술(DSA)에 비해 전립선동맥(PA)의 식별 및 분류 정확도를 향상시킨다는 가설을 검증한 후향적 연구입니다.",
+      "design": "후향적 연구",
+      "subjects": "2017년에서 2019년 사이 단일 대학 병원에서 시행된 전립선동맥색전술(PAE)을 받은 환자의 좌반신 133개 (총 133 hemipelves)",
+      "intervention": "전립선동맥(PA) 해부학적 분석 방법 비교: 디지털감소영상혈관조영술(DSA), 처리되지 않은 콘빔CT(uCBCT), 증강 계획이 적용된 콘빔CT(pCBCT; Embo ASSIST, GE HealthCare, Chicago, IL)",
+      "results": "절차 중 해부학적 기준에 따른 전립선동맥(PA) 수는 172개 (이차 전립선동맥 39개)로 확인되었으며, 다발성 전립선동맥 공급(multiple PA supply)은 133개 좌반신 중 38개 (28.6%)에서 관찰되었습니다. 해부학적 평가 정확도는 DSA에서 53.4% [44.5%-62.1%], uCBCT에서 91.0% [84.8%-95.3%], pCBCT에서 100% [97.3%-100%]로 나타났습니다 (모든 쌍 비교에서 P<.001). 다발성 전립선동맥 공급 감지는 DSA에서 민감도 28.9% [15.4%-45.9%], uCBCT에서 84.2% [68.7%-94.0%], pCBCT에서 100% [90.7%-100%]였습니다. DSA는 이차 전립선동맥 28.2% [15.0%-44.9%]를 감지한 반면, uCBCT는 82.1% [66.5%-92.5%], pCBCT는 100% [91.0%-100%]를 감지했습니다. pCBCT는 uCBCT 및 DSA에 비해 각각 7개 및 28개의 추가적인 이차 전립선동맥을 식별했으며, 이는 각각 17.9% 및 71.8%의 증가에 해당합니다.",
+      "implication": "콘빔CT(CBCT), 특히 증강 계획을 활용하면 디지털감소영상혈관조영술(DSA)보다 우수한 전립선동맥(PA) 해부학적 분석을 제공하여 전립선동맥색전술(PAE) 시 전립선동맥(PA)의 정확한 식별 및 분류를 가능하게 하고, 다발성 전립선동맥 공급 감지를 증가시킵니다."
+    }
+  },
+  {
+    "pmid": "42665127",
+    "doi": "10.1016/j.jvir.2026.109055",
+    "title": "Long-Term Patency After Intravascular Lithotripsy-Assisted Carotid Artery Stenting: A 2-Year Clinical and Imaging Follow-Up.",
+    "abstract": "",
+    "authors": [
+      "Padhi Rasmiranjan",
+      "Madhariya Vaishali",
+      "Shethna Virag",
+      "Dhanasekaran Jagadeesan"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-28",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42648475",
+    "doi": "10.1016/j.jvir.2026.109047",
+    "title": "Percutaneous Fluoroscopic Retrieval of Fractured Pleuracan Catheter Fragments from the Pleural Space Using Controlled Pneumothorax, Saline Hydrodissection, and Snare Capture.",
+    "abstract": "",
+    "authors": [
+      "Bekci Tumay",
+      "Abumarasa Said"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-26",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42648474",
+    "doi": "10.1016/j.jvir.2026.109051",
+    "title": "Incidence, Risk Factors and Outcomes of Early Post-Transjugular Intrahepatic Portosystemic Shunt Hyperbilirubinemia.",
+    "abstract": "PURPOSE: To determine the incidence, risk factors, and outcomes of early post-transjugular intrahepatic portosystemic shunt (TIPS) hyperbilirubinemia in cirrhotic patients. MATERIALS AND METHODS: In this retrospective single-center study, 1,404 cirrhotic patients who underwent TIPS were analyzed. Patients with early post-TIPS hyperbilirubinemia (total bilirubin [TB] ≥ 5 mg/dL within 1 week after TIPS; primary predictor) were classified as Group A, and those without it were classified as Group B. Threshold effect analysis was used to identify the optimal cut-off for the change in TB (ΔTB, exploratory parameter), followed by Fine-Gray modeling. RESULTS: Early post-TIPS hyperbilirubinemia occurred in 67 patients (4.8%). The cumulative incidence of mortality was higher in Group A than in Group B at 1-year (37.3% vs. 7.7%), 3-year (49.7% vs. 19.8%), and 5-year (49.7% vs. 30.3%) (p < 0.001). Multivariate analysis identified early post-TIPS hyperbilirubinemia (subdistribution hazard ratio [sHR] =3.03, p < 0.001), age (sHR = 1.05, p < 0.001), albumin level (sHR = 0.96, p < 0.001), MELD score (sHR = 1.05, p = 0.005), and Hepatocellular carcinoma (sHR = 1.77, p < 0.001) as independent predictors of mortality. ΔTB was independently associated with mortality whether analyzed as a continuous variable (sHR = 1.19, p < 0.001) or dichotomized at 2.98mg/dL (sHR = 2.64, p < 0.001). Rounding the cutoff to 3 mg/dL did not materially alter the association (sHR = 2.58, p < 0.001). CONCLUSION: TB ≥ 5 mg/dL within the first week after TIPS, or ΔTB ≥ 2.98mg/dL (approximately 3 mg/dL), was independently associated with mortality.",
+    "authors": [
+      "Gan Peiling",
+      "Liu Guofeng",
+      "Shen Yi",
+      "Wang Xiaoze",
+      "Wang Zhu",
+      "Luo Xuefeng"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-26",
+    "journal": "JVIR",
+    "is_interest": true,
+    "interest_category": "hepatobiliary",
+    "summary": {
+      "title_ko": "간내경정맥-자간관루(TIPS) 시술 후 초기 고빌리루빈혈증의 발생률, 위험 요인 및 예후",
+      "one_line": "간경변 환자의 간내경정맥-자간관루(TIPS) 시술 후 초기 고빌리루빈혈증은 사망률 증가와 관련되며, 나이, 알부민 수치, MELD 점수, 간세포암종 등이 위험 요인으로 작용한다.",
+      "design": "후향적 단일 센터 연구",
+      "subjects": "간경변 환자 1,404명",
+      "intervention": "간내경정맥-자간관루(TIPS) 시술",
+      "results": "시술 후 1주일 이내 총 빌리루빈(TB) ≥ 5 mg/dL인 초기 고빌리루빈혈증 발생률은 4.8% (67명) 이었으며, 1년, 3년, 5년 사망률이 각각 37.3%, 49.7%, 49.7%로 Group A (고빌리루빈혈증)에서 Group B (정상)에 비해 유의미하게 높았다 (p < 0.001).",
+      "implication": "TIPS 시술 후 초기 고빌리루빈혈증 발생 여부는 환자의 예후를 예측하는 중요한 지표이며, 위험 요인 관리를 통해 사망률 감소를 기대할 수 있다.",
+      "detailed_results": "다중 변수 분석 결과, 초기 고빌리루빈혈증(subdistribution hazard ratio [sHR] = 3.03, p < 0.001), 나이(sHR = 1.05, p < 0.001), 알부민 수치(sHR = 0.96, p < 0.001), MELD 점수(sHR = 1.05, p = 0.005), 간세포암종(sHR = 1.77, p < 0.001)이 사망률의 독립적인 예측 인자로 확인되었다. 빌리루빈 변화량(ΔTB) 또한 연속 변수로 분석 시 (sHR = 1.19, p < 0.001) 또는 2.98mg/dL로 이분법 시 (sHR = 2.64, p < 0.001) 사망률과 유의미한 관련성을 보였다. 컷오프 값을 3 mg/dL로 반올림해도 관련성은 크게 변하지 않았다 (sHR = 2.58, p < 0.001).",
+      "critique": "본 연구는 단일 센터에서 후향적으로 진행되었으므로, 연구 결과의 일반화에는 한계가 있을 수 있다. 또한, TIPS 시술 기법, 시술 후 관리 프로토콜 등 다양한 변수가 결과에 영향을 미칠 수 있다는 점을 고려해야 한다.",
+      "clinical_application": "TIPS 시술 전 환자의 위험 요인을 평가하고, 시술 후 빌리루빈 변화를 면밀히 모니터링하여 초기 고빌리루빈혈증 발생 여부를 조기에 파악해야 한다. 고빌리루빈혈증 발생 시 적절한 치료적 개입을 통해 예후를 개선할 수 있도록 노력해야 한다."
+    }
+  },
+  {
+    "pmid": "42648473",
+    "doi": "10.1016/j.jvir.2026.109046",
+    "title": "Few Do Most: National Patterns of Cognitive-to-Procedural Share Among U.S. IR Physicians.",
+    "abstract": "PURPOSE: To quantify evaluation and management (E&M) billing patterns among U.S. interventional radiologists (IRs). MATERIALS AND METHODS: A cross-sectional analysis was performed using a 100% sample of 2023 Medicare fee-for-service claims. IRs were stratified into three mutually exclusive IR-related workload tiers by wRVU (10-49%, 50-89%, ≥90%). Multivariable negative-binomial regression adjusted for total wRVUs and physician/practice characteristics. RESULTS: Among 5,232 IRs, E&M billing increased disproportionately with IR-related workload. Across increasing IR-related workload, surgical-procedure RVUs increased 4.2-fold, whereas E&M RVUs increased 23.9-fold. Only 23.5% of IRs billed ≥11 E&M claims. After adjustment for total wRVUs, IRs in the 10-49% and 50-89% workload tiers billed 90% fewer E&M encounters (aRRR 0.10, 0.10-0.11) and 28% fewer (aRRR 0.72, 0.66-0.79), respectively, than IRs in the ≥90% tier. Among IRs billing ≥11 E&M claims, tier-based differences attenuated, with the 50-89% tier approaching parity with the ≥90% tier (aRRR 0.89, 0.78-1.003). Female sex was associated with fewer E&M claims overall (aRRR 0.82, 0.75-0.89), but more in the ≥11-claim subset (aRRR 1.25, 1.03-1.52). CONCLUSION: E&M billing among U.S. IRs is concentrated among a minority of physicians and increases disproportionately with IR-related workload. Attenuation of workload-tier differences among IRs billing ≥11 E&M claims suggests observable E&M engagement reflects a distinct clinical practice model rather than a simple function of procedural volume. Structural factors, including sex, may influence participation in observable E&M billing.",
+    "authors": [
+      "Hussain Zain S",
+      "Masood Hamza",
+      "White Sarah B",
+      "Musa Arif",
+      "Altinok Gulcin",
+      "Kayali Foaz",
+      "Harb Ali N"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-26",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "미국 인터벤션 영상의학과(IR) 전문의의 인지-절차적 업무 분담 패턴 분석: 국가적 현황",
+      "one_line": "미국 인터벤션 영상의학과 전문의의 진료비 청구 패턴을 분석한 결과, 소수의 의사가 대부분의 업무를 수행하며, IR 관련 업무량이 증가할수록 진료비 청구도 비례하여 증가하는 경향을 보였다.",
+      "design": "후향적 단면 연구 (Cross-sectional analysis)",
+      "subjects": "미국 인터벤션 영상의학과 전문의 5,232명 (2023년 Medicare fee-for-service 청구 데이터 기반)",
+      "intervention": "IR 관련 업무량에 따른 진료비 청구 패턴 분석 (E&M billing patterns) - IR 전문의를 업무량 기준으로 3개 그룹으로 분류 (10-49%, 50-89%, ≥90% wRVU)",
+      "results": "IR 관련 업무량이 증가함에 따라 수술-시술 wRVU는 4.2배, E&M wRVU는 23.9배 증가했다. 전체 IR 전문의의 23.5%만이 E&M 청구 건수가 11건 이상이었다. 총 wRVU를 보정한 다중 회귀 분석 결과, 10-49% 및 50-89% 업무량 그룹은 ≥90% 업무량 그룹에 비해 E&M 청구 건수가 각각 90% (aRRR 0.10, 0.10-0.11) 및 28% (aRRR 0.72, 0.66-0.79) 적었다. E&M 청구 건수가 11건 이상인 경우, 업무량 그룹 간의 차이가 감소하여 50-89% 그룹은 ≥90% 그룹과 유사한 경향을 보였다 (aRRR 0.89, 0.78-1.003). 여성 전문의는 전체적으로 E&M 청구 건수가 적었으나 (aRRR 0.82, 0.75-0.89), 11건 이상 청구하는 그룹에서는 오히려 더 많았다 (aRRR 1.25, 1.03-1.52).",
+      "implication": "미국 인터벤션 영상의학과 전문의의 진료비 청구 패턴은 소수의 의사에게 집중되어 있으며, IR 관련 업무량 증가에 따라 비례하여 증가한다. E&M 청구 건수가 많은 의사 그룹에서는 업무량에 따른 차이가 감소하는 점은 단순한 시술량 증가가 아닌, 별개의 임상 진료 모델을 반영하는 것으로 보인다. 성별과 같은 구조적 요인이 진료비 청구 참여에 영향을 미칠 수 있다."
+    }
+  },
+  {
+    "pmid": "42648472",
+    "doi": "10.1016/j.jvir.2026.109048",
+    "title": "Predictors of Technical Success in Retrograde Pedal Interventions for Chronic Limb-Threatening Ischemia: A Retrospective Study.",
+    "abstract": "PURPOSE: To identify predictors of technical success in retrograde pedal interventions for chronic limb-threatening ischemia (CLTI) and develop a morphologic scoring system. MATERIALS AND METHODS: In this retrospective, single-center study, 354 retrograde pedal interventions performed in 296 patients with CLTI between January 2023 and July 2025 were analyzed. Lesion characteristics including calcification severity, cap morphology, lesion length, and distal outflow were evaluated. Predictors of technical success were identified using univariable and multivariable logistic regression analyses with patient-cluster robust standard errors. A morphologic score was developed based on independent predictors. Model performance was assessed using ROC analysis and bootstrap internal validation. RESULTS: Technical success was achieved in 276 of 354 interventions (77.9%). Independent predictors of success included favorable CTOP morphology (types II and IV; p = .002), presence of distal outflow (p = .001), and non-severe calcification (PACSS grade <3; p < .001). The morphologic score (0-5 points) demonstrated progressively decreasing success rates with increasing scores (0: 97%; 1: 86%; 2: 83.6%; 3: 70%; 4: 44.4%; 5: 40.9%; p < .001). A cutoff value of ≥3 identified lesions with lower technical success rates (sensitivity 74.4%, specificity 69.2%). The model demonstrated an AUC of 0.783. The adverse event rate was 12.2%, with most events classified as mild. CONCLUSIONS: Presence of distal outflow and favorable CTOP morphology were associated with increased technical success, whereas severe calcification was associated with lower success rates. The proposed scoring system may provide a preliminary framework for procedural risk stratification; however, it remains exploratory and requires external validation before potential clinical application.",
+    "authors": [
+      "Uyanık Sadık Ahmet",
+      "Birgi Erdem",
+      "Öztürk Saffet",
+      "Tangobay Erdi",
+      "Asfuroğlu Umut",
+      "Tekdemir Halil",
+      "Doğan Yusuf",
+      "Güven Hikmet Erhan"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-26",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "만성 사지 위협성 허혈(CLTI) 환자의 역행성 족부 시술 성공률 예측 인자: 후향적 연구",
+      "one_line": "만성 사지 위협성 허혈(CLTI) 환자의 역행성 족부 시술 성공률은 CTOP 형태, 말단 혈류, 석회화 정도에 따라 달라지며, 이를 기반으로 한 새로운 형태학적 점수 시스템이 개발되었다.",
+      "design": "후향적 단일 센터 연구",
+      "subjects": "296명의 환자, 총 354건의 역행성 족부 시술 (2023년 1월 ~ 2025년 7월)",
+      "intervention": "역행성 족부 시술 (retrograde pedal interventions) - 만성 사지 위협성 허혈(chronic limb-threatening ischemia, CLTI) 환자 대상",
+      "results": "기술적 성공률은 354건 중 276건 (77.9%)으로 나타났으며, 독립적인 성공 예측 인자는 다음과 같다:\n*   CTOP 형태가 유리한 경우 (II, IV형; p = .002)\n*   말단 혈류 존재 (p = .001)\n*   심하지 않은 석회화 (PACSS 점수 <3; p < .001)\n\n형태학적 점수 (0-5점)에 따라 성공률이 감소하는 경향을 보였다 (0점: 97%, 1점: 86%, 2점: 83.6%, 3점: 70%, 4점: 44.4%, 5점: 40.9%; p < .001). 점수 ≥3인 경우 성공률이 낮았으며 (sensitivity 74.4%, specificity 69.2%), ROC 분석 결과 AUC는 0.783으로 나타났다. 부작용 발생률은 12.2%였으며, 대부분 경미한 수준이었다.",
+      "implication": "말단 혈류 존재 및 유리한 CTOP 형태는 기술적 성공률을 높이는 반면, 심한 석회화는 성공률을 낮추는 요인으로 작용한다. 개발된 형태학적 점수 시스템은 시술 위험도 평가의 초기 프레임워크로 활용될 수 있지만, 외부 검증을 통해 임상 적용 가능성을 확인해야 한다."
+    }
+  },
+  {
+    "pmid": "42648471",
+    "doi": "10.1016/j.jvir.2026.109049",
+    "title": "Transjugular Mesenteric-Caval Shunt for Cavernous Transformation of the Portal Vein Secondary to Myelofibrosis.",
+    "abstract": "",
+    "authors": [
+      "Duan Qi",
+      "Yang Yu",
+      "Zhang Xiao'e",
+      "Tie Jun"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-26",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42648470",
+    "doi": "10.1016/j.jvir.2026.109045",
+    "title": "Microfibrillar Collagen Tract Embolization in Percutaneous Liver Biopsy: A Single-Center Experience.",
+    "abstract": "PURPOSE: To evaluate the incidence of bleeding-related adverse events associated with microfibrillar collagen tract embolization (MCTE) during percutaneous non-targeted liver biopsy in adult patients. MATERIALS AND METHODS: In this retrospective observational cohort study, consecutive percutaneous non-targeted native or transplant liver biopsy procedures were reviewed at a tertiary academic center between August 2022 and July 2025. 695 records met inclusion criteria including: random (non-targeted) liver biopsy, and routine MCTE following sampling with a full core coaxial 17/18-gauge biopsy system. Targeted biopsies performed for specific hepatic lesions were excluded. Indication for biopsies included evaluation of diffuse parenchymal liver disease or transplant allograft assessment. Contraindications included INR or platelet values (≤1.8, ≥50,000, respectfully), use of antiplatelet or anticoagulants that were outside of Society of Interventional Radiology (SIR) guidelines, or ascites. Demographic, clinical, laboratory, and procedural variables, including number of biopsy passes, were collected. The primary endpoint of the study was major bleeding adverse events requiring transfusion, embolization, surgery, or hemodynamic instability (SIR AE Class 2-5). Secondary endpoints included minor bleeding adverse events (hematoma or hemoglobin decline requiring observation only; SIR AE Class 1), emergency department (ED) visits within two weeks, CT-confirmed hematoma, and 30-day readmission. Data are reported as proportions with 95% confidence intervals (CIs) calculated using the exact binomial (Clopper-Pearson) method; continuous variables as mean ± SD. RESULTS: Among 695 non-targeted biopsies, major bleeding occurred in 1 case (0.14%, 95% CI 0.00-0.80%) requiring endovascular and operative intervention, and minor bleeding in 1 case (0.14%, 95% CI .00-0.80%) . The mean number of biopsy passes was 2.41 ± 0.58. Seventeen patients (2.4%, 95% CI 1.43-3.89%) were readmitted within 30 days; no readmissions were attributed to biopsy-related adverse event. CONCLUSION: Routine MCTE in percutaneous ultrasound-guided non-targeted native and transplant liver biopsy was associated with extremely low rates of major and minor bleeding adverse events. Bleeding rates appear below published benchmarks in non-tract embolized procedures, supporting MCTE as a safe and effective adjunct to liver biopsy protocols.",
+    "authors": [
+      "Arasteh Arad",
+      "Kim Annabel",
+      "Sprout Gregory",
+      "Hashemzadeh Mehrtash",
+      "Hirsch Kevin",
+      "Chen Steve",
+      "Goettl Christopher",
+      "Mehta Nikhil",
+      "Lewis Douglas",
+      "Yannone Erik",
+      "Iwuchukwu Chijioke C",
+      "Rybicki Frank J",
+      "Zurcher Kenneth S"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-26",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "경피적 간 생검 시 미세 섬유 콜라겐 트랙 색전술(MCTE)의 출혈 관련 부작용 발생률 평가: 단일 기관 경험",
+      "one_line": "경피적 간 생검 시 미세 섬유 콜라겐 트랙 색전술(MCTE)을 시행한 결과, 주요 및 경미한 출혈 부작용 발생률이 매우 낮았으며, 기존의 출혈률 벤치마크보다 낮았다.",
+      "design": "후향적 관찰 코호트 연구(Retrospective observational cohort study)",
+      "subjects": "성인 환자 695명 (Percutaneous non-targeted native or transplant liver biopsy)",
+      "intervention": "미세 섬유 콜라겐 트랙 색전술(Microfibrillar Collagen Tract Embolization, MCTE)을 이용한 경피적 비표적 간 생검(Percutaneous non-targeted liver biopsy)",
+      "results": "주요 출혈(transfusion, embolization, surgery, or hemodynamic instability 필요)은 1건(0.14%, 95% CI 0.00-0.80%) 발생했으며, 경미한 출혈(hematoma 또는 hemoglobin decline requiring observation only)은 1건(0.14%, 95% CI 0.00-0.80%) 발생했습니다. 생검 횟수는 평균 2.41 ± 0.58회였으며, 30일 내 재입원 환자는 17명(2.4%, 95% CI 1.43-3.89%)으로, 재입원 원인이 생검 관련 부작용으로 인한 경우는 없었습니다.",
+      "implication": "미세 섬유 콜라겐 트랙 색전술(MCTE)은 경피적 초음파 유도 비표적 간 생검 시 안전하고 효과적인 보조 시술로 간주될 수 있으며, 출혈 위험을 낮추는 데 기여할 수 있다."
+    }
+  },
+  {
+    "pmid": "42641400",
+    "doi": "10.1016/j.jvir.2026.109000",
+    "title": "Cryoablation of Malignancies and Aggressive Benign Diseases in Children: Proceedings from the Society of Interventional Radiology Foundation Research Consensus Panel.",
+    "abstract": "While literature surrounding pediatric applications of cryoablation continues to grow and demonstrate potential benefits, evidence to date largely comprises small, retrospective, and uncontrolled series. To address this opportunity, a multidisciplinary panel of pediatric specialists convened virtually in a research consensus panel organized by the Society of Interventional Radiology (SIR); each panelist presented current data surrounding common applications of cryoablation in the pediatric population. A recurring theme throughout the discussion was the potential for cryoablation to increase quality of life in pediatric patients whether applied with curative or palliative intent. After presentations and discussions, research concepts were discussed and ranked on their potential impact, with the following 3 topics emerging as top priorities: (a) thoracic event-free survival and complication comparison between pulmonary metastasectomy and cryoablation of lesions amenable to either modality, (b) a prospective comparison of systemic therapy and cryoablation versus systemic therapy alone in the treatment of desmoid tumor, and (c) the biologic effects of cryoablation on healthy bone, cartilage, and growth plates as may be affected in the treatment of benign osseous lesions.",
+    "authors": [
+      "Monroe Eric J",
+      "Rajeswaran Shankar S",
+      "Talbot Lindsay J",
+      "Temple Michael J",
+      "Batra Vandana",
+      "Fung K F Kevin",
+      "Shaikh Raja",
+      "Abi-Jaoudeh Nadine",
+      "Cahill Anne Marie"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-25",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "소아 악성 종양 및 공격적인 양성 질환에 대한 동결 치료: 인터벤션 영상의학 재단 연구 합의 판정 회의 결과",
+      "one_line": "소아 환자 대상 동결 치료의 잠재적 이점을 평가하고 향후 연구 방향을 제시하기 위한 다학제적 합의 판정 회의 결과 보고",
+      "design": "합의 판정 회의 (Consensus Panel)",
+      "subjects": "소아 환자 (N 수 미상, 다양한 질환)",
+      "intervention": "동결 치료(Cryoablation) - 폐 전이 병변에 대한 폐 절제술(Pulmonary Metastasectomy) 대안, 섬유종양(Desmoid Tumor)에 대한 전신 치료(Systemic Therapy) 병행 또는 단독 치료, 양성 골 병변(Benign Osseous Lesions) 치료 시 건강한 뼈, 연골, 성장판(Growth Plates)에 미치는 생물학적 영향 평가",
+      "results": "회의 결과, 동결 치료가 치료적 또는 완화적 의도로 사용될 때 소아 환자의 삶의 질 향상에 기여할 수 있다는 점이 주요하게 논의되었으며, 다음과 같은 3가지 연구 주제가 우선순위로 선정됨: (a) 폐 절제술과 동결 치료의 흉부 사건 발생률(Thoracic Event-Free Survival) 및 합병증(Complication) 비교, (b) 전신 치료와 동결 치료 병행 vs. 전신 치료 단독으로 섬유종양 치료 시 전향적 비교, (c) 동결 치료가 건강한 뼈, 연골, 성장판에 미치는 생물학적 영향 연구.",
+      "implication": "소아 환자 대상 동결 치료의 효과와 안전성을 평가하기 위한 체계적인 연구 설계의 필요성을 강조하며, 특히 폐 전이, 섬유종양, 양성 골 병변 치료에 대한 전향적 임상 시험 및 생물학적 영향 연구를 통해 동결 치료의 유용성을 입증해야 함."
+    }
+  },
+  {
+    "pmid": "42636763",
+    "doi": "10.1016/j.jvir.2026.109001",
+    "title": "Vacuum-Assisted Retrieval of a Migrated Bullet.",
+    "abstract": "",
+    "authors": [
+      "Fox Andrew G",
+      "Khan Ayimen Khalid",
+      "Chorney Michael Aaron"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-24",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42628790",
+    "doi": "10.1016/j.jvir.2026.109043",
+    "title": "Streamlining Radioembolization for Hepatocellular Carcinoma ≤5 cm Using Yttrium-90 Resin Microspheres: Protocol for a Multicenter Prospective Registry Study (ISTAR-02).",
+    "abstract": "",
+    "authors": [
+      "Kim Hyo-Cheol",
+      "Lee In Joon",
+      "Hyun Dong Ho",
+      "Kim Gyoung Min"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-21",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42628789",
+    "doi": "10.1016/j.jvir.2026.109044",
+    "title": "Selective Venous Ammonia Sampling-Guided Embolization of a Large Intrahepatic Portovenous Shunt for Refractory Hepatic Encephalopathy in Hereditary Hemorrhagic Telangiectasia.",
+    "abstract": "",
+    "authors": [
+      "Ishikawa Tsuyoshi",
+      "Kirihara Aika",
+      "Nishiyama Natsuko",
+      "Sasaki Ryo",
+      "Nishimura Tatsuro",
+      "Takami Taro"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-21",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42624207",
+    "doi": "10.1016/j.jvir.2026.109042",
+    "title": "Preoperative Pressure-Enabled Thyroid Artery Embolization to Reduce Blood Loss and Facilitate Transoral Thyroidectomy.",
+    "abstract": "",
+    "authors": [
+      "Hepfer Jason I",
+      "Sarker Srawasti",
+      "Tufano Ralph P",
+      "Nezami Nariman",
+      "Camacho Juan C"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-20",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42617974",
+    "doi": "10.1016/j.jvir.2026.109041",
+    "title": "Ultrasound-guided cryoablation of benign thyroid nodules: 10-patient pilot study with 12-month follow-up.",
+    "abstract": "This pilot study evaluated the feasibility, safety and 12-month efficacy of outpatient ultrasound-guided cryoablation for benign thyroid nodules in ten patients. Technical success was achieved in all cases without moderate or severe adverse events. Mean nodule volume decreased significantly from 26.1±13.9 mL at baseline to 16.4±10.1; 9.8±5.7; 8.8±5.2; and 10.7±7.1 mL at 1, 3, 6 and 12 months, respectively (p≤0.004 at all time points). Mean±SD volume reduction ratios were 42.3±23.9%, 65.4±14.7%, 68.4±11.9%, and 63.7±16.2%, at corresponding intervals. Technical efficacy, defined as ≥50% volume reduction was achieved in 100% at 6 months and 90% at 12 months. Progressive shrinkage or stabilization occurred in 70% of patients, while partial regrowth and complete regrowth were observed in 20% and 10%, respectively. Calcifications increased from 40% to 60% during follow-up. Ultrasound-guided cryoablation of benign thyroid nodules appeared feasible and was not associated with moderate or severe adverse events in this preliminary cohort.",
+    "authors": [
+      "Costa de Freitas Ricardo Miguel",
+      "Vanderlei Felipe Augusto Brasileiro",
+      "Rosenfeld Matheus Gerhard",
+      "Borges Alessandra de Pinho Pimenta",
+      "Danilovic Debora Lucia Seguro",
+      "Marui Suemi",
+      "Kowalski Luiz Paulo",
+      "Chammas Maria Cristina"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-19",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "초음파 유도 냉동치료를 이용한 양성 갑상선 결절: 12개월 추적 관찰을 포함한 10명 대상 파일럿 연구",
+      "one_line": "본 연구는 초음파 유도 냉동치료가 양성 갑상선 결절의 치료에 안전하고 효과적인 방법임을 시사한다.",
+      "design": "증례 연구 (Case Study)",
+      "subjects": "대상: 10명 (N=10)",
+      "intervention": "초음파 유도 냉동치료 (Ultrasound-guided cryoablation)",
+      "results": "기술적 성공률은 100%였으며, 중증 이상반응은 발생하지 않았다. 기저선 (baseline)에서 평균 결절 부피는 26.1±13.9 mL였으며, 1개월, 3개월, 6개월, 12개월 시점에서 각각 16.4±10.1 mL, 9.8±5.7 mL, 8.8±5.2 mL, 10.7±7.1 mL로 유의하게 감소했다 (p≤0.004, 모든 시점). 평균 부피 감소 비율은 각각 42.3±23.9%, 65.4±14.7%, 68.4±11.9%, 63.7±16.2%였다. 6개월 시점에서 기술적 효능 (결절 부피 50% 이상 감소)은 100%, 12개월 시점에서는 90% 달성되었다. 환자 70%에서 결절의 점진적인 위축 또는 안정화가 관찰되었으며, 부분 재성장과 완전 재성장은 각각 20%와 10%에서 나타났다. 추적 관찰 기간 동안 석회화 비율은 40%에서 60%로 증가했다.",
+      "implication": "초음파 유도 냉동치료는 양성 갑상선 결절 치료에 있어 안전하고 실현 가능한 방법으로 보이며, 추가적인 대규모 연구를 통해 그 효과를 입증할 필요가 있다."
+    }
+  },
+  {
+    "pmid": "42617973",
+    "doi": "10.1016/j.jvir.2026.109040",
+    "title": "Long-Term Survival After Percutaneous Image-Guided Thermal Ablation of Oligometastatic Renal Cell Carcinoma.",
+    "abstract": "PURPOSE: To evaluate the long-term overall survival (OS), cancer-specific survival (CSS), and local tumor progression-free survival (LTPFS) of patients who underwent percutaneous image-guided thermal ablation (TA) [cryoablation (CA), microwave ablation (MWA), and radiofrequency ablation (RFA)] of oligometastatic renal cell carcinoma (omRCC). MATERIALS AND METHODS: This study cohort included 50 patients (age: 64.6 ± 13.1 years; 78% (39/50) male, 22% (11/50) female) who underwent image-guided TA for omRCC between 2008 and 2019. Accounting for patient demographics, tumor characteristics, and technical outcomes, the OS, CSS, and LTPFS were derived by Kaplan-Meier analysis. Subgroup analyses were performed to assess the impact of outcomes by target lesion size, histology, location, and thermal energy using the log-rank test. All adverse events (AEs) were categorized with the Society of Interventional Radiology (SIR) classification scheme. RESULTS: The study cohort comprised 100 omRCC lesions treated in 91 procedures with follow-up to 10 years (mean follow-up: 8.0 ± 2.8 years). Primary and secondary technical success rates were 99% and 100%, respectively. The 10-year OS and CSS rates were 68.5% and 75.5%, respectively, with no significant difference between clear cell (p=0.87) or non-clear cell (p=0.52) histology. The 10-year LTPFS rate was 87.6% with no significant differences based on tumor histology (p=0.47), size (p=0.88), disease location (p=0.72), or TA energy (p=0.26). The AE rate of 9.9% (9/91) included two mild (2.2%) and seven moderate (7.7%), mostly self-limited events. CONCLUSION: Image-guided TA of omRCC was safe and effective with excellent long-term OS, CSS, and LTPFS outcomes within 10 years.",
+    "authors": [
+      "Kim Daniel H",
+      "Keshavarz Pedram",
+      "Tibbe Tristan D",
+      "Suh Robert D",
+      "Abtin Fereidoun",
+      "Genshaft Scott J",
+      "Drakaki Alexandra",
+      "Shuch Brian M",
+      "Pantuck Allan J",
+      "Lu David S",
+      "Raman Steven S"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-19",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "다발성 전이성 신세포암종(omRCC)에 대한 경피적 영상 유도 열적 병변 제거술(TA) 후 장기 생존율",
+      "one_line": "다발성 전이성 신세포암종 환자에서 경피적 영상 유도 열적 병변 제거술(TA)은 안전하고 효과적이며 우수한 장기 생존율을 보였다.",
+      "design": "후향적 증례 연구",
+      "subjects": "대상: 2008년~2019년 사이 다발성 전이성 신세포암종(omRCC)으로 경피적 영상 유도 열적 병변 제거술(TA)을 시행받은 환자 50명 (남성 39명 (78%), 여성 11명 (22%)), 평균 연령 64.6 ± 13.1세",
+      "intervention": "시술 또는 중재: 냉동 병변 제거술(CA), 마이크로파 병변 제거술(MWA), 고주파 병변 제거술(RFA)을 포함하는 경피적 영상 유도 열적 병변 제거술(TA). 총 100개의 omRCC 병변을 91회 시술.",
+      "results": "10년 전체 생존율(OS)은 68.5%, 암 특이 생존율(CSS)은 75.5%였다. 10년 국소 병변 재발 없는 생존율(LTPFS)은 87.6%였다. 병변 크기, 조직학적 유형(명암세포형 vs 비명암세포형), 위치, 열에너지 종류에 따른 유의미한 차이는 없었다 (p > 0.05). 시술 성공률은 1차 성공률 99%, 2차 성공률 100%였다. 부작용 발생률은 9.9% (9/91)였으며, 대부분 경미하거나 일시적이었다.",
+      "implication": "다발성 전이성 신세포암종 환자에서 경피적 영상 유도 열적 병변 제거술(TA)은 장기적인 생존율 향상에 기여할 수 있는 안전하고 효과적인 치료 옵션으로 고려될 수 있다."
+    }
+  },
+  {
+    "pmid": "42612948",
+    "doi": "10.1016/j.jvir.2026.109039",
+    "title": "Transvaginal Completion Embolization After Transvenous Treatment of Pelvic Venous Disorders.",
+    "abstract": "PURPOSE: To evaluate the feasibility, safety, and clinical effectiveness of transvaginal embolization as a completion strategy in women with persistent pelvic pain after technically successful transvenous embolization for pelvic venous disorders (PVD). MATERIALS AND METHODS: This retrospective single-center study included 32 consecutive women with persistent symptoms after prior transvenous embolization for PVD. Transvaginal embolization of residual uterovaginal and/or perineal varices was performed under real-time ultrasound and fluoroscopic guidance using an NBCA-ethiodized oil emulsion. Primary endpoint was VAS pain reduction (at rest, during activity, and dyspareunia). Secondary endpoints included CIVIQ-14 quality-of-life scores, technical success, 1-month transvaginal Doppler imaging, and safety. Follow-up was at 1, 3, 6, and 12 months. RESULTS: Technical success was achieved in all 32 patients (100%). One-month transvaginal Doppler ultrasound confirmed the absence of residual pelvic varices in all cases. No infectious or access-related adverse events occurred. One asymptomatic proximal pulmonary glue migration into the left pulmonary artery was observed; given its proximal location, catheter-directed thrombaspiration was performed successfully, with no clinical sequelae (SIR grade 3). Median VAS scores decreased significantly across all three pain domains from baseline to 12 months (at rest 4 [3-5]→1 [1-2]; during activity 7 [6-8]→1 [1-2]; dyspareunia 8 [7-8]→2 [1-2]; all p < 0.001). Median CIVIQ-14 improved from 59.5 [54-63] to 19 [16-21] (p < 0.001). CONCLUSION: Transvaginal embolization was a feasible completion strategy associated with significant symptom improvement in selected patients after transvenous embolization for PVD, supporting the concept that residual pelvic venous reservoirs may contribute to persistent symptoms.",
+    "authors": [
+      "Hakime Antoine",
+      "Tselikas Lambros",
+      "Moulin Benjamin",
+      "Tuil Olivier",
+      "Di Primio Massimiliano",
+      "Angelopoulos Georgios",
+      "Stansal Audrey",
+      "Vignaux Olivier",
+      "Filmont Jean-Emmanuel",
+      "Bendifallah Sofiane"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-18",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "골반정맥질환(Pelvic Venous Disorders)에 대한 경정맥적 치료 후 질을 통한 완결 색전술의 안전성과 유효성 평가",
+      "one_line": "골반정맥질환(PVD)으로 인한 지속적인 골반통 환자에서 경정맥 색전술 후 질을 통한 완결 색전술은 안전하고 효과적인 방법으로, 잔존하는 골반정맥류를 치료하여 증상 완화에 기여한다.",
+      "design": "후향적 단일 센터 연구 (Retrospective Single-Center Study)",
+      "subjects": "32명의 여성 환자 (N=32)",
+      "intervention": "경정맥 색전술(Transvenous Embolization) 후 잔존하는 자궁-질(Uterovaginal) 및/또는 회음부(Perineal) 정맥류에 대한 질을 통한 색전술(Transvaginal Embolization) (NBCA-ethiodized oil emulsion 사용)",
+      "results": "기술적 성공률(Technical Success)은 100%였으며, 1개월 경과 후 질 초음파 도플러(Transvaginal Doppler) 검사에서 잔존하는 골반정맥류가 관찰되지 않았다. 심각한 부작용은 없었으나, 1례에서 무증상 폐동맥(Pulmonary Artery)으로의 접착제(Glue) 이동이 발생했으며, 색전술 시술을 통해 성공적으로 제거되었다 (SIR grade 3). 골반통(VAS pain scores)은 휴식 시 4 [3-5]에서 1 [1-2], 활동 시 7 [6-8]에서 1 [1-2], 성교통(Dyspareunia) 8 [7-8]에서 2 [1-2]로 유의하게 감소했으며 (모두 p < 0.001). 삶의 질(CIVIQ-14) 점수는 59.5 [54-63]에서 19 [16-21]로 개선되었다 (p < 0.001).",
+      "implication": "질을 통한 색전술은 경정맥 색전술 후 지속적인 골반통 환자에게 효과적인 완결 전략이 될 수 있으며, 잔존하는 골반정맥류가 지속적인 증상에 기여할 수 있다는 가설을 뒷받침한다."
+    }
+  },
+  {
+    "pmid": "42612947",
+    "doi": "10.1016/j.jvir.2026.109026",
+    "title": "Commentary on 'Safety and Effectiveness of Liquid Embolics for Prostate Artery Embolization: A Systematic Review and Meta-Analysis.' Are we there yet?",
+    "abstract": "",
+    "authors": [
+      "Parikh Nainesh"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-18",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42607883",
+    "doi": "10.1016/j.jvir.2026.109029",
+    "title": "Role of rapid onsite evaluation in enhancing diagnostic yield of CT-guided core needle lung biopsies.",
+    "abstract": "OBJECTIVE: To evaluate the adequacy of Rapid Onsite Evaluation (ROSE) in relation to diagnostic yield of CT-guided percutaneous lung core needle biopsies (CNB) at a tertiary care cancer center. METHODS: A total of 943 CT-guided percutaneous CNB performed in the year 2022 were retrospectively reviewed. ROSE of specimens provided immediate feedback regarding the sample adequacy. The biopsies were divided into 3 groups based on ROSE results: 1) adequate on first pass; 2) adequate after repeat sampling and 3) inadequate. Patient, lesion, and procedure characteristics were analyzed in relation to ROSE adequacy using a multinomial logistic regression model. RESULTS: Median lesion size was 1.8 cm (IQR: 1.2-2.8). The first-pass adequacy rate was 64.8% (611/943), increasing to 82.4% (777/943) after seven passes, with a clear plateau after three passes; 17.9% (169/943) samplings were persistently inadequate. Complete histopathologic processing resulted in an overall diagnostic yield of 89.7% (846/943). Critically, 59.2% of biopsies deemed inadequate by ROSE ultimately yielded a diagnostic result after complete pathologic processing. ROSE demonstrated a sensitivity of 88.2%, specificity of 71.1%, positive predictive value of 96.4%, and negative predictive value of 40.8%. Larger lesion size and absence of perilesional hemorrhage were associated with higher odds of first-pass adequacy on multivariable analysis. CONCLUSION: Lesion size and perilesional hemorrhage are independent predictors of ROSE- adequacy for lung CNB. The low negative predictive value (40.8%) and the finding that 59.2% of ROSE-inadequate biopsies ultimately yielded a diagnostic result highlight that ROSE inadequacy should not be interpreted as synonymous with biopsy failure.",
+    "authors": [
+      "Karimi Anita",
+      "Petre Elena N",
+      "Yarmohammadi Hooman",
+      "Alexander Erica S",
+      "Geevarghese Ruben",
+      "Ziv Etay",
+      "Erinjeri Joseph",
+      "Lin Oscar",
+      "Kalchiem-Dekel Or",
+      "Solomon Stephen B"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-17",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "흉부 컴퓨터단층촬영(CT)-유도 경피적 폐 조직 생검(CNB)에서 신속 현장 평가(ROSE)가 진단 수율을 향상시키는 역할",
+      "one_line": "흉부 컴퓨터단층촬영(CT)-유도 경피적 폐 조직 생검(CNB)에서 신속 현장 평가(ROSE)는 진단 수율을 높이는 데 기여하지만, ROSE 결과가 불충분하더라도 최종 병리 검사 결과가 진단에 도움이 되는 경우가 많으므로, ROSE 결과만으로 생검 실패를 단정 지을 수 없다.",
+      "design": "후향적 연구",
+      "subjects": "대상: 2022년 흉부 컴퓨터단층촬영(CT)-유도 경피적 폐 조직 생검(CNB)을 받은 환자 943명",
+      "intervention": "신속 현장 평가(ROSE)를 이용한 흉부 컴퓨터단층촬영(CT)-유도 경피적 폐 조직 생검(CNB)",
+      "results": "첫 번째 시도 시 적절성 비율은 64.8% (611/943)였으며, 7회 시도 후에는 82.4% (777/943)로 증가했으며, 3회 시도 후에는 증가세가 둔화됨. 17.9% (169/943)의 생검은 지속적으로 불충분한 것으로 판단됨. 전체 진단 수율은 89.7% (846/943)였으며, ROSE에서 불충분하다고 판단된 생검의 59.2%가 최종 병리 검사에서 진단 결과를 제공함. ROSE의 민감도(sensitivity)는 88.2%, 특이도(specificity)는 71.1%, 양성 예측도(positive predictive value)는 96.4%, 음성 예측도(negative predictive value)는 40.8%였음. 다변량 분석 결과, 병변 크기가 크고 병변 주변 출혈이 없는 경우 첫 번째 시도 시 적절성 비율이 높았다.",
+      "implication": "병변 크기와 병변 주변 출혈은 흉부 컴퓨터단층촬영(CT)-유도 경피적 폐 조직 생검(CNB)에서 ROSE 적절성을 예측하는 독립적인 요인이다. 음성 예측도(40.8%)가 낮고 ROSE-불충분한 생검의 59.2%가 최종적으로 진단 결과를 제공한다는 점은 ROSE 불충분성이 생검 실패를 의미하지 않음을 시사한다."
+    }
+  },
+  {
+    "pmid": "42607882",
+    "doi": "10.1016/j.jvir.2026.109035",
+    "title": "Long-Term Survival after Percutaneous Image-Guided Microwave Ablation of Pathologically Proven Renal Cell Carcinoma.",
+    "abstract": "PURPOSE: To determine the technical success (TS), long-term overall survival (OS), cancer-specific survival (CSS), and local tumor progression-free survival (LTPFS) of patients who underwent percutaneous microwave ablation (MWA) of renal cell carcinoma (RCC). MATERIALS AND METHODS: This IRB-approved, HIPAA-compliant study cohort included patients who underwent CT and contrast-enhanced ultrasound (CEUS) guided percutaneous MWA between 2013 and 2017 of biopsy-proven RCC. Patient demographics, tumor characteristics, and technical outcomes were compiled, and the OS, CSS, and LTPFS were derived with Kaplan-Meier analysis and log-rank test to evaluate differences. Complications were classified per the Clavien-Dindo system. Logistic regression was used for categorical outcomes, the chi-square test was used for categorical outcomes excluding repeated measures at the patient level, and the paired t-test was used for evaluating differences in pre- and post-ablation eGFR. RESULTS: The study cohort comprised 86 biopsy-proven RCCs from 81 patients (mean age: 67.6 ± 16.9) with a median follow-up of 76.8 months. Overall, primary, and secondary TS were 100% (86/86), 98% (84/86), and 100% (10/10), respectively. The 10-year OS, CSS, and LTPFS rates were 76%, 85%, and 83%, respectively. The T1b subcohort 8-year LTPFS rate was lower compared to the T1a subcohort (p=0.003). The pre-ablation and 2 - 3 year post-ablation eGFR (58.5 vs 58.4 mL/min/1.73m2) were stable (p=0.932). There was a 2% overall incidence of complications, all grade I. CONCLUSION: Percutaneous image-guided MWA of T1 RCC was associated with excellent long-term OS, CSS, and LTPFS, supporting MWA as an effective treatment option.",
+    "authors": [
+      "Kim Daniel H",
+      "Chen Lucia",
+      "Shuch Brian",
+      "Pantuck Allan",
+      "Lu David S K",
+      "Raman Steven S"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-17",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "병리학적으로 확인된 신세포암종에 대한 경피적 영상 유도 마이크로파 열전기 치료의 장기 생존율",
+      "one_line": "경피적 마이크로파 열전기 치료(MWA)는 T1 신세포암종(RCC) 환자의 장기 생존율, 암 특이 생존율, 국소 종양 재발 없는 생존율을 향상시키는 효과적인 치료 옵션이다.",
+      "design": "후향적 증례 연구",
+      "subjects": "81명의 환자, 총 86개의 병리학적으로 확인된 신세포암종 (평균 연령: 67.6 ± 16.9세, 중간 경과 관찰 기간: 76.8개월)",
+      "intervention": "경피적 영상 유도 마이크로파 열전기 치료(Percutaneous Image-Guided Microwave Ablation, MWA). CT 및 조영 증강 초음파(Contrast-Enhanced Ultrasound, CEUS)를 이용하여 가이드.",
+      "results": "전체 기술적 성공률(Technical Success, TS): 100% (86/86), 1차 기술적 성공률: 98% (84/86), 2차 기술적 성공률: 100% (10/10). 10년 전체 생존율(Overall Survival, OS): 76%, 10년 암 특이 생존율(Cancer-Specific Survival, CSS): 85%, 10년 국소 종양 재발 없는 생존율(Local Tumor Progression-Free Survival, LTPFS): 83%. T1b 아군(subcohort)의 8년 LTPFS율은 T1a 아군에 비해 유의미하게 낮았다 (p=0.003). 치료 전 사구체 여과율(eGFR)은 58.5 mL/min/1.73m2였으며, 2~3년 후에는 58.4 mL/min/1.73m2로 유지되어 유의미한 차이를 보이지 않았다 (p=0.932). 전체 합병증 발생률은 2%였으며, 모두 1등급 합병증이었다.",
+      "implication": "T1 신세포암종 환자에게 경피적 영상 유도 마이크로파 열전기 치료(MWA)는 장기적인 생존율 향상에 기여하며, 효과적인 치료 옵션으로 고려될 수 있다. 특히 T1b 아군은 재발 위험이 더 높으므로 주의가 필요하다."
+    }
+  },
+  {
+    "pmid": "42600841",
+    "doi": "10.1016/j.jvir.2026.109025",
+    "title": "Safety and Effectiveness of Liquid Embolics for Prostate Artery Embolization: A Systematic Review and Meta-Analysis.",
+    "abstract": "PURPOSE: To systematically review the literature on the use of liquid embolics (LEs) in prostate artery embolization (PAE) and to evaluate their safety and efficacy outcomes. MATERIALS AND METHODS: A comprehensive search of PubMed, Scopus, Cochrane, and Google Scholar was performed. Studies including ≥5 patients undergoing PAE with a LEs were eligible. The outcomes included adverse events (AEs), changes in prostate volume, International Prostate Symptom Score (IPSS), and quality-of-life (QoL) at follow-up. Subgroup analyses by liquid embolic type were performed when feasible. Outcomes were pooled using a random-effects meta-analysis. RESULTS: Eleven studies (913 patients; mean/median age range, 67.5-79 years) were included. The systematic review identified that only two LEs, Ethylene-vinyl alcohol copolymer (EVOH) (n = 3 studies) and Glue (n = 8 studies), were explored in PAE. The three EVOH studies included a total of 95 cases, indicating that the current evidence base for LEs in PAE is predominantly derived from Glue experience. Of the 11 included studies, 9 were noncomparative and 2 compared LEs with particles. Pooled safety outcomes demonstrated no severe AEs. At last follow-up (range, 2-36 months), pooled mean changes from baseline were -2.73 in QoL (95% CI, -3.00 to -2.47; I2 = 76%), -31.04 mL in prostate volume (95% CI, --39.04 to -23.04; I2 = 94%), and -10.7 in IPSS (95% CI, -11.46 to -9.95; I2 = 56%). CONCLUSION: LEs, particularly glue, which constitutes the majority of the available literature appear to demonstrate promising safety and efficacy in PAE. Further prospective studies are needed to better explore the role of LEs in PAE.",
+    "authors": [
+      "Gunkan Ahmet",
+      "Ohannesian Victor Arthur",
+      "Tumolo Salvatore",
+      "Lee Sean",
+      "Lee Micheal T",
+      "Smetanick Derek",
+      "Fang Christian",
+      "Whitaker Mason K",
+      "McGhee Nicholas",
+      "Placek Sarah",
+      "Hannallah Jack",
+      "Woodhead Gregory",
+      "Young Shamar"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-14",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "전립선동맥색전술(PAE)에서 액체색전제(LE)의 안전성과 유효성에 대한 체계적 검토 및 메타분석",
+      "one_line": "본 연구는 전립선동맥색전술(PAE)에서 액체색전제(LE) 사용의 안전성과 유효성을 평가한 체계적 검토 및 메타분석 결과, 액체색전제(LE), 특히 글루(Glue)가 안전하고 유효한 것으로 나타났으며, 추가적인 전향적 연구가 필요함을 시사합니다.",
+      "design": "체계적 검토 및 메타분석(Systematic Review and Meta-Analysis)",
+      "subjects": "총 913명 (평균/중앙 연령 범위, 67.5-79세)",
+      "intervention": "전립선동맥색전술(Prostate Artery Embolization, PAE) 시 액체색전제(Liquid Embolics, LE) 사용 (주로 글루(Glue), 일부 에틸렌-비닐 알코올 공중합체(Ethylene-vinyl alcohol copolymer, EVOH))",
+      "results": "액체색전제(LE) 사용 시 심각한 부작용(Severe Adverse Events, SAEs)은 관찰되지 않았으며, 최종 추적 관찰 시 (2-36개월) 기준 대비 삶의 질(Quality-of-Life, QoL) 평균 변화는 -2.73 (95% CI, -3.00 to -2.47; I2 = 76%), 전립선(Prostate) 용적 평균 변화는 -31.04 mL (95% CI, -39.04 to -23.04; I2 = 94%), 국제전립선증상점수(International Prostate Symptom Score, IPSS) 평균 변화는 -10.7 (95% CI, -11.46 to -9.95; I2 = 56%)로 나타났습니다.",
+      "implication": "액체색전제(LE), 특히 글루(Glue)는 전립선동맥색전술(PAE)에서 안전하고 유효한 치료 옵션으로 보이며, 액체색전제(LE)의 전립선동맥색전술(PAE)에서의 역할에 대한 보다 명확한 이해를 위해 추가적인 전향적 연구가 필요합니다."
+    }
+  },
+  {
+    "pmid": "42600840",
+    "doi": "10.1016/j.jvir.2026.109027",
+    "title": "Prostate Artery Embolization: Safety, Technical Feasibility, and Clinical Outcomes in an Elderly Population.",
+    "abstract": "PURPOSE: To evaluate the technical feasibility, safety, and clinical outcomes of prostate artery embolization (PAE) in patients aged ≥80 years. MATERIALS AND METHODS: This retrospective study included patients aged ≥80 years who underwent PAE between January 2015 and August 2025 for lower urinary tract symptoms (LUTS), catheter-dependent urinary retention, and/or hematuria. Technical and clinical success were defined as successful unilateral or bilateral embolization of the prostatic arterial supply and improvement in the primary indication within 12 months, respectively. Adverse events were classified according to the Society of Interventional Radiology grading system. RESULTS: A total of 58 patients (mean age, 85.2±3.9 years) underwent PAE. Indications included LUTS in 29 (50.0%) patients, catheter-dependent urinary retention in 27 (46.6%), and hematuria in 15 (25.9%), with several patients presenting with more than one indication. Overall technical success was achieved in 57 (98.3%) patients. Clinical outcomes were evaluable in 52 (89.7%) patients after excluding those who died during follow-up, had incomplete follow-up, or had a technically unsuccessful procedure. At 12 months, mean International Prostate Symptom Score (IPSS) decreased from 18.7±6.1 to 9.3±4.9, and quality-of-life (QoL) score from 4.5±1.2 to 1.8±1.3 (both p<0.001). Catheter independence was achieved in 19/26 (73.1%) evaluable patients, and hematuria resolved in 12/12 (100%). Clinical success was achieved in 42/52 patients (80.8%). Postprocedural complications occurred in 10/52 (19.2%); none were severe or life-threatening. CONCLUSIONS: PAE was technically feasible, safe, and effective in patients aged ≥80 years, supporting its use in non-surgical candidates or those who prefer a less invasive approach.",
+    "authors": [
+      "Hegde Kausthubh",
+      "Iqbal Shams",
+      "An Thomas",
+      "Wu Vincent",
+      "Epelboym Yan",
+      "Killoran Timothy",
+      "Kim Michelle",
+      "Kreshover Jessica",
+      "Wehrenberg-Klee Eric",
+      "Cahalane Alexis M"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-14",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "고령 환자군에서의 전립선동맥색전술(Prostate Artery Embolization, PAE): 안전성, 기술적 타당성 및 임상 결과 평가",
+      "one_line": "80세 이상 고령 환자군에서 전립선동맥색전술(PAE)은 안전하고 기술적으로 타당하며 효과적인 치료 옵션임을 시사한다.",
+      "design": "후향적 연구(Retrospective Study)",
+      "subjects": "80세 이상 환자 58명 (평균 연령 85.2±3.9세)",
+      "intervention": "전립선동맥색전술(Prostate Artery Embolization, PAE)",
+      "results": "전체 기술적 성공률은 57명(98.3%)으로 높았으며, 12개월 시점에서 국제전립선증상점수(International Prostate Symptom Score, IPSS)는 18.7±6.1에서 9.3±4.9로, 삶의 질(Quality of Life, QoL) 점수는 4.5±1.2에서 1.8±1.3으로 유의하게 감소했다 (모두 p<0.001).  카테터 의존성 환자 26명 중 19명(73.1%)에서 카테터 독립을 달성했으며, 12명(100%)의 혈뇨 환자에서 혈뇨가 호전되었다. 임상적 성공률은 52명 중 42명(80.8%)으로 나타났다. 시술 후 발생한 합병증은 52명 중 10명(19.2%)에서 관찰되었으며, 심각하거나 생명을 위협하는 합병증은 없었다.",
+      "implication": "전립선동맥색전술(PAE)은 수술적 치료가 어려운 고령 환자 또는 덜 침습적인 치료를 선호하는 환자에게 효과적인 치료 옵션이 될 수 있다."
+    }
+  },
+  {
+    "pmid": "42600839",
+    "doi": "10.1016/j.jvir.2026.109028",
+    "title": "Transvascular Radiofrequency Denervation of the Celiac Plexus for Refractory Pancreatic Cancer Pain Management: A Pilot Study.",
+    "abstract": "PURPOSE: To test the hypothesis that transvascular radiofrequency (RF) celiac plexus denervation is technically feasible and procedurally safe for pancreatic adenocarcinoma patients with severe abdominal pain, while characterizing exploratory clinical outcomes. MATERIALS AND METHODS: Twenty adults with unresectable pancreatic cancer and severe abdominal pain were enrolled in this pilot study. Angio-CT was used for procedural planning using a transvascular approach. RF energy was delivered via standard transfemoral or transbrachial access to the celiac, common hepatic, and/or splenic arteries. A total of 131 ablations were delivered via the celiac trunk, common hepatic artery, or splenic artery. Patients were evaluated at 24-hours, 7-days, 4-6-weeks, and 3-months post-procedure for adverse events, pain severity and opioid utilization. RESULTS: Nineteen of 20 enrolled patients were successfully treated (95% feasibility). No device- or procedure-related serious adverse events occurred. Six non-serious target-vessel events, including arterial spasms and an artery occlusion, were anticipated procedural risks and resolved with medication or no intervention. Two device deficiencies were reported related to catheter maneuverability and vessel anatomy. No distinct patterns in individual patient trajectories of clinical outcomes were observed during follow-up, likely owing to the small sample size, procedural heterogeneity, disease progression, and high attrition. CONCLUSIONS: Transvascular RF denervation of the celiac plexus was technically feasible and demonstrated a favorable procedural safety profile. As a pilot study, procedural heterogeneity and variable clinical responses revealed important insights into treatment delivery, procedural determinants of outcomes, and the range of clinical response across patients with advanced pancreatic cancer.",
+    "authors": [
+      "Sabirov Askar",
+      "Yuldosh Mustanov",
+      "Bedoya Marco",
+      "Wilkirson Elizabeth C",
+      "Cook Jennifer",
+      "Linden Ariel",
+      "Schwartz Robert S"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-14",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "불응성 췌장암 환자의 복부 통증 완화를 위한 경혈관 고주파신경절제술: 파일럿 연구",
+      "one_line": "경혈관 고주파신경절제술은 췌장암 환자의 심한 복부 통증 관리에 기술적으로 가능하며 안전한 것으로 나타났지만, 임상적 반응은 다양했다.",
+      "design": "증례 연구 (Pilot Study)",
+      "subjects": "췌장암 환자 20명 (N=20)",
+      "intervention": "경혈관 고주파(RF) 간신신경총(celiac plexus) 신경절제술 (Transvascular Radiofrequency (RF) Celiac Plexus Denervation).  혈관 내 접근을 통해 대퇴동맥(transfemoral) 또는 상완동맥(transbrachial)을 통해 간동맥(common hepatic artery), 비장동맥(splenic artery)에 고주파 에너지를 전달. 총 131회 고주파 조사 시행 (간주신경총, 간동맥, 비장동맥)",
+      "results": "19명(95%)에서 시술 성공. 시술 관련 심각한 부작용은 발생하지 않았으며, 동맥 경련(arterial spasms) 및 동맥 폐색(artery occlusion) 등 6건의 경미한 혈관 관련 부작용이 발생하여 약물 치료 또는 보존적 치료로 해결됨.  시술 후 24시간, 7일, 4-6주, 3개월 시점에 통증 정도 및 마약성 진통제 사용량을 평가.  소규모 표본 크기, 시술의 이질성, 질병 진행, 높은 이탈률로 인해 개별 환자의 임상적 반응 경향을 명확히 파악하기 어려웠음.",
+      "implication": "경혈관 고주파신경절제술은 불응성 췌장암 환자의 복부 통증 완화에 대한 잠재적 치료 옵션이지만, 시술 방법의 표준화 및 환자 선택 기준 확립, 임상적 반응 예측 요인 분석 등 추가 연구가 필요하다. 또한, 시술 결정 시 환자에게 잠재적 위험과 이점을 충분히 설명해야 한다."
+    }
+  },
+  {
+    "pmid": "42586259",
+    "doi": "10.1016/j.jvir.2026.109023",
+    "title": "Development of the MCA/PTA Diameter Ratio as a Predictor of Response After Superselective Embolization for Plantar Fasciitis: A Preliminary Derivation Study.",
+    "abstract": "PURPOSE: To evaluate whether the medial calcaneal artery (MCA) to posterior tibial artery (PTA) diameter ratio predicts pain reduction after superselective MCA embolization in chronic plantar fasciitis. MATERIALS AND METHODS: Thirty-eight patients (mean age 46.8 ± 10.2 years; 63.2% female) with chronic plantar fasciitis refractory to ≥6 months of conservative treatment and baseline visual analog scale ≥6 were included in this single-center retrospective study. After superselective MCA catheterization, embolization was performed with imipenem/cilastatin. Preprocedural digital subtraction angiography was used to measure MCA and PTA diameters and calculate the MCA/PTA ratio. The primary endpoint was VAS change at 1 month. Predictive performance was assessed with receiver operating characteristic analysis and linear mixed models. RESULTS: Mean VAS decreased from 8.2 ± 0.9 at baseline to 2.2 ± 0.6 at 1 month (p < .001) and 2.9 ± 0.7 at 6 months. The MCA/PTA ratio had a strong effect on VAS (β = -8.97, p < .001) with a significant time × ratio interaction (p < .001). The ratio predicted clinical success (VAS ≤3 at 1 month) with an area under the curve of 0.91 (95% CI: 0.80-0.99; p = .001). The optimal cutoff was 0.48 (sensitivity 100%, specificity 84.2%). High-ratio patients (>0.48) showed sustained pain relief through 6 months, whereas low-ratio patients experienced recurrence. Interobserver agreement was excellent. CONCLUSION: The MCA/PTA diameter ratio is associated with early and durable pain relief after superselective MCA embolization. A cutoff of 0.48 shows promise as an angiographic predictor but requires prospective multicenter validation.",
+    "authors": [
+      "Tonkaz Mehmet",
+      "Cakir Ertugrul",
+      "Erkal Duygu",
+      "Tonkaz Gokhan",
+      "Aslan Serdar",
+      "Bekci Tumay"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-12",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "족저근막염 환자에서 초정밀 의태동맥화학색전술(Superselective MCA Embolization) 후 반응 예측 변인으로서 MCA/PTA 직경 비율 개발",
+      "one_line": "족저근막염 환자의 초정밀 의태동맥화학색전술 후 통증 완화 예측에 MCA/PTA 직경 비율이 유용하며, 0.48 이상의 비율을 가진 환자는 지속적인 통증 완화를 보이는 경향이 있다.",
+      "design": "후향적 단일 센터 연구 (Retrospective Single-Center Study)",
+      "subjects": "38명 (평균 연령 46.8 ± 10.2세, 여성 63.2%) - 보존적 치료 ≥6개월 실패 및 기준 시각 통증 척도(VAS) ≥6인 만성 족저근막염 환자",
+      "intervention": "초정밀 의태동맥화학색전술(Superselective MCA Embolization) - imipenem/cilastatin 사용",
+      "results": "기준 시각 통증 척도(VAS)는 8.2 ± 0.9에서 1개월 후 2.2 ± 0.6 (p < .001) 및 6개월 후 2.9 ± 0.7으로 감소. MCA/PTA 비율은 VAS에 강한 영향을 미침 (β = -8.97, p < .001) 및 시간 × 비율 상호작용이 유의미함 (p < .001).  VAS ≤3 at 1개월의 임상적 성공 예측 AUC 0.91 (95% CI: 0.80-0.99; p = .001). 최적 절단값은 0.48 (민감도 100%, 특이도 84.2%)이며, 비율이 높은 환자군(>0.48)은 6개월까지 지속적인 통증 완화를 보였고, 낮은 환자군은 재발을 경험.",
+      "implication": "MCA/PTA 직경 비율은 초정밀 의태동맥화학색전술(Superselective MCA Embolization) 후 조기 및 지속적인 통증 완화와 관련이 있으며, 0.48은 족저근막염 환자의 치료 반응을 예측하는 혈관조영학적 지표로서의 가능성을 보여준다. 그러나 전향적 다기관 검증이 필요하다."
+    }
+  },
+  {
+    "pmid": "42586258",
+    "doi": "10.1016/j.jvir.2026.109022",
+    "title": "Imipenem/Cilastatin Versus Imipenem/Cilastatin Plus Lipiodol in Genicular Artery Embolization: Safety and Clinical Success in a Comparative Cohort Study.",
+    "abstract": "PURPOSE: To evaluate whether genicular artery embolization (GAE) performed with imipenem/cilastatin (IPM/CS) followed by Lipiodol (IPM/CS+L) is associated with higher clinical success without increased adverse events compared with IPM/CS alone in patients with symptomatic knee osteoarthritis (OA). MATERIALS AND METHODS: This retrospective cohort study included 77 patients (IPM/CS: n=47; IPM/CS+L: n=30) treated between May 2024 and February 2025. Eligible patients had symptomatic OA (Kellgren-Lawrence grades 1-4) and persistent pain (VAS >50 mm). Primary endpoints were longitudinal changes in VAS and WOMAC scores over a 6-month follow-up; secondary endpoints included adverse events and technical/clinical success. Data were analyzed using generalized estimating equations (GEE) adjusted for baseline characteristics. RESULTS: Both groups achieved significant improvements in pain and physical function at 6 months (p < 0.05), with no significant between-group differences in overall clinical success. A significant agent-by-time interaction was observed at 1 month (p = 0.024), indicating a greater early reduction in VAS scores in the IPM/CS+L group; this effect was not sustained at 3 or 6 months. The median number of embolized arteries was lower in the IPM/CS+L group (2 vs. 3, p = 0.040). No severe adverse events occurred, and mild adverse events, including transient skin discoloration, were comparable between groups. CONCLUSION: GAE performed with either IPM/CS alone or a combined IPM/CS+L regimen is safe and provides significant symptomatic relief for knee OA. While Lipiodol offers technical advantages, it does not confer superior long-term clinical efficacy compared to IPM/CS alone.",
+    "authors": [
+      "Genez Samet",
+      "Özer Hamza",
+      "Yilmazsoy Yunus",
+      "Kalaycioğlu Oya",
+      "Faruk Ateş Ömer",
+      "Taşçi Murat"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-12",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "무릎 골관절염 환자의 슬개동맥색전술(Genicular Artery Embolization, GAE)에서 이미페넴/실라스타틴(Imipenem/Cilastatin, IPM/CS) 단독 투여와 이미페넴/실라스타틴과 리피오돌(Lipiodol, IPM/CS+L) 병용 투여의 안전성 및 임상 성공률 비교 연구",
+      "one_line": "슬개동맥색전술에서 리피오돌 병용은 단독 투여에 비해 장기적인 임상 효과는 우수하지 않지만, 초기 통증 감소에 약간의 이점을 보이며 안전성은 유사하다.",
+      "design": "후향적 코호트 연구(Retrospective Cohort Study)",
+      "subjects": "무릎 골관절염(Osteoarthritis, OA) 환자 77명 (IPM/CS: n=47; IPM/CS+L: n=30)",
+      "intervention": "슬개동맥색전술(Genicular Artery Embolization, GAE) - 이미페넴/실라스타틴(Imipenem/Cilastatin, IPM/CS) 단독 투여 vs. 이미페넴/실라스타틴과 리피오돌(Lipiodol, IPM/CS+L) 병용 투여",
+      "results": "6개월 후 통증(VAS) 및 기능(WOMAC) 점수 모두 유의미한 개선을 보였으며, 전체적인 임상 성공률에는 그룹 간 차이가 없었다 (p < 0.05). 1개월 시점에 VAS 점수 감소에 있어 유의미한 그룹 간 상호작용이 관찰되었으나 (p = 0.024), 3개월 및 6개월 시점에서는 사라졌다.  IPM/CS+L 그룹에서 색전된 동맥의 중앙값(median) 수는 2개로, IPM/CS 단독 투여 그룹의 3개보다 적었다 (p = 0.040). 심각한 부작용은 발생하지 않았으며, 일시적인 피부 변색과 같은 경미한 부작용은 두 그룹 간에 유사했다.",
+      "implication": "슬개동맥색전술은 이미페넴/실라스타틴 단독 또는 리피오돌 병용 투여 모두 안전하며, 무릎 골관절염 환자의 증상 완화에 효과적이다. 리피오돌은 기술적인 장점을 제공하지만, 장기적인 임상 효능 측면에서는 이미페넴/실라스타틴 단독 투여보다 우수하지 않다."
+    }
+  },
+  {
+    "pmid": "42586257",
+    "doi": "10.1016/j.jvir.2026.109024",
+    "title": "Evaluating the Relationship Between Medical Management of Osteoporosis and the Rate of Recurrent Fractures Following Vertebral Augmentation: A Retrospective Cohort Study.",
+    "abstract": "PURPOSE: To demonstrate the association between standard-of-care osteoporosis medical management (MM) following vertebral augmentation (VA) and the reduction in the incidence of additional osteoporotic vertebral compression fractures (OVCFs). MATERIALS AND METHODS: A single-center retrospective chart review was conducted on 249 patients who underwent VA for OVCFs between February 2019 and February 2024. Demographics, medical history, procedural data, and osteoporosis MM history were collected to evaluate the relationship of these variables to the incidence of additional OVCFs. RESULTS: Post-procedure, 33.3% of patients received MM, which was initiated at a mean of 6.09 months (SD = 6.31 months) following the index procedure. Multivariable logistic regression showed that within the population of patients studied, MM and age were the only patient or procedural factors significantly associated with refracture following VA. After matching MM and non-MM patients, the incidence rate of additional OVCFs after starting MM was 0.076 fractures per person-year, versus 0.519 fractures per person-year before or without MM (IRR = 6.79, 95 % CI: 3.37-15.51, p < 0.001). CONCLUSION: This analysis demonstrated that patients with OVCFs requiring VA who received MM for osteoporosis had a 6-fold decreased risk of OVCFs compared to those who did not receive MM, yet only 33.3% of patients were started on treatment at a mean of 6 months after the index procedure. This emphasizes the importance of adequate, timely osteoporosis management in patients after VA to prevent additional OVCFs.",
+    "authors": [
+      "Glime W",
+      "Hoell Z",
+      "Zaldivar Alcantara H",
+      "Scheidt M",
+      "Shaker J",
+      "Zepezauer E",
+      "Haddad M"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-12",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "체증 골절 시술 후 골다공증 약물 치료가 추가적인 척추 압박 골절 재발률에 미치는 영향: 후향적 코호트 연구",
+      "one_line": "체증 골절 시술 후 골다공증 약물 치료를 받은 환자군은 그렇지 않은 환자군에 비해 추가적인 척추 압박 골절 재발 위험이 6배 감소하는 것으로 나타났으며, 시술 후 평균 6개월이 경과한 뒤 약물 치료가 시작되는 경우가 많았다.",
+      "design": "후향적 코호트 연구 (Retrospective Cohort Study)",
+      "subjects": "대상: 2019년 2월부터 2024년 2월까지 체증 골절 시술(Vertebral Augmentation, VA)을 받은 환자 249명",
+      "intervention": "시술 또는 중재: 체증 골절 시술(VA) 후 골다공증 약물 치료(Osteoporosis Medical Management, MM). 시술 후 환자의 33.3%가 골다공증 약물 치료를 받았으며, 치료 시작 시점은 평균 6.09개월 (표준편차 = 6.31개월)이었다.",
+      "results": "골다공증 약물 치료를 받은 환자군과 받지 않은 환자군을 매칭한 결과, 골다공증 약물 치료 시작 후 추가적인 척추 압박 골절 발생률은 1인-년당 0.076건이었던 반면, 골다공증 약물 치료 없이 시술 전후에는 1인-년당 0.519건으로 나타났다 (IRR = 6.79, 95% CI: 3.37-15.51, p < 0.001). 다변량 로지스틱 회귀 분석 결과, 골다공증 약물 치료 여부와 나이가 추가적인 척추 압박 골절 발생과 유의미하게 관련되었다.",
+      "implication": "체증 골절 시술 후 골다공증 약물 치료는 추가적인 척추 압박 골절 재발 위험을 현저히 감소시키지만, 환자의 33.3%만이 시술 후 평균 6개월이 경과한 뒤 치료를 시작한다는 점을 고려할 때, 체증 골절 시술 후 적절하고 시기적절한 골다공증 관리가 중요함을 시사한다."
+    }
+  },
+  {
+    "pmid": "42580441",
+    "doi": "10.1016/j.jvir.2026.109021",
+    "title": "Preserving the injured kidney: A retrospective comparative cohort study of contemporary management strategies at a level 1 trauma centre.",
+    "abstract": "PURPOSE: To evaluate and compare renal injury patterns, management pathways, clinical outcomes, and renal function following renal trauma at a high-volume Level 1 trauma center. METHODS: A single-center retrospective cohort study was performed. Patients aged ≥16 years with renal trauma over a 12-year-period were included. Data collected included injury mechanism, injury grade, hemodynamic status, and renal function. Primary management was classified as conservative, interventional radiology (embolization) and surgery. Outcomes included nephrectomy, 30-day mortality, and post-discharge renal function. Subgroup analyses were performed for hemodynamically unstable, high-grade injuries and embolization patient groups. RESULTS: A total of 573 patients were included (median age 37 years [IQR 24-54]; 82% male). 537 patients (94%) were primarily managed conservatively, while 25 (4%) underwent primary embolization and 11 (1.7%) primary surgery. Nephrectomy was performed in four patients (0.7%). Thirty-day all-cause mortality was 2.3%, with renal trauma-specific mortality of 0.2%. Among hemodynamically unstable (n=123) and high-grade injuries (n=181) subgroups, conservative management was predominant with similar outcomes. Embolization demonstrated 100% technical success, was mostly selective or super-selective (88%), and resulted in low subsequent nephrectomy rate (3%). Renal function outcomes were encouraging among patients with available data, although interpretation is limited by capped eGFR reporting and incomplete follow-up. CONCLUSION: Renal trauma is safely and effectively managed conservatively when clinically appropriate, including in patients with initial hemodynamic instability and high-grade injuries. Embolization provides a definitive, organ-sparing escalation strategy for ongoing hemorrhage, with encouraging renal function outcomes among patients with available data.",
+    "authors": [
+      "Salaran Saman",
+      "Findakly Salam",
+      "Shah Samyak",
+      "Cabbabe Kaiwen",
+      "Quach Kim",
+      "Zhan Michael",
+      "Kakridas Panagiota",
+      "Clements Warren",
+      "Lukies Matthew"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-11",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "손상된 신장 보존: 레벨 1 외상 센터에서의 현대적 관리 전략에 대한 후향적 비교 코호트 연구",
+      "one_line": "레벨 1 외상 센터에서 신장 외상 환자를 대상으로 보존적 치료, 색전술(embolization), 수술적 치료 전략을 비교한 결과, 신장 보존이 가능하며, 특히 색전술은 출혈 관리에 효과적인 치료 옵션임을 확인했습니다.",
+      "design": "후향적 코호트 연구(Retrospective Comparative Cohort Study)",
+      "subjects": "만 16세 이상 신장 외상 환자, N=573",
+      "intervention": "보존적 치료, 인터벤션 방사선과(interventional radiology) 색전술(embolization), 수술",
+      "results": "총 573명의 환자가 연구에 포함되었으며, 537명(94%)은 보존적 치료, 25명(4%)은 색전술(embolization), 11명(1.7%)은 수술적 치료를 받았습니다. 신장 적출술(nephrectomy)은 4명(0.7%)에서 시행되었으며, 30일 사망률은 2.3%, 신장 외상 관련 사망률은 0.2%였습니다. 불안정한 혈역학(hemodynamically unstable) 상태 또는 고도(high-grade) 손상을 입은 환자군에서도 보존적 치료가 주를 이루었으며, 유사한 결과를 보였습니다. 색전술(embolization)의 기술적 성공률은 100%였으며, 대부분 선택적(selective) 또는 초선택적(super-selective)으로 시행되었고, 이후 신장 적출술(nephrectomy)률은 3%로 낮았습니다. 이용 가능한 데이터에 기반하여 신장 기능 결과는 긍정적이었으나, eGFR 보고 제한 및 불완전한 추적 관찰로 인해 해석에 제한이 있었습니다.",
+      "implication": "임상적으로 적절한 경우, 초기 혈역학 불안정(hemodynamically unstable) 상태 또는 고도(high-grade) 손상을 입은 환자 포함, 신장 외상은 안전하고 효과적으로 보존적 치료로 관리할 수 있습니다. 색전술(embolization)은 지속적인 출혈에 대한 효과적인 장기적인 신장 보존 전략으로 활용될 수 있으며, 이용 가능한 데이터에 기반하여 신장 기능 결과는 긍정적입니다."
+    }
+  },
+  {
+    "pmid": "42575465",
+    "doi": "10.1016/j.jvir.2026.109019",
+    "title": "Rethinking Interventional Radiology Night Call: Impact of 2 Call Models on Physician Wellness, Academic Missions, and Clinical Productivity.",
+    "abstract": "",
+    "authors": [
+      "Hung Matthew L",
+      "Romanowska-Pawliczek Anna M",
+      "Kuo William T",
+      "Hofmann Lawrence V"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-10",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42575464",
+    "doi": "10.1016/j.jvir.2026.109018",
+    "title": "Heparin Resistance During Iliocaval Thrombectomy in a Hypercoagulable Patient.",
+    "abstract": "",
+    "authors": [
+      "Seo Yunji",
+      "Ahuja Tania",
+      "Chen Michael",
+      "Ranade Mona"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-10",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42570774",
+    "doi": "10.1016/j.jvir.2026.109015",
+    "title": "Segmental Arterial Mediolysis: A Systematic Review of Clinical Presentations, Management and Outcomes.",
+    "abstract": "PURPOSE: To consolidate evidence on the clinical profile of segmental arterial mediolysis (SAM), and to identify independent predictors of unfavourable outcomes and mortality. MATERIALS AND METHODS: PubMed/MEDLINE was systematically searched for SAM reports with patient-level data. Data analysis used chi-square/Fisher's exact, Mann-Whitney, Kruskal-Wallis tests, and multivariable logistic regression, with sensitivity analyses across three subgroups. RESULTS: 230 confirmed cases of SAM were included (mean age 54.5 years; 65% male). Hypertension was the most common comorbidity (21.7%). Most patients (84%) presented acutely, typically with abdominal pain (49%) or hemorrhage (19.6%). Multifocal involvement frequently involved the superior mesenteric (40%), hepatic (40%), and celiac arteries (36.5%). Imaging was dominated by aneurysms (69-100%) and dissections (0-65%). Elevated ESR/CRP was associated with organ ischemia (OR 3.36, 95% CI 1.65-6.86, p=0.002). Management was guided by clinical stability and lesion morphology, with medical therapy and transarterial embolization being the most common. Overall, 81.3% achieved favorable outcomes; 18.7% had progression or death. Overall mortality was 9.1%. Neurological territory involvement (OR 7.25, 95% CI 2.61-20.14, p<0.001) and organ ischemia on imaging (OR 2.56, 95% CI 1.07-6.10, p=0.034) were independent predictors of unfavorable outcome. Neurological involvement (OR 5.73, 95% CI 1.71-19.15, p=0.005) and female sex (OR 3.88, 95% CI 1.38-10.88, p=0.010) were independent predictors of mortality. Findings were robust on sensitivity analyses. CONCLUSION: SAM typically presents with multifocal mesenteric/hepatic aneurysms or dissections and favorable outcomes with conservative or endovascular management. Neurological involvement and organ ischemia predict worse outcomes, supporting risk-stratified management and surveillance.",
+    "authors": [
+      "Kaur Harleen",
+      "Kathuria Manoj",
+      "Choudhary Moaz M",
+      "Sutphin Patrick",
+      "Beechar Arpita",
+      "Kishore Kamal",
+      "Kalva Sanjeeva P"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-08",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "분절성 동맥중막 용해증(Segmental Arterial Mediolysis): 임상 양상, 관리 및 결과에 대한 체계적 검토",
+      "one_line": "본 연구는 분절성 동맥중막 용해증(SAM) 환자의 임상 특징을 분석하고, 불리한 결과 및 사망의 독립적인 예측 인자를 확인하여 위험 기반 관리 및 감시를 뒷받침하는 것을 목표로 한다.",
+      "design": "후향적 체계적 검토 (Systematic Review)",
+      "subjects": "확정된 SAM 사례 230명 (평균 연령 54.5세, 남성 65%)",
+      "intervention": "의학적 치료 및 동맥 내 색전술(Transarterial Embolization)",
+      "results": "가장 흔한 동반 질환은 고혈압(21.7%)이었으며, 대부분의 환자(84%)는 급성으로 나타났고, 복통(49%) 또는 출혈(19.6%)을 주 증상으로 보였다. 다발성 침범은 주로 상간막동맥(40%), 간동맥(40%), 그리고 배아동맥(36.5%)에서 관찰되었다. 영상 검사에서 동맥류(69-100%)와 박리(0-65%)가 우세하게 나타났다. ESR/CRP 상승은 장기 허혈(OR 3.36, 95% CI 1.65-6.86, p=0.002)과 관련이 있었다. 전체적으로 81.3%의 환자가 유리한 결과를 보였고, 18.7%는 진행 또는 사망을 경험했으며, 전체 사망률은 9.1%였다. 신경학적 영역 침범(OR 7.25, 95% CI 2.61-20.14, p<0.001) 및 영상 검사에서 관찰된 장기 허혈(OR 2.56, 95% CI 1.07-6.10, p=0.034)은 불리한 결과의 독립적인 예측 인자였다. 신경학적 침범(OR 5.73, 95% CI 1.71-19.15, p=0.005) 및 여성(OR 3.88, 95% CI 1.38-10.88, p=0.010)은 사망의 독립적인 예측 인자였다.",
+      "implication": "분절성 동맥중막 용해증(SAM)은 다발성 장간막/간 동맥류 또는 박리로 나타나는 경우가 많으며, 보존적 또는 혈관 내 치료를 통해 유리한 결과를 얻을 수 있다. 신경학적 침범 및 장기 허혈은 예후를 악화시키므로, 위험 계층화된 관리 및 감시가 필요하다."
+    }
+  },
+  {
+    "pmid": "42551517",
+    "doi": "10.1016/j.jvir.2026.108996",
+    "title": "Standardizing Triage in Interventional Radiology: Results of a Delphi Consensus Process.",
+    "abstract": "Prioritization of emergency cases with risk-stratification tools can improve patient care and decrease morbidity. No triage system yet exists for interventional radiology (IR). In this study, IR attendings were anonymously surveyed using the Delphi method with the goal of establishing consensus about triaging IR cases. Common procedures were scored as high, medium, or low priority, or designated do not include, with suggested appropriate intervention timing for each tier. Three rounds of surveys were conducted, garnering 63, 36, and 34 responses each. Across all rounds, 55% of responses came from academic interventional radiologists, 29% from private practice, and 16% from community hospitals, with 77% of respondents having 5 or more years of attending experience. Of 34 procedures, 21 achieved >75% agreement, with an additional 2 procedures reaching agreement if only considering respondents with 5 or more years of experience. Implementing this consensus-based IR triage system could improve treatment times and patient-related outcomes.",
+    "authors": [
+      "Drews Elena",
+      "Joshi Madhu",
+      "Callese Tyler",
+      "Citron Steven J",
+      "Wible Brandt C",
+      "Schroff Stuart",
+      "Chiang Jason"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-04",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "영상의학 중재 시술의 응급 환자 분류 표준화: 델파이 합의 과정 결과",
+      "one_line": "영상의학(IR) 시술의 응급 환자 분류를 위한 표준화된 시스템 구축을 목표로 델파이 방법론을 활용하여 의료진의 합의를 도출한 연구 결과입니다.",
+      "design": "델파이(Delphi) 합의 과정",
+      "subjects": "영상의학 전문의 (N=63, 36, 34 - 3회 설문 조사 응답자 수)",
+      "intervention": "영상의학 시술(IR procedures)의 응급 환자 분류 기준 설정 (고, 중, 저 우선순위 또는 시행하지 않음으로 분류)",
+      "results": "총 34가지 시술에 대해 21가지(62%)가 응답자의 75% 이상이 동의하는 수준으로 분류되었으며, 5년 이상의 경력의 응답자만을 고려할 경우 2가지 추가 시술에 대한 합의가 이루어졌습니다. 응답자의 55%는 대학병원, 29%는 개인 병원, 16%는 지역 사회 병원에서 근무했으며, 77%는 5년 이상의 경력 보유.",
+      "implication": "본 연구에서 도출된 합의 기반의 영상의학 응급 환자 분류 시스템을 적용하면 치료 시간 단축 및 환자 관련 결과 개선에 기여할 수 있습니다."
+    }
+  },
+  {
+    "pmid": "42551516",
+    "doi": "10.1016/j.jvir.2026.108997",
+    "title": "Prediction Models for Infection Severity after Thermal Ablation of Liver Malignant Tumors.",
+    "abstract": "PURPOSE: To identify predictors and develop models for predicting infection severity following percutaneous thermal ablation for liver malignancies. MATERIALS AND METHODS: A total of 8655 ultrasound (US)-guided percutaneous thermal ablations at a single center (January 2010-November 2023) were retrospectively reviewed. The study included 172 patients (mean age, 58.5 years [SD ± 11.4]; 145 men), with 86 infected (18 severe and 68 nonsevere) and 86 noninfected patients. Patients developing infection within 30 days were classified as severe (septic shock or infection-related death) or nonsevere. A noninfected control group was matched by the treatment date. A scoring system was developed to identify infection in patients with postablative fever. Two multivariate logistic regression models were constructed: 1 using preablative variables and another combining preablative and postablative characteristics. RESULTS: Among 8655 ablations, 86 (0.99%) developed postablative infections. All infected patients developed postprocedural fever, compared with 29.1% (25/86) in controls. An infection screening score (cutoff ≥ 3) achieved a diagnostic accuracy of 0.910. For predicting infection severity, the preablation model identified metastatic tumor (odds ratio [OR], 4.98; P = .009) and subcapsular location (OR, 7.68; P = .002) as independent predictors, with area under the receiver-operating characteristic curve of 0.774, sensitivity of 0.889, and specificity of 0.500. The combined model included preprocedural monocyte ratio (monocyte count divided by white blood cell count: OR, 0.71; P < .001), subcapsular location (OR, 624.86; P < .001), and postfever procalcitonin (OR, 1.78; P < .001), outperformed the preablation model (area under the receiver-operating characteristic curve, 0.966; sensitivity, 0.889; specificity, 0.912). CONCLUSIONS: Infection severity after liver tumor ablation was effectively predicted. The combined model demonstrated excellent performance and could facilitate early risk stratification for timely intervention.",
+    "authors": [
+      "Jiang Lin",
+      "Li Xiaoju",
+      "Wang Xiaoli",
+      "Zhang Xiaoer",
+      "Guo Huanling",
+      "Yao Jiaqian",
+      "Xie Xiaoyan",
+      "Xu Ming"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-04",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "간 악성 종양 열치료 후 감염 심각도 예측 모델 개발",
+      "one_line": "간 열치료 후 감염 심각도를 예측하기 위한 모델을 개발한 결과, 시술 전 변수와 시술 후 변수를 결합한 모델이 더 우수한 예측 성능을 보였다.",
+      "design": "후향적 연구 (Retrospective study)",
+      "subjects": "총 8655례의 초음파(US)-가이드 경피 열치료 (Percutaneous thermal ablation) 환자 중, 30일 이내 감염 발생 환자 172명 (평균 연령 58.5세 [SD ± 11.4], 남성 145명) 및 감염 발생하지 않은 대조군 86명",
+      "intervention": "경피 열치료 (Percutaneous thermal ablation) (간동맥화학색전술(TACE) 포함 가능성 있음, 명시되지 않음)",
+      "results": "총 8655례 중 86례 (0.99%)에서 시술 후 감염 발생. 감염 환자는 시술 후 열감(fever) 발생이 100%였으며, 대조군에서는 29.1% (25/86)에서 관찰됨. 감염 선별 점수(cutoff ≥ 3)는 0.910의 진단 정확도를 보임. 시술 전 변수 모델은 전이성 종양(odds ratio [OR], 4.98; P = .009) 및 피하 위치(subcapsular location) (OR, 7.68; P = .002)를 독립적인 예측 변수로 확인했으며, receiver-operating characteristic curve (ROC curve) 아래 면적은 0.774, 민감도(sensitivity) 0.889, 특이도(specificity) 0.500으로 나타남. 시술 전 및 후 변수를 결합한 모델은 백혈구 비율(monocyte count/white blood cell count) (OR, 0.71; P < .001), 피하 위치 (OR, 624.86; P < .001), 시술 후 프로칼시토닌(procalcitonin) (OR, 1.78; P < .001)을 포함하여 시술 전 변수 모델보다 우수한 성능 (ROC curve 아래 면적, 0.966; 민감도, 0.889; 특이도, 0.912)을 보임.",
+      "implication": "시술 전 및 후 변수를 결합한 예측 모델은 간 열치료 후 감염 심각도를 효과적으로 예측하며, 조기 위험 계층화를 통해 적절한 시기에 개입할 수 있도록 돕는 데 활용될 수 있다."
+    }
+  },
+  {
+    "pmid": "42551515",
+    "doi": "10.1016/j.jvir.2026.108998",
+    "title": "Aggressive Histologic Subtypes Drive Poor Outcomes after Percutaneous Ablation for Early Recurrent Hepatocellular Carcinoma.",
+    "abstract": "PURPOSE: To investigate the impact of primary tumor histology on survival and recurrence patterns in patients undergoing ablation for early intrahepatic hepatocellular carcinoma (HCC) recurrence after curative resection. MATERIALS AND METHODS: This single-center retrospective study included 194 patients (mean age, 56.4 years [SD ± 10.4]; 157 [80.9%] men) who underwent ablation for a first intrahepatic HCC recurrence within 2 years of curative resection. The influence of primary tumor histology on recurrence-free survival (RFS), overall survival (OS), and recurrence patterns was evaluated using multivariable Cox and logistic regression analyses. RESULTS: Aggressive primary tumor histology (macrotrabecular-massive or scirrhous subtypes) was identified in 29 (14.9%) patients. Multivariable analysis demonstrated aggressive histology as an independent predictor of poorer RFS (hazard ratio [HR], 1.61; 95% confidence interval [CI], 1.00-2.57; P = .048) and OS (HR, 2.07; 95% CI, 1.16-3.70; P = .014). A risk model combining histology with clinical factors stratified patients into high- and low-risk groups for RFS (median, 8.2 vs 19.6 months; P = .003) and OS (median, 69.8 months vs not reached; P < .001). Furthermore, aggressive histology was independently associated with aggressive recurrence patterns (infiltrative growth or distant metastasis; odds ratio, 4.42; 95% CI, 1.32-14.3; P = .017). CONCLUSIONS: Aggressive histology of the resected primary tumor independently predicted poor RFS, poor OS, and aggressive recurrence patterns following ablation for early intrahepatic HCC recurrence after curative resection. These findings support incorporating primary tumor histology into risk stratification and treatment planning for early recurrent HCC.",
+    "authors": [
+      "Gu Kyowon",
+      "Lee Min Woo",
+      "Han Seungchul",
+      "Baek Sun-Young",
+      "Sinn Dong Hyun",
+      "Kim Jong Man",
+      "Rhim Hyunchul"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-04",
+    "journal": "JVIR",
+    "is_interest": true,
+    "interest_category": "hepatobiliary",
+    "summary": {
+      "title_ko": "초기 재발 간세포암종에서 경피적 고주파 열치료 후 예후에 미치는 원발 종양 조직학적 아형의 영향",
+      "one_line": "원발 간세포암종의 조직학적 아형이 공격적인 경우, 경피적 고주파 열치료 후 재발 없이 생존 기간 및 전체 생존 기간이 유의미하게 짧아지는 것으로 나타났다.",
+      "design": "후향적 단일 센터 연구",
+      "subjects": "대상: 194명 (평균 연령 56.4세 [표준편차 ± 10.4], 남성 157명 [80.9%])",
+      "intervention": "경피적 고주파 열치료(Percutaneous Ablation, PFA) - 수술 후 2년 이내에 발생한 초기 간세포암종 재발에 시행",
+      "results": "공격적인 조직학적 아형(거대 판상형-괴상형(macrotrabecular-massive) 또는 섬유화형(scirrhous) 아형)은 29명(14.9%)에서 관찰되었다. 다변량 Cox 회귀 분석 결과, 공격적인 조직학적 아형은 재발 없는 생존 기간(Recurrence-Free Survival, RFS) 저하(hazard ratio [HR], 1.61; 95% 신뢰 구간[Confidence Interval, CI], 1.00-2.57; P = .048) 및 전체 생존 기간(Overall Survival, OS) 저하(HR, 2.07; 95% CI, 1.16-3.70; P = .014)의 독립적인 예측 인자로 나타났다. 조직학적 아형과 임상적 요인을 결합한 위험도 모델은 RFS(중앙값, 8.2개월 vs 19.6개월; P = .003) 및 OS(중앙값, 69.8개월 vs 도달하지 않음; P < .001) 측면에서 고위험군과 저위험군으로 환자를 분류했다. 또한 공격적인 조직학적 아형은 침윤성 성장 또는 원격 전이와 같은 공격적인 재발 양상(odds ratio, 4.42; 95% CI, 1.32-14.3; P = .017)과 독립적으로 관련되어 있었다.",
+      "implication": "원발 간세포암종의 조직학적 아형은 초기 재발 간세포암종 환자의 경피적 고주파 열치료 후 예후를 예측하는 중요한 지표가 될 수 있다.",
+      "detailed_results": "공격적인 조직학적 아형(거대 판상형-괴상형 또는 섬유화형)은 전체 환자의 14.9%에서 관찰되었으며, RFS 중앙값은 고위험군에서 8.2개월, 저위험군에서 19.6개월로 나타났다. OS 중앙값은 고위험군에서 69.8개월, 저위험군에서는 도달하지 않았다. 공격적인 조직학적 아형은 재발 양상(침윤성 성장 또는 원격 전이)과도 관련이 있었다.",
+      "critique": "본 연구는 단일 센터에서 후향적으로 진행되었기 때문에 연구 결과의 일반화에는 한계가 있을 수 있다. 또한, 조직학적 아형의 분류 기준 및 평가자의 주관적인 요소가 결과에 영향을 미칠 수 있다는 점을 고려해야 한다. 기존 연구에서 원발 종양의 조직학적 아형이 예후에 영향을 미친다는 보고가 있었으나, 본 연구는 경피적 고주파 열치료 후 초기 재발 간세포암종 환자에게 있어 조직학적 아형의 중요성을 명확히 보여주었다.",
+      "clinical_application": "간세포암종 환자의 치료 계획 수립 시 원발 종양의 조직학적 아형을 고려하여 위험도 평가 및 치료 전략을 결정하는 데 활용할 수 있다. 특히 공격적인 조직학적 아형을 가진 환자는 보다 적극적인 치료 접근 방식이 필요할 수 있다."
+    }
+  },
+  {
+    "pmid": "42567265",
+    "doi": "10.1016/j.jvir.2026.109006",
+    "title": "Therapy Outcomes and Healthcare Resource Utilization in Computer Assisted Vacuum Thrombectomy Versus Open Embolectomy: The THRIVE Study.",
+    "abstract": "PURPOSE: To evaluate resource use and clinical outcomes in patients with lower extremity acute limb ischemia (LE-ALI) managed with computer-assisted vacuum thrombectomy (CAVT), embolectomy alone (EA), or embolectomy with adjunctive bypass (EAB) in the United States. METHODS: A retrospective analysis of discharged adult LE-ALI inpatients (07/01/2020 - 09/30/2023) with a 1:1 propensity score matching using the Vizient Clinical Data Base was performed. Outcomes included length of stay (LOS), post-procedure LOS (PPLOS), post-procedure intensive care unit stay (PPICU), post-procedure composite complications, individual organ system adverse events, 30-day all-cause and ALI-related readmissions, major limb amputation, in-hospital mortality, and discharge destination. RESULTS: A total of 873 patients per group were matched. Baseline characteristics were similar. CAVT was associated with shorter LOS [5.3±4.4d vs. 7.2±5.76d (EA) and 9.8±6.04d (EAB), P<0.0001] and PPLOS [4.1±4.09d vs 6.1±5.58d (EA) and 7.3±5.41d (EAB), P<0.0001]. PPICU stay was similar across groups. CAVT had fewer composite complications [5.7% vs. 8.2% (EA), P=0.0389 and 12% (EAB), P<0.001]. CAVT had lower 30 days all-cause [14.8% vs. 18.6% (EA), P=0.0358 and 26.6% (EAB), P<0.001] and ALI-related readmissions [6.9% vs. 10.3% (EA), P=0.0130 and 15.3% (EAB), P<0.0001]. Major amputation at 30-days was lower in CAVT [0.93% vs. 2.12% (EA), P=0.0455 and 2.23% (EAB), P=0.0316]. Discharge to home was more common in CAVT [64.6% vs 44.4% (EA) and 36.9% (EAB), P<0.0001]. In hospital mortality was comparable. CONCLUSION: Compared to EA and EAB, CAVT is associated with shorter LOS, fewer complications, reduced readmissions and major amputations, and higher rates of discharge to home, without increased mortality.",
+    "authors": [
+      "Bailey Charles J",
+      "Arslan Bulent",
+      "Sayfo Sameh",
+      "Elmasri Fakhir",
+      "Knowles Martyn",
+      "O'Banion Leigh Ann"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-07",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "컴퓨터 지원 진공 혈전 제거술(CAVT) 대 개방 혈전 제거술(Open Embolectomy)의 치료 결과 및 의료 자원 활용 비교 연구: THRIVE 연구",
+      "one_line": "컴퓨터 지원 진공 혈전 제거술(CAVT)은 하하지부 급성 사지 허혈(LE-ALI) 환자에서 개방 혈전 제거술(EA) 또는 개방 혈전 제거술과 우회로(EAB) 병행술에 비해 더 짧은 입원 기간, 적은 합병증, 낮은 재입원율 및 주요 절단 위험 감소와 함께 자가 퇴원율 증가를 보이는 것으로 나타났다.",
+      "design": "후향적 코호트 연구 (Retrospective Cohort Study)",
+      "subjects": "하하지부 급성 사지 허혈(LE-ALI) 환자, 각 그룹당 873명 (총 2619명)",
+      "intervention": "컴퓨터 지원 진공 혈전 제거술(CAVT) vs. 개방 혈전 제거술(EA) vs. 개방 혈전 제거술과 우회로(EAB) 병행술",
+      "results": "주요 결과는 다음과 같다:\n\n*   입원 기간(LOS): CAVT 그룹 [5.3±4.4d] vs. EA 그룹 [7.2±5.76d] vs. EAB 그룹 [9.8±6.04d], P<0.0001\n*   시술 후 입원 기간(PPLOS): CAVT 그룹 [4.1±4.09d] vs. EA 그룹 [6.1±5.58d] vs. EAB 그룹 [7.3±5.41d], P<0.0001\n*   합병증 발생률: CAVT 그룹 [5.7%] vs. EA 그룹 [8.2%], P=0.0389 vs. EAB 그룹 [12%], P<0.001\n*   30일 전인과적 재입원율: CAVT 그룹 [14.8%] vs. EA 그룹 [18.6%], P=0.0358 vs. EAB 그룹 [26.6%], P<0.001\n*   30일 ALI 관련 재입원율: CAVT 그룹 [6.9%] vs. EA 그룹 [10.3%], P=0.0130 vs. EAB 그룹 [15.3%], P<0.0001\n*   30일 주요 절단율: CAVT 그룹 [0.93%] vs. EA 그룹 [2.12%], P=0.0455 vs. EAB 그룹 [2.23%], P=0.0316\n*   자가 퇴원율: CAVT 그룹 [64.6%] vs. EA 그룹 [44.4%], P<0.0001 vs. EAB 그룹 [36.9%], P<0.0001\n*   입원 중 사망률은 각 그룹 간 비교하여 차이가 없었다.",
+      "implication": "컴퓨터 지원 진공 혈전 제거술(CAVT)은 하하지부 급성 사지 허혈(LE-ALI) 환자에게 개방 혈전 제거술(EA) 또는 개방 혈전 제거술과 우회로(EAB) 병행술에 비해 더 나은 치료 결과와 의료 자원 활용을 제공할 수 있으며, 이는 환자의 삶의 질 향상에 기여할 수 있다."
+    }
+  },
+  {
+    "pmid": "42567264",
+    "doi": "10.1016/j.jvir.2026.109002",
+    "title": "Prognostic Value of Psoas Muscle Index Improvement in Patients Undergoing Transjugular Intrahepatic Portosystemic Shunt.",
+    "abstract": "PURPOSE: To evaluate the prognostic value of early psoas muscle index (PMI) improvement after transjugular intrahepatic portosystemic shunt (TIPS) placement in patients with cirrhosis and sarcopenia. MATERIALS AND METHODS: This multicenter retrospective study included 390 patients with cirrhosis and sarcopenia who underwent TIPS at 5 tertiary centers between February 2016 and April 2023. PMI was measured on computed tomography (CT) before TIPS and ∼1 month afterward. Sarcopenia reversal was defined as a post-TIPS PMI above the sex-specific cutoff values (>6.36 cm2/m2 for men and >3.92 cm2/m2 for women). Associations of PMI improvement with overall survival and overt hepatic encephalopathy (OHE) were evaluated using Kaplan-Meier and Cox regression analyses. Receiver-operating characteristic analysis identified optimal cutoff values. RESULTS: At 1 month after TIPS, 188 patients (48.2%) achieved sarcopenia reversal. Sarcopenia reversal was associated with higher cumulative survival (84.6% vs 68.2%; hazard ratio [HR], 0.24; 95% confidence interval [CI], 0.14-0.41; P < .001) and lower OHE incidence (16.6% vs 51.1%; HR, 0.26; 95% CI, 0.17-0.39; P < .001). The PMI improvement rate was an independent predictor of mortality and OHE. Optimal cutoff values were 11.8% for mortality and 15.8% for OHE. Patients with PMI improvement above these thresholds had significantly better survival and lower OHE incidence (both P < .001). CONCLUSIONS: PMI improvement assessed at 1 month after TIPS is independently associated with reduced mortality and OHE in patients with cirrhosis and sarcopenia. PMI assessment 1 month after TIPS may provide a simple imaging biomarker for early prognostic evaluation and risk stratification.",
+    "authors": [
+      "Wang Hongliang",
+      "Zhang Xuexian",
+      "Zhu Xiaoli",
+      "Guo Qikun",
+      "Feng Duiping",
+      "Li Tongqiang",
+      "Zhou Chen",
+      "Xiong Bin"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-07",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "간경변 및 근감소증 환자의 경정맥경 통해 간으로 우회로(TIPS) 시술 후 엉덩이신경근 지수(PMI) 개선 정도의 예후적 가치 평가",
+      "one_line": "경정맥경 통해 간으로 우회로(TIPS) 시술 후 엉덩이신경근 지수(PMI) 개선 정도는 간경변 및 근감소증 환자의 생존율 향상 및 간성뇌증(OHE) 발생 감소와 관련이 있으며, 조기 예후 평가 및 위험도 계층화에 활용될 수 있는 간단한 영상 바이오마커로 활용 가능성이 높다.",
+      "design": "후향적 다기관 연구 (Retrospective Multicenter Study)",
+      "subjects": "간경변 및 근감소증 환자 390명 (N=390)",
+      "intervention": "경정맥경 통해 간으로 우회로(Transjugular Intrahepatic Portosystemic Shunt, TIPS) 시술",
+      "results": "시술 후 1개월째, 188명(48.2%)에서 근감소증 역전(Sarcopenia Reversal)이 관찰되었으며, 근감소증 역전 환자의 1년 생존율은 84.6%로, 근감소증 역전이 없는 환자의 68.2%에 비해 유의미하게 높았다 (Hazard Ratio [HR], 0.24; 95% Confidence Interval [CI], 0.14-0.41; P < .001). 간성뇌증(Overt Hepatic Encephalopathy, OHE) 발생률 또한 근감소증 역전 환자군에서 16.6%로, 51.1%인 비역전 환자군에 비해 현저히 낮았다 (HR, 0.26; 95% CI, 0.17-0.39; P < .001). 엉덩이신경근 지수(PMI) 개선율은 사망률 및 간성뇌증(OHE)의 독립적인 예측 인자였으며, 사망률 예측을 위한 최적 절단값은 11.8%, 간성뇌증(OHE) 예측을 위한 최적 절단값은 15.8%로 확인되었다.",
+      "implication": "경정맥경 통해 간으로 우회로(TIPS) 시술 후 1개월 이내의 엉덩이신경근 지수(PMI) 개선 정도는 간경변 및 근감소증 환자의 예후를 예측하고 위험도를 계층화하는 데 유용한 영상 바이오마커로 활용될 수 있다. 이는 환자 관리 전략 수립에 기여할 수 있다."
+    }
+  },
+  {
+    "pmid": "42567263",
+    "doi": "10.1016/j.jvir.2026.109005",
+    "title": "Percutaneous Extraluminal Arterial Bypass Versus Surgical Arterial Bypass: A Comparative Study in a Porcine Model.",
+    "abstract": "PURPOSE: To compare the four-week patency and degree of intra-graft stenosis of a percutaneously created extraluminal arterial bypass using a stent graft to a surgically created prosthetic bypass in a porcine carotid artery model. MATERIALS AND METHODS: Seven female Yorkshire swine underwent both percutaneous and surgical carotid artery bypass procedures. Percutaneous bypasses were created using subcutaneously tunneled 6-mm GORE VIABAHN stent grafts, while surgical bypasses were performed on the contralateral side. Animals received dual antiplatelet therapy and were monitored weekly with Doppler ultrasound for four weeks. Graft patency and stenosis were assessed with angiography and explant inspection. Percent stenosis at cranial, mid-graft, and caudal segments were calculated and compared. RESULTS: Percutaneous bypass creation was technically successful in 6 of 7 pigs (86%); one failure was due to stent graft maldeployment. All successfully placed percutaneous and surgical grafts remained patent at four weeks. Mean angiographic stenosis for percutaneous grafts was 47% (caudal), 20% (mid), and 43% (cranial); versus 34% (caudal, p=0.26), 12% (mid, p=0.69), and 35% (cranial, p=0.42) for surgical grafts after four weeks. Visual inspection demonstrated comparable degrees of intimal hyperplasia (p=1.0). Four seromas occurred adjacent to surgical bypasses, whereas none occurred with percutaneous bypasses (p=0.06). CONCLUSION: Percutaneously created extraluminal arterial bypass demonstrated similar short-term patency and intra-graft stenosis compared to surgical bypass, supporting its potential as an alternative revascularization strategy in complex PAD.",
+    "authors": [
+      "Stewart Jessica K",
+      "Hipolito Canario Diego",
+      "Ramakrishnan Abinaya",
+      "Guzmán Jimmy",
+      "Figueredo Francisco G",
+      "Patetta Matthew A",
+      "Parodi Federico E",
+      "Kim Charles Y"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-07",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "경피적 외막혈관 우회로 대 수술적 혈관 우회로: 돼지 경동맥 모델에서의 비교 연구",
+      "one_line": "본 연구는 돼지 경동맥 모델에서 경피적 외막혈관 우회로(stent graft 사용)와 수술적 혈관 우회로의 단기 통과율과 혈관 협착 정도를 비교한 결과, 두 방법이 유사한 결과를 보임을 확인했습니다.",
+      "design": "전향적 동물 실험",
+      "subjects": "암컷 요크셔 돼지 7마리 (N=7)",
+      "intervention": "경피적 외막혈관 우회로 (6-mm GORE VIABAHN stent graft 사용, 피부하 터널링) 대 수술적 혈관 우회로",
+      "results": "경피적 우회로 시술 성공률은 86% (7/7)였으며, 실패 1건은 stent graft의 잘못된 배치 때문이었습니다. 4주 후, 모든 경피적 및 수술적 우회로가 통과 상태를 유지했습니다. 4주 후 경피적 우회로의 평균 혈관 협착 정도는 두부(cranial) 43%, 중간(mid) 20%, 꼬리(caudal) 47%였으며, 수술적 우회로는 두부 35% (p=0.42), 중간 12% (p=0.69), 꼬리 34% (p=0.26)였습니다. 내막 비후(intimal hyperplasia)는 시각적 검사에서 두 그룹 간 차이가 없었습니다 (p=1.0). 수술적 우회로 주변에 혈종(seroma)이 4건 발생한 반면, 경피적 우회로에서는 발생하지 않았습니다 (p=0.06).",
+      "implication": "경피적 외막혈관 우회로는 수술적 우회로와 유사한 단기 통과율과 혈관 협착 정도를 나타내므로, 복잡한 말단 혈관 질환(PAD) 환자를 위한 재관혈 전략의 대안으로 고려될 수 있습니다."
+    }
+  },
+  {
+    "pmid": "42567262",
+    "doi": "10.1016/j.jvir.2026.109007",
+    "title": "Spinal Cord Injury Following 2-Stage Embolization and Cryoablation for a Cervical Aneurysmal Bone Cyst: Mechanism, Thermal Characterization, and Practice Recommendations.",
+    "abstract": "",
+    "authors": [
+      "Gemmete Joseph J"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-07",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42562196",
+    "doi": "10.1016/j.jvir.2026.109003",
+    "title": "Utility of the Small Artery Disease Score on Lateral Foot Angiography in Patients with Chronic Limb-Threatening Ischemia.",
+    "abstract": "PURPOSE: To evaluate the utility of the small artery disease (SAD) score as a predictor of clinical outcomes and major adverse limb events (MALEs) in patients with chronic limb-threatening ischemia (CLTI), using lateral digital subtraction angiography (DSA) images. MATERIALS AND METHODS: A retrospective study was conducted in 183 patients with Fontaine 3 or 4 (mean age, 72.2 years [SD ± 12.1]; 132 men) who underwent lateral DSA of the foot between 2020 and 2022. Three independent observers assessed all lateral projections of the foot using the SAD score. Outcomes included wound healing, amputation, repeat revascularization, MALEs, and survival. RESULTS: Patients with an SAD score of ≥1 had a significantly increased risk for MALEs (hazard ratio [HR], 2.22; P = .011) and death (HR, 2.06; P = .025). There was no significant risk for impaired wound healing (HR, 1.15; P = .669) and amputation (HR, 1.48; P = .157) in patients with SAD score of ≥1. Interobserver agreement between the 3 observers for presence of SAD was substantial, with an intraclass correlation coefficient of 0.61 (95% confidence interval, 0.53-0.68). CONCLUSIONS: Presence of SAD increases the risk of MALE and death in patients with CLTI but had no relation with wound healing or amputation.",
+    "authors": [
+      "Baars Jade",
+      "Bos Caspar",
+      "Urlings Thijs",
+      "van der Linden Edwin",
+      "Panfilov Ilia",
+      "Cobben Lodewijk",
+      "Jong Willem-Jan de",
+      "Burgmans Mark",
+      "Hamming Jaap",
+      "van der Vorst Joost",
+      "Charehbili Ayoub"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-06",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "만성 사지 위협성 허혈증 환자에서 측면 혈관조영술을 이용한 미세혈관 질환 점수(SAD score)의 유용성",
+      "one_line": "만성 사지 위협성 허혈증 환자에서 미세혈관 질환 점수가 높을수록 주요 악영구적 사지 사건(MALE) 및 사망 위험이 증가하지만, 상처 치유 및 절단과는 관련이 없다.",
+      "design": "후향적 연구(Retrospective study)",
+      "subjects": "Fontaine 3 또는 4 단계의 만성 사지 위협성 허혈증 환자 183명 (평균 연령 72.2세 [표준편차 ± 12.1], 남성 132명)",
+      "intervention": "측면 디지털 감산 혈관조영술(Lateral digital subtraction angiography, DSA)을 이용한 미세혈관 질환 점수(SAD score) 평가",
+      "results": "미세혈관 질환 점수(SAD score)가 ≥1인 환자는 MALE 위험이 유의하게 증가했다 (Hazard ratio [HR], 2.22; P = .011). 사망 위험 또한 유의하게 증가했다 (HR, 2.06; P = .025). 상처 치유 저해 (HR, 1.15; P = .669) 및 절단 (HR, 1.48; P = .157)에 대한 유의미한 위험은 관찰되지 않았다. 3명의 독립적인 관찰자 간 미세혈관 질환 존재에 대한 관찰자 간 일치도는 상당했으며, 0.61 (95% 신뢰 구간, 0.53-0.68)의 0.61 (95% confidence interval, 0.53-0.68)의 상관 계수를 보였다.",
+      "implication": "만성 사지 위협성 허혈증 환자에서 미세혈관 질환 점수는 MALE 및 사망 위험 예측에 유용하며, 상처 치유 및 절단 예측에는 도움이 되지 않는다."
+    }
+  },
+  {
+    "pmid": "42562195",
+    "doi": "10.1016/j.jvir.2026.108995",
+    "title": "Delayed Inferior Thyroid Artery Pseudoaneurysm and Arteriovenous Fistula after Microwave Ablation of a Benign Thyroid Nodule.",
+    "abstract": "",
+    "authors": [
+      "Çam Isa",
+      "Shatat Almotasem",
+      "Yaşar Servan",
+      "Yalnız Ahmet",
+      "Çiftçi Ercüment"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-06",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42562194",
+    "doi": "10.1016/j.jvir.2026.109004",
+    "title": "Percutaneous Gun-Sight Reentry from an Occluded Femoral-Popliteal Bypass Stump to the Native Superficial Femoral Artery for Limb Salvage.",
+    "abstract": "",
+    "authors": [
+      "Kukuljac Adis",
+      "Abrishami Aaron",
+      "Singh Parnavi",
+      "Baker Joshua M",
+      "Kazmi Syed",
+      "Powell Alex",
+      "Schiro Brian J"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-06",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42556637",
+    "doi": "10.1016/j.jvir.2026.108999",
+    "title": "Trajectory-Based Trauma Index and Pleural Infiltration Predict Pneumothorax After CT-Guided Lung Cryoablation.",
+    "abstract": "PURPOSE: To evaluate associations of a newly developed trajectory-based trauma index (TTI) and tumor-related pleural infiltration with pneumothorax after CT-guided lung cryoablation. MATERIALS AND METHODS: This retrospective single-center observational cohort included procedures from May 2017 through January 2026. Eligible procedures involved transpulmonary cryoablation of primary or metastatic lung malignancy in adults. Exclusions were extrapleural access, ipsilateral pleural effusion or drainage, concomitant ipsilateral microwave ablation, and incomplete data. Ablation was indicated after multidisciplinary assessment; contraindications included uncorrectable coagulopathy, active infection, anesthesia intolerance, or no safe access. The primary endpoint was pneumothorax on immediate CT or 2-hour radiography; chest tube placement before discharge was secondary. TTI, the primary exposure, summed contributions from cryoprobes and biopsy needles based on diameter, aerated-lung traversal, and pleural entry angle. Pleural infiltration was a prespecified co-exposure and relative entry height a covariate. Associations were evaluated with logistic regression. RESULTS: Ninety procedures in 69 patients were analyzed. Across 230 pleural punctures, median diameter was 2.1 mm (IQR, 2.1-2.1), aerated-lung traversal 25.0 mm (IQR, 8.9-38.7), and entry angle 52.8° (IQR, 38.8-69.9). Pneumothorax occurred in 56/90 procedures (62%; 95% CI, 51%-72%); 34/90 (38%) required chest tubes. Higher TTI was associated with pneumothorax (OR, 21.87; 95% CI, 4.47-106.99; P<.001), whereas greater pleural infiltration was associated with lower odds (OR, 0.56; 95% CI, 0.40-0.78; P<.001). TTI was associated with chest tube placement (OR, 5.02; 95% CI, 1.60-15.78; P=.006). CONCLUSION: In this retrospective single-center cohort, higher TTI and less extensive pleural infiltration were associated with pneumothorax.",
+    "authors": [
+      "Brönnimann Michael P",
+      "Binkert Christoph A",
+      "Heverhagen Johannes T",
+      "Hwang Gloria L",
+      "Wang David S",
+      "Hung Matthew L"
+    ],
+    "journal_abbr": "J Vasc Interv Radiol",
+    "pub_date": "2026-08-05",
+    "journal": "JVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "경로 기반 외상 지수(TTI) 및 종양 관련 흉막 침윤이 CT-가이드 흉부 냉동 치료 후 기흉 발생을 예측하는지 평가",
+      "one_line": "본 연구는 CT-가이드 흉부 냉동 치료 후 기흉 발생 위험을 예측하는 경로 기반 외상 지수(TTI)와 흉막 침윤의 상관관계를 평가한 결과, TTI가 높을수록, 흉막 침윤이 적을수록 기흉 발생 위험이 높다는 것을 확인했습니다.",
+      "design": "후향적 단일 센터 관찰 코호트 연구",
+      "subjects": "69명의 환자에서 총 90건의 시술 (N=90)",
+      "intervention": "CT-가이드 흉부 냉동 치료(CT-guided lung cryoablation)",
+      "results": "기흉 발생률은 56/90 건 (62%; 95% CI, 51%-72%)이었으며, 34/90 건 (38%)에서 흉관 삽입이 필요했습니다. 경로 기반 외상 지수(TTI)가 높을수록 기흉 발생 위험이 21.87배 증가했습니다 (OR, 21.87; 95% CI, 4.47-106.99; P<.001). 흉막 침윤이 심할수록 기흉 발생 위험은 0.56배 감소했습니다 (OR, 0.56; 95% CI, 0.40-0.78; P<.001). TTI는 흉관 삽입 필요성(OR, 5.02; 95% CI, 1.60-15.78; P=.006)과도 관련이 있었습니다.",
+      "implication": "CT-가이드 흉부 냉동 치료 시, 경로 기반 외상 지수(TTI)를 활용하여 기흉 발생 위험을 예측하고, 흉막 침윤 정도를 고려하여 시술 계획을 수립하는 것이 임상적으로 유용할 수 있습니다."
+    }
+  },
+  {
+    "pmid": "42675265",
+    "doi": "10.1007/s00270-026-04604-2",
+    "title": "Low-Dose Versus High-Dose Drug-Coated Balloon After Jetstream Atherectomy for Severely Calcified Femoropopliteal Lesions: A Multicenter Registry Study.",
+    "abstract": "PURPOSE: Jetstream atherectomy is commonly used to prepare severely calcified femoropopliteal lesions; however, the optimal choice between low- and high-dose drug-coated balloons after atherectomy remains unclear. MATERIALS AND METHODS: We analyzed data from multicenter JOKER registry. We identified patients with symptomatic lower-extremity artery disease who underwent Jetstream atherectomy followed by DCB angioplasty for severely calcified femoropopliteal lesions between November 2022 and December 2024. Patients were classified into the low-dose drug-coated balloon group, treated with Ranger, and the high-dose drug-coated balloon group, treated with IN.PACT Admiral. Propensity score matching was used for adjustment for clinical and lesion characteristics. The primary endpoint was 1-year primary patency. RESULTS: Of 219 patients, 136 were treated with low-dose drug-coated balloon and 83 with high-dose drug-coated balloon. Propensity score matching generated 66 matched pairs. In the matched cohort, flow impairment after Jetstream atherectomy did not differ significantly between the low-dose and high-dose drug-coated balloon groups (16.7% vs. 12.1%, p = 0.62). Final angiography showed preserved distal flow (100% vs. 98.4%, p > 0.99). At 1 year, primary patency did not differ significantly between the low-dose drug-coated balloon and high-dose drug-coated balloon groups (88.0% vs. 85.7%, p = 0.72). Freedom from clinically driven target lesion revascularization (94.7% vs. 92.7%, p = 0.71) and amputation-free survival (90.0% vs. 87.8%, p = 0.79) did not differ between groups. CONCLUSIONS: No statistically significant differences in angiographic or 1-year clinical outcomes were observed between low-dose and high-dose drug-coated balloons in propensity score-matched patients.",
+    "authors": [
+      "Yamaguchi Kohei",
+      "Miyashita Hirokazu",
+      "Tsujimoto Masanaga",
+      "Ichihara Shinya",
+      "Mori Shinsuke",
+      "Tobita Kazuki",
+      "Haraguchi Takuya",
+      "Hayakawa Naoki"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-31",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "심각한 석회화된 대퇴-경골 동맥 병변에서 제트스트림 풍선 확장술 후 약물 코팅 풍선(DCB)의 저용량 대 고용량 비교: 다기관 등록 연구",
+      "one_line": "심각한 석회화된 대퇴-경골 동맥 병변에서 제트스트림 풍선 확장술 후 저용량 약물 코팅 풍선(Ranger)과 고용량 약물 코팅 풍선(IN.PACT Admiral)의 1년 1차 개통률에 차이가 없었다.",
+      "design": "후향적 등록 연구 (Retrospective Registry Study)",
+      "subjects": "대퇴-경골 동맥 질환으로 증상을 겪는 환자, N = 219",
+      "intervention": "제트스트림 풍선 확장술(Jetstream atherectomy) 후 약물 코팅 풍선(DCB) 혈관성형술. 저용량 DCB 그룹 (Ranger)과 고용량 DCB 그룹 (IN.PACT Admiral)으로 분류.",
+      "results": "교차점수 매칭(Propensity score matching) 후, 저용량 DCB 그룹과 고용량 DCB 그룹 간의 1년 1차 개통률(primary patency)은 각각 88.0% vs 85.7%, p = 0.72로 통계적으로 유의한 차이가 없었다. 임상적으로 유도된 표적 병변 재관혈(clinically driven target lesion revascularization) 회피율은 94.7% vs 92.7%, p = 0.71, 절단 없이 생존율(amputation-free survival)은 90.0% vs 87.8%, p = 0.79로 역시 차이가 없었다. 제트스트림 풍선 확장술 후 혈류 장애(flow impairment) 비율은 16.7% vs 12.1%, p = 0.62였고, 최종 혈관조영술에서 말단 혈류 보존율(preserved distal flow)은 100% vs 98.4%, p > 0.99였다.",
+      "implication": "심각한 석회화된 대퇴-경골 동맥 병변에서 제트스트림 풍선 확장술 후 약물 코팅 풍선의 용량 선택은 임상적 결과에 큰 영향을 미치지 않는 것으로 보인다. 따라서, 환자 특성 및 시술 환경을 고려하여 저용량 또는 고용량 약물 코팅 풍선을 선택할 수 있다."
+    }
+  },
+  {
+    "pmid": "42675264",
+    "doi": "10.1007/s00270-026-04605-1",
+    "title": "Ask Before You Glue: Acrylate Sensitisation is an Under-Recognised Risk as Glue Embolisation Expands.",
+    "abstract": "",
+    "authors": [
+      "Vigneswaran Ganesh",
+      "Soriano Livia Francine"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-31",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42675263",
+    "doi": "10.1007/s00270-026-04559-4",
+    "title": "Artificial Intelligence from Flow Metrics Improvement Toward Clinical Value.",
+    "abstract": "",
+    "authors": [
+      "Gómez Muñoz Fernando",
+      "López-Rueda Antonio"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-31",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42675262",
+    "doi": "10.1007/s00270-026-04601-5",
+    "title": "Commentary on: Evaluating the Predictive Value of Pre-procedural Diagnostic Nerve Blocks in Patients Undergoing Cryoneurolysis.",
+    "abstract": "",
+    "authors": [
+      "Petsatodis Evangelos",
+      "Michailidis Antonios"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-31",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42669775",
+    "doi": "10.1007/s00270-026-04577-2",
+    "title": "International Multicentre Study on mid- and long-term Outcome of E-liac Iliac Branched Device.",
+    "abstract": "PURPOSE: To investigate the clinical outcomes of the E-liac (Artivion©) Iliac Branched Device (IBD) in mid- to long-term follow-up. MATERIALS AND METHODS: This retrospective multicentre observational study included all patients treated with the E-liac (Artivion©) IBD in the participating centres between January 2011 and December 2024. Patients treated for acute ruptured aneurysm were excluded. IBD was indicated for isolated iliac aneurysm, as treatment for type 1b endoleak or in combination with EVAR for aorto-iliac aneurysm. Primary outcome was technical success, defined as deploying the IBD as planned while maintaining flow in the internal and external iliac arteries (IIA, EIA), without type 1 or 3 endoleak extending beyond 30 days and without mortality within 30 days. A subgroup of patients with at least 60 months of follow-up was analysed separately. RESULTS: A total of 252 E-liac IBDs were deployed in 221 patients. One hundred and seventy-one IBDs (67.9%) required combination with EVAR, 61 (24.2%) IBDs were deployed for isolated iliac aneurysm, and 20 (7.9%) IBDs were used as extension for type 1b endoleak. Technical success was achieved in 241/252 IBDs (95.6%). Median follow-up time was 29 months (IQR 13.5-60). Two patients died within 30 days of the index procedure (0.9% of patients). Freedom from IBD-related reintervention at 12 months was 93.5% of IBDs. Sixty-four IBDs were included in the subgroup analysis of long-term follow-up. The IIA remained patent in 63 of these IBDs (98.4%). CONCLUSION: Mid- and long-term follow-up of the E-liac IBD demonstrate its effectiveness, with high IIA patency and acceptable reintervention rate.",
+    "authors": [
+      "Oosterveld Rens Jorn",
+      "Becker Daniel",
+      "Willems Stefanie",
+      "van Wely Chrissy",
+      "van der Laan Lijckle",
+      "de Letter Jan",
+      "Willaert Willem",
+      "Bekken Joost",
+      "Jungi Silvan",
+      "Bouwman Lee",
+      "Makaloski Vladimir",
+      "Yazar Ozan"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-30",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "E-liac(Artivion©) 일측 분지 장치(IBD)의 중장기 임상 결과에 대한 국제 다기관 연구",
+      "one_line": "본 연구는 E-liac 일측 분지 장치(IBD)의 중장기 임상 결과를 평가한 결과, 높은 IIA 개통률과 허용 가능한 재시술률을 보여주며 효과적인 것으로 나타났다.",
+      "design": "후향적 다기관 관찰 연구",
+      "subjects": "총 252개의 E-liac IBD가 221명의 환자에게 시술되었으며, 최소 60개월 추적 관찰이 가능한 64개의 IBD가 장기 추적 관찰 대상에 포함됨 (N=221, 장기 추적 관찰 N=64)",
+      "intervention": "E-liac(Artivion©) 일측 분지 장치(IBD) (isolated iliac aneurysm 치료, type 1b endoleak 치료, 또는 EVAR 연장)",
+      "results": "기술적 성공률은 252/252 IBD의 95.6%였으며, 30일 이내 사망률은 0.9% (2명), 12개월 IBD 관련 재시술로부터의 자유율은 93.5%였다. 장기 추적 관찰 대상 환자군에서 IIA 개통률은 98.4% (63/64)였다. 중앙 추적 관찰 기간은 29개월 (IQR 13.5-60) 이었다.",
+      "implication": "E-liac IBD는 IIA 개통률이 높고 재시술률이 허용 가능한 수준으로, 일측 동맥류 치료 또는 EVAR 연장 시 효과적인 치료 옵션으로 고려될 수 있다. 장기적인 추적 관찰을 통해 지속적인 효과를 확인하는 것이 중요하다."
+    }
+  },
+  {
+    "pmid": "42669774",
+    "doi": "10.1007/s00270-026-04571-8",
+    "title": "Mechanical Thrombectomy in Septic Thrombophlebitis: Patterns of Use and Clinician Perspectives.",
+    "abstract": "",
+    "authors": [
+      "Seo Yunji",
+      "Chick Jeffrey F B",
+      "Laidlaw Grace",
+      "Ranade Mona"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-30",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42661080",
+    "doi": "10.1007/s00270-026-04583-4",
+    "title": "Correction to: Genicular Artery Embolization Using Imipenem/Cilastatin vs. Microsphere for Knee Osteoarthritis (GAUCHO). 12-Month Clinical Results of a Single-blind Randomized Controlled Trial.",
+    "abstract": "",
+    "authors": [
+      "Correa Mateus Picada",
+      "Michelin Alexandre Froes",
+      "Aguiar Lyson Azevedo",
+      "Lugokenski Ricardo",
+      "Algarve Rodrigo Ilha",
+      "Motta-Leal-Filho Joaquim M"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-27",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42661079",
+    "doi": "10.1007/s00270-026-04591-4",
+    "title": "Splenic Artery Embolization for Refractory Ascites in a Pediatric Liver Transplant Recipient.",
+    "abstract": "",
+    "authors": [
+      "Hameurlaine Amira",
+      "Dumitriu Dana I",
+      "Stephenne Xavier",
+      "Tambucci Roberto",
+      "de Magnée Catherine",
+      "Loubet Antoine"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-27",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42649342",
+    "doi": "10.1007/s00270-026-04589-y",
+    "title": "Clinical Outcomes in Chronic Limb-Threatening Ischemia Patients Undergoing Femoropopliteal Endovascular Treatment Using IN.PACT versus Ranger: Results of the PEPPERMINT Study.",
+    "abstract": "PURPOSE: To compare the clinical outcomes of high-dose PCB (HD-PCB) and low-dose PCB (LD-PCB) in patients with chronic limb-threatening ischemia (CLTI). MATERIALS AND METHODS: This study is a multicenter retrospective observational study conducted at 21 institutions in Japan. Patients with CLTI who underwent femoropopliteal endovascular treatment using IN.PACT Admiral DCB (HD-PCB, 3.5 μg/mm2) or Ranger DCB (LD-PCB, 2.0 μg/mm2) were compared. Inverse probability of treatment weighting (IPTW) using propensity scores was applied to adjust for intergroup differences. The primary outcome was restenosis; ten secondary outcomes were also evaluated. RESULTS: A total of 323 patients were included (IN.PACT, n = 211; Ranger, n = 112). Median follow-up was 11.6 months. No significant difference in restenosis was observed between groups (HR 1.05; 95% CI 0.74-1.50; P = 0.78). After Bonferroni correction, slow flow occurred significantly more frequently in the IN.PACT group than in the Ranger group (6.8% vs. 1.0%; OR 11.9; 99.5% CI 1.27-59.3; P = 0.002). No significant intergroup differences were observed in target lesion revascularization, major adverse limb events, wound healing, major amputation, or mortality. CONCLUSIONS: Treatment outcomes for femoropopliteal lesions in patients with CLTI were comparable between the IN.PACT Admiral and Ranger DCBs. However, slow-flow phenomenon was observed more frequently in the IN.PACT group, warranting further investigation. LEVEL OF EVIDENCE: Level 3, Cohort Study.",
+    "authors": [
+      "Nagatomi Satoru",
+      "Takahara Mitsuyoshi",
+      "Kobayashi Taira",
+      "Fujimura Naoki",
+      "Yamaoka Terutoshi",
+      "Matsuda Daisuke",
+      "Okazaki Takanobu",
+      "Mochizuki Shingo",
+      "Shingaki Masami",
+      "Endo Masayuki",
+      "Hosokawa Kyosuke",
+      "Furuyama Tadashi",
+      "Shintani Tsunehiro",
+      "Sekimoto Yasuhito",
+      "Uchiyama Hidetoshi",
+      "Kyuragi Ryoichi",
+      "Watada Susumu",
+      "Morisaki Koichi",
+      "Mitsuoka Hiroki",
+      "Kawai Yohei",
+      "Banno Hiroshi",
+      "Hayashi Keita",
+      "Shibata Tsuyoshi",
+      "Kamei Shunsuke",
+      "Obara Hideaki",
+      "Ichihashi Shigeo"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-26",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "만성 사지 위협성 허혈 환자의 대동맥-슬개동맥 내혈관 치료 시 IN.PACT 대비 Ranger의 임상 결과: PEPPERMINT 연구 결과",
+      "one_line": "만성 사지 위협성 허혈 환자의 대동맥-슬개동맥 내혈관 치료에서 IN.PACT와 Ranger는 유사한 임상 결과를 보였으나, IN.PACT에서 서파 현상이 더 흔하게 나타났다.",
+      "design": "후향적 관찰 연구 (Cohort Study)",
+      "subjects": "총 323명 (IN.PACT, n = 211; Ranger, n = 112)",
+      "intervention": "IN.PACT Admiral DCB (고용량 PCB, HD-PCB, 3.5 μg/mm²) 또는 Ranger DCB (저용량 PCB, LD-PCB, 2.0 μg/mm²)를 이용한 대동맥-슬개동맥 내혈관 치료",
+      "results": "중재 성공률(restenosis)은 두 그룹 간에 유의한 차이가 없었으며, Hazard Ratio (HR)는 1.05 (95% CI: 0.74-1.50; P = 0.78)였다.  Bonferroni 교정 후, IN.PACT 그룹에서 서파 현상이 Ranger 그룹보다 유의미하게 더 흔하게 발생했다 (6.8% vs. 1.0%; Odds Ratio (OR) 11.9; 99.5% CI: 1.27-59.3; P = 0.002). 타겟 병변 재관혈(target lesion revascularization), 주요 악성 사지 사건(major adverse limb events), 상처 치유(wound healing), 주요 절단(major amputation), 사망(mortality)은 두 그룹 간에 유의미한 차이가 없었다.",
+      "implication": "만성 사지 위협성 허혈 환자의 대동맥-슬개동맥 병변 치료 시 IN.PACT Admiral과 Ranger DCB는 유사한 치료 효과를 나타내지만, IN.PACT 그룹에서 서파 현상 발생률이 높다는 점을 고려하여 추가적인 연구가 필요하다."
+    }
+  },
+  {
+    "pmid": "42642509",
+    "doi": "10.1007/s00270-026-04594-1",
+    "title": "Dedicated Venous Stent-in-Stent Reconstruction for Graft Regeneration-Induced Hepatic Venous Outflow Obstruction After Living Donor Liver Transplantation.",
+    "abstract": "",
+    "authors": [
+      "Akkan Koray",
+      "Büyükceran Emre Utkan",
+      "Ersan Veysel",
+      "Işık Burak",
+      "Kabaçam Gökhan"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-25",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42642508",
+    "doi": "10.1007/s00270-026-04590-5",
+    "title": "Redefining the Landscape of Pain Management: Interventional Radiology as a Strategic Clinical Leader.",
+    "abstract": "",
+    "authors": [
+      "Filippiadis D"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-25",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42642507",
+    "doi": "10.1007/s00270-026-04587-0",
+    "title": "Contemporary Lymphangiography-Guided Management of Postoperative Chylothorax in Adults: An Updated Systematic Review and Meta-Analysis.",
+    "abstract": "PURPOSE: To update pooled estimates of technical and clinical success of lymphangiography-guided management of postoperative chylothorax in adults. MATERIALS AND METHODS: PubMed, Embase, and the Cochrane Library were searched from 1998 to January 2026 for studies reporting outcomes of lymphangiography-guided management of postoperative chylothorax in adults. Two reviewers independently screened records and assessed risk of bias with ROBINS-I. Logit-transformed proportions were pooled with DerSimonian-Laird random-effects models, with robustness checked using restricted maximum-likelihood and Hartung-Knapp estimators, prespecified subgroup and era analyses, sensitivity analyses restricted to studies of at least 10 patients and excluding the largest cohorts, publication-bias testing, and GRADE rating of certainty. RESULTS: Of 710 records, 28 studies were included in qualitative synthesis and 17 in meta-analysis. Pooled technical success was 75.3%, up from 63.1% in 2018, and clinical success was 74.5%; both were stable under restricted maximum-likelihood and Hartung-Knapp models, when restricted to studies of at least 10 patients (73.1% and 72.3%), and on leave-one-out analysis. Clinical success was numerically higher after esophagectomy (82.6%) than in mixed-origin cohorts (73.9%), but subgroup intervals were wide and overlapping. No covariate explained the substantial heterogeneity (I-squared 68-80%). Egger testing indicated asymmetry for clinical (P = .03) but not technical success (P = .65). Certainty of evidence was low to very low. CONCLUSION: Lymphangiography-guided management estimates are heterogeneous, of low certainty, and non-comparative. Their interpretation is limited by inconsistent definitions of success, the absence of comparative studies, and other factors; standardized reporting and head-to-head studies are needed before efficacy can be determined. STUDY REGISTRATION: PROSPERO CRD420261388785. LEVEL OF EVIDENCE: Level 4 (systematic review and meta-analysis of observational studies).",
+    "authors": [
+      "Vennam Krish",
+      "Ji Evan",
+      "Sharma Ashwani K"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-25",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "성인 수술 후 흉관루증에 대한 림프관조영술 기반 관리의 현대적 동향: 업데이트된 체계적 검토 및 메타분석",
+      "one_line": "본 연구는 림프관조영술(lymphangiography) 기반 흉관루증(chylothorax) 관리의 기술적 성공률과 임상적 성공률을 업데이트하고, 낮은 수준의 증거에도 불구하고 현재까지의 결과를 종합적으로 분석하였다.",
+      "design": "메타분석 (Meta-analysis)",
+      "subjects": "성인, 710개의 논문 검색 후 28편의 논문(질적 분석), 17편의 논문(양적 분석) 포함",
+      "intervention": "림프관조영술(lymphangiography) 기반 흉관루증(chylothorax) 관리",
+      "results": "기술적 성공률(technical success)은 75.3%로 2018년보다 증가했으며, 임상적 성공률(clinical success)은 74.5%로 나타났다. 최소 10명의 환자를 대상으로 한 연구로 제한하거나, 가장 큰 코호트를 제외한 민감도 분석(sensitivity analysis)에서도 결과는 유사하게 나타났다. 식도 절제술(esophagectomy) 후 임상적 성공률은 82.6%로 혼합 원인 코호트(mixed-origin cohorts)의 73.9%보다 높았으나, 하위 그룹 구간(subgroup intervals)이 넓고 겹쳤다. 이질성(heterogeneity)은 상당했으며 (I-squared 68-80%), 임상적 성공률(P = .03)은 출판 편향(publication bias)을 시사했지만, 기술적 성공률(P = .65)은 그렇지 않았다. 증거의 확실성은 낮음에서 매우 낮음(low to very low)으로 평가되었다.",
+      "implication": "림프관조영술(lymphangiography) 기반 흉관루증(chylothorax) 관리는 이질적이며 증거 수준이 낮고 비교 연구가 부족하다. 성공 정의의 불일치, 비교 연구의 부재 등의 요인으로 해석에 제한이 있으며, 효능을 결정하기 위해서는 표준화된 보고 및 직접 비교 연구가 필요하다."
+    }
+  },
+  {
+    "pmid": "42642506",
+    "doi": "10.1007/s00270-026-04361-2",
+    "title": "Risk Factors for Target Vessel Re-intervention After Balloon Pulmonary Angioplasty in Inoperable Chronic Thromboembolic Pulmonary Hypertension.",
+    "abstract": "PURPOSE: This study aims to identify the risk factors of re-intervention on targeted vessels after balloon pulmonary angioplasty (BPA) in patients with inoperable chronic thromboembolic pulmonary hypertension (CTEPH). MATERIALS AND METHODS: We retrospectively analyzed consecutive patients with inoperable CTEPH undergoing BPA at a single center. Targeted vessels and patients were classified according to whether re-intervention occurred. Mixed-effects logistic regression with a patient-level random intercept was used to identify predictors of re-intervention. The optimal threshold was determined by ROC analysis. Time to re-intervention was described by vessel-level Kaplan-Meier curves, and model performance was evaluated using the C-statistic, bootstrap internal validation, calibration plots, and decision-curve analysis. RESULTS: We enrolled 62 patients with inoperable CTEPH who underwent 168 BPA sessions and 412 targeted vessels. Re-intervention occurred in 98/412 vessels (23.8%) across 32/62 patients (51.6%). In mixed-effects logistic regression, percent diameter stenosis remained independently associated with re-intervention (OR = 1.38, 95% CI 1.23-1.54, p = 0.023), and pulmonary flow grade showed a strong graded association (p < 0.001). The combined model (percent diameter stenosis + pulmonary flow grade) showed good discrimination for re-intervention (AUC = 0.81, 95% CI 0.75-0.86). Kaplan-Meier curves demonstrated higher re-intervention rates in vessels with higher percent diameter stenosis and in those with pulmonary flow grade 0-1 (both log-rank p < 0.001). The combined model also had acceptable calibration and greater net benefit than percent diameter stenosis or pulmonary flow grade alone. CONCLUSIONS: Baseline pulmonary flow grade and percent diameter stenosis independently predict re-intervention after BPA. Vessels lacking high-grade flow and exhibiting greater stenosis may benefit from closer follow-up and staged dilatation strategies.",
+    "authors": [
+      "Lu Zhihui",
+      "Zhang Chen",
+      "Xiao Yao",
+      "Zhao Lei",
+      "Lu Guanyu",
+      "Wan Jun",
+      "Ma Xiaohai"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-25",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "수술 불가 만성 색전성 폐고혈압 환자에서 풍선 폐동맥 혈관성형술(Balloon Pulmonary Angioplasty, BPA) 후 표적 혈관 재시술 위험 요인",
+      "one_line": "수술 불가 만성 색전성 폐고혈압 환자에서 풍선 폐동맥 혈관성형술 후 재시술 위험 요인은 초기 폐혈류 등급(pulmonary flow grade)과 관상 협착 정도(percent diameter stenosis)이며, 이 두 요인을 함께 고려한 모델은 재시술 예측에 유용하다.",
+      "design": "후향적 코호트 연구(Retrospective Cohort Study)",
+      "subjects": "수술 불가 만성 색전성 폐고혈압(Chronic Thromboembolic Pulmonary Hypertension, CTEPH) 환자 62명, BPA 시술 168회, 표적 혈관 412개 (N=62, Vessels=412)",
+      "intervention": "풍선 폐동맥 혈관성형술(Balloon Pulmonary Angioplasty, BPA)",
+      "results": "재시술 발생률은 표적 혈관의 23.8% (98/412), 환자의 51.6% (32/62)에서 관찰되었다. 다중 로지스틱 회귀 분석 결과, 초기 관상 협착 정도(percent diameter stenosis)는 재시술과 유의미한 연관성을 보였으며(OR=1.38, 95% CI 1.23-1.54, p=0.023), 폐혈류 등급(pulmonary flow grade)은 강한 경향성을 나타냈다(p<0.001). 관상 협착 정도와 폐혈류 등급을 결합한 모델은 재시술 예측에 우수한 판별력을 보였다(AUC=0.81, 95% CI 0.75-0.86). Kaplan-Meier 곡선 분석에서 관상 협착 정도가 높거나 폐혈류 등급이 0-1인 혈관에서 재시술률이 높았다(log-rank p<0.001).",
+      "implication": "풍선 폐동맥 혈관성형술 후 재시술 위험을 예측하기 위해 초기 폐혈류 등급과 관상 협착 정도를 평가해야 하며, 폐혈류 등급이 낮고 관상 협착 정도가 높은 혈관은 면밀한 추적 관찰과 단계적 확장 전략이 필요할 수 있다."
+    }
+  },
+  {
+    "pmid": "42637833",
+    "doi": "10.1007/s00270-026-04582-5",
+    "title": "Lymphatic Imaging and Interventions in Children: Current Practice.",
+    "abstract": "PURPOSE: To provide a decision-oriented overview of clinical manifestations, imaging strategies, and minimallyinvasive treatment of pediatric lymphatic flow disorders. MATERIALS AND METHODS: Current practice in fluoroscopic lymphangiography, dynamic contrast-enhanced magneticresonance lymphangiography, and image-guided interventions was reviewed, emphasizing congenital heart disease,complex lymphatic anomalies, procedural adaptations, and safety. RESULTS: Lymphatic flow disorders can cause chylous eff usions, plastic bronchitis, protein-losing enteropathy, andlymphedema. Modern imaging enables high-resolution assessment of anatomy and abnormal flow and guidesselective interventions. Small clinical series report favorable outcomes after selective embolization of abnormallymphatic channels; however, inappropriate or nonselective embolization may worsen lymphatic failure. CONCLUSIONS: Accurate clinical characterization, tailored imaging, and treatment in experienced multidisciplinarycenters are essential for safe, individualized management.",
+    "authors": [
+      "Pieper C C",
+      "Rabinowitz D",
+      "Maleux G",
+      "Srinivasan A"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-24",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "소아 림프관 질환 영상 촬영 및 중재: 현재 실무",
+      "one_line": "소아 림프관 흐름 장애의 임상 양상, 영상 촬영 전략, 최소 침습적 치료에 대한 의사 결정 지침을 제공하는 개요.",
+      "design": "증례 보고 (Case Report)",
+      "subjects": "소아 환자 (N 수 미상, 소규모 임상 사례 보고)",
+      "intervention": "형광 투시 림프관조영술(Fluoroscopic Lymphangiography), 동적 조영 증강 자기 공명 림프관조영술(Dynamic Contrast-Enhanced Magnetic Resonance Lymphangiography), 영상 유도 하 림프관 중재 (Image-Guided Interventions, 특히 선택적 색전술(Selective Embolization))",
+      "results": "림프관 흐름 장애는 림프액 누출(Chylous Effusions), 플라스틱 기관지염(Plastic Bronchitis), 단백질 누출성 장 질환(Protein-Losing Enteropathy), 림프부종(Lymphedema)을 유발할 수 있음. 현대 영상 기술은 해부학적 구조와 비정상적인 흐름을 고해상도로 평가하고 선택적 중재를 안내함. 선택적 색전술에 대한 소규모 임상 사례 보고는 긍정적인 결과를 보고하나, 부적절하거나 비선택적 색전술은 림프관 기능 부전을 악화시킬 수 있음.",
+      "implication": "정확한 임상 특성 규명, 맞춤형 영상 촬영, 경험이 풍부한 다학제적 센터에서의 치료가 안전하고 개별화된 관리를 위해 필수적임. 특히 림프관 색전술 시 선택적 시술의 중요성을 강조."
+    }
+  },
+  {
+    "pmid": "42637832",
+    "doi": "10.1007/s00270-026-04526-z",
+    "title": "A Prospective, Randomized Controlled Trial of Intravascular Ultrasound-Guided versus Digital Subtraction Angiography-Guided Mechanical Thrombectomy in Acute Intermediate-Risk and High-Risk Pulmonary Embolism.",
+    "abstract": "PURPOSE: This study aimed to compare the efficacy and safety of intravascular ultrasound (IVUS)-guided mechanical thrombectomy with those of conventional digital subtraction angiography (DSA)-guided mechanical thrombectomy in patients with intermediate- to high-risk acute pulmonary embolism. MATERIALS AND METHODS: This is a prospective, 1:1 block-randomized, controlled, open-label, blinded-endpoint (PROBE design), multi-center, superiority trial (Protocol Version 1.0, dated February 1, 2025). Eligible patients aged 18-75 years, diagnosed with intermediate-high-risk acute pulmonary embolism, with right ventricular/left ventricular diameter ratio (RV/LV) ≥ 0.9 on computed tomography pulmonary angiography (CTPA) will be included. The exclusion criteria included unsuitable vascular anatomy for the thrombectomy device; chronic pulmonary hypertension; left bundle branch block; chronic left heart failure (LVEF ≤ 30%); renal dysfunction (serum creatinine > 1.8 mg/dL or > 159 μmol/L); coagulopathy; contrast media hypersensitivity. The intervention group will undergo IVUS-guided mechanical thrombectomy using the Tendvia System (Shanghai Tendvia Medical Devices Co., Ltd.) under the guidance of a Philips IVUS system. The control group will undergo conventional DSA-guided mechanical thrombectomy using the same Tendvia System. The primary efficacy endpoint is the reduction in the RV/LV ratio from baseline to 48 h post-procedure. The primary safety endpoint is a composite of major adverse events (MAEs) within 48 h, including procedure-related mortality, major bleeding, and clinical deterioration requiring escalation of care.",
+    "authors": [
+      "Li Da",
+      "Zhang Xiaosong",
+      "Wang Yusheng",
+      "Tang Hao",
+      "Huang He",
+      "Huang Xiaomin",
+      "Shi Hongyu",
+      "Xu Bin",
+      "Zhang Honggang"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-24",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "급성 중간-고위험 폐색전증 환자에서 혈관초음파(IVUS) 유도 기계적 혈전 제거술 대 디지털 감산 혈관조영술(DSA) 유도 기계적 혈전 제거술 비교: 전향적 무작위 배정 임상 연구",
+      "one_line": "본 연구는 급성 중간-고위험 폐색전증 환자에서 혈관초음파(IVUS) 유도 기계적 혈전 제거술이 디지털 감산 혈관조영술(DSA) 유도 기계적 혈전 제거술에 비해 우월한 효과를 보이는지 평가하기 위한 전향적 무작위 배정 임상 연구입니다.",
+      "design": "전향적, 무작위 배정, 대조군, 개방형 라벨, 종말점 가림(PROBE) 디자인, 다기관, 우월성 임상 연구",
+      "subjects": "18-75세, 중간-고위험 급성 폐색전증 환자, CTPA에서 RV/LV 비율 ≥ 0.9 (N 미상)",
+      "intervention": "혈관초음파(IVUS) 유도 기계적 혈전 제거술 (Tendvia System, Shanghai Tendvia Medical Devices Co., Ltd. 사용, Philips IVUS 시스템 하에 시행) 대 디지털 감산 혈관조영술(DSA) 유도 기계적 혈전 제거술 (Tendvia System 사용)",
+      "results": "주요 효능 지표는 시술 전 대비 48시간 후 RV/LV 비율 감소입니다. 주요 안전 지표는 시술 관련 사망, 주요 출혈, 치료 단계 상승을 필요로 하는 임상 악화 등을 포함하는 48시간 이내의 주요 악성 사건(MAEs) 복합 지표입니다. (구체적인 수치는 아직 발표되지 않음)",
+      "implication": "본 연구는 혈관초음파(IVUS) 유도 기계적 혈전 제거술이 디지털 감산 혈관조영술(DSA) 유도 기계적 혈전 제거술에 비해 급성 중간-고위험 폐색전증 환자의 치료에 더 효과적이고 안전한 접근법인지 평가하는 데 기여할 것으로 기대됩니다."
+    }
+  },
+  {
+    "pmid": "42637831",
+    "doi": "10.1007/s00270-026-04593-2",
+    "title": "Free-Hand Moving-Shot Transperineal Prostate Ablation: Beyond Technical Feasibility, the Question of Reproducible Delivery.",
+    "abstract": "",
+    "authors": [
+      "Manenti Guglielmo",
+      "Micillo Andrea",
+      "Walser Eric",
+      "Scimeca Manuel",
+      "Steffani Simone",
+      "Orecchia Luca"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-24",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42637830",
+    "doi": "10.1007/s00270-026-04586-1",
+    "title": "Safety and Efficacy of an Irreversible Electroporation System with Real-Time Electrical and Thermal Monitoring for Liver Tumors: A Bicentric Retrospective Study.",
+    "abstract": "PURPOSE: To assess the safety and efficacy of an irreversible electroporation (IRE) system integrating real-time electrical and thermal monitoring for liver tumor ablation. MATERIALS AND METHODS: This bicentric retrospective study included all consecutive patients treated with this device for primary or secondary liver tumors between April 2022 and August 2024. IRE was selected when surgery or thermal ablation was unsuitable. Patient, tumor and procedure characteristics-including voltage, amperage, interprobe distance, and maximal needle tip temperature-were recorded. Procedures were guided by CT, cone-beam CT or ultrasound. The protocol aimed for a \"plateau-current\" ≥30 A per needle pair while maintaining probe-tip temperature <50 °C near at-risk structures. Complications were classified using the CIRSE classification. Local tumor progression-free survival (LTPFS) was assessed by MRI every 3 months. RESULTS: 27 patients with 31 liver tumors (15 primary, 16 metastatic; mean diameter 17.9 mm) were treated using 3-6 electrodes. No grade ≥3 complications occurred. Median follow-up was 18.4 months; 6- and 12-month LTPFS rates were 87% and 79%. Interprobe distance >20 mm was associated with recurrence (HR=5.64, p=0.017). Mean peak temperature was 53.3 °C. In cirrhotic livers, mean current was higher (38.9 A vs 32.1 A, p=0.004) and peak temperature lower (49.4 °C vs 56.0 °C, p=0.024). CONCLUSION: This IRE system appears feasible for liver tumors ineligible for thermal ablation, with a favorable preliminary safety profile and encouraging local control. Real-time electrical and thermal monitoring might be an interesting asset to achieve standardization of IRE procedures.",
+    "authors": [
+      "Beunon Paul",
+      "Pescatori Lorenzo",
+      "Bonnet Baptiste",
+      "Sutter Olivier",
+      "Janvier Paul",
+      "Petit Arthur",
+      "Molango Timothée",
+      "Xhepa Genti",
+      "Deschamps Frédéric",
+      "Tselikas Lambros",
+      "Seror Olivier",
+      "de Baere Thierry"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-24",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "실시간 전기적 및 열적 모니터링을 통합한 비가역적 전기천공(IRE) 시스템의 간 종양 절제 안전성과 효능: 양 기관 후향적 연구",
+      "one_line": "본 연구는 실시간 전기적 및 열적 모니터링을 통합한 비가역적 전기천공(IRE) 시스템을 이용한 간 종양 절제 시 안전성과 효능이 우수함을 보여주며, 특히 간경변 환자에서 온도 조절이 중요하다는 점을 시사합니다.",
+      "design": "후향적 연구",
+      "subjects": "27명 환자, 31개 간 종양 (원발성 종양 15개, 전이성 종양 16개, 평균 직경 17.9 mm)",
+      "intervention": "비가역적 전기천공(IRE) 시스템 (3-6개의 전극 사용). 절제 대상은 수술 또는 열적 절제가 부적합한 경우로 선정. 절차는 CT, 콘빔 CT 또는 초음파로 유도하며, 바늘 간 거리 및 최대 바늘 끝 온도 모니터링을 통해 전류 ≥30 A/바늘 쌍을 유지하고 주변 위험 구조물 근처에서 바늘 끝 온도를 <50 °C로 유지하는 것을 목표로 함.",
+      "results": "심각한 합병증(grade ≥3)은 발생하지 않았음. 중앙 추적 기간은 18.4개월이었으며, 6개월 및 12개월 국소 종양 진행 없는 생존율(LTPFS)은 각각 87% 및 79%였음. 바늘 간 거리 >20 mm는 재발과 관련됨 (HR=5.64, p=0.017). 평균 최고 온도는 53.3 °C였으며, 간경변 환자의 경우 평균 전류는 38.9 A (대조군 32.1 A, p=0.004)로 높았고, 최고 온도는 49.4 °C (대조군 56.0 °C, p=0.024)로 낮았음.",
+      "implication": "실시간 전기적 및 열적 모니터링을 통합한 비가역적 전기천공(IRE) 시스템은 열적 절제가 불가능한 간 종양에 대해 안전하고 효과적인 치료 옵션이 될 수 있으며, 절차 표준화를 위한 중요한 자산이 될 수 있다. 특히 간경변 환자의 경우 온도 조절에 더욱 주의해야 한다."
+    }
+  },
+  {
+    "pmid": "42637829",
+    "doi": "10.1007/s00270-026-04584-3",
+    "title": "Quality Improvement Through Morbidity and Mortality Meetings in Interventional Radiology: A Retrospective Review.",
+    "abstract": "PURPOSE: To evaluate the role of morbidity and mortality (M&M) meetings in supporting quality improvement within interventional radiology (IR), by examining recommendations arising from meetings and their subsequent implementation. MATERIALS AND METHODS: A retrospective review of M&M meetings held between 2020 and 2023 within a multi-site IR service employing more than 20 consultant IRs. Cases were presented using a standardized format and open discussion encouraged. Meeting records were reviewed for procedure details, complications, morbidity or mortality and resulting recommendations. For analysis, cases were classified by their contributing factors and recommendations by their theme. Institutional guidelines and records were reviewed after at least a 12-month interval to determine whether recommendations had been successfully implemented, defined as documented adoption into institutional practice, such as protocol, policy or workflow changes. RESULTS: A total of 139 cases were discussed, yielding 70 recommendations, of which 45 (64.3%) were successfully implemented. Cases with a process-related contributing factor were more likely to result in a recommendation (85.7%, adjusted OR 20.6, 95%CI 3.3-127.6, p=0.001), compared to those with procedure, device, patient, anesthesia or other department-related factors. Recommendations related to department processes were the most frequent (45.7%), and the most likely to be implemented (87.5%, p<0.001) when compared to those related to procedural technique, clinical management, scholarly activity or inter-departmental initiatives. CONCLUSION: M&M meetings support identification and implementation of quality improvement measures in IR. A substantial proportion of cases discussed generate recommendations, of which a majority are subsequently implemented. Discussions related to process-related factors and recommendations for change in departmental processes are particularly productive.",
+    "authors": [
+      "Soh Nicholas Yock Teck",
+      "Tashi Sonam",
+      "Tan Bien Soo",
+      "Tan Alfred Bingchao",
+      "Leong Sum",
+      "Gogna Apoorva",
+      "Tan Alexander Sheng Ming",
+      "Png Nicholas Chen Yi",
+      "Wong Eu Jo Martin",
+      "Too Chow Wei",
+      "Irani Farah Gillan",
+      "Toh Luke Han Wei",
+      "Tay Kiang Hiong",
+      "Chandramohan Sivanathan"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-24",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "영상의학중재 분야의 사망 및 질병 검토 회의를 통한 질 개선: 후향적 검토",
+      "one_line": "본 연구는 영상의학중재(IR) 분야에서 사망 및 질병 검토 회의(M&M)가 질 개선을 지원하는 데 미치는 영향을 평가하고, 회의에서 도출된 권고 사항의 실행 가능성을 분석한 결과, 상당수의 권고 사항이 실행되어 질 개선에 기여함을 확인했습니다.",
+      "design": "후향적 검토 (Retrospective Review)",
+      "subjects": "대상: 2020년~2023년 다기관 영상의학중재 서비스의 20명 이상의 컨설턴트 IR (Interventional Radiologist) 참여, 총 139건의 사례 (N=139)",
+      "intervention": "사망 및 질병 검토 회의(M&M) 개최 및 표준화된 형식으로 사례 발표, 개방적인 토론 진행 후 권고 사항 도출. 12개월 이상의 간격을 두고 기관 지침 및 기록을 검토하여 권고 사항의 실행 여부 확인.",
+      "results": "총 139건의 사례가 논의되었으며, 70개의 권고 사항이 도출되었고, 이 중 45건 (64.3%)이 성공적으로 실행되었습니다. 프로세스 관련 요인이 기여한 사례는 그렇지 않은 사례보다 권고 사항 도출 가능성이 높았습니다 (조정된 OR 20.6, 95% CI 3.3-127.6, p=0.001). 부서 프로세스 관련 권고 사항이 가장 빈번하게 나타났으며 (45.7%), 절차적 기법, 임상 관리, 학술 활동 또는 부서 간 이니셔티브 관련 권고 사항보다 실행 가능성이 높았습니다 (p<0.001).",
+      "implication": "영상의학중재 분야에서 질 개선 조치를 식별하고 실행하는 데 사망 및 질병 검토 회의(M&M)가 효과적입니다. 특히 프로세스 관련 요인에 대한 논의와 부서 프로세스 변경에 대한 권고 사항이 질 개선에 기여도가 높습니다."
+    }
+  },
+  {
+    "pmid": "42637828",
+    "doi": "10.1007/s00270-026-04585-2",
+    "title": "Building the Evidence Base for Pediatric Interventional Oncology Through Multi-institutional Retrospective Collaboration: A Call to Action.",
+    "abstract": "",
+    "authors": [
+      "Fung Kin Fen Kevin",
+      "Acord Michael R",
+      "Aguado Allison",
+      "Gasparetto Alessandro",
+      "Gill Anne",
+      "Munoz Fernando Gomez",
+      "Patel Premal A",
+      "Runge Jurgen H",
+      "Sinsabaugh Christopher",
+      "Barnacle Alex",
+      "McGuirk Simon P",
+      "Temple Michael"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-24",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42637827",
+    "doi": "10.1007/s00270-026-04565-6",
+    "title": "Interventional Radiology in the Management of Breast Cancer: Current Role and Future Directions.",
+    "abstract": "BACKGROUND: Breast cancer is an exceptionally common yet heterogenous malignancy, that requires cautious treatment planning through interdisciplinary communication. In this ever-evolving field, a variety of image-guided treatments are arising as promising adjuncts-or even alternatives-to conventional therapies in both early and metastatic disease. PURPOSE: In this article, we aim to briefly review the status of evidence regarding the safety and clinical outcomes of image-guided ablation in early-stage and oligometastatic breast cancer as well as the role of intra-arterial techniques in high-volume metastatic disease. RESULTS: Compelling prospective data support primary tumor ablation as an effective option, offering high rates of complete tumor eradication and low incidence of recurrence. The use of locoregional therapies in metastatic breast cancer, with the goal of local tumor control or even radical therapy, is emerging as a viable option in carefully selected patients; however, available data remain disparate, and further high-quality trials are warranted. CONCLUSION: In line with current and ongoing clinical trials, minimally invasive techniques-especially for elderly and frail individuals-represent practical solutions associated with reduced treatment-related morbidity, faster recovery times, improved patient satisfaction, and quality of life.",
+    "authors": [
+      "Plastira Christina",
+      "Panourgias Evangelia",
+      "Chatziioannou Achilleas",
+      "Krokidis Miltiadis"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-24",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "유방암 관리에서 인터벤션 영상의학의 역할: 현재 상태 및 미래 방향",
+      "one_line": "본 논문은 유방암 초기 및 전이성 질환에서 영상 유도적 절제술 및 동맥내 시술의 안전성, 임상 결과, 그리고 미래 방향을 요약한다.",
+      "design": "문헌 고찰 (Literature Review)",
+      "subjects": "특정 N수 언급 없음 (다양한 임상 시험 및 연구 결과 종합)",
+      "intervention": "초기 유방암: 영상 유도적 절제술(Image-Guided Ablation). 전이성 유방암: 국소-지역적 치료(Locoregional Therapies), 동맥내 시술(Intra-arterial Techniques)",
+      "results": "초기 유방암에서 영상 유도적 절제술은 완전 종양 제거율이 높고 재발률이 낮다는 전향적 데이터(Prospective Data)가 존재한다. 전이성 유방암에서 국소 종양 조절 또는 뿌리 뽑기 치료를 목표로 하는 국소-지역적 치료는 특정 환자군에서 유효한 선택지가 될 수 있지만, 데이터는 일관되지 않으며 추가적인 고품질 임상 시험이 필요하다. 최소 침습적 기법은 특히 노인 및 허약 환자에게 치료 관련 합병증 감소, 빠른 회복, 환자 만족도 향상, 삶의 질 개선 등의 실용적인 해결책을 제공한다.",
+      "implication": "영상 유도적 절제술 및 동맥내 시술은 유방암 치료의 보조적 또는 대체적 치료법으로서의 가능성을 보여주며, 특히 노인 및 허약 환자에게 효과적인 치료 옵션이 될 수 있다. 향후 고품질 임상 시험을 통해 더 많은 데이터를 확보하고 치료 효과를 입증해야 한다."
+    }
+  },
+  {
+    "pmid": "42618659",
+    "doi": "10.1007/s00270-026-04570-9",
+    "title": "Comparative Efficacy of Endovascular Interventions for Peripheral Artery Disease: A Systematic Review and Network Meta-Analysis.",
+    "abstract": "PURPOSE: To compare the long-term efficacy of percutaneous transluminal angioplasty (PTA), bare-metal stents (BMS), drug-coated balloons (DCB), and drug-eluting stents (DES) for femoropopliteal peripheral artery disease (PAD). MATERIALS AND METHODS: A systematic review and network meta-analysis (NMA) of randomized controlled trials (RCTs) comparing BMS, DES, DCB, and PTA for femoropopliteal PAD was performed. MEDLINE, Embase, Cochrane Central Register of Controlled Trials, and INAHTA were searched from inception to February 2024. Primary outcomes were target lesion revascularization (TLR) and primary patency. Odds ratios (ORs) with 95% confidence intervals (CIs) were calculated. RESULTS: Thirty-three RCTs involving 7132 participants were included. At 12 months, DCB (OR: 0.27 [95% CI 0.19-0.38]), BMS (OR: 0.28 [95% CI 0.14-0.56]), and DES (OR: 0.30 [95% CI 0.14-0.62]) reduced the odds of TLR compared with PTA. Similar reductions were observed at 24 months. At 36 months, DCB (OR: 0.50 [95% CI 0.25-0.97]) and DES (OR: 0.33 [95% CI 0.14-0.75]) reduced the odds of TLR compared with PTA. Primary patency followed a comparable trend, with DES producing the highest odds of patency at 12 months (OR: 3.81 [95% CI 2.21-6.57]), followed by DCB and BMS compared to PTA, and all three remained significant through 36 months. CONCLUSIONS: For femoropopliteal PAD, DES, DCB, and BMS reduced the odds of TLR and improved the odds of primary patency compared with PTA. Drug-based technologies showed the most durable efficacy signal; however, long-term DES estimates should be interpreted cautiously because direct DES-versus-PTA evidence was sparse and several comparisons relied on indirect evidence. LEVEL OF EVIDENCE: Level 1, Systematic Reviews.",
+    "authors": [
+      "Williams Abimbola O",
+      "Nzube Ifediba",
+      "Filipe Luis",
+      "Janke Katharina"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-19",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "말초동맥질환(Peripheral Artery Disease)에 대한 혈관내 중재술의 효능 비교: 체계적 검토 및 네트워크 메타분석",
+      "one_line": "대퇴-비골부(femoropopliteal) 말초동맥질환(PAD) 환자에서 경피적 혈관 확장술(PTA), 금속스텐트(BMS), 약물 코팅 풍선(DCB), 약물 방출 스텐트(DES)의 장기적인 효능을 비교한 결과, 약물 기반 기술이 더 우수한 결과를 보였으나, DES의 장기적인 효과는 신중하게 해석해야 한다.",
+      "design": "체계적 검토 및 네트워크 메타분석(NMA)",
+      "subjects": "33개의 무작위 배정 임상 시험(RCT), 총 7132명",
+      "intervention": "경피적 혈관 확장술(PTA) vs. 금속스텐트(BMS) vs. 약물 코팅 풍선(DCB) vs. 약물 방출 스텐트(DES) (대퇴-비골부 PAD)",
+      "results": "12개월 시점에서 약물 코팅 풍선(DCB) (OR: 0.27 [95% CI 0.19-0.38]), 금속스텐트(BMS) (OR: 0.28 [95% CI 0.14-0.56]), 약물 방출 스텐트(DES) (OR: 0.30 [95% CI 0.14-0.62])는 경피적 혈관 확장술(PTA)에 비해 표적 병변 재관혈(TLR)의 위험을 감소시켰습니다. 24개월 및 36개월 시점에서도 유사한 경향이 관찰되었습니다. 36개월 시점에서 약물 코팅 풍선(DCB) (OR: 0.50 [95% CI 0.25-0.97]) 및 약물 방출 스텐트(DES) (OR: 0.33 [95% CI 0.14-0.75])는 경피적 혈관 확장술(PTA)에 비해 표적 병변 재관혈(TLR)의 위험을 감소시켰습니다. 1차 개통률(primary patency)은 약물 방출 스텐트(DES)가 12개월 시점에서 가장 높은 개통률(OR: 3.81 [95% CI 2.21-6.57])을 보였으며, 이후 약물 코팅 풍선(DCB) 및 금속스텐트(BMS)가 경피적 혈관 확장술(PTA)에 비해 유의미한 결과를 보였고, 36개월까지 지속되었습니다.",
+      "implication": "대퇴-비골부 말초동맥질환(PAD) 환자에서 약물 방출 스텐트(DES), 약물 코팅 풍선(DCB), 금속스텐트(BMS)는 경피적 혈관 확장술(PTA)에 비해 표적 병변 재관혈(TLR) 위험을 감소시키고 1차 개통률을 향상시켰습니다. 약물 기반 기술이 더 우수한 결과를 보였으나, 약물 방출 스텐트(DES)의 장기적인 효과는 직접적인 비교 증거가 부족하므로 신중하게 해석해야 합니다."
+    }
+  },
+  {
+    "pmid": "42618658",
+    "doi": "10.1007/s00270-026-04572-7",
+    "title": "Modified Ipsilateral Crossover Deployment of an Iliac Branch Endoprosthesis for Late Type Ib Endoleak in Hostile Access.",
+    "abstract": "",
+    "authors": [
+      "Huang Yipeng",
+      "Tang Hanfei",
+      "Tang Xiao",
+      "Li Minhui",
+      "Qi Xiaotong",
+      "Zhu Kaisheng",
+      "Guo Daqiao"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-19",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42618657",
+    "doi": "10.1007/s00270-026-04580-7",
+    "title": "Virtual Reality as an Anxiolytic and Analgesic in Interventional Radiology Procedures: An Evidence-Based Review and Practical Framework.",
+    "abstract": "PURPOSE: To evaluate the clinical efficacy, mechanisms, and feasibility of immersive virtual reality (VR) as a non-pharmacological anxiolytic and analgesic in interventional radiology (IR). METHODS: A literature search for a narrative review was conducted on June 7, 2026, across MEDLINE, EMBASE, and Web of Science. Prospective pilot studies and randomized controlled trials that evaluated VR as an intraprocedural anxiolytic or analgesic modality during percutaneous or endovascular interventions were included. RESULTS: Analysis of 9 clinical trials demonstrated substantial reductions in procedural distress. In a randomized controlled trial involving 120 patients undergoing peripheral arterial angioplasty, VR was associated with significant improvements in patient-reported intraprocedural pain (visual analog scale: 6.23 ± 0.91 vs. 8.03 ± 0.94; p < 0.001) and anxiety (State-Trait Anxiety Inventory-6-Item: 47.60 ± 7.42 vs. 67.97 ± 9.95; p  < 0.001). Furthermore, combining VR with guided breathing during percutaneous transhepatic biliary drainage reduces post-procedural opioid consumption (20.25 vs. 56.61 morphine milligram equivalents, p = 0.044). CONCLUSIONS: VR is an effective, sedation-sparing digital tool for short, simple IR procedures. Application in complex, long endovascular cases remains investigational.",
+    "authors": [
+      "Alowami Moaz",
+      "Khan Dhanyal",
+      "Siddiqui Ashar",
+      "Mironov Oleg",
+      "Mahmood Syed Umair"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-19",
+    "journal": "CVIR",
+    "is_interest": true,
+    "interest_category": "nonvascular",
+    "summary": {
+      "title_ko": "영상의학 시술 시 불안 완화 및 통증 감소를 위한 가상현실(VR)의 효과: 증거 기반 검토 및 실용적 프레임워크",
+      "one_line": "본 연구는 영상의학 시술 시 가상현실(VR)이 비약물적 불안 완화 및 통증 감소에 효과적이며, 진정제 사용을 줄일 수 있음을 시사합니다.",
+      "design": "체계적 문헌 검토 (Narrative Review)",
+      "subjects": "9개의 임상 시험 (총 환자 수 불명, RCT 포함)",
+      "intervention": "가상현실(Virtual Reality, VR) 적용 (단독 또는 호흡법과 병행)",
+      "results": "가상현실(VR) 적용은 시술 중 고통 감소를 유의하게 나타냈습니다. 말초 동맥 풍선 확장술(Peripheral Arterial Angioplasty)을 받은 120명의 환자를 대상으로 한 무작위 배정 대조군 연구(Randomized Controlled Trial, RCT)에서, 시술 중 통증(시각 아날로그 척도, Visual Analog Scale, VAS: 6.23 ± 0.91 vs. 8.03 ± 0.94; p < 0.001) 및 불안(State-Trait Anxiety Inventory-6-Item, STAI-6: 47.60 ± 7.42 vs. 67.97 ± 9.95; p < 0.001)이 모두 유의하게 감소했습니다. 경피적 담관 배액술(Percutaneous Transhepatic Biliary Drainage, PTBD) 시 가상현실(VR)과 호흡법을 병행하면 수술 후 오피오이드(Opioid) 사용량 감소 (20.25 vs. 56.61 모르핀 밀리그램 환산량, Morphine Milligram Equivalents, MME; p = 0.044)를 보였습니다.",
+      "implication": "가상현실(VR)은 영상의학 시술 시 비약물적 불안 완화 및 통증 감소를 위한 효과적인 도구로 활용될 수 있습니다.",
+      "detailed_results": "9개의 임상 시험에서 시술 중 고통 감소 효과가 확인되었으며, 특히 말초 동맥 풍선 확장술(Peripheral Arterial Angioplasty) RCT에서 통증 및 불안 감소 효과가 뚜렷했습니다. 경피적 담관 배액술(Percutaneous Transhepatic Biliary Drainage, PTBD) 시 가상현실(VR)과 호흡법 병행 시 오피오이드(Opioid) 사용량 감소 효과가 관찰되었습니다.  합병증 및 추적 기간에 대한 정보는 제공되지 않았습니다.",
+      "critique": "본 연구는 문헌 검토(Narrative Review) 방식으로 진행되었으며, 연구 디자인의 이질성으로 인해 결과 해석에 제한이 있을 수 있습니다. 복잡하고 긴 혈관 내 시술(Endovascular Procedures)에서의 가상현실(VR) 적용은 추가적인 연구가 필요합니다.",
+      "clinical_application": "단시간, 비교적 간단한 영상의학 시술(예: 말초 동맥 풍선 확장술(Peripheral Arterial Angioplasty)) 시 불안 완화 및 통증 감소를 위해 가상현실(VR)을 활용할 수 있습니다. 환자의 편안함을 증진하고 진정제 사용을 줄이는 데 기여할 수 있습니다.  경피적 담관 배액술(Percutaneous Transhepatic Biliary Drainage, PTBD)과 같은 시술 시 호흡법과 병행하면 오피오이드(Opioid) 사용량 감소 효과를 기대할 수 있습니다."
+    }
+  },
+  {
+    "pmid": "42618656",
+    "doi": "10.1007/s00270-026-04551-y",
+    "title": "Ultrasound-Guided Percutaneous Cryoneurolysis for Refractory Lower-Limb Spasticity in Upper Motor Neuron Disorders: A Retrospective Case Series.",
+    "abstract": "PURPOSE: To evaluate the safety, technical feasibility, and short- to medium-term clinical effectiveness of ultrasound-guided percutaneous cryoneurolysis in patients with refractory lower-limb spasticity secondary to upper motor neuron (UMN) disorders. MATERIALS AND METHODS: This single-centre retrospective case series included consecutive patients with chronic, severe lower-limb spasticity [Modified Ashworth Scale (MAS) ≥ 3] refractory to oral antispasmodics and/or botulinum toxin injection, all of whom had prior positive diagnostic perineural blocks. Cryoneurolysis was performed under real-time ultrasound guidance using a cryoprobe cooled to a nominal probe-tip set-point of - 90 °C, with a standardised 5-min freeze/5-min thaw/5-min freeze protocol. Perineural dexamethasone (4 mg) was administered at the end of each procedure. Outcomes were assessed at baseline, 3 months, and 9 months and included the MAS, a 0-10 Visual Analogue Scale (VAS) for pain, joint range of motion, and clinician-rated functional performance. Technical success was defined a priori as accurate sonographic nerve targeting with concordant motor response. Clinical success was defined as a ≥ 1-point reduction in MAS with concurrent functional improvement. RESULTS: Four patients (three men, one woman; median age 27 years, range 25-30; spinal cord injury n = 2, cerebral palsy n = 1, traumatic brain injury n = 1) underwent ten nerve-level cryoneurolysis interventions. Technical success was achieved in all procedures (10/10; 100%). Clinical success was observed in 3/4 patients (75%) and in 7/10 treated nerves (70%) at 3 months and was sustained or further improved at 9 months in all responders, with no need for re-treatment during the 3-9-month interval. Median limb-level MAS decreased from 3.3 (range 2.0-4.0) at baseline to 2.3 (range 1.0-3.5) at 3 months and to 1.5 (range 0.5-3.5) at 9 months. Two patients (P1 and P3) reported progressive pain reduction (VAS decrease of approximately 10-50% at 3 months and 35-70% at 9 months). Functional gains observed at 3 months-including improved transfers, sitting balance, mobility, and independence in activities of daily living-were sustained at 9 months. One patient did not improve at either time point; cross-sectional imaging subsequently demonstrated fixed contracture and muscle atrophy. No procedure-related complications were recorded through 9 months of follow-up. CONCLUSION: Ultrasound-guided percutaneous cryoneurolysis was technically feasible and safe, and produced clinically meaningful short- and medium-term reductions in spasticity with associated functional gains that were sustained at 9 months in all responders without re-treatment. The technique warrants prospective, adequately powered evaluation, ideally incorporating validated patient-reported outcomes and longer follow-up. LEVEL OF EVIDENCE: Level 4, retrospective case series.",
+    "authors": [
+      "Bauones Salem",
+      "Alreshidi Meshael",
+      "Alawaji Aliya",
+      "Hassan Alameer",
+      "Cazzato Roberto L",
+      "Alsaadi Mohammed J"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-19",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "상위 운동 뉴런 질환으로 인한 난치성 하지 경직 환자의 초음파 유도 경피 냉동신경절제술에 대한 후향적 증례 연구",
+      "one_line": "본 연구는 초음파 유도 경피 냉동신경절제술이 난치성 하지 경직 환자에게 안전하고 효과적이며, 단기 및 중기적으로 기능적 개선을 가져올 수 있음을 시사합니다.",
+      "design": "후향적 증례 연구",
+      "subjects": "4명의 환자 (남성 3명, 여성 1명, 중앙값 연령 27세, 범위 25-30세, 척수 손상 2명, 뇌성 마비 1명, 외상성 뇌 손상 1명), 총 10회 신경 레벨 냉동신경절제술 시행",
+      "intervention": "초음파 유도 경피 냉동신경절제술 (Cryoneurolysis): -90 °C의 냉동 프로브를 사용하여 5분 냉동/5분 해동/5분 냉동 프로토콜 적용, 각 시술 종료 시 경막 내 덱사메타손(4 mg) 투여",
+      "results": "기술적 성공률 100% (10/10). 3개월 시점에서 임상적 성공률 3/4명 (75%) 및 7/10 신경 (70%).  사지 레벨 수정된 애슈워스 척도(MAS)는 기준 3.3 (범위 2.0-4.0)에서 3개월 시점 2.3 (범위 1.0-3.5)으로, 9개월 시점 1.5 (범위 0.5-3.5)으로 감소. 두 명의 환자(P1, P3)에서 시각 통증 척도(VAS) 감소 약 10-50% (3개월), 35-70% (9개월) 관찰. 기능적 개선은 3개월 시점에서 관찰 후 9개월 시점까지 유지됨. 한 명의 환자는 개선이 없었고, 횡단면 영상 검사에서 고정된 수축 및 근육 위축 확인. 시술 관련 합병증 없음.",
+      "implication": "초음파 유도 경피 냉동신경절제술은 난치성 하지 경직 환자의 단기 및 중기적인 경직 감소 및 기능적 개선에 효과적이며, 추가적인 치료 없이 9개월까지 효과가 지속될 수 있습니다. 향후 더 많은 환자를 대상으로 한 전향적 연구와 환자 보고 결과, 장기 추적 관찰을 포함한 연구가 필요합니다."
+    }
+  },
+  {
+    "pmid": "42618655",
+    "doi": "10.1007/s00270-026-04579-0",
+    "title": "Pain Scores are not Enough: Depression, Anxiety, and Patient-Perceived Treatment Response in Venous-Origin Chronic Pelvic Pain.",
+    "abstract": "",
+    "authors": [
+      "Khilnani Neil M"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-19",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42618654",
+    "doi": "10.1007/s00270-026-04550-z",
+    "title": "Curative-Intent Cryoablation for Bone Metastases: Study Protocol for BOREALIS, a Prospective Multicentre Observational Investigation.",
+    "abstract": "PURPOSE: Cryoablation (CA) is a well-established, safe and effective palliative treatment for painful bone metastases (BM). Data exploring its curative potential (i.e. radical clearing of the target lesion) is however very scarce, mostly coming from small retrospective studies. The BOne metastases REgistry for patients undergoing cryoAbLation with curatIve purpoSe (BOREALIS) aims to address this shortcoming by collecting prospective, multicentric real-world data on the outcomes of curative-intent CA for bone metastases. METHODS: BOREALIS is an observational cohort study designed to follow for 1 year up to 50 participants with BM (< 5 cm) from oligometastatic or bone oligo-progressive disease treated with curative-intent CA. The primary outcome measure is the 12-months local progression-free survival rate, assessed per lesion using the newly developed BOREALIS tumour response criteria. Secondary outcome measures include complete response rate, fracture-free, progression-free, and overall survival; safety; patient-reported pain; and health-related quality of life (HRQoL). The study will also evaluate the feasibility of a comprehensive procedure integrating, when indicated, biopsy and bone consolidation within the same CA session. Results will be reported using mainly descriptive statistics. Patient enrolment opened in April 2025. CONCLUSION: BOREALIS intends to provide insights into the effectiveness of curative-intent CA for BM to inform the development of future clinical guidelines. BOREALIS is registered on ClinicalTrial.gov (NCT06480955).",
+    "authors": [
+      "Cazzato Roberto Luigi",
+      "Buy Xavier",
+      "Gomez Fernando",
+      "Deschamps Frederic",
+      "Arnold Dirk",
+      "Filippiadis Dimitrios",
+      "Jennings Jack",
+      "Schaefer Niklaus",
+      "Schneegans Olivier",
+      "Tsoumakidou Georgia",
+      "Zeka Bleranda",
+      "Poulet Claire",
+      "Kaufmann Nathalie",
+      "Palussiere Jean",
+      "Gangi Afshin"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-19",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "뼈 전이 병변에 대한 치료적 의도를 가진 동결 치료: BOREALIS, 전향적 다기관 관찰 연구 프로토콜",
+      "one_line": "본 연구는 치료적 의도를 가진 동결 치료(Cryoablation, CA)를 받은 뼈 전이(Bone Metastases, BM) 환자의 결과를 평가하여, 향후 임상 지침 개발에 기여하고자 하는 전향적 다기관 관찰 연구입니다.",
+      "design": "전향적 다기관 관찰 연구 (Prospective Multicentre Observational Study)",
+      "subjects": "최대 50명의 뼈 전이 환자 (BM, 크기 < 5cm) - oligometastatic 또는 bone oligo-progressive 질환 환자",
+      "intervention": "치료적 의도를 가진 동결 치료 (Curative-Intent Cryoablation, CA). 필요시 생검 및 뼈 고정술을 통합하는 절차 가능성 평가.",
+      "results": "주요 결과 지표는 12개월 국소 진행 없는 생존율(local progression-free survival rate)이며, 새로 개발된 BOREALIS 종양 반응 기준에 따라 평가됩니다. 이차 결과 지표는 완전 반응률(complete response rate), 골절 없는 생존율(fracture-free survival), 무진행 생존율(progression-free survival), 전체 생존율(overall survival), 안전성, 환자가 보고한 통증, 건강 관련 삶의 질(Health-Related Quality of Life, HRQoL) 등을 포함합니다. 결과는 주로 기술 통계(descriptive statistics)를 사용하여 보고될 예정입니다.",
+      "implication": "본 연구는 치료적 의도를 가진 동결 치료의 효과에 대한 이해를 높여 향후 임상 지침 개발에 기여할 것으로 예상됩니다. ClinicalTrial.gov (NCT06480955)에 등록되어 있습니다."
+    }
+  },
+  {
+    "pmid": "42595799",
+    "doi": "10.1007/s00270-026-04581-6",
+    "title": "Ion Robotic Bronchoscopy-Guided Microwave Ablation Under Augmented Fluoroscopy: An Initial Case Series and Comparative Procedural Workflow Analysis.",
+    "abstract": "PURPOSE: Bronchoscopic microwave ablation (MWA) is an emerging therapy for peripheral pulmonary lesions. Clinical cohorts evaluating the Ion robotic-assisted bronchoscopy (RAB) system for MWA remain lacking. We report our initial prospective experience with Ion RAB-guided MWA using an augmented fluoroscopy (AF) workflow, benchmarked against a historical electromagnetic navigation bronchoscopy (ENB) cohort. MATERIALS AND METHODS: This prospective single-center cohort study evaluated 21 consecutive patients prospectively enrolled to undergo microwave ablation (MWA) for peripheral pulmonary lesions using the Ion RAB system (25 lesions) between January 1, 2025, and January 1, 2026, and benchmarked these outcomes against a retrospectively established historical cohort of 42 consecutive ENB-guided MWA procedures (51 lesions) performed at the same center under an augmented fluoroscopy (AF) strategy. The primary endpoint was postoperative day 1 (POD1) technical success. Secondary endpoints included 6-month treatment success, navigation/total workflow times, cone-beam CT (CBCT) acquisitions, radiation dose, and complications. RESULTS: POD1 technical success was 100% (21/21) for RAB and 92.9% (39/42) for ENB (p = 0.545). At 6 months, treatment success was 100% (21/21) vs. 90.5% (38/42), respectively (p = 0.292). Benchmarked against ENB, RAB significantly reduced median navigation time (2 vs 28.5 min, p < 0.001), total workflow time (75 vs 128 min, p < 0.001), and CBCT acquisitions (2 vs 4, p < 0.001). Consequently, median radiation dose was significantly lower for RAB (118 vs 215 mGy, p < 0.001). Complication rates were 4.8% and 7.1%. CONCLUSION: Ion RAB-guided MWA under AF is feasible and safe. This RAB workflow ensures precise ablation while offering superior efficiency and substantially reducing patient radiation exposure.",
+    "authors": [
+      "Xu Yuan",
+      "Guo Chao",
+      "Qin Yingzhi",
+      "Li Hui",
+      "Xu Chen",
+      "Wang Huizhen",
+      "Wu Lingeer",
+      "Liu Qianshu",
+      "Zhao Zhewei",
+      "Ma Dongjie",
+      "Li Shanqing",
+      "Liu Hongsheng"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-13",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "아이언 로봇 기관경하 마이크로파 응고술(Microwave Ablation) 하에서 증강형 형광촬영(Augmented Fluoroscopy)을 이용한 초기 증례 보고 및 비교적 절차 흐름 분석",
+      "one_line": "아이언 로봇 기관경하 마이크로파 응고술은 기존 전자기 내비게이션 기관경하(Electromagnetic Navigation Bronchoscopy, ENB) 방식에 비해 절차 시간 단축, 방사선 노출 감소 등의 장점을 보이는 것으로 나타났다.",
+      "design": "전향적 단일 중심 코호트 연구 (Prospective Single-Center Cohort Study)",
+      "subjects": "아이언 로봇 기관경하 마이크로파 응고술(Ion RAB-guided MWA)을 받은 환자 21명 (병변 25개) vs. 전자기 내비게이션 기관경하(ENB)-guided MWA를 받은 환자 42명 (병변 51개)",
+      "intervention": "아이언 로봇 기관경하 마이크로파 응고술(Ion RAB-guided Microwave Ablation, MWA) vs. 전자기 내비게이션 기관경하(Electromagnetic Navigation Bronchoscopy, ENB)-guided MWA",
+      "results": "아이언 로봇 기관경하(RAB)의 수술 후 1일째(POD1) 기술적 성공률은 100% (21/21)였으며, ENB는 92.9% (39/42)였다 (p = 0.545). 6개월 치료 성공률은 RAB가 100% (21/21)였고, ENB는 90.5% (38/42)였다 (p = 0.292). RAB는 ENB에 비해 탐색 시간(2 vs 28.5분, p < 0.001), 전체 작업 흐름 시간(75 vs 128분, p < 0.001), 콘빔 CT(Cone-Beam CT, CBCT) 획득 횟수(2 vs 4, p < 0.001)를 유의하게 감소시켰으며, 방사선량 또한 유의하게 낮았다 (118 vs 215 mGy, p < 0.001). 합병증 발생률은 RAB가 4.8%, ENB가 7.1%였다.",
+      "implication": "아이언 로봇 기관경하 마이크로파 응고술은 안전하고 효과적인 치료 방법이며, 기존 전자기 내비게이션 기관경하 방식에 비해 효율성이 높고 방사선 노출을 줄일 수 있다. 따라서 말초 폐 병변의 치료에 있어 유망한 옵션이 될 수 있다."
+    }
+  },
+  {
+    "pmid": "42587112",
+    "doi": "10.1007/s00270-026-04574-5",
+    "title": "Invited Commentary on the CIRSE Position Statement on Sustainability in Interventional Radiology.",
+    "abstract": "",
+    "authors": [
+      "Ryan Anthony G"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-12",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42576092",
+    "doi": "10.1007/s00270-026-04542-z",
+    "title": "CIRSE Launches \"Access to Care\" Initiative to Strengthen Interventional Radiology Access in Africa and Eastern Europe.",
+    "abstract": "",
+    "authors": [
+      "Pereira Philippe L",
+      "Vidal Vincent",
+      "Binkert Christoph A",
+      "Slijepčević Birgit",
+      "Gaupp Fabian M Laage"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-10",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42576091",
+    "doi": "10.1007/s00270-026-04568-3",
+    "title": "Personalizing Bone Tumor Ablation: Decision Models from the University Hospital of Strasbourg.",
+    "abstract": "PURPOSE: To describe the clinical decision-making underlying the selection of the percutaneous ablation modality for bone tumors. MATERIALS AND METHODS: Two experienced interventional radiologists designed in consensus a model for ablation modality selection. Consecutive patients with primary and metastatic bone tumors were retrospectively identified. Demographic, clinical, and imaging data were collected for each tumor. The dataset was randomly divided into a training set (618/926 tumors; 66.7%) and a test set (308/926 tumors; 33.3%). A decision-tree model derived from the training set and the model proposed by the experts were both verified on the test set. Models' performance was assessed. RESULTS: The decision-tree and the experts-based models achieved comparable accuracy (81.8% vs. 80.5%; p = 0.493). For cryoablation, the experts-based model demonstrated significantly higher sensitivity (94.0% vs. 87.5%, p = 0.008), whereas the decision-tree model showed significantly higher specificity (79.3% vs. 69.3%, p = 0.001). For radiofrequency ablation, the decision-tree model exhibited substantially higher sensitivity (35.8% vs. 7.5%, p < 0.001), while the experts-based model had higher specificity (98.4% vs. 93.7%, p = 0.004). Performance for interstitial laser ablation was comparable between the two models, with no significant differences in sensitivity (98.8% vs. 98.9%, p = 1) and specificity (94.1% vs. 95.0%, p = 0.500). CONCLUSION: The experts-derived and the decision-tree models demonstrated comparable overall accuracy despite relying on the different decision-making. Prospective multicenter studies are required to determine which of these two approaches is more suited for implementation in clinical practice.",
+    "authors": [
+      "Cazzato Roberto Luigi",
+      "Severac Francois",
+      "Steffen Dominik A",
+      "Mandolini Matilde",
+      "Orkut Sinan",
+      "Gangi Afshin"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-10",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "골종양 절제 시술 선택을 위한 의사 결정 모델: 스트라스부르 대학병원 연구",
+      "one_line": "본 연구는 골종양 절제 시술(percutaneous ablation) 선택 시 전문가 기반 모델과 의사결정 트리 모델의 성능을 비교 분석하여, 두 모델 모두 유사한 정확도를 보였으며, 특정 시술(동결치료(cryoablation), 고주파치료(radiofrequency ablation))에 따라 민감도(sensitivity)와 특이도(specificity)에서 차이를 보였다.",
+      "design": "후향적 연구(Retrospective study)",
+      "subjects": "원발성 및 전이성 골종양 환자 총 926례 (Training set: 618례, Test set: 308례)",
+      "intervention": "동결치료(cryoablation), 고주파치료(radiofrequency ablation), 간헐 레이저 치료(interstitial laser ablation)를 포함한 경피적 절제술(percutaneous ablation)",
+      "results": "전체 정확도(overall accuracy)는 의사결정 트리 모델(81.8%)과 전문가 기반 모델(80.5%) 간에 유사하게 나타났으며, p = 0.493으로 통계적으로 유의하지 않았음. 동결치료(cryoablation)의 경우, 전문가 기반 모델의 민감도(94.0%)가 의사결정 트리 모델(87.5%)보다 유의하게 높았고(p = 0.008), 의사결정 트리 모델의 특이도(79.3%)가 전문가 기반 모델(69.3%)보다 유의하게 높았음(p = 0.001). 고주파치료(radiofrequency ablation)의 경우, 의사결정 트리 모델의 민감도(35.8%)가 전문가 기반 모델(7.5%)보다 유의하게 높았고(p < 0.001), 전문가 기반 모델의 특이도(98.4%)가 의사결정 트리 모델(93.7%)보다 유의하게 높았음(p = 0.004). 간헐 레이저 치료(interstitial laser ablation)의 경우, 두 모델 간의 민감도(98.8% vs. 98.9%, p = 1) 및 특이도(94.1% vs. 95.0%, p = 0.500)는 유사하게 나타남.",
+      "implication": "골종양 절제 시술 선택을 위한 의사결정 모델은 전문가 기반 모델과 의사결정 트리 모델 모두 유효하며, 임상 현장에서 적용하기 위한 최적의 접근법을 결정하기 위해서는 전향적 다기관 연구(prospective multicenter studies)가 필요하다."
+    }
+  },
+  {
+    "pmid": "42576090",
+    "doi": "10.1007/s00270-026-04576-3",
+    "title": "Colovenous Fistula as a Late Complication of Conservatively Managed Diverticulitis: Imaging Findings and Treatment Considerations.",
+    "abstract": "",
+    "authors": [
+      "Lim Jeremy Cher Chuen",
+      "Tan Zhi Yong",
+      "Tai Ket Sang",
+      "Wadhwani Sharan"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-10",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42552284",
+    "doi": "10.1007/s00270-026-04569-2",
+    "title": "Acute Kidney Injury, Vascular Complications, and Deaths after Hepatic Malignancy Histotripsy: An Analysis of FDA MAUDE Database Reports.",
+    "abstract": "",
+    "authors": [
+      "Iqbal Talha",
+      "Ayaz Shawal",
+      "Klair Ayefa Naveed",
+      "Javed Dawood"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-04",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42552283",
+    "doi": "10.1007/s00270-026-04567-4",
+    "title": "Are We Training Interventional Radiologists for Today's Needs or Yesterday's Reality?",
+    "abstract": "",
+    "authors": [
+      "Heymann Greicy",
+      "Lojo-Lendoiro Sara"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-04",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42552282",
+    "doi": "10.1007/s00270-026-04562-9",
+    "title": "Endoscopic Suture Fixation of an Esophageal Stent after Combined Interventional Radiology-Endoscopy Rendezvous for a Non-Traversable Iatrogenic Esophageal Perforation.",
+    "abstract": "",
+    "authors": [
+      "Akhras Aya",
+      "Wahood Waseem",
+      "Viradia Neal",
+      "Barkin Jodie A",
+      "Coldwell Douglas M",
+      "Del Pilar Bayona Molano Maria"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-04",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42567951",
+    "doi": "10.1007/s00270-026-04575-4",
+    "title": "Musculoskeletal Embolization: Are We Witnessing Evidence-Based Progress or Evidence-Limited Enthusiasm?",
+    "abstract": "",
+    "authors": [
+      "Loffroy Romaric"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-07",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42567950",
+    "doi": "10.1007/s00270-026-04573-6",
+    "title": "Seeing Intracranial in-Stent Restenosis Before it Happens: What Baseline Vessel Wall Imaging Can-and Can't-Tell Us Yet.",
+    "abstract": "",
+    "authors": [
+      "Fragata Isabel"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-07",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42567949",
+    "doi": "10.1007/s00270-026-04564-7",
+    "title": "A Young Procedure Under a Mature Standard: The Evolving Evidence for GAE.",
+    "abstract": "",
+    "authors": [
+      "Collettini Federico",
+      "Fleckenstein Florian Nima"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-07",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42557453",
+    "doi": "10.1007/s00270-026-04555-8",
+    "title": "Wire-Free Angiography-Derived Pulmonary Pressure Ratio for Physiological Assessment During Balloon Pulmonary Angioplasty.",
+    "abstract": "",
+    "authors": [
+      "Lu Zhihui",
+      "Zhao Lei",
+      "Ma Xiaohai"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-05",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42545482",
+    "doi": "10.1007/s00270-026-04477-5",
+    "title": "CIRSE Standards of Practice on the Endovascular Management of Descending Thoracic Aortic Disease.",
+    "abstract": "Endovascular management of descending thoracic aortic disease (aneurysm, acute aortic syndrome and traumatic injury) is an effective, minimally invasive treatment that over the last 20 years has superseded surgical repair and become the standard of care. This CIRSE Standards of Practice document recommends best evidence-based practices for the endovascular management of descending thoracic aortic disease. This includes diagnostic imaging, surveillance, indications for intervention, endovascular treatments, their outcomes, and follow-up. The writing group, established by the CIRSE Standards of Practice Committee, reviewed the literature, and the final recommendations were formulated through consensus. Endovascular treatment has an established role in the successful management of thoracic aortic disease, and this Standards of Practice document provides up-to-date recommendations for its safe performance.",
+    "authors": [
+      "Gupta Yuri",
+      "Vaughan Samuel",
+      "Fanelli Fabrizio",
+      "van Rijswijk Catharina",
+      "Rousseau Hervé",
+      "Schäfer Jost Philipp"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-03",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "흉강하강 대동맥 질환의 내혈관 치료에 대한 CIRSE 표준 치료 지침",
+      "one_line": "본 지침은 지난 20년간 수술적 치료를 대체하며 표준 치료가 된 흉강하강 대동맥 질환(대동맥류, 급성 대동맥 증후군, 외상성 손상)의 내혈관 치료에 대한 최적의 증거 기반 실천 지침을 제시합니다.",
+      "design": "전문가 합의 (Consensus)",
+      "subjects": "CIRSE Standards of Practice Committee (구체적인 N수는 명시되지 않음)",
+      "intervention": "흉강하강 대동맥 질환의 내혈관 치료 (진단 영상, 경과 관찰, 시술 적응증, 내혈관 치료법, 결과, 추적 관찰 포함)",
+      "results": "내혈관 치료는 흉강 대동맥 질환의 성공적인 치료에 확립된 역할을 가지며, 본 지침은 안전한 시술을 위한 최신 권고 사항을 제공합니다. (구체적인 수치는 제시되지 않음)",
+      "implication": "본 지침은 흉강하강 대동맥 질환의 내혈관 치료를 수행하는 의료진에게 안전하고 효과적인 치료를 위한 표준화된 가이드라인을 제공하여 환자 치료 결과 개선에 기여할 수 있습니다."
+    }
+  },
+  {
+    "pmid": "42543404",
+    "doi": "10.1007/s00270-026-04536-x",
+    "title": "Correction to: Comparison of Single fiber Transperineal Laser Ablation and Radiofrequency Ablation in the Treatment of Benign Prostatic Hyperplasia.",
+    "abstract": "",
+    "authors": [
+      "Han Xiao",
+      "Yang Peipei",
+      "Zhao Xinyu",
+      "Li Ran",
+      "Xiao Jing",
+      "Shen Hongliang",
+      "Zhang Yan",
+      "Shi Xian-Quan"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-02",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  },
+  {
+    "pmid": "42543403",
+    "doi": "10.1007/s00270-026-04563-8",
+    "title": "Transarterial Embolization Versus Manipulation Under Anesthesia and Arthroscopic Capsular Release for Refractory Adhesive Capsulitis-A Cost-Effectiveness Analysis.",
+    "abstract": "This study compared the cost-effectiveness of transarterial embolization (TAE), manipulation under anesthesia (MUA), and arthroscopic capsular release (ACR) for refractory primary adhesive capsulitis. A systematic review with single-arm meta-analyses informed a three-state Markov model over a 36-month horizon. Clinical success, defined as mild pain at 3 months, was highest for TAE (73.3%), followed by ACR (61.4%) and MUA (55.5%). At a $100,000 per quality-adjusted life-year (QALY) threshold, TAE was the optimal strategy (incremental cost-effectiveness ratio vs. ACR: $77,807/QALY). When success was defined by range-of-motion recovery, MUA and ACR yielded more QALYs at lower cost. Based on indirect comparisons, these findings suggest TAE may be a cost-effective option for pain-predominant adhesive capsulitis, while MUA and ACR may be preferred when mechanical restriction is the primary target.",
+    "authors": [
+      "Khabaz Kameel",
+      "Alananzeh Rashed",
+      "Alkhani Layth",
+      "Allaw Sammy",
+      "Wu Xiao",
+      "Yu Qian",
+      "Patel Mikin",
+      "Ahmed Osman"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-02",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "반발성 어깨 동결증 환자를 위한 간동맥화학색전술(TACE), 마취하 조작술(MUA), 관절경적 관절낭 박리술(ACR)의 비용-효과 분석",
+      "one_line": "본 연구는 반발성 어깨 동결증 치료에 있어 간동맥화학색전술(TACE)이 통증 완화에 효과적이며, 마취하 조작술(MUA)과 관절경적 관절낭 박리술(ACR)은 운동 범위 회복에 더 적합할 수 있음을 시사합니다.",
+      "design": "마르코프 모델 기반 비용-효과 분석 (체계적 문헌 고찰 및 단일군 메타분석 정보 활용)",
+      "subjects": "반발성 1차성 어깨 동결증 환자 (N 수 미상 - 단일군 메타분석 기반)",
+      "intervention": "간동맥화학색전술(TACE), 마취하 조작술(MUA), 관절경적 관절낭 박리술(ACR)",
+      "results": "3개월 시점에서 경미한 통증을 성공 기준(clinical success)으로 할 때, 간동맥화학색전술(TACE)의 성공률이 73.3%로 가장 높았고, 관절경적 관절낭 박리술(ACR)은 61.4%, 마취하 조작술(MUA)은 55.5%로 나타났습니다. 1 QALY당 $100,000의 비용 허용 기준에서 간동맥화학색전술(TACE)이 최적의 전략이었으며, 관절경적 관절낭 박리술(ACR) 대비 비용-효과 비율은 $77,807/QALY였습니다. 운동 범위 회복을 성공 기준으로 할 경우, 마취하 조작술(MUA)과 관절경적 관절낭 박리술(ACR)이 더 적은 비용으로 더 많은 QALY를 제공했습니다.",
+      "implication": "간동맥화학색전술(TACE)은 통증이 주된 문제인 반발성 어깨 동결증 환자에게 비용-효과적인 치료 옵션이 될 수 있으며, 운동 범위 제한이 주요 문제인 경우에는 마취하 조작술(MUA) 또는 관절경적 관절낭 박리술(ACR)을 선호할 수 있습니다."
+    }
+  },
+  {
+    "pmid": "42543402",
+    "doi": "10.1007/s00270-026-04557-6",
+    "title": "Clinical Outcome and Safety of Procedural Sedation and Analgesia Performed by Interventional Radiologists in Patients Undergoing Local Tumor Ablation of the Liver.",
+    "abstract": "PURPOSE: To evaluate clinical outcome and safety of procedural conscious sedation and analgesia (PCSA) performed by interventional radiologists (IRs) for patients undergoing percutaneous high-dose-rate brachytherapy (HDR-BT) of the liver. MATERIAL AND METHODS: This large-scale, monocentric, retrospective study analyzed the safety-profile of PCSA using fentanyl and midazolam in patients undergoing HDR-BT for liver tumors. Medication was administered by trained IRs exclusively responsible for drug administration and cardiorespiratory monitoring. American Association of Anesthesiologists (ASA) status was recorded for all patients. Peri- and post-interventional complications directly or presumably related to PCSA, were assessed. RESULTS: Between 08/2017 and 12/2023, 1062 minimally invasive tumor ablations were performed in 686 patients with: 29.4% hepatocellular carcinoma, 28.7% metastasized colorectal cancer, 6.4% cholangiocarcinoma, metastases from lung cancer (6.1%), pancreatic cancer (4.1%), neuroendocrine tumors (5.1%) and 15.8% other metastases. PCSA-related complications were low (14/1062 procedures, 1.3%). Peri-interventional arrhythmias occurred during 4 procedures (0.4%). One patient (0.09%) experienced severe hypoxemia requiring brief cardiopulmonary resuscitation with return of spontaneous circulation, intubation and ICU-admission. Multivariable regression showed no significant correlations of PCSA-related complications with age, sex, BMI, ASA, chronic obstructive pulmonary disease (COPD), liver cirrhosis or medication doses but a significant correlation of obstructive sleep apnea syndrome (OSAS). No peri- or post-procedural deaths occurred. CONCLUSION: PCSA can safely be performed by adequately trained IRs with standardised protocols and support from anesthesiologists for emergencies or high-risk-patients. Careful patient selection, hemodynamic monitoring, structured PCSA documentation and immediate availability of anesthesiological support for severe AEs are essential to minimize risks. PCSA in OSAS should be managed by anesthesiologists.",
+    "authors": [
+      "Puhr-Westerheide Daniel",
+      "Hannak Camilla",
+      "Fabritius Matthias P",
+      "Öcal Osman",
+      "Stechele Matthias",
+      "Mansour Nabeel",
+      "Schmidt Vanessa Franziska",
+      "Schäfer Verena",
+      "Walter Franziska",
+      "Rogowski Paul",
+      "Corradini Steffanie",
+      "Wildgruber Moritz",
+      "Ricke Jens",
+      "Seidensticker Max"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-02",
+    "journal": "CVIR",
+    "is_interest": true,
+    "interest_category": "hepatobiliary",
+    "summary": {
+      "title_ko": "간 Local Tumor Ablation 시 인터벤션 영상의학과 전문의가 시행한 절차적 의식 유지 진정 및 진통의 임상 결과 및 안전성 평가",
+      "one_line": "본 연구는 간 Local Tumor Ablation 시 인터벤션 영상의학과 전문의(Interventional Radiologists, IRs)가 시행한 절차적 의식 유지 진정 및 진통(Procedural Conscious Sedation and Analgesia, PCSA)의 안전성과 임상 결과를 평가한 결과, 비교적 안전하게 수행될 수 있음을 보여준다.",
+      "design": "후향적 단일 기관 연구 (Retrospective, Monocentric Study)",
+      "subjects": "686명, 총 1062례의 최소 침습 종양 제거술 (Minimally Invasive Tumor Ablation)",
+      "intervention": "간 고선량 속 브라키테라피(Percutaneous High-Dose-Rate Brachytherapy, HDR-BT)를 시행하는 환자를 대상으로 인터벤션 영상의학과 전문의가 펜타닐(Fentanyl)과 미다졸람(Midazolam)을 사용하여 시행한 절차적 의식 유지 진정 및 진통(PCSA)",
+      "results": "PCSA 관련 합병증 발생률은 1.3% (14/1062 procedures)였으며, 심방률 부정맥(Arrhythmias)은 0.4% (4/1062 procedures)에서 발생. 1례(0.09%)에서 심각한 저산소혈증(Hypoxemia)으로 인해 일시적인 심폐소생술(Cardiopulmonary Resuscitation, CPR) 및 기관 삽관(Intubation) 후 중환자실(ICU) 입원이 필요했으며, 사망자는 없었다.",
+      "implication": "적절한 교육을 받은 인터벤션 영상의학과 전문의가 표준화된 프로토콜과 응급 상황 발생 시 마취 전문의의 지원을 통해 안전하게 절차적 의식 유지 진정 및 진통(PCSA)을 시행할 수 있다.",
+      "detailed_results": "환자들은 다음과 같은 질환을 가지고 있었다: 간세포암종(Hepatocellular Carcinoma, HCC) 29.4%, 전이성 대장암(Metastatic Colorectal Cancer) 28.7%, 담관암(Cholangiocarcinoma) 6.4%, 폐암 전이(Lung Cancer Metastases) 6.1%, 췌장암(Pancreatic Cancer) 4.1%, 신경내분비 종양(Neuroendocrine Tumors) 5.1%, 기타 전이(Other Metastases) 15.8%. 다중 회귀 분석 결과, PCSA 관련 합병증은 나이, 성별, 체질량 지수(BMI), ASA 점수, 만성 폐쇄성 폐질환(COPD), 간경변(Liver Cirrhosis) 또는 약물 용량과 유의미한 상관관계가 없었으나, 폐쇄성 수면 무호흡증 증후군(Obstructive Sleep Apnea Syndrome, OSAS)과 유의미한 상관관계가 있었다.",
+      "critique": "본 연구는 단일 기관에서 후향적으로 진행되었기 때문에 일반화에 제한이 있을 수 있다. 또한, PCSA 시행 시 인터벤션 영상의학과 전문의의 교육 수준 및 경험에 대한 구체적인 정보가 부족하다는 한계점이 있다. OSAS 환자의 경우, 마취 전문의의 관리가 필요하다는 점은 기존 연구와 일맥상통한다.",
+      "clinical_application": "간 Local Tumor Ablation 시 절차적 의식 유지 진정 및 진통(PCSA)을 시행할 때, 환자의 OSAS 여부를 확인하고, OSAS 환자는 마취 전문의의 관하에 두는 것이 안전하다. 또한, 표준화된 프로토콜을 준수하고, 응급 상황 발생 시 마취 전문의의 지원 체계를 마련하는 것이 중요하다."
+    }
+  },
+  {
+    "pmid": "42543401",
+    "doi": "10.1007/s00270-026-04566-5",
+    "title": "Computed Tomography-Proven Active Bleeding with Negative Emergency Angiography: Early Mortality Predictors and Development of the Negative Angiography Bleeding-Lethality Score.",
+    "abstract": "PURPOSE: To identify predictors of 30-day mortality and derive a bedside risk score in patients with computed tomography (CT)-proven active bleeding and negative emergency angiography. MATERIALS AND METHODS: We retrospectively included consecutive adults with CT-detected active bleeding and negative emergency angiography in a single-center cohort (2012-2026). Univariate analyses (Fisher exact, Mann-Whitney U) were followed by multivariable logistic regression, with a LASSO-penalized model (fivefold cross-validation) performed as sensitivity analysis. A simplified score, Negative Angiography Bleeding-Lethality (NAB-L), was derived from regression coefficients. Discrimination was assessed by area under the receiver operating characteristic curve (AUC) with bootstrap internal validation, calibration by the Hosmer-Lemeshow test, and survival by Kaplan-Meier methods with log-rank comparison. RESULTS: A total of 118 patients were included (median age 67.5 years [IQR 51-78]; 55% male). Thirty-day mortality was 14.4% (17/118) and rebleeding occurred in 33.9% (40/118). Hemoglobin nadir < 8 g/dL (adjusted odds ratio (aOR) 11.44; 95% confidence intervals (CI) 1.45-90.35), arterial lactate > 2 mmol/L (aOR 5.69; 1.27-25.42), and age > 70 years (aOR 3.63; 1.01-13.02) were independently associated with mortality. The NAB-L score (0-5) showed good discrimination (AUC 0.854; 95% CI 0.760-0.941; optimism-corrected 0.816) and adequate calibration (Hosmer-Lemeshow p = 0.946). Mortality rose from 0% (score 0-1) to 56% (score 5). Rebleeding was more frequent in high-risk patients (52% vs. 17%, p = 0.036). CONCLUSION: CT-positive/angiography-negative bleeding carries substantial early mortality and rebleeding risk. The NAB-L score enables simple early bedside risk stratification but should be considered hypothesis-generating pending external validation.",
+    "authors": [
+      "Russier Louis",
+      "El Boukili Ilies",
+      "Elhadjene Nory",
+      "Magand Nicolas",
+      "Lutz Noémie",
+      "Boutet Claire",
+      "Grange Sylvain",
+      "Grange Rémi"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-02",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": {
+      "title_ko": "컴퓨터 단층 촬영(Computed Tomography)으로 확인된 출혈, 응급 혈관조영술(Emergency Angiography)에서 음성인 경우의 30일 사망 예측 인자 및 Negative Angiography Bleeding-Lethality (NAB-L) 점수 개발",
+      "one_line": "컴퓨터 단층 촬영(CT)으로 확인된 출혈이지만 응급 혈관조영술(angiography)에서 출혈이 관찰되지 않는 환자군에서, 혈색소(hemoglobin) 수치, 젖산(lactate) 수치, 나이가 사망 예측 인자이며, 이를 기반으로 NAB-L 점수를 개발하여 초기 위험도 평가를 가능하게 함.",
+      "design": "후향적 코호트 연구(Retrospective Cohort Study)",
+      "subjects": "성인 환자 118명 (중앙값 67.5세 [IQR 51-78], 남성 55%)",
+      "intervention": "컴퓨터 단층 촬영(CT)으로 확인된 출혈, 응급 혈관조영술(Emergency Angiography)에서 음성인 환자군에 대한 위험도 평가 및 NAB-L 점수 개발",
+      "results": "30일 사망률은 14.4% (17/118)였으며, 재출혈은 33.9% (40/118)로 나타났다. 독립적인 사망 예측 인자는 다음과 같음: 혈색소(hemoglobin) 최소 수치 < 8 g/dL (조정된 오즈비(adjusted odds ratio, aOR) 11.44; 95% 신뢰 구간(confidence intervals, CI) 1.45-90.35), 동맥 젖산(arterial lactate) 수치 > 2 mmol/L (aOR 5.69; 1.27-25.42), 나이 > 70세 (aOR 3.63; 1.01-13.02). NAB-L 점수(0-5)는 우수한 판별력(AUC 0.854; 95% CI 0.760-0.941; optimism-corrected 0.816)과 적절한 교정(calibration) (Hosmer-Lemeshow p = 0.946)을 보였으며, 점수가 높을수록 사망률이 증가함 (점수 0-1: 0%, 점수 5: 56%). 고위험군 환자에서 재출혈 빈도가 더 높았음 (52% vs. 17%, p = 0.036).",
+      "implication": "컴퓨터 단층 촬영(CT)으로 확인된 출혈이지만 응급 혈관조영술(angiography)에서 음성인 경우, 상당한 초기 사망 및 재출혈 위험이 존재하며, NAB-L 점수는 초기 환자 위험도 평가에 도움을 줄 수 있다. 하지만 외부 검증을 통해 추가적인 확인이 필요하다."
+    }
+  },
+  {
+    "pmid": "42543400",
+    "doi": "10.1007/s00270-026-04560-x",
+    "title": "Technology or Context? Interpreting the Association Between IVUS Guidance and Mortality After Peripheral Arterial Intervention.",
+    "abstract": "",
+    "authors": [
+      "Munive Andrea Carolina",
+      "Otálvaro Daniela",
+      "Torres Cortes David Fernando",
+      "Mejía Núñez Juan Andrés"
+    ],
+    "journal_abbr": "Cardiovasc Intervent Radiol",
+    "pub_date": "2026-08-02",
+    "journal": "CVIR",
+    "is_interest": false,
+    "interest_category": null,
+    "summary": null
+  }
+]
